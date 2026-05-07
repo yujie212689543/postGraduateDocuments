@@ -35,4 +35,4 @@
     git config --global --unset https.proxy
     ~~~
 
-# 方案二：
+# 方案二：使用SSH
