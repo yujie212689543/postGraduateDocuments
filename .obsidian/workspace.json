@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git 上传配置.md",
+                "file": "一些技术配置上的文档/git 上传配置.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d64d69c959857397",
+  "active": "669bfe6a6bf5ecdd",
   "lastOpenFiles": [
+    "一些技术配置上的文档",
     "测试文件.md",
-    "git 上传配置.md",
+    "一些技术配置上的文档/git 上传配置.md",
     "新建 文本文档.txt"
   ]
 }
