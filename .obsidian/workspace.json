@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "一些技术配置上的文档/git 上传配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "测试文件 的反向链接列表"
+              "title": "git 上传配置 的反向链接列表"
             }
           },
           {
