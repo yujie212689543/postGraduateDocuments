@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "英语单词"
             }
+          },
+          {
+            "id": "03587656d528c1f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-08 20.52.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-08 20.52.46.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,14 +194,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "29878dfd00e9d94f",
+  "active": "03587656d528c1f0",
   "lastOpenFiles": [
+    "英语单词.md",
+    "Excalidraw/Drawing 2026-05-08 20.52.46.excalidraw.md",
+    "Excalidraw",
     "测试文件.md",
     "一些技术配置上的文档/(MacOS版本)Anaconda配置.md",
-    "英语单词.md",
     "一些技术配置上的文档/（macOS）快捷键.md",
     "一些技术配置上的文档/(双版本)git 上传配置.md",
     "conflict-files-obsidian-git.md",
