@@ -18,7 +18,7 @@ jupyter notebook   # 打开jupyter notebook
 	 Jupyter 就会以这个文件夹作为根目录。
 ## （略）方式二：Anaconda navigate 打开
 
-# 二、base环境是什么
+# 二、base环境
 当你安装好 Anaconda（或 Miniconda）后，系统自动创建的那个默认环境就叫 **base**
 - 它是 conda 的“主环境”，也是你打开终端后默认激活的环境（你会看到命令行前面有个 `(base)` 标志）。
 - ***base 里面已经预装了 Python 以及 Anaconda 自带的几百个常用库（numpy, pandas, matplotlib, jupyter 等）。***
@@ -34,6 +34,9 @@ jupyter notebook   # 打开jupyter notebook
 ~~~bash
 conda config --set auto_activate_base false
 ~~~
+## 手动激活/退出
+- **激活 base 环境**：`conda activate base`
+- **退出当前 conda 环境**：`conda deactivate`
 # 三、conda 环境（通常指“虚拟环境”）是什么？
 
 **注意**：我们常说“conda 环境”，其实包括 base 环境 —— 因为它也是由 conda 管理的。但日常对话中，“conda 环境”往往特指你自己创建的 **非 base 的独立环境**。
