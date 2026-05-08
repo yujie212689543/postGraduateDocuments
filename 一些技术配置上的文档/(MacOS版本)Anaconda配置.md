@@ -49,20 +49,8 @@ jupyter notebook   # 打开jupyter notebook
     
 2. **每个项目建一个独立 conda 环境**  
     比如：
-    ~~~bash
-    conda create -n data_science python=3.9
-    conda activate data_science
-    conda install numpy pandas matplotlib jupyter
-	 ~~~ 
-	 
-	 
-	 
-
-1. **在 VS Code 中切换环境**  
-    `Cmd+Shift+P` → “Python: 选择解释器” → 选你刚创建的 `data_science` 环境。VS Code 会自动识别 conda 环境。
-    
-2. **删除不需要的环境**
-    
-    bash
-    
-    conda env remove -n 环境名
+	~~~bash
+	conda create -n data_science python=3.9  # 创建data_science 环境
+	conda activate data_science
+	conda install numpy pandas matplotlib jupyter
+	~~~
