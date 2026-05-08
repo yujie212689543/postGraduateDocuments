@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d64d69c959857397",
+            "id": "3f192cc9b39274f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,11 +199,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d64d69c959857397",
+  "active": "669bfe6a6bf5ecdd",
   "lastOpenFiles": [
     "一些技术配置上的文档/git 上传配置.md",
-    "测试文件.md",
     "一些技术配置上的文档/MacOS配置.md",
+    "conflict-files-obsidian-git.md",
+    "测试文件.md",
+    "英语单词.md",
+    "一些技术配置上的文档/(双版本)git 上传配置.md",
+    "一些技术配置上的文档/(MacOS版本)Anaconda配置.md",
     "一些技术配置上的文档",
     "新建 文本文档.txt"
   ]
