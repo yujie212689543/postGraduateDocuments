@@ -1,5 +1,5 @@
 
-# Jupyter notebook 打开方式
+# 一、Jupyter notebook 打开方式
 ## 方式一：Terminal 打开
 ~~~bash
 conda activate base  # 打开bash环境
@@ -14,11 +14,11 @@ jupyter notebook   # 打开jupyter notebook
     
     cd /Users/你的用户名/我的数据科学项目
     jupyter notebook
-    
-    Jupyter 就会以这个文件夹作为根目录。
-	~~~
-## 方式二：Anaconda navigate 打开
+    ~~~
+	 Jupyter 就会以这个文件夹作为根目录。
+## （略）方式二：Anaconda navigate 打开
 
+# 二、base环境是什么
 
 
 
