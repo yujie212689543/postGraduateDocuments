@@ -11,10 +11,14 @@
             "id": "15e277199ca58804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "英语单词.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "英语单词"
             }
           }
         ]
@@ -181,11 +185,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "669bfe6a6bf5ecdd",
+  "active": "15e277199ca58804",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-08 20.52.46.excalidraw.md",
     "英语单词.md",
     "测试文件.md",
-    "Excalidraw/Drawing 2026-05-08 20.52.46.excalidraw.md",
     "Excalidraw",
     "一些技术配置上的文档/(MacOS版本)Anaconda配置.md",
     "一些技术配置上的文档/（macOS）快捷键.md",
