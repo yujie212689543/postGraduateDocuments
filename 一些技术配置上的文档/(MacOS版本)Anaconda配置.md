@@ -50,7 +50,7 @@ jupyter notebook   # 打开jupyter notebook
 2. **每个项目建一个独立 conda 环境**  
     比如：
 	~~~bash
-	conda create -n data_science python=3.9  # 创建data_science 环境
+	conda create -n data_science python=3.9  # 创建data_science 环境，-n、-name 
 	conda activate data_science
 	conda install numpy pandas matplotlib jupyter
 	~~~
