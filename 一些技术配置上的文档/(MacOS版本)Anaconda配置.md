@@ -66,3 +66,5 @@ conda config --set auto_activate_base false
 	conda activate data_science
 	conda install numpy pandas matplotlib jupyter
 	~~~
+
+
