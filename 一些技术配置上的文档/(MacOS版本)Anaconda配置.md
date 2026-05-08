@@ -21,7 +21,7 @@ jupyter notebook   # 打开jupyter notebook
 # 二、base环境是什么
 当你安装好 Anaconda（或 Miniconda）后，系统自动创建的那个默认环境就叫 **base**
 - 它是 conda 的“主环境”，也是你打开终端后默认激活的环境（你会看到命令行前面有个 `(base)` 标志）。
-- base 里面已经预装了 Python 以及 Anaconda 自带的几百个常用库（numpy, pandas, matplotlib, jupyter 等）。
+- ***base 里面已经预装了 Python 以及 Anaconda 自带的几百个常用库（numpy, pandas, matplotlib, jupyter 等）。***
 - 如果你不创建任何新环境，你安装的所有包都会塞进 base 里。
     
 **缺点**：如果你在做项目 A 时需要包版本 1.0，项目 B 需要包版本 2.0，两个版本冲突，base 环境无法同时满足 —— 这也是为什么需要创建独立环境的原因。
@@ -50,7 +50,7 @@ jupyter notebook   # 打开jupyter notebook
 2. **每个项目建一个独立 conda 环境**  
     比如：
 	~~~bash
-	conda create -n data_science python=3.9  # 创建data_science 环境，-n、-name 
+	conda create -n data_science python=3.9  # 创建data_science 环境，-n、--name 表示给你创建的虚拟环境起个名字
 	conda activate data_science
 	conda install numpy pandas matplotlib jupyter
 	~~~
