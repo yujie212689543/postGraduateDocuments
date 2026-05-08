@@ -25,6 +25,15 @@ jupyter notebook   # 打开jupyter notebook
 - 如果你不创建任何新环境，你安装的所有包都会塞进 base 里。
     
 **缺点**：如果你在做项目 A 时需要包版本 1.0，项目 B 需要包版本 2.0，两个版本冲突，base 环境无法同时满足 —— 这也是为什么需要创建独立环境的原因。
+## base环境关闭自动激活
+1. 避免干扰
+2. 终端启动更快
+3. 环境管理更清晰
+4. 与macOS原生工具兼容
+在terminal执行：
+~~~bash
+conda config --set auto_activate_base false
+~~~
 # 三、conda 环境（通常指“虚拟环境”）是什么？
 
 **注意**：我们常说“conda 环境”，其实包括 base 环境 —— 因为它也是由 conda 管理的。但日常对话中，“conda 环境”往往特指你自己创建的 **非 base 的独立环境**。
