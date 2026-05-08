@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "MacOS配置"
             }
+          },
+          {
+            "id": "3967c2db695e41f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语单词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语单词"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d64d69c959857397",
+  "active": "3967c2db695e41f3",
   "lastOpenFiles": [
-    "测试文件.md",
     "一些技术配置上的文档/MacOS配置.md",
+    "英语单词.md",
+    "测试文件.md",
     "一些技术配置上的文档/git 上传配置.md",
     "一些技术配置上的文档",
     "新建 文本文档.txt"
