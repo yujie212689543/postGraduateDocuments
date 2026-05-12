@@ -1,0 +1,6940 @@
+#flashcards
+
+#word
+#### 不理性的
+?
+adj. 非理性的，不合逻辑的，荒谬的
+**Sentences**:
+*It's totally irrational, but I'm frightened of mice.*
+这很荒唐，但我的确害怕老鼠。
+
+#word
+#### a cost-effective approach
+?
+一种省钱（成本有效的）的方式
+
+#word
+#### a is a driving force behind b
+?
+a 是b背后的一股驱动力
+
+#word
+#### a means of
+?
+一种方式、方法
+
+#word
+#### a pipe dream
+?
+一个不可能实现的计划（白日梦）
+**Notes**:
+ivory tower  象牙塔
+a castle in the air  空中楼阁
+utopia   乌托邦
+
+#word
+#### a string of beads
+?
+一串珠子
+
+#word
+#### a writer of note/fame
+?
+**一个知名的作家**
+**Notes**:
+在这个短语中，"note" 指的是一种重要或显著的特征或品质。因此，"a writer of note" 指的是一位具有重要或显著特征或品质的作家，通常是指那些在文学界或其他领域有一定知名度或影响力的作家。
+
+#word
+#### about-face
+?
+180°的转变
+
+#word
+#### above all
+?
+综上所述、更重要的是
+
+#word
+#### abrupt
+?
+突然的
+**Sentences**:
+*an abrupt change/movement*
+突变／突发情况
+
+#word
+#### abyss
+?
+n. 深渊；绝境
+**Sentences**:
+*The country was on the brink of an abyss.*
+国家处在深渊的边缘。
+
+#word
+#### accommodate
+?
+v.顺应，为....提供食宿
+**Notes**:
+**近义词**：adjust, adapt, provide, cater
+"accommodate" 是一个多义词，可以表示提供住宿、适应需求、顺应意见或调整以适应不同情况。
+**Sentences**:
+*The hotel can accommodate up to 200 guests.*
+这家酒店可以容纳多达 200 位客人。
+
+*The restaurant can accommodate special dietary requirements.*
+这家餐厅可以满足特殊的饮食要求。
+
+*We need to accommodate everyone's preferences when planning the event.*
+在策划活动时，我们需要考虑到每个人的喜好。
+
+#word
+#### accompany
+?
+伴随，陪同；与...同时发生
+
+#word
+#### account
+?
+n. 账户，描述，解释
+**Notes**:
+**on account of    因为
+**account for   v. 解释，占比（多少比例）**
+**Sentences**:
+*What may accounted for this strange phenomenon?*
+什么可以解释这种奇怪的现象
+
+#word
+#### account for
+?
+占比;解释
+
+#word
+#### accountable
+?
+- ***adj. 负有责任的，应做解释的***
+**Notes**:
+responsible  (同义)
+**Sentences**:
+*I have always been accountable for everything I have done.*
+我向来都为我做过的每件事负责。
+
+#word
+#### accustomed
+?
+习惯的，适应了的
+**Notes**:
+习惯于某事物
+be accustomed to doing sth
+
+#word
+#### acquaintance
+?
+n. 熟人，相识，认识的人
+**Sentences**:
+*a passing acquaintance*
+泛泛之交
+
+*My husband is an acquaintance of Lord Northcliffe*
+我丈夫认识诺思克利夫勋爵。
+
+#word
+#### act & bill & code
+?
+法令；法案；法典
+**Notes**:
+在某些情况下，这三个单词确实可以互换使用，特别是在普通口语或一般性讨论中，它们可能会被用作法案或法令的代名词。但是，在特定的法律或政治语境中，它们可能会有不同的含义和用法：
+1. **Act（法令）**：通常指的是经立法机构通过、成为正式法律的法案。一个法案被通过后，成为法律，被称为一项法案的"成文法"。
+2. **Bill（法案）**：指的是由立法机构提出并提交进行辩论和审议的法律提案。在立法程序中，一项法案成为正式法律之前，通常需要经历数个阶段的审议和修改。
+3. **Code（法典）**：通常指的是一系列相关的法律条文或规定，按照特定的主题或领域编纂而成的法律文本。法典可能是一个完整的法律体系，涵盖多个方面的法律规定，例如刑法典、民法典等。
+在特定场合下，特别是在法律文书或正式文件中，可能会更倾向于使用精确的术语以避免歧义。因此，在正式的法律文件或法律讨论中，可能会更明确地使用"Act"、"Bill" 或 "Code" 这些术语以区分它们的含义和用法。
+
+#word
+#### acute
+?
+敏锐的；剧烈的
+**Notes**:
+助记：a+cute-->一只可爱的兔子，很敏锐-->敏锐的，剧烈的
+
+#word
+#### adhere
+?
+v. 黏附，附着；遵守，遵循（规定或协议
+**Notes**:
+助记：ad（广告）+here（这里）-->请adhere（遵守）规矩，不要把广告adhere（贴附在这里）
+
+#word
+#### administration
+?
+管理，行政，**政府**
+
+#word
+#### adversely
+?
+adv. 不利地，有害地
+**Notes**:
+形容词adverse的副词形式
+助记：	- 爱得要死  ==（恋爱脑，不好）==
+
+#word
+#### afloat
+?
+有偿还能力的；漂浮着的
+**Sentences**:
+*efforts to keep the company afloat*
+使公司维持下去的努力
+
+*They are borrowing money just to stay afloat.*
+他们在借钱勉强维持。
+
+#word
+#### aggressive
+?
+adj. 挑衅的，有攻击性的（可正面）
+
+#word
+#### alarming
+?
+adj.令人震惊的，令人担忧的
+
+#word
+#### albeit
+?
+尽管，虽然
+**Notes**:
+although it be that.... (all be it)
+
+#word
+#### algorithm
+?
+n. （尤指计算机）**算法**
+**Notes**:
+computer algorithms  计算机算法
+
+#word
+#### alien
+?
+adj. 陌生的；格格不入的; n. 外星人
+
+#word
+#### align
+?
+v. 支持，与……结盟;使一致
+**Notes**:
+ally
+alliance
+allegiance
+
+#word
+#### allegiance
+?
+n.忠诚,效忠,拥戴
+**Notes**:
+alliance   联盟
+"Alliance" 和 "Ally" 是相关但含义不同的词语。
+**Alliance**（名词）指的是两个或多个个体、组织或国家之间建立的、合作的、互相支持的关系。这种关系通常基于共同的利益、目标或价值观，旨在共同实现某种目标或应对共同的挑战。
+**Ally**（名词）指的是与他人、组织或国家结成的、合作的或相互支持的关系。盟友通常在共同的利益或目标下合作，并为彼此提供支持和帮助。
+两个词在某种程度上是相关的，因为一个人或团体可以成为另一个人或团体的盟友，从而构建一个盟友关系，这可能会形成一个联盟。然而，"alliance" 通常指的是更广泛的组织或关系，涉及更多的参与者和更复杂的互动，而 "ally" 则更强调两者之间的个别合作关系。
+**Sentences**:
+*This is a community driven by strong ties and allegiances.*
+这是一个紧密团结、精诚合作的团体。
+
+#word
+#### alleviate
+?
+v. 减轻，缓和
+**Notes**:
+美 [əˈliːvieɪt]
+**Sentences**:
+*Nowadays, a great deal can be done to alleviate back pain.*
+如今，有很多办法可以减轻背部疼痛。
+
+#word
+#### allocation
+?
+分配
+**Sentences**:
+*the allocation of resources/funds/time*
+资源/资金/时间的分配
+
+#word
+#### ally
+?
+同盟
+**Sentences**:
+*He is a close ally of the president.*
+他是总统的一位亲密盟友。
+
+#word
+#### ambitions
+?
+野心，抱负
+
+#word
+#### ameliorate
+?
+v.改善；改良；让变得更好
+**Notes**:
+amelior- 改善，变好
+反义：deteriorate
+**Sentences**:
+*The implementation of new policies aims to ameliorate the quality of healthcare services, preventing them from deteriorating over time.*
+新政策的实施旨在改善医疗服务的质量，防止其随着时间的推移而恶化。
+
+#word
+#### amuse
+?
+（提供）消遣，（使）娱乐
+**Sentences**:
+*amusement park*
+游乐园
+
+#word
+#### analogy
+?
+v. 类比
+**Notes**:
+to draw an analogy between sth and sth
+将…与…进行类比
+
+#word
+#### anguish
+?
+痛苦；苦恼；剧痛
+**Sentences**:
+*Mark looked at him in anguish.*
+马克痛苦地望着他。
+
+#word
+#### anonymous
+?
+adj. 匿名的，不具名的
+**Notes**:
+a+no+nym(近似name)-->一个无名氏
+"Anonymous" 指的是隐藏个人身份的状态或行为，通常用于描述在网络上匿名发表内容或参与活动。
+"Privacy" 则指个人或组织对个人信息的控制和保护，以防止未经授权的访问、使用或泄露。 "Privacy" 更加广泛，不仅仅涉及匿名性，还包括个人信息的保护和隐私权利的行使。
+**Sentences**:
+*The author of the article remains anonymous to protect their identity.*
+文章的作者保持匿名以保护其身份。
+
+*Online forums often allow users to post comments anonymously.*
+在线论坛通常允许用户匿名发表评论。
+
+#word
+#### anthropology
+?
+n. 人类学
+**Notes**:
+anthrop 人为的
+安卓 android
+
+#word
+#### apparently
+?
+似乎，好像
+**Notes**:
+apparent  adj. 显而易见的，易懂；表面上的
+**Sentences**:
+*Apparently it's going to rain today.*
+看样子今天有雨。
+
+#word
+#### appeals court
+?
+上诉法院
+
+#word
+#### apply a to b& a apply to b
+?
+把A运用与B&A适用于B
+
+#word
+#### archaeologist
+?
+考古学家
+**Notes**:
+arch-  建筑
+architect   建筑师
+monarch   君主
+overarching  a.首要的；支配一切的
+
+#word
+#### are legally bound to
+?
+在法律上有义务
+
+#word
+#### arrest
+?
+逮捕；拘留；吸引（注意）
+**Sentences**:
+*The police arrested the suspect for robbery.*
+*The beautiful scenery arrested my attention as I walked through the park.*
+
+#word
+#### arrogant
+?
+- adj. 傲慢的，自大的
+**Notes**:
+助记：记忆 "arrogant" 这个单词的一个简单技巧是将它与 "error" 这个词联系起来。尽管它们的拼写和意义完全不同，但是在 "arrogant" 中包含了 "error" 这个词。你可以想象一个自大的人常常犯错误，因为他们不愿意听取他人的意见或者相信自己可能会犯错。这样的联想可以帮助你记住 "arrogant" 这个词，并且更容易地理解它的含义。
+**Sentences**:
+*He was so arrogant that he never listened to anyone else's opinions.*
+他非常傲慢，从不听取任何其他人的意见。
+
+*Her arrogant behavior made her very unpopular among her colleagues.*
+她傲慢的行为让她在同事中非常不受欢迎。
+
+#word
+#### art
+?
+技巧，技能
+**Sentences**:
+*Fishing is an art.*
+钓鱼是一门技术。
+
+#word
+#### articulate
+?
+清楚表达
+**Sentences**:
+*She is an articulate young woman.*
+她是一个口齿伶俐的年轻女子。
+
+*a brilliant and articulate public speaker*
+聪颖且善于表达的演说者
+
+#word
+#### as well as
+?
+除...以外；也...一起
+
+#word
+#### ascribe
+?
+v. 把……归因于；认为……是……所说（或所为）；认为……具有
+**Sentences**:
+*ascribe meaning to*
+给....赋予意义
+
+#word
+#### aspire
+?
+v. 渴望；追求；立志
+**Sentences**:
+*They aspired to be gentlemen, though they fell far short of the ideal.*
+他们想要成为君子，虽然离这个理想还差得很远。
+
+#word
+#### assembly
+?
+n. 议会，代表大会；集会，集会者；装配，组装
+**Notes**:
+assemble 集合
+
+#word
+#### assess
+?
+v. 评价；评定
+**Sentences**:
+*Toyota said it would assess the situation daily.*
+丰田公司称将每天对情况进行评估。
+
+#word
+#### asset
+?
+n. 资产
+**Notes**:
+fixed asset  固定资产
+asset allocation  资产分配
+current asset  流动资产
+asset management  资产管理
+asset evaluation  资产评估
+**Sentences**:
+*Experience in this field is an asset.*
+业内经验是宝贵财富。
+
+#word
+#### assurance
+?
+保证；担保；自信
+
+#word
+#### astonish
+?
+- v. 使吃惊，使惊讶
+**Sentences**:
+*What astonished me was that he didn't seem to mind.*
+让我感到诧异的是他好像毫不在乎。
+
+#word
+#### at stake
+?
+濒临险境；岌岌可危
+**Notes**:
+==超负面词==
+
+#word
+#### at the top end
+?
+在最顶端
+
+#word
+#### auction
+?
+n./v. 拍卖
+**Sentences**:
+*He sold the homestead by auction.*
+他拍卖了那处宅地。
+
+#word
+#### augment
+?
+v. 增加，增大
+**Sentences**:
+*The company plans to augment its workforce to meet the*
+公司计划增加员工以满足日益增长的需求。
+
+*She augmented her income by taking on a part-time job.*
+她通过兼职工作增加了收入。
+
+#word
+#### authentic
+?
+adj. 真实的，真正的；正宗的
+**Notes**:
+auth(author)+ent（sent）-->作者送的东西一定是“真实的”
+**Sentences**:
+*authentic Italian food*
+正宗意大利食品
+
+#word
+#### authority
+?
+n. 官方；专家，权威人士
+**Notes**:
+local authorities  地方政府
+
+#word
+#### avail
+?
+n. 效用；利益
+**Notes**:
+vail- value
+available
+**Sentences**:
+*avail yourself of sth*
+利用....
+
+*Your efforts are to no avail.*
+你的努力是徒劳的。
+
+#word
+#### average man/reader
+?
+普通人/普通读者
+
+#word
+#### averse
+?
+adj.反对的，厌恶的
+**Sentences**:
+*Few people are averse to the idea of a free holiday.*
+几乎没有人会反对免费假期这个主意。
+
+#word
+#### backbone
+?
+n. 脊骨，脊柱；支柱，骨干
+
+#word
+#### bar
+?
+杆子；律师
+**Notes**:
+barrier 障碍
+barrister n. 律师
+bar exam 法律考试
+
+#word
+#### barber
+?
+n. 理发师
+**Sentences**:
+*She had to call a [barber] to shave him.*
+她不得不叫个理发师来给他刮脸。
+
+#word
+#### be afflicted with
+?
+受折磨
+**Notes**:
+afflicted
+折磨，使痛苦
+
+#word
+#### be concerned  about
+?
+关心，担忧
+
+#word
+#### be entitled to
+?
+有权....
+**Notes**:
+entitle   v. 给予（某人）权利，给（某人）资格
+
+#word
+#### be fascinated with
+?
+着迷于
+
+#word
+#### be susceptible to
+?
+易受....的影响
+**Notes**:
+susceptible  易受影响的
+
+#word
+#### be taken for granted
+?
+认为....是理所当然的
+
+#word
+#### beacon
+?
+灯塔
+
+#word
+#### benign
+?
+良性的，慈祥的
+**Notes**:
+构词法记忆
+“Benign” 由两个部分组成：
+1. 前缀 “bene-”: 来源于拉丁语 “bene”，意思是“好”或“善”。
+例如，benefit (好处), benevolent (慈善的), beneficial (有益的)。
+2. 词根 “-ign”: 来源于拉丁语 “genus” 或 “gen-”，意思是“出生”或“种类”。在这个词中表示性质。
+**Sentences**:
+*a benign old lady*
+慈祥的老妇人
+
+*a benign tumour*
+良性肿瘤
+
+#word
+#### betrayal
+?
+背叛
+**Notes**:
+v. betray
+
+#word
+#### biased
+?
+adj. 有偏见的（负面词）
+**Notes**:
+bias 偏见
+**Sentences**:
+*The newspaper admitted it was guilty of biased reporting.*
+该报承认报道有失偏颇。
+
+#word
+#### bid
+?
+n./v. 出价，投标
+**Sentences**:
+*If our bid is unsuccessful, we'll have to close down.*
+如果投标失败，那我们就得停业了。
+
+#word
+#### blood vessel & blood disorder
+?
+血管  &  血液病
+
+#word
+#### blow the whistle on sb/sth
+?
+告发，揭发
+
+#word
+#### blunder
+?
+v, n. **大错**
+**Sentences**:
+*No doubt I had blundered again.*
+无疑我又捅了个娄子。
+
+#word
+#### blunt
+?
+迟钝，减弱；直言不讳的
+**Sentences**:
+*I'll be blunt - that last piece of work you did was terrible.*
+我就直说了——你创作的最后一件作品糟糕透了。
+
+*My recent bad experience has blunted my enthusiasm for travel.*
+最近的倒霉经历已经使我对旅游的热情减弱了不少。
+
+#word
+#### blur
+?
+n. 模糊不清的v. （使）看不清楚
+**Notes**:
+笔记：表示图像或物体的轮廓或细节因模糊而难以分辨。这个词通常用于描述视觉上的效果，例如照片、图像或物体在移动被摄影时出现的模糊效果。
+**Sentences**:
+*If I don't wear my glasses, everything is just a blur.*
+如果不戴眼镜，我看任何东西都是模糊的。
+
+#word
+#### boast
+?
+v. 吹嘘,自我夸耀
+**Sentences**:
+*He likes to boast about how much money he makes.*
+他喜欢吹嘘自己赚了多少钱。
+
+*She boasted of her accomplishments to everyone she met.*
+她对遇到的每个人都夸耀自己的成就。
+
+#word
+#### boost
+?
+促进，提升
+**Sentences**:
+*It wants the government to take action to boost the economy.*
+它希望政府能够采取行动来促进经济增长。
+
+*We need a big win to boost our confidence.*
+我们需要打一个大胜仗来增强信心。
+
+#word
+#### boredom
+?
+厌烦，无聊
+
+#word
+#### bound
+?
+adj. 必然的，肯定的；受约束的，有义务的
+**Notes**:
+be bound to
+**Sentences**:
+*You're bound to feel nervous about your interview.*
+面试时你很可能会感到紧张。
+
+*The company is bound by a special agreement to involve the union in important decisions.*
+公司受一项特殊协定的约束，须请工会参与重大决策。
+
+#word
+#### bracket
+?
+n.(收入、年龄等的)等级段，组级
+**Sentences**:
+*a professional in a high-income bracket*
+高收入阶层的专业人士
+
+*the 14–16 age bracket*
+14至16岁的年龄段
+
+#word
+#### bribe
+?
+n./v.贿赂
+**Notes**:
+bribery  n.贿赂，收买
+
+#word
+#### bud
+?
+花蕾，芽
+
+#word
+#### bull
+?
+n. 公牛；牛市
+
+#word
+#### by no means /not by any means
+?
+绝不；绝非
+**Notes**:
+mean：方式，方法；刻薄；吝啬
+
+#word
+#### campaign
+?
+n. （有计划的）活动，运动；战役,
+
+#word
+#### capability
+?
+n. 能力，才能
+**Notes**:
+capable助记：cap(帽子)+acle-->能够带官帽的人-->有能力的
+**Sentences**:
+*be capable of sth/doing sth*
+有能力做某事
+
+#word
+#### capacity
+?
+n. 能力，才能；容量
+**Notes**:
+**区别**：
+"Capacity" 通常更加关注容量、量化的能力或者某事物的大小，而 "capability" 则更加关注实际的能力、技能或潜在的能力。
+"Capacity" 可以用来描述物理空间、容器的大小，也可以用来描述人的心理、认知能力。而 "capability" 更多地涉及到技能、技术或者某人、机构的潜在潜能。
+**Sentences**:
+*The stadium has a seating capacity of 50,000 people.*
+这个体育场的座位容量是50,000人。
+
+*She has the capacity to learn multiple languages.*
+她有能力学习多门语言。
+
+#word
+#### carpet
+?
+地毯
+**Notes**:
+nature carpets
+天然的地毯
+
+#word
+#### cases
+?
+案件；事件；箱子；盒子
+**Notes**:
+take protective cases   保护壳
+
+#word
+#### cast
+?
+v. 投射，投掷  n. 全体演员
+**Sentences**:
+*History has never **cast** doubt on them.*
+历史从来没有怀疑过他们。
+
+#word
+#### casual
+?
+adj. 随意的，不经意的
+**Sentences**:
+*Some of them displayed a rather casual approach.*
+他们当中有些人表现出相当随意的态度。
+
+*He tried to appear casual as he asked her to dance.*
+他邀请她跳舞的时候试图装出漫不经心的样子。
+
+#word
+#### cattle
+?
+牛
+
+#word
+#### cause
+?
+n. 原因；事业
+
+#word
+#### cavity
+?
+- n. 洞，腔；(牙齿的) 龋洞
+**Notes**:
+cave
+**Sentences**:
+**
+
+*The gold was hidden in a secret cavity.*
+金子藏在一个隐秘的洞穴里。
+
+#word
+#### cease
+?
+v. 终止，结束
+**Notes**:
+助记：谐音“息事”-->息事宁人-->停止
+
+#word
+#### celebrated
+?
+著名的，驰名的；庆祝
+
+#word
+#### chancellor
+?
+n. （英国的财政）大臣；议长
+
+#word
+#### charge
+?
+##  充电 ，罪名（指控），收费，掌管（负责人）
+**Notes**:
+in charge of   负责
+
+#word
+#### chronic
+?
+adj. （疾病）慢性的，长期的；
+**Notes**:
+chronic
+chron- time
+chronic disease  慢性病
+chronicle  n. 编年史  v.按事件发生顺序记载
+
+#word
+#### chronicle
+?
+n. 记事，叙述；v. 把……载入编年史；翔实记载
+**Sentences**:
+*He consulted the chronicles of the perio*
+他参考了这一时期的编年史。
+
+*I disdain to chronicle such victories.*
+我不屑于记录这些胜利的流水帐。
+
+#word
+#### circuit
+?
+n. 电路，回路
+**Notes**:
+federal circuit  联邦巡回法庭
+
+#word
+#### circulation
+?
+n. 流通，发行量（报纸）
+
+#word
+#### civil servant
+?
+公务员
+
+#word
+#### claim
+?
+n. 专利申请
+
+#word
+#### claimant
+?
+n. 请求人；认领人；索赔人
+
+#word
+#### clash
+?
+n. 冲突，矛盾
+**Sentences**:
+*Students clashed with police after demonstrations at five universities.*
+学生们在5所大学示威之后与警察发生了冲突。
+
+*This latest statement from the White House clashes with important aspects of US foreign policy.*
+白宫的最新声明与美国外交政策的重要方面相抵触.
+
+#word
+#### cling
+?
+v. 坚持，保持；粘附
+**Notes**:
+助记：谐音“可怜”-->过于“黏着”“抓紧”别人，很可怜
+
+#word
+#### clumsy
+?
+adj. 笨拙的，不灵活的
+**Sentences**:
+*She felt clumsy and out of place at the elegant party*
+在优雅的派对上，她感到笨拙且格格不入。
+
+*His clumsy attempts to fix the broken chair only made it wors*
+他笨拙地试图修理坏掉的椅子，结果只让情况更糟。
+
+#word
+#### clutter
+?
+v.乱堆，塞满；使（脑子里）塞满（乱七八糟的事）
+**Sentences**:
+*The rooms were full of clutter*
+那些房间里堆满了乱七八糟的东西。
+
+#word
+#### co-ordination
+?
+- n. 协调；配合
+
+#word
+#### collapse
+?
+倒塌
+**Notes**:
+col共同- +laps 滑，滑走+e-->一起滑落-->倒塌
+
+#word
+#### commit
+?
+v.犯罪；**承诺
+**Notes**:
+commitment issue  承诺问题
+committed   adj.坚定的，坚信的
+to be committed to sth：支持…；拥护…
+
+#word
+#### commodity
+?
+n. 商品；货物
+**Sentences**:
+*Labour is bought and sold like any other commodity.*
+劳动力像其他商品一样买卖。
+
+#word
+#### commuter
+?
+n. （远距离）上下班往返的人
+**Notes**:
+commute  v. 通勤，上下班往返
+"Communication" 意为交流或沟通，是指信息的传递和交换，通常是指双方或多方之间的言语、文字、符号等形式的交流。
+"Commuter" 指的是每天往返于家和工作地点之间的人，通常是通过交通工具（如公共汽车、地铁、火车或自行车）进行通勤的人。这些人每天都在两个地点之间进行交通，因此也可以理解为在两个地点之间进行某种形式的交流，即在不同地点之间的交通。
+**Sentences**:
+*She commutes between Liss and London.*
+她每天要往返于利斯和伦敦之间。
+
+*Mike commutes to London every day.*
+迈克每天乘车到伦敦上班。
+
+#word
+#### comparable
+?
+adj.类似的;可比较的
+**Notes**:
+非常类似：be closely
+**Sentences**:
+*Do they pay the same wages to men and women for work of comparable value?*
+他们对待男女员工是否同工同酬？
+
+#word
+#### compare favorably  with
+?
+比....好，强
+
+#word
+#### comparison
+?
+n. 比较；对照
+**Notes**:
+粗略的比较：rough/ curde ~
+仔细的比较：close ~
+有根据的比较：valid ~
+做比较：draw ~
+
+#word
+#### compassion
+?
+同情；怜悯
+
+#word
+#### compel
+?
+v. 强迫，迫使
+**Notes**:
+com加强+pel驱动；推-->不断推-->强迫
+**Sentences**:
+*to compel sb to do sth*
+强迫某人做某事
+
+#word
+#### compensation
+?
+n. 赔偿金，补偿金
+
+#word
+#### competent
+?
+胜任的；称职的
+**Notes**:
+competent lawyer  称职的律师
+competent surgeon  称职的外科医生
+
+#word
+#### compliance
+?
+n. 服从，听从，**合规**
+**Sentences**:
+*compliance with sth*
+对…的遵从
+
+*The security council will consider the situation and the need for full compliance.*
+安理会将会考虑具体形势以及全面遵守的必要性。
+
+#word
+#### compliment&complement
+?
+赞扬&补充
+**Notes**:
+她又补充（complement）地赞美（compliment）了她几句
+
+#word
+#### comply with statue
+?
+遵守法律法规
+
+#word
+#### compulsive
+?
+adj. 难以抑制的，不能自拔的；引人入胜的
+**Sentences**:
+*He was a compulsive gambler and often heavily in debt.*
+他是一个欲罢不能的赌徒，常常债台高筑。
+
+*Her new series is compulsive viewing.*
+她的新系列节目引人入胜。
+
+#word
+#### concrete
+?
+n.混凝土**adj.具体的；有形的，实在的**
+**Sentences**:
+*We need to come up with concrete solutions to solve this problem.*
+我们需要提出切实可行的解决方案来解决这个问题。
+
+*The foundation of the building is made of reinforced concrete.*
+这座建筑的地基是钢筋混凝土制成的。
+
+#word
+#### confine
+?
+v. 限制
+**Notes**:
+助记：con(共同)+fine(罚款)-->都罚款后，关起来“限制”自由
+
+#word
+#### conform
+?
+v. 遵守，符合；顺从
+**Sentences**:
+*State statutes must conform to the respective state's constitution.*
+各州法令必须与其宪法相一致。
+
+*The stranger conformed his ways to ours.*
+这外乡人适应了我们的生活习惯。
+
+#word
+#### conquer
+?
+_vt._征服；（成功地）对付，克服
+**Notes**:
+conquer 通常用于表示对领土或资源的征服，强调的是对某事物的控制或拥有
+**Sentences**:
+*Early in the eleventh century the whole of England was again conquered by the Vikings*
+整个英格兰在11世纪初被维京人再次攻占。
+
+#word
+#### consecutive
+?
+- adj. 连续的，不间断的
+**Notes**:
+con-secu-tive
+con- all、together
+1. **Consecutive（连续的）**：表示一系列事件或物体依次相连或连续发生的情况。它强调的是在一段时间内按顺序或连续地发生。例如，"consecutive days"（连续的几天）指的是在连续的日子里发生的事件，"consecutive numbers"（连续的数字）指的是按照顺序排列的数字。
+2. **Constant（不变的、恒定的）**：表示某种状态、特征或量在一段时间内保持不变或稳定的情况。它强调的是持续保持不变或恒定。例如，"constant temperature"（恒定的温度）指的是在一段时间内保持不变的温度，"constant effort"（持续的努力）指的是保持不变的努力或工作。
+因此，虽然这两个单词都与时间和连续性有关，但它们强调的方面略有不同。"Consecutive" 强调事件或物体的连续性，而 "constant" 强调某种状态或特征的不变性。
+
+#word
+#### conservative
+?
+n. 保守主义者  adj. 保守的；守旧的
+
+#word
+#### conserve
+?
+保护
+**Notes**:
+conservation
+conservative  n.保守主义者 adj.守旧的，保守的
+
+#word
+#### consolidate
+?
+v. 加固 ；巩固；**合并**；统一
+**Notes**:
+solid   a.坚固的  n. 固体
+solid/hard/firm  evidence  确凿的证据
+consolidate   v. 加固 ；巩固；合并；统一
+consolidating  加固的
+
+#word
+#### constitute
+?
+共同建立
+**Notes**:
+constitution  n.宪法，章程
+
+#word
+#### constitution
+?
+n. 宪法，章程
+**Sentences**:
+*The king was forced to adopt a new constitution which reduced his powers*
+国王被迫采用了削弱其权力的新宪法。
+
+*The club's constitution prevented women from becoming full members*
+这家俱乐部的章程不允许女性成为其正式成员。
+
+#word
+#### consultancy
+?
+n. 咨询公司
+**Notes**:
+consult  咨询
+
+#word
+#### consume
+?
+消耗，消费；吞噬
+
+#word
+#### contemplate
+?
+v. 沉思
+**Notes**:
+Temple  庙宇   con- 全部
+**Sentences**:
+*As he lay in his hospital bed that night, he cried as he contemplated his future.*
+那晚他躺在医院的病床上，一想到未来，就哭了起来。
+
+#word
+#### contemporary
+?
+a. 同时代的；当代的
+**Notes**:
+contemporaries   同时代的人
+
+#word
+#### contempt
+?
+n. 轻视，蔑视
+**Sentences**:
+*At school she had complete contempt for all her teachers.*
+在学校读书时她对所有老师都不屑一顾。
+
+*You should treat those remarks with the contempt that they deserve.*
+你理应对那些话不屑一顾。
+
+#word
+#### contradictory
+?
+- adj. 相互矛盾的，对立的；好反驳的，爱争辩的
+**Sentences**:
+*I keep getting contradictory advice - some people tell me to keep it warm and some tell me to put ice on it.*
+我不断得到相互矛盾的建议——有人要我保暖，有人叫我敷冰。
+
+#word
+#### contrary
+?
+相反
+**Notes**:
+同义词：opposite
+
+#word
+#### contrast
+?
+n./v.  对比；对照；明显的差异
+**Notes**:
+==in contrast to ==
+很大的差异：clear ~
+显著的差异： marked ~
+mark   v.标记  n.印记
+鲜明的差异：sharp ~==有棱有角，很锋利==
+惊人的差异/强烈的对比：*astounding* ~
+make /achieve resounding sucess 取得巨大成功
+截然不同：stark ~
+**Sentences**:
+*There is a sharp contrast between the lives of ... and ....*
+*==a stands in ..... contrast to b*
+a与b形成对比
+
+*compare and contrast*
+比较并对照
+
+#word
+#### controversy
+?
+争议
+**Notes**:
+争议
+debate
+dispute  n.争议，纷争
+controversy  n.争议
+sth is at issue
+
+#word
+#### conventional
+?
+adj. 传统的，惯例的；常见的；约定的
+**Notes**:
+conventional  means
+传统方法
+
+#word
+#### converge
+?
+v. （使）汇聚，集中；（观点、目标）趋同
+**Sentences**:
+*Ambulances, police cars, and fire engines all converged on the scene.*
+救护车、警车和消防车都聚集到现场。
+
+#word
+#### convict
+?
+n.罪犯  v. 宣告...有罪
+**Notes**:
+助记：con（共同）+vict（胜利）-->坏人终被定罪，这是我们共同的胜利
+
+#word
+#### corner
+?
+n. 街角，拐角;v. 将……逼入死角，使走投无路
+**Sentences**:
+*You go around corners too fast when you're driving!*
+你转弯时开得太快！
+
+#word
+#### correlation
+?
+n. 相互关系，关联
+**Sentences**:
+*There's a correlation between smoking and cancer.*
+吸烟和癌症之间有相关性。
+
+#word
+#### corrupt
+?
+adj. 腐败的，堕落的  v. 腐化，堕落
+**Notes**:
+corruption n. 贪污，腐败，堕落
+**Sentences**:
+*He wants to save the nation from corrupt politicians of both parties.*
+他想把这个国家从两党腐败政客的手中拯救出来。
+
+#word
+#### council
+?
+n. 委员会，理事会
+**Notes**:
+**Sentences**:
+*the United Nations Security Council*
+联合国安全理事会
+*This play is supported by a grant from the local arts council.*
+这出戏由当地艺术委员会出资赞助。
+**Sentences**:
+*the United Nations Security Council*
+联合国安全理事会
+
+*This play is supported by a grant from the local arts council.*
+这出戏由当地艺术委员会出资赞助。
+
+#word
+#### coverage
+?
+报道；报道范围
+**Notes**:
+cover     n.盖子；v.  覆盖；**报道（新闻用语中）
+
+#word
+#### cream
+?
+n. 奶油，霜；**精华**
+
+#word
+#### credible
+?
+可靠的，可信的
+**Notes**:
+credit  信用，学分....
+cred相信，信任+able
+
+#word
+#### criticize
+?
+v. 批评，指责
+**Sentences**:
+*The government is being widely criticized in the media for failing to limit air pollution.*
+政府因未能控制空气污染而受到媒体的广泛批评。
+
+#word
+#### crucial
+?
+adj. 至关重要的，决定性的；
+**Notes**:
+关键的影响
+key/crucial implication
+
+#word
+#### crumble
+?
+崩溃；（使）破碎;坍塌
+
+#word
+#### curb
+?
+v.遏制，抑制
+
+#word
+#### cure-all
+?
+灵丹妙药
+
+#word
+#### decay
+?
+衰退；腐蚀
+**Notes**:
+de 向下+cay落下-->向下掉
+**Sentences**:
+*The role of the extended family has been decaying for some time.*
+大家庭的作用开始减弱已经有一段时间了。
+
+*Sugar makes your teeth decay.*
+糖能引起蛀牙。
+
+#word
+#### deceive
+?
+欺骗，蒙骗
+**Sentences**:
+*The company deceived customers by selling old computers as new ones.*
+该公司用旧计算机冒充新机器欺骗顾客。
+
+*The sound of the door closing deceived me into thinking they had gone out.*
+关门声让我以为他们已经出门了。
+
+#word
+#### decent
+?
+像样的；得体的
+**Sentences**:
+*He didn't get a decent explanation.*
+他并没有得到一个合情合理的解释。
+
+#word
+#### dedicate
+?
+v. 致力于，献身于
+**Notes**:
+dedicate/devote one's life to sth  献身于；致力于
+
+#word
+#### deduction
+?
+n.推理，演绎，扣除
+**Notes**:
+"Deduction" 强调的是通过推理或推断得出结论，通常从一般性的原理或前提出发。
+"Analyze" 则强调的是对事物进行详细的分析、研究或审查，以理解其组成部分、结构或功能。
+**Sentences**:
+*She deductd from the evidence that the suspect was innocent.*
+她根据证据推断出嫌疑人是无辜的。
+
+#word
+#### default
+?
+n. 系统默认值   n./v. 拖欠，违约
+**Sentences**:
+*The company defaulted on its initial payment of £40 million.*
+公司没有如期支付四千万英镑的首付款。
+
+#word
+#### deficit
+?
+赤字;逆差:亏损
+**Notes**:
+deficient   缺乏
+
+#word
+#### define  a  as  b
+?
+定义a为b
+
+#word
+#### defy
+?
+v. 违抗，不服从；挑战
+**Sentences**:
+*It is rare to see children openly defying their teachers.*
+很少看见孩子公然跟老师作对。
+
+#word
+#### degrade
+?
+v. 降级；降解；削弱
+**Notes**:
+记忆 "degrade" 的一个方法是将其分解成两部分进行记忆：
+1. **"de-" 前缀**：在许多单词中，"de-" 常表示 "向下"、"降低" 或 "削弱" 的意思。例如，"decline"（下降）、"decrease"（减少）等。
+2. **"-grade" 后缀**：这一部分可以与 "grade"（等级）联系起来。在 "degrade" 中，它表示将某物降低到更低的等级或质量。
+因此，"degrade" 可以理解为 "降低等级" 或 "降低质量"，指的是使某物变得更低劣、更差或更不光彩。你可以将 "degrade" 想象成是将某种事物从一个高等级或高质量的状态降低到一个较低等级或较低质量的状态，以帮助记忆其含义。
+
+#word
+#### delicate
+?
+脆弱的，精美的，精致的
+**Notes**:
+助记：del看成“黛”-->林黛玉-->脆弱的，精美的，精致的
+
+#word
+#### delight
+?
+n. 高兴；令人高兴的人或物
+
+#word
+#### delusion
+?
+妄想，错觉
+**Notes**:
+1. **Delusion:**
+"Delusion" 指的是一种错误的信念或错觉，通常是由于精神疾病、错觉或错误的理解而产生的错误观念。它是一种对现实的扭曲或错误的认知。
+例如，"He was under the delusion that he could fly."（他错误地认为自己能够飞行。）
+2. **Illusion:**
+"Illusion" 指的是一种虚幻的、不真实的、错觉性的感觉或形象，通常是通过视觉或感官上的欺骗而产生的错觉。
+例如，"The magician created the illusion of a disappearing rabbit."（魔术师制造了一只消失的兔子的错觉。）
+因此，"delusion" 强调的是一种错误的信念或错觉，通常与思维或认知上的错误相关，而 "illusion" 则指的是一种虚幻的感觉或错觉，通常与视觉或感官上的欺骗相关。
+
+#word
+#### demolish
+?
+v. （意外）毁坏，破坏
+**Sentences**:
+*The storm demolished several buildings.*
+风暴摧毁了好几座建筑。
+
+#word
+#### deploy
+?
+v. 部署，调度；利用
+**Notes**:
+play-
+implement/deploy/employ   v.使用、利用、运用
+**Sentences**:
+*8000 troops have been deployed to patrol the border.*
+一支8,000人的部队已被调至边境执行巡逻任务。
+
+#word
+#### depreciate
+?
+v. 贬值
+**Notes**:
+appreciate   v.欣赏；鉴赏；感激；*增值*
+prec- price
+
+#word
+#### deprive
+?
+剥夺；使丧失
+**Notes**:
+deprive sb of sth
+使...失去
+
+#word
+#### derive from
+?
+源于
+**Notes**:
+### 相关场景用法
+**语言学**: 用于解释词汇的起源。
+E.g., "Many scientific terms derive from Greek."
+**科学研究**: 表示某些结论或现象的来源。
+E.g., "The theory derives from extensive research in the field."
+**个人特质**: 描述某人的性格或能力的来源。
+E.g., "His confidence derives from years of experience."
+**Sentences**:
+*Many English words derive from Greek and Latin.*
+许多英语单词源自希腊语和拉丁语。
+
+*Her strength derives from her determination and hard work.*
+她的力量源自于她的决心和努力。
+
+#word
+#### detect
+?
+v. 发现，察觉，测出
+**Notes**:
+"Detect" 指的是发现、察觉或识别某物或某情况，尤其是那些不易察觉的或隐藏的东西。这个词通常用于描述发现或识别一些隐秘或隐蔽的事物。
+detective  侦探
+**Sentences**:
+*The security system detected movement outside the building.*
+安全系统检测到建筑物外有动静。
+
+*Scientists are trying to detect signs of life on other planets.（*
+科学家们试图在其他行星上探测到生命迹象。
+
+#word
+#### deteriorate
+?
+v. 变化；恶化；退化
+**Notes**:
+deterior-  恶化，变坏
+**Sentences**:
+*The Mongolian economy was deteriorating at an alarming rate.*
+蒙古经济在以令人惊异的速度衰退。
+
+#word
+#### detriment
+?
+n. 损害，伤害
+**Sentences**:
+*Children spend too much time on schoolwork, to the detriment of other activities.*
+孩子把太多的时间用于做作业，影响了其他活动。
+
+#word
+#### devalue
+?
+贬值
+**Notes**:
+devaluation
+
+#word
+#### devastate
+?
+v. 毁灭；破坏
+**Notes**:
+devastating adj, 毁灭性的；极具破坏性的
+助记：de- 向下 ，vast 巨大的，广阔的，彻底的破坏、毁灭
+
+#word
+#### devise
+?
+v. 设计，发明
+**Sentences**:
+*The cartoon characters Snoopy and Charlie Brown were devised by Charles M. Schultz.*
+卡通人物史努比和查理‧布朗是由查尔斯‧M‧舒尔茨设计的
+
+*He's good at devising language games that you can play with students in class.*
+他善于设计可供师生在课堂上使用的语言游戏。
+
+#word
+#### diagnosis
+?
+n. 诊断，判断
+**Notes**:
+diagnose  v. 诊断，判断
+
+#word
+#### dignity
+?
+n. 尊严，庄重
+**Notes**:
+self-dignity    自尊
+**Sentences**:
+*If you were wrong, admit it. You won't lose your dignity, but will gain respect.*
+如果你错了，那就承认。你不会因此而失去尊严，反而会赢得尊重。
+
+*Sally was determined to keep her dignity in front of me and not to cry.*
+萨莉决意在我面前保持镇静，不让自己哭。
+
+#word
+#### dilemma
+?
+n. （进退两难的）窘境，困境
+**Notes**:
+助记：谐音“抵赖嘛”-->处于“进退两难的困境”，只能抵赖了
+**Sentences**:
+*The president is clearly in a dilemma about/over how to tackle the crisis.*
+对于如何化解危机总统明显处于两难境地。
+
+#word
+#### diligence
+?
+n. 勤奋，用工
+**Sentences**:
+*Genius is nothing but labor and diligence.*
+天才不过是勤奋而已。
+
+*Her boss paid her a compliment because of her diligence.*
+她上司因她的勤勉而赞赏她。
+
+#word
+#### dim
+?
+adj. 暗淡的，昏暗的；模糊的，看不清的；
+**Sentences**:
+*dimmed by despair*
+被绝望所暗淡/被绝望所遮蔽
+
+#word
+#### diminish
+?
+v. 减弱，降低
+**Sentences**:
+*I don't want to diminish her achievements, but she did have a lot of help.*
+我不想贬低她的成就，但她确实得到了很多帮助。
+
+*What he did has seriously diminished him in many people's eyes.*
+他的所作所为严重损害了他在许多人眼里的形象。
+
+#word
+#### diploma
+?
+n. 毕业证书；毕业文凭
+**Sentences**:
+*a diploma in social work*
+社会工作文凭
+
+#word
+#### discard
+?
+丢弃，抛弃
+**Notes**:
+助记：dis否定+card卡片-->这张卡片没用了，可以“丢弃”
+
+#word
+#### discipline
+?
+n. 纪律；训练
+**Notes**:
+self-discipline  自律
+
+#word
+#### disclosure
+?
+n.披露，泄密
+**Notes**:
+"disclosure" 拆解为 "dis-"（表否定或分开）+ "closure"（关闭、结束），组合起来意为 "打开"、"揭露"。
+**Sentences**:
+*The company made a disclosure of its financial records to the public.*
+公司向公众披露了其财务记录。
+
+*The police requested full disclosure from the witnesses to the crime.*
+警方要求目击者对犯罪进行全面的披露
+
+*The government's disclosure of environmental data raised concerns among citizens.*
+政府对环境数据的披露引起了公民的关注
+
+#word
+#### discrimination
+?
+n. 歧视，区别对待
+
+#word
+#### disgrace
+?
+n. 耻辱，不光彩
+**Sentences**:
+*They were sent home in disgrace.*
+他们被灰溜溜地送回了家里。
+
+#word
+#### disguise
+?
+n./v. 伪装，假扮
+**Sentences**:
+*He disguised himself by wearing a false beard.*
+他粘上假胡须伪装自己。
+
+*Minor skin imperfections can usually be disguised with a spot of make-up.*
+微小的皮肤瑕疵通常可以用化妆品来掩盖。
+
+#word
+#### disgust
+?
+n./v. 厌恶，憎恶
+**Notes**:
+disgusting
+
+#word
+#### dismiss
+?
+v. 摒弃，消除，解雇
+**Notes**:
+助记：dis否定+miss想念-->不再想念-->摒弃，消除，解雇
+
+#word
+#### disparage
+?
+v. 贬损
+**Notes**:
+dis- not
+par-pair/peer   （不配和我们干）
+disparaging  adj.贬损的
+
+#word
+#### disrupt
+?
+v. 中断；扰乱
+**Sentences**:
+*Heavy snow disrupted travel into the city this morning.*
+今晨的大雪扰乱了入城交通系统的正常运行。
+
+*The meeting was disrupted by a group of protesters who shouted and threw fruit at the speaker.*
+一群抗议者一边呼喊一边向发言者投掷水果，让会议无法正常进行下去
+
+#word
+#### distort
+?
+v. 歪曲，扭曲
+**Sentences**:
+*TV distorts reality.*
+电视歪曲现实。
+
+*The minister's remarks have been distorted.*
+部长的言论被曲解了。
+
+#word
+#### ditch
+?
+抛弃，遗弃
+**Sentences**:
+*The getaway car had been ditched a couple of miles away from the scene of the robbery.*
+逃离现场用的车辆被丢弃在距抢劫地两英里以外的地方。
+
+#word
+#### diverse
+?
+- adj. 不同的，各式各样的
+
+#word
+#### diversity
+?
+- n. 多样性，多样化；不同，差异
+**Notes**:
+diverse
+**Sentences**:
+*Does television adequately reflect the ethnic and cultural diversity of the country?*
+电视节目能充分反映出这个国家民族和文化的多样性吗？
+
+#word
+#### dividend
+?
+n.股息，红利
+**Sentences**:
+*The first quarter dividend has been increased by nearly 4 per cent.*
+第一季度的股息增长了将近4%。
+
+#word
+#### divorce
+?
+- n. 离婚；分开  v. 与（某人）离婚
+**Sentences**:
+*Divorce is on the increase.*
+离婚呈上升趋势。
+
+*Ellie wants a divorce.*
+埃莉想离婚。
+
+#word
+#### domestic
+?
+国内的
+**Notes**:
+dome-  home
+
+#word
+#### dominant
+?
+- adj. 占支配地位的，占优势的；（基因）显性的
+**Notes**:
+v. dominate
+
+#word
+#### domino
+?
+多米诺
+
+#word
+#### doom
+?
+n.厄运
+**Sentences**:
+*impending doom*
+即将到来的劫数
+
+#word
+#### drain
+?
+v. （使）排出，滤干；喝光，喝干；使劳累，使疲惫；（使）逐渐消失；使降低，消耗；
+
+#word
+#### dramatic
+?
+adj. 戏剧般的；巨大而突然的，急剧的
+**Notes**:
+dramatic **note**   戏剧般的**气氛**
+
+#word
+#### drastic
+?
+adj. 激烈的，极端的
+**Sentences**:
+*drastic measures*
+严厉的措施
+
+*to take drastic action*
+采取严厉行动
+
+#word
+#### dread
+?
+v. 畏惧
+**Notes**:
+助记：r(人)+dead-->恐惧。惧怕
+-dreadful
+
+#word
+#### dreadful
+?
+极其的；令人不快的
+**Sentences**:
+*The weather was dreadful.*
+天气糟糕透了。
+
+#word
+#### drift
+?
+v.漂流，漂移
+
+#word
+#### dubious
+?
+adj.可疑的，不确定的
+**Notes**:
+dub- 二，双+ious -->两种态度的-->不肯定的，怀疑的
+**Sentences**:
+*He has been associated with some dubious characters.*
+他曾经与一些可疑人物有交往。
+
+*These claims are dubious and not scientifically proven.*
+这些说法未经科学证实，有些可疑。
+
+#word
+#### dull
+?
+枯燥的，乏味的，无趣的
+**Sentences**:
+*She wrote dull, respectable articles for the local newspaper.*
+她为当地报纸写一些乏味的官样文章。
+
+#word
+#### duplicity
+?
+n. 口是心非
+**Notes**:
+"Duplicity" 源自拉丁语中的 "duplicitas"，意为“两面性、双重性”，由 "duplex"（双重的、两面的）衍生而来。
+**Sentences**:
+*His duplicity was exposed when the truth came out.*
+真相曝光后，他的欺骗行为暴露了出来。
+
+*The politician's duplicity led to a loss of trust among the public.*
+政治家的虚伪行为导致了公众对他的信任丧失。
+
+#word
+#### durable
+?
+耐用的；持久的
+**Sentences**:
+*Bone china is strong and durable.*
+骨质瓷坚硬耐用。
+
+#word
+#### dwell
+?
+v. 居住，栖身
+**Notes**:
+d地+well好-->居住
+city dwellers  城市居民
+dwelling  住所
+"Dwell" 更普遍地用于描述人类居住在某个地方，特别是强调长期或持续的居住状态。它通常涉及到对某个地方的感觉、态度或情感的表达。
+"Dwell" 还可以引申为思考或谈论某个主题或问题，特别是在负面情绪或过度关注的情况下。
+例如：They dwell in a small cottage by the sea.（他们住在海边的一间小屋里。）
+She tends to dwell on past mistakes and regrets.（她倾向于反复思考过去的错误和遗憾。）
+因此，虽然 "inhabit" 和 "dwell" 都可以用于描述居住的行为，但 "inhabit" 更常用于描述动植物在自然环境中的常住性，而 "dwell" 更常用于描述人类的长期或持续的居住状态，以及思考或谈论某个主题的情况。
+
+#word
+#### dynamic
+?
+n.动态,动力学   adj. 动态的
+
+#word
+#### ease
+?
+“容易、轻松”；“减轻、缓解”
+**Notes**:
+词根记忆法: “Ease” 没有明显的词根，但可以联想到其他相关词，如 “easy” (容易的) 和 “easiness” (轻松)。
+**Sentences**:
+*The medicine helped to ease her pain*
+药物帮助缓解了她的疼痛
+
+*He felt a sense of ease after the exam was over.*
+考试结束后，他感到轻松了许多
+
+#word
+#### echo
+?
+回声；回响
+
+#word
+#### ecosystem
+?
+生态系统
+**Notes**:
+"Ecosystem" 由 "eco-"（家、环境）和 "system"（系统）两部分组成，字面意思是“环境系统”。
+ecological  adj. 生态的，生态学的
+
+#word
+#### ecstasy
+?
+n. 狂喜；陶醉
+**Notes**:
+美 [ˈekstəsi]
+**Sentences**:
+*She was in a state of ecstasy after receiving the good news.*
+她收到好消息后，陷入了狂喜的状态。
+
+#word
+#### elaborate
+?
+adj. 精心制作的，详尽的  v.详尽阐述
+**Notes**:
+e加强+labor劳动-->费了很多功夫-->精心制作的
+**Sentences**:
+*They're making the most elaborate preparations for the wedding.*
+他们正为婚礼做极为精心周到的准备。
+
+*He came out with such an elaborate excuse that I didn't quite believe him.*
+他突然说了那么一大套理由，我不太相信他。
+
+#word
+#### elegant
+?
+adj. （人）高雅的，举止优雅的
+**Sentences**:
+*She was beautiful and elegant.*
+她美丽而高雅。
+
+*an elegant restaurant*
+一间雅致的餐馆
+
+#word
+#### eligible
+?
+有资格的；符合条件的（人）
+**Notes**:
+eligible candidate  有资格的候选人
+eligible for a loan  有资格获得贷款
+
+#word
+#### eliminate
+?
+v. 剔除，根除；对……不予考虑，把……排除在外
+**Sentences**:
+*The company aims to eliminate waste from its production process.*
+公司的目标是从生产过程中消除浪费。
+
+*The team was eliminated from the tournament after losing the final match.*
+这个团队在决赛中失利后被淘汰出了比赛。
+
+#word
+#### embed
+?
+v. 把....牢牢嵌入
+**Notes**:
+"Embed" 是一个动词，其含义是将某物牢固地嵌入到另一个物体或环境中，使之成为其中的一部分或者被完全包含在其中。
+"Embed" 一词的前缀 "em-" 来自拉丁语 "in-"，表示 "进入" 或 "使...变得"。在这种情况下，"em-" 表示 "使...嵌入" 或 "使...包含"，即将某物置于另一个物体或环境之中。因此，"embed" 的字面意思可以理解为 "使...进入" 或 "使...嵌入"，表示将某物固定在另一个物体或环境中。
+**Sentences**:
+*The journalist embedded himself with the troops to report on the war from the front lines.*
+这位记者深入到部队中，从前线报道战争。
+
+*The video player allows you to embed videos directly into your website.*
+这个视频播放器允许你直接嵌入视频到你的网站中。
+
+#word
+#### embrace
+?
+v. 拥抱；欣然接受
+**Sentences**:
+*Jason came forward and embraced her sister.*
+Jason走上前拥抱了她妹妹。
+
+*The new rules have been embraced by government watchdog organizations.*
+新的规则已被政府监督机构接纳。
+
+#word
+#### emerge
+?
+v. 浮现；出现；显露
+**Notes**:
+emerging    a.新兴的
+
+#word
+#### emigrate
+?
+v. 移居外国，移民
+**Notes**:
+补充：
+1. Emigrate (动词)
+含义: 指“从一个国家移居到另一个国家”，强调的是离开原来的国家。
+2. Immigrate (动词)
+含义: 指“移居到一个新的国家”，强调的是进入一个新的国家。
+
+#word
+#### emission
+?
+n. 排放，散发，发射
+**Sentences**:
+*Their aim is to reduce the toxic levels of vehicle exhaust emissions.*
+他们的目标是降低汽车排放尾气的毒性。
+
+*governmental regulations relating to the use, storage, and emission of toxic or other hazardous substances*
+关于有毒物质或其他有害物质的使用、储存和排放的政府法规
+
+#word
+#### emphasis
+?
+n. 重要性，重点强调
+**Sentences**:
+*The emphasis is on health this month*
+本月的重点是健康问题。
+
+#word
+#### endeavor
+?
+n/v.努力，尽力，试图
+**Notes**:
+endeavor to do sth
+试图/努力做某事
+**Sentences**:
+*I'll endeavor to ascertain her mind.*
+我得先努力弄清楚她的想法
+
+*make one's (best) endeavor(s)*
+尽全力,竭力
+
+#word
+#### endure
+?
+持续存在；持久；忍受
+**Sentences**:
+*It was a special relationship, he said, built to endure.*
+他说，这是一种特殊的关系，一旦建立就会持续下去。
+
+#word
+#### enforce
+?
+(强制)执行；实施
+**Sentences**:
+*The government is prepared to enforce these new laws.*
+政府准备强行实施这些新法律。
+
+#word
+#### engage
+?
+v. 雇用，聘请；从事；吸引
+
+#word
+#### engage in
+?
+从事
+**Sentences**:
+*to engage in commerce*
+从商
+
+#word
+#### engender
+?
+产生
+**Notes**:
+"Engender" 是一个动词，表示产生、引起或导致某种结果或情感。它指的是激发或产生某种反应、感觉或情绪，通常是指由某种原因或行为引起的结果。
+**拆解分析：**
+"Engender" 源自中古英语中的 "engendren"，意为“产生、引起”，由拉丁语中的 "ingenerare" 衍生而来，由 "in-"（进入、内部）和 "generare"（产生、创造）组成。
+**Sentences**:
+*His speech engendered a sense of hope among the audience.*
+他的演讲激发了观众内心的希望感。
+
+*The new policy may engender confusion among the employees.*
+新政策可能会在员工中引起混乱。
+
+#word
+#### enlist
+?
+v. (使)入伍;(谋取的)支持或赞助
+**Notes**:
+enlist help from sb   寻求某人的帮助
+
+#word
+#### enormous
+?
+adj. 巨大的，极大的
+**Notes**:
+"Enormous" 和 "massive" 都是形容词，用来描述大小、规模或程度的巨大性质，但它们之间有一些细微的区别：
+1. **Enormous**：指的是巨大到令人惊讶或引起注意的程度。它强调的是大小、规模或程度之巨大，常常与惊讶、震惊或夸张的感觉相联系。例如，"an enormous elephant"（一头巨大的大象）指的是体积庞大到令人惊讶的大象。
+2. **Massive**：也表示非常大或巨大，但通常与物体的实际质量、重量或厚度有关。它强调的是物体的实际体积或重量，可能与物体的稳固性、坚固性或威严感相关。例如，"a massive stone fortress"（一个巨大的石头堡垒）指的是一座具有巨大规模和厚度的石头堡垒。
+因此，虽然这两个词都可以用来形容巨大的事物，但它们的侧重点略有不同。"Enormous" 更强调巨大到惊人或引人注意的程度，而 "massive" 更强调物体的实际体积、重量或规模。
+
+#word
+#### enrollment
+?
+n. 登记；注册；入伍
+**Notes**:
+"Enrollment" 和 "enlist" 确实都与入伍相关，但它们有一些区别：
+1. **Enrollment**（注册、入学）：通常指的是加入某个组织、机构或计划，并正式注册成为其中的一员。在教育领域，"enrollment" 指的是学生注册参加学校或课程。在其他情况下，"enrollment" 可以指加入会员、俱乐部或计划等。
+2. **Enlist**（入伍、参军）：指的是加入军队、部队或武装力量，正式成为军人。"Enlist" 通常涉及到军事服务和军事义务，而且通常需要进行军事训练和服役。
+因此，虽然这两个词都涉及到加入某种组织或集体的意思，但 "enrollment" 更广泛地用于各种类型的组织或机构，而 "enlist" 则更具体地指加入军队或部队。
+
+#word
+#### enterprise
+?
+n. 企业；事业；进取心
+
+#word
+#### equation
+?
+n. 等式；**一个必须考虑多种因素的复杂的情况**
+**Sentences**:
+*What you want doesn't come into the equation.*
+你想要的不会成为影响因素之一
+
+#word
+#### equilibrium
+?
+平衡，均衡
+**Notes**:
+英 [ˌiːkwɪˈlɪbriəm]
+
+#word
+#### era
+?
+n. 时代
+**Sentences**:
+*the post-war era*
+战后年代
+
+#word
+#### essence
+?
+精髓
+**Sentences**:
+*Yet change is the very essence of life.*
+然而变迁恰恰是人生的本质。
+
+#word
+#### essentially
+?
+adv. 本质上，根本上；大体上，基本上
+
+#word
+#### establish
+?
+v. 建立，设立；证实，确定
+**Sentences**:
+*These methods of working were established in the last century.*
+这些工作方法是上个世纪开始采用的。
+
+*He's established himself as a dependable source of information.*
+他被认为是一个可靠的消息来源。
+
+#word
+#### estate
+?
+财产；遗产；庄园
+**Notes**:
+real estate  房地产
+realty agency  房产中介
+
+#word
+#### estimate
+?
+v.估计
+**Sentences**:
+*This figure is double the original estimate.*
+这一数字是原来估算的两倍。
+
+#word
+#### eternal
+?
+永恒的，永久的
+
+#word
+#### ethic
+?
+n. 道德准则，伦理标准
+**Notes**:
+**ethical   adj. 道德的，伦理的**
+近义词：principle
+**Sentences**:
+*Respect for others is an important ethic in this company.*
+尊重他人是这家公司的重要道德准则。
+
+#word
+#### evade
+?
+逃避，规避
+**Sentences**:
+*She leaned forward to kiss him but he evaded her by pretending to sneeze.*
+她身子前倾想要吻他，可他假装打喷嚏躲开了。
+
+*He can't evade doing military service forever.*
+他不可能永远逃避服兵役。
+
+#word
+#### evaporate
+?
+蒸发，消失
+**Notes**:
+e出+vapor蒸汽，蒸发-->蒸发，消失
+
+#word
+#### exaggerate
+?
+v. 夸大，言过其实
+**Notes**:
+ex- 超出+agg看成egg+rate看成gate-->鸡蛋比门还大-->夸张
+**Sentences**:
+*The threat of attack has been greatly exaggerated.*
+遭受袭击的威胁被过分夸大了。
+
+#word
+#### excessive
+?
+过度的；过多的
+**Sentences**:
+*They believe their children are being given excessive amounts of homework.*
+他们认为自己孩子的家庭作业量过重。
+
+#word
+#### executive
+?
+adj. 行政的，有执行权的；行政权
+**Sentences**:
+*the executive branch of government*
+政府的行政部门
+
+#word
+#### exemplary
+?
+典范
+**Notes**:
+example  典范
+exemplify  举例说明；是....的典范
+
+#word
+#### exempt
+?
+v. 免除，豁免
+**Notes**:
+助记：ex(exit)+empt(empty)--->离开岗位使其空缺--->"免除"职位
+**Sentences**:
+*Children under two years are exempt.*
+两岁以下儿童免票。
+
+*exempt from sth*
+免于某事物
+
+#word
+#### exhale
+?
+v.呼气，呼出
+**Notes**:
+[eksˈheɪl]
+
+#word
+#### exhaust
+?
+v. 使精疲力尽；耗尽
+
+#word
+#### expense&compensate
+?
+- expense  花出去的钱
+
+#word
+#### expire
+?
+v.到期 ；届满；逝世
+**Sentences**:
+*When does your driving licence expire?*
+你的驾驶执照何时到期？
+
+*His confinement in prison will expire soon.*
+他的监禁即将期满。
+
+*He ceased to breathe, gently expiring without any struggle at the age of 90.*
+他停止了呼吸，在没有任何挣扎的情况下轻轻地死去，享年90岁。
+
+#word
+#### explicit
+?
+adj. 清楚明白的，明确的，详述的
+**Sentences**:
+*I gave her very explicit directions how to get here.*
+我明确地告诉她来这儿怎么走。
+
+*She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.*
+她明确地指出了计划中她认为有误的地方。
+
+#word
+#### expose
+?
+揭露，显露
+**Notes**:
+助记：ex向外+pose放置-->向外放-->揭露，显露
+**Sentences**:
+*- be constantly exposed to criticism*
+经常受到批评
+
+#word
+#### external
+?
+外部的
+**Notes**:
+反义：interior
+
+#word
+#### extinct
+?
+adj.灭绝的，不复存在的
+**Notes**:
+助记：ex+stinct-->往外拔刺，连根拔起-->灭绝
+**Sentences**:
+*There is concern that the giant panda will soon become extinct.*
+有人担心大熊猫不久就会灭绝。
+
+#word
+#### extravagant
+?
+adj. 奢华的
+**Notes**:
+助记：extra超过+vag漫游+ant...的-->漫游过多-->奢侈的
+**Sentences**:
+*It was very extravagant of you to buy strawberries out of season.*
+在不当时令的季节买草莓，你也太奢侈了。
+
+#word
+#### facility
+?
+n. 设施，特别装置
+**Notes**:
+"Facility" 指的是供特定用途或目的而设立或提供的设施、场所或设备。它可以是一个建筑物、房间、场地或服务，用于满足某种需求或目标。
+"Facility" 可以包括各种各样的场所或设备，如学校、医院、体育馆、公园、停车场等。
+这个词通常用于描述供公共或私人使用的设施。
+"Device" 指的是设计或制造用于特定目的的工具、装置或设备。
+"Facility" 指的是供特定用途或目的而设立或提供的设施、场所或设备。
+**Sentences**:
+*The hotel offers excellent facilities, including a gym and swimming pool.*
+这家酒店提供优秀的设施，包括健身房和游泳池。
+
+*The city is planning to build new facilities for the elderly.*
+该城市计划为老年人建立新的设施。
+
+#word
+#### faculty
+?
+天赋；才能；全体教员
+**Notes**:
+[ˈfæk(ə)lti]
+
+#word
+#### faithful
+?
+adj. 忠实的，忠诚的；如实的
+
+#word
+#### fall short of
+?
+达不到（指某事物没有达到预期的标准、目标或期望）
+
+#word
+#### famine
+?
+n. 饥荒
+**Sentences**:
+*The Sudan is facing a major famine.*
+苏丹正面临大饥荒。
+
+#word
+#### far-reaching
+?
+影响深远的
+
+#word
+#### fashion
+?
+**v.  make,制造**  n. 时尚；时装；方式
+**Notes**:
+fas/fac-  make
+factory  工厂
+**Sentences**:
+*fashion a policy*
+制定政策
+
+#word
+#### fatal
+?
+adj. 致命的
+**Notes**:
+近似fate-->与命运相关的-->致命的
+
+#word
+#### fiber
+?
+n. 纤维
+**Notes**:
+fabric   n. 织物；结构
+social fabric/structure/pattern  社会结构
+
+#word
+#### figure
+?
+n.数字；身材；人物；（人像；塑像）
+
+#word
+#### file
+?
+n. 文件夹  v. （把文件等）归档
+**Sentences**:
+*file plans*
+提交申请
+
+#word
+#### filter
+?
+n. 滤器，过滤器  v. 过滤
+**Sentences**:
+*the justification of the news-filtering practice*
+新闻过滤这一做法的正当性
+
+#word
+#### fiscal
+?
+财政的；国库的
+**Notes**:
+"Fiscal" 和 "financial" 都与财政、财务相关，但它们在使用上有一些区别：
+1. **Fiscal**（财政的、国库的）：通常用来描述与政府财政、税收、预算和支出相关的事物。例如，"fiscal policy"（财政政策）指的是政府制定和执行的与税收和支出有关的政策；"fiscal year"（财政年度）指的是政府或公司用于制定预算和报告财务情况的一年期限。
+2. **Financial**（金融的、财务的）：更广泛地用来描述与金融、财务或经济相关的事物。它不仅涵盖了政府的财政活动，还包括个人、家庭、企业和机构的财务活动。例如，"financial markets"（金融市场）指的是股票、债券和货币等交易的市场；"financial planning"（财务规划）指的是个人或家庭制定的关于储蓄、投资和退休计划等方面的计划。
+因此，"fiscal" 更专注于政府财政方面，而 "financial" 则更广泛地涵盖了各种与金融和财务有关的活动和领域。
+**Sentences**:
+*fiacal transfer*
+财政转移
+
+#word
+#### flatter
+?
+v. 奉承，讨好
+**Notes**:
+falttering
+讨好的；迎合的
+**Sentences**:
+*I knew she was just flattering me*
+我知道她不过是在恭维我。
+
+#word
+#### flaw
+?
+n. 缺点，瑕疵
+**Notes**:
+character flaw     性格瑕疵、缺陷
+personality    n. 个性、性格
+personalities  名人
+fatal flaw   致命的缺陷
+a flawed  concept  一个由瑕疵的概念
+
+#word
+#### flee
+?
+- v. 逃离，逃避，逃跑
+**Sentences**:
+*In order to escape capture, he fled to the mountains.*
+为了免遭俘虏，他逃到了山里。
+
+#word
+#### foam
+?
+n. 泡沫
+
+#word
+#### fog
+?
+困惑；使困惑
+
+#word
+#### for instance
+?
+例如
+**Sentences**:
+*In the electronics industry, for instance, 5,000 jobs are being lost.*
+例如，电子行业就会失去5000份工作。
+
+#word
+#### forest community
+?
+森林**群落**；森林**界**
+
+#word
+#### formidable
+?
+adj. 可怕的，难对付的
+**Sentences**:
+*a formidable obstacle/task*
+令人生畏的障碍／任务
+
+#word
+#### forsake
+?
+离开，抛弃
+**Notes**:
+助记：for为了+sake原因-->为了某种原因，需要“放弃”
+
+#word
+#### forthcoming
+?
+adj. 即将发生的；
+**Notes**:
+forthcoming publications 即将出版的出版物
+forerunner 先驱
+forefathers 祖先
+
+#word
+#### fortune
+?
+财富；命运；机遇
+
+#word
+#### fossil
+?
+n. 化石，老顽固，陈年往事
+**Sentences**:
+*Can you date the fossil exactly?*
+你能确定这化石的确切年代吗？
+
+*My father is an old fossil.*
+我老爸是个老顽固
+
+#word
+#### fossil fuel
+?
+化石燃料
+
+#word
+#### fragile
+?
+adj. 易碎的；不牢固的
+**Notes**:
+助记：frag打碎；破碎+ile易....的-->易碎的
+fragment n. 碎片，片段 v. 使破碎，分裂
+fraction n. 部分
+
+#word
+#### frankly
+?
+- adv. 坦率地，直率地；（表示直言）老实说
+**Sentences**:
+*Quite frankly, I think this whole situation is ridiculous.*
+相当坦率地讲，我认为这整个局面很可笑。
+
+#word
+#### fraud
+?
+n. 诈骗
+**Sentences**:
+*Tax frauds are dealt with by the Inland Revenue.*
+偷税漏税者由国内税务局负责处理。
+
+#word
+#### frustration
+?
+沮丧，挫败
+**Sentences**:
+*The reactions were the product of pent-up frustrations*
+会有这样的反应是因为内心压抑的沮丧情绪
+
+#word
+#### furthermore
+?
+此外，而且
+
+#word
+#### gallery
+?
+n. 美术馆，画廊
+
+#word
+#### generate
+?
+- v. 产生，引起
+
+#word
+#### genetic
+?
+adj. 基因的，遗传性的
+
+#word
+#### genuine
+?
+adj. 真实的，真诚的
+**Notes**:
+genu膝盖-->抱在膝盖上，才是亲生骨肉-->真实的
+**Sentences**:
+*genuine leather*
+真皮
+
+*He's a very genuine person*
+他为人很真诚。
+
+#word
+#### get around to
+?
+抽出时间做...
+**Sentences**:
+*I'm so busy that I don't get around to it.*
+我忙得找不出时间去做它。
+
+#word
+#### get cracking on
+?
+加快做.....
+
+#word
+#### give birth to
+?
+衍生出
+
+#word
+#### give sth as sth
+?
+把....作为....
+**Sentences**:
+*After three attempts to mend it, I gave it up as a bad job.*
+尝试修理了3次以后，我就放弃了。
+
+#word
+#### gloom
+?
+n. 昏暗，忧郁
+**Sentences**:
+*Bergman's films are often full of gloom and despair.*
+伯格曼导演的电影通常都弥漫着忧郁和绝望的气氛。
+
+#word
+#### glowing
+?
+光彩照人的，辉煌的
+**Sentences**:
+*We toasted bread over the glowing coals.*
+我们在红彤彤的煤块上烤面包。
+
+#word
+#### go on display
+?
+.....被展出
+
+#word
+#### grant
+?
+v. 授予，给予；承认
+**Sentences**:
+*The university granted him a scholarship for his outstanding academic performance.*
+大学因他的优异学业成绩授予他奖学金。
+
+*The government provides grants for small businesses.*
+政府为小型企业提供拨款。
+
+#word
+#### grasp
+?
+掌握；把握
+**Sentences**:
+*It took me a while to grasp the concept of quantum physics.*
+*She grasped the opportunity and made the most of it.*
+
+#word
+#### gratification
+?
+满足
+**Sentences**:
+*sexual gratification*
+性满足
+
+#word
+#### gravitate
+?
+v. 向....移动，被吸引到
+**Notes**:
+gravity   重力
+**Sentences**:
+*Traditionally young Asians in Britain have gravitated towards medicine, law, and engineering.*
+传统上讲在英国的亚洲年轻人倾向于学习医学、法律和工程学。
+
+*People gravitate towards foods that are cheaper.*
+人们乐于购买便宜的食物
+
+#word
+#### greed
+?
+n. 贪婪
+**Sentences**:
+*an insatiable greed for personal power and glory*
+对个人权力和荣誉的贪得无厌
+
+#word
+#### gregarious
+?
+a. 群居的；爱社交的
+**Sentences**:
+*She is such a gregarious and outgoing person.*
+她是个喜欢交际、非常外向的人。
+
+#word
+#### grievance
+?
+n. 不满，不平；委屈
+**Sentences**:
+*She will use this as a peg to hang her grievance on.*
+她会利用这个作为发泄怨愤的藉口。
+
+*Nobody could redress the grievance for him.*
+没人能为他申冤。
+
+#word
+#### grieve
+?
+v.悲伤，悲痛
+**Notes**:
+1. **Anguish:**
+"Anguish" 强调的是极度的痛苦、苦恼或内心的煎熬。这种痛苦通常是由于心理或情感上的折磨、焦虑或绝望而引起的。
+例如，"She experienced anguish over the loss of her child."（她因失去孩子而经历了极度的痛苦。）
+2. **Grieve:**
+"Grieve" 指的是由于失去、悲伤或悲痛而引起的痛苦。它更侧重于因丧失而产生的情感上的痛苦和悲伤。
+例如，"He grieved deeply for his late wife."（他为他已故的妻子深感悲痛。）
+3. **Misery:**
+"Misery" 指的是极度的痛苦、不幸或不舒适的状态。这种痛苦可能是由于生活中的困难、贫困、疾病或不幸而引起的。
+例如，"The refugees lived in misery in the makeshift camp."（难民们在临时营地里生活在极度的痛苦中。）
+总的来说，"anguish" 更强调内心的煎熬和极度的痛苦，"grieve" 更侧重于因失去而产生的悲伤和悲痛，而 "misery" 更广泛地指代生活中的极度不幸或痛苦的状态。
+**Sentences**:
+*He is still grieving for/over his wife.*
+他仍沉浸在丧妻之痛中。
+
+#word
+#### grip
+?
+n. 紧握；掌握
+**Notes**:
+1. **"Grip"**:
+"Grip" 通常指的是握紧或掌握某物的动作，强调的是对物体的抓握或握持。
+例如："He gripped the handle tightly."（他紧紧地握住了把手。）
+2. **"Grasp"**:
+"Grasp" 也可以表示抓握或抓住，但更强调的是对事物的理解、领悟或掌握。
+例如："She grasped the concept quickly."（她很快掌握了这个概念。）
+因此，"grip" 更注重于物体的抓握动作，而 "grasp" 则更注重于对事物的理解或掌握。
+
+#word
+#### grocery
+?
+杂货店
+**Sentences**:
+*I went to the grocery.*
+我去了食品杂货店。
+
+#word
+#### groundless
+?
+毫无根据的
+**Notes**:
+ground (表基础、根据、依据)+less(表否定)
+
+#word
+#### gulf
+?
+鸿沟
+**Sentences**:
+*There is a widening gulf between the rich and the poor in our society.*
+我们的社会里，贫富差距在日益加大。
+
+#word
+#### habit
+?
+n. 习惯
+**Sentences**:
+*I'm trying not to get into (= start) the habit of always having biscuits with my coffee.*
+我尽量避免养成喝咖啡时总是吃饼干的习惯。
+
+#word
+#### halt
+?
+n. 停止，中止  ;v. （使）停止行进；阻止，中断
+**Notes**:
+助记：近似half-->走了一半路被喊“停”-->停止
+
+#word
+#### hamper
+?
+v.阻碍，妨碍
+**Notes**:
+**总结：**
+"Hamper" 指的是阻碍或限制进展的动作或物体。
+"Setback" 指的是计划、进程或努力中的意外或突发性的挫折。
+**Sentences**:
+*The heavy rain hampered our progress on the construction site.*
+大雨阻碍了我们在建筑工地上的进展。
+
+*She packed a picnic hamper with sandwiches and fruits for the outing.*
+她准备了一个野餐篮，装满了三明治和水果，用于郊游。
+
+#word
+#### handbrake
+?
+n. 手刹车；手闸
+**Sentences**:
+*You're supposed to put the handbrake on whenever you stop on a hill.*
+只要你在山坡上停车都应该把手刹车拉上。
+
+#word
+#### harness
+?
+v. 控制并利用
+**Sentences**:
+*If you can harness your energy you will accomplish a great deal.*
+如果你能控制你的精力，你将获得巨大成功。
+
+*They will harness the sun's energy to heat homes.*
+他们将利用太阳能为住宅供暖。
+
+#word
+#### haste makes waste
+?
+欲速则不达
+
+#word
+#### hazard
+?
+n.危险，风险（负面词汇）
+**Notes**:
+助记：Resident Evil 7 Biohazard
+**Sentences**:
+*Drinking alcohol is a real health hazard if carried to excess.*
+饮酒倘若过量，真的会是一个健康隐患。
+
+#word
+#### head-scratching
+?
+抓耳挠腮的
+
+#word
+#### hold  ... accountable for
+?
+（人）对....负责
+
+#word
+#### hospitality
+?
+n. 殷勤款待，好客；酒店
+**Sentences**:
+*Every visitor to Georgia is overwhelmed by the kindness, charm and hospitality of the people.*
+每一个去乔治亚州的游客都会被当地人的友好、魅力和殷勤深深打动。
+
+#word
+#### hostage
+?
+人质
+
+#word
+#### hostility
+?
+n. 敌意，对抗
+**Sentences**:
+*They showed open (= obvious) hostility to/towards their new neighbours.*
+他们对新邻居表现出了公开的敌意。
+
+#word
+#### hybrid
+?
+adj. 混合的   n. 混合物
+**Sentences**:
+*a hybrid of solid and liquid fuel*
+固体燃料和液体燃料的混合物
+
+#word
+#### hygiene
+?
+n. 卫生，卫生学
+**Sentences**:
+*Be extra careful about personal hygiene*
+要特别注意个人卫生。
+
+#word
+#### ideology
+?
+n. 思想体系，意识形态
+**Notes**:
+助记：idea-->想法的逻辑
+**Sentences**:
+*capitalist ideology*
+资本主义思想体系
+
+#word
+#### idleness
+?
+n. 懒惰；闲散；失业
+
+#word
+#### illuminate
+?
+v. 照射，照亮；阐明，解释
+**Sentences**:
+*The streets were illuminated with strings of coloured lights.*
+街道被一串串彩灯照亮了。
+
+#word
+#### illusion
+?
+幻觉，错觉
+**Sentences**:
+*I was under the illusion that she was meant to help me.*
+我误以为她是来帮我的。
+
+*to be under no illusion about sth*
+对某事不抱幻想
+
+#word
+#### illustrate
+?
+说明，阐明
+**Sentences**:
+*This latest conflict further illustrates the weakness of the UN.*
+最近的这次冲突进一步说明了联合国的软弱。
+
+#word
+#### imitate
+?
+v. 模仿，仿效
+**Sentences**:
+*He had such a pleasant,readable style that one might think that anyone could imitate it.*
+他有着一种令人愉快的、可读的风格，有人认为这种风格任何人都可以模仿得来。
+
+#word
+#### immerse
+?
+沉浸在；（使）深陷于
+
+#word
+#### immune system
+?
+免疫系统
+**Notes**:
+reproductive system  生殖系统
+respiratory system  呼吸系统
+digestive system 消化系统
+sensory system 感官系统
+
+#word
+#### impartial
+?
+adj.公正的，不偏见的
+**Notes**:
+par- part 部分的
+partial adj. 部分的，偏爱的
+**Sentences**:
+*A trial must be fair and impartial.*
+审判必须客观公正。
+
+#word
+#### imperative
+?
+当务之急
+**Sentences**:
+*It's imperative to act now before the problem gets really serious.*
+必须现在就采取行动，而不是等到问题变得难以收拾。
+
+#word
+#### impetus
+?
+动力
+**Notes**:
+pet- follow
+an impetus to its economy  它的经济动力
+**Sentences**:
+*The president hopes to give new impetus to the peace process.*
+总统希望为促进和平进程作出新的努力。
+
+#word
+#### implement
+?
+v. 执行，贯彻; n. 工具，器具
+
+#word
+#### implication
+?
+n. 含义，意义，影响；暗指
+**Notes**:
+imply  v. 暗示
+im- in
+implicit  a. 含蓄的；内含的
+**Sentences**:
+*radical/fundamental/revolutionary implication*
+根本的/彻底的/革命性的影响
+
+#word
+#### implore
+?
+- vt. 恳求或乞求
+**Notes**:
+"Implore" 和 "beg" 都可以用来表示请求，但它们之间有细微的区别。"Implore" 带有一种更强烈、更真诚的情感，通常是在面临紧急或严重情况下使用，而 "beg" 则更常用于请求某种物质财富、好处或妥协。
+"Implore" 通常表示一种真诚的、情感上的恳求，而 "beg" 则可能更加平庸或显得不那么真诚。
+**Sentences**:
+*She implored her parents to let her go to the concert.*
+她恳求父母让她去听音乐会。
+
+*The villagers implored the government for aid after the flood.*
+村民们恳求政府在洪水过后提供援助。
+
+#word
+#### impose
+?
+推行；**强制实行**
+**Sentences**:
+*Britain imposed fines on airlines which bring in passengers without proper papers*
+英国对搭载无有效证件乘客入境的航空公司处以罚款。
+
+#word
+#### impoverished
+?
+adj. 贫困的，贫乏的
+**Sentences**:
+*one of the most impoverished suburbs of the city*
+该市最贫困的郊区之一
+
+#word
+#### in a .....manner/fashion/style/way
+?
+以.....方式
+
+#word
+#### in a nutshell
+?
+一言以蔽之
+**Notes**:
+nutshell
+坚果壳，干果壳
+
+#word
+#### in breach of
+?
+- 违反（某项法律或规定）
+
+#word
+#### in dispute
+?
+有争议的
+**Notes**:
+in dispute   =at issue
+
+#word
+#### in excess of
+?
+超过
+**Sentences**:
+*Luggage in excess of 20kg is taxed.*
+行李超过20公斤要付费。
+
+#word
+#### in matters of
+?
+在....事情上；就……而言
+
+#word
+#### in the world
+?
+究竟，到底
+**Notes**:
+= on earth
+**Sentences**:
+*What in the world happened here?*
+这里到底发生了什么？
+
+#word
+#### incident
+?
+事件，事故
+
+#word
+#### inclined
+?
+倾向于
+**Notes**:
+be inclined to
+tend to do 倾向于；往往
+inclination  倾向
+
+#word
+#### inclusive
+?
+“包括一切的”或“包容的”
+**Notes**:
+词根记忆法: “Inclusive” 包含词根 “clus”，意思是 “关闭” 或 “包含”。类似的词有 “include” (包括) 和 “exclude” (排除)。
+**Sentences**:
+*The school aims to create an inclusive environment for all students*
+这所学校旨在为所有学生创造一个包容的环境。
+
+*She has an inclusive approach to leadership, valuing everyone's input.*
+她的领导方式很包容，重视每个人的意见。
+
+#word
+#### inconstant
+?
+不连续的；变化无常的，易变的；多变的
+
+#word
+#### incur
+?
+v. 招致（==负面）
+**Notes**:
+助记：in (进入)+cur（跑）-->跑进来-->招致
+
+#word
+#### indecision
+?
+n. 优柔寡断；犹豫不决
+
+#word
+#### index
+?
+指数，指标，索引
+**Notes**:
+the U.K. retail price index
+英国零售价格指数
+
+#word
+#### indicate
+?
+v. 表明，标示；象征
+
+#word
+#### indictment
+?
+n. 控告；起诉书
+**Notes**:
+3. **记忆技巧**：将 "indictment" 分解成两部分，如 "in" 和 "dict"。"In" 可以联想到 "inside"（内部）或 "inquire"（询问），而 "dict" 可以联想到 "dictate"（口述）或 "dictator"（独裁者）。因此，你可以将 "indictment" 理解为 "内部的指控" 或 "控告者的口述"，即对犯罪行为的正式指控或起诉书。
+
+#word
+#### indifference
+?
+冷漠，漠不关心
+
+#word
+#### indispensable
+?
+adj. 不可或缺的，必需的
+**Notes**:
+=necessary
+
+#word
+#### individual organism
+?
+个体生物：指单个的生物体
+**Notes**:
+organize v.组织
+organ n. 器官
+organism 生命体
+collective efforts 集体努力
+
+#word
+#### indulge
+?
+v.（使沉迷）
+**Notes**:
+indulgent  adj. 纵容的，放纵的
+indulgence   n. 沉溺，沉迷
+**Sentences**:
+*The soccer fans indulged their patriotism, waving flags and singing songs.*
+足球迷们摇着旗唱着歌，纵情抒发他们的爱国热情。
+
+*I love champagne but I don't often indulge myself.*
+我爱喝香槟，但一般都有节制。
+
+#word
+#### industrious
+?
+adj. 勤劳的，勤奋的
+**Sentences**:
+*an industrious worker*
+一个勤劳的工人
+
+#word
+#### industry
+?
+勤劳；工业，行业
+**Notes**:
+industrious  adj. 勤劳的，勤奋的
+
+#word
+#### inevitable
+?
+必然的，不可避免的
+**Sentences**:
+*All-out war now seems inevitable.*
+全面战争现在看来似乎不可避免。
+
+#word
+#### inexorable
+?
+不可阻挡的；无情的
+**Notes**:
+在一些情况下，两个单词确实可以互换使用，因为它们都表示某种事情或结果是无法被避免的或无法改变的。但在其他情况下，可能更适合使用其中一个单词来强调特定的方面，比如 "inexorable" 更强调无情和不可逆转，而 "inevitable" 更强调必然性和不可避免性。因此，在选择使用哪个单词时，可以考虑到具体的语境和想要强调的含义。
+
+#word
+#### inflate
+?
+v.充气，膨胀
+**Notes**:
+inflate a balloon  给气球充气
+
+#word
+#### infrastruction
+?
+基础设施
+
+#word
+#### infuse
+?
+v. 注入；使充满；灌输
+**Notes**:
+infuse v. 注入；使充满；灌输
+flu    n. 流感   flow   v.流动
+inflow=infuse   n.流入     flow-flu-fus-fluct
+fluctuate   v.波动；
+fluctuation  ;   波动；起伏
+fluctuant   adj.变动的；波动的；起伏的
+
+#word
+#### ingredient
+?
+n. （食品的）成分，原料
+
+#word
+#### inhabit
+?
+v. 居住于，栖居在
+**Notes**:
+habitat  栖息地
+"Inhabit" 更常用于形容自然环境中的动植物或虚构的生物居住在某个地区或环境中。它强调的是某种生物在某地区或环境中的常住性。
+"Inhabit" 也可以用于描述人类居住在某个地区，但更常用于描述自然环境中的生物。
+例如：Tropical rainforests are inhabited by a diverse range of wildlife.（热带雨林栖息着多样的野生动物。）
+
+#word
+#### inherent
+?
+a.固有的；内在的（从娘胎里出来的）
+**Notes**:
+heir  n.子嗣；后代
+inherit  继承
+heritage n. 传承；传统；遗产
+Human are not inherently violent . 人类并不是本来就是暴力的。
+A 是 B必不可少的一部分
+a is part and parcel of b
+a is an integral part of b
+a is an intrinsic part of b
+a is an inherent part of b
+sb's intrinsic/inherent right  某人的固有权利
+
+#word
+#### inherit
+?
+v. 继承
+**Notes**:
+heritage  n. 遗产
+inheritance   n.遗产，遗产传承
+
+#word
+#### initiative
+?
+n. 倡议；主动性
+**Notes**:
+"Initiative" 这个单词是从形容词 "initial" 派生而来的名词。"Initial" 意思是 "最初的"、"开始的"，而 "initiative" 在含义上则扩展了这一概念，表示 "采取主动行动的能力或权力"。
+动词形式是 "initiate"，意为 "开始、发起、采取行动"。这个动词强调了开始某个过程或行动的行为。
+因此，"initiative" 与 "initial" 有关系，但它们在含义上有所不同。"Initial" 强调某事物的开始或最初阶段，而 "initiative" 则强调采取主动行动或提出新的计划或措施的能力。
+**Sentences**:
+*The headmaster welcomed the initiative*
+校长很乐意接受这个倡议。
+
+*He's got no initiative.*
+他没有任何进取心。
+
+#word
+#### innovate
+?
+v. 改革，创新，革新
+
+#word
+#### insatiable
+?
+无法满足的
+**Notes**:
+sat-   satisfy   满足的
+
+#word
+#### inscription
+?
+n. 题词；铭文；刻印
+
+#word
+#### instinct
+?
+n. 本能;直觉
+**Notes**:
+电影《Basic Instinct》(本能)
+
+#word
+#### institution
+?
+n. 机构，团体
+**Notes**:
+institute    n. 研究所，学院
+
+#word
+#### instruction
+?
+n. 指示，吩咐；教授，指导
+**Sentences**:
+*The police who broke into the house were only acting on/under instructions.*
+警察破门而入只是奉命行事。
+
+*The video provides instruction on how to operate the computer.*
+这盘录像教人们如何操作计算机
+
+#word
+#### integral
+?
+adj.必须的，必要的
+**Notes**:
+**a is an integral part of b  a是b不可或缺的一部分**
+
+#word
+#### integrate
+?
+使.....合并
+**Notes**:
+integrate with 使与…结合
+integrate into 成为一体，融入；使…并入
+
+#word
+#### integrity
+?
+n. 完整；正直（诚实）
+**Notes**:
+个人诚实：personal ~
+艺术诚信：artistic ~
+品行正直：moral ~
+职业操守：professional ~
+结构完整：structual ~
+领土完整：territorial ~
+territory
+
+#word
+#### intel
+?
+因特尔
+**Notes**:
+intel-
+高端，智力相关
+
+#word
+#### intellect
+?
+智力，理解力
+**Sentences**:
+*Do the emotions develop in parallel with the intellect?*
+情感与智力的发展是平行的吗？
+
+#word
+#### intellectual
+?
+a.智力的；聪明的；**（知识的）知识分子  **
+**Notes**:
+-intellectual pursuits    在知识上的追求
+intellectual property rights 知识产权
+-intellectual endeavors 知识上的努力
+
+#word
+#### intelligence
+?
+智力；理解力  ；**信息（情报）**
+**Notes**:
+一般的智力
+average/general ~
+emotional intelligence  情商
+先天的智力    native/innate/natural/inborn ~
+nat-      to born 强调出生就有的
+人工智能       artificial~
+秘密情报    secret intelligence
+可靠情报   reliable intelligence
+**Sentences**:
+*Why was military intelligence so lacking?*
+为什么军事情报如此匮乏？
+
+#word
+#### intense
+?
+adj. 强烈的
+**Sentences**:
+*intense cold/heat/hatred*
+严寒／酷热／痛恨
+
+*He suddenly felt an intense pain in his back.*
+他突然觉得背部一阵剧痛。
+
+#word
+#### intensive
+?
+adj. 加强的，集中的，深入细致的
+**Sentences**:
+*two weeks of intensive training*
+两周的强化培训
+
+*An intensive search failed to reveal any clues.*
+经过彻底搜查未发现任何线索。
+
+#word
+#### interest group
+?
+利益集团
+
+#word
+#### interfere
+?
+v. 干涉，干扰；阻碍，妨害
+**Notes**:
+1. **Interrupt（中断）**：
+"Interrupt" 通常指在某个过程或活动中突然插入，导致其被中断或暂停。这种中断可能是有意的或无意的。
+例如："He interrupted me while I was speaking."（他在我讲话时打断了我。）
+2. **Interfere（干扰）**：
+"Interfere" 通常指对某个过程或活动的正常进行产生不利影响，可能导致其受到干扰、阻碍或受损。
+例如："Please don't interfere with my work."（请不要干扰我的工作。）
+总的来说，"interrupt" 更强调在进行中的活动被中断或暂停，而 "interfere" 更强调对正常进行的活动产生不利影响。
+**Sentences**:
+*Don't interfere. I can sort this out by myself.*
+你不要干涉。我自己能解决。
+
+#word
+#### interior
+?
+内部，室内，内饰
+
+#word
+#### interpret
+?
+v. 解释，说明；
+**Notes**:
+inter- 在...之间
+pret- presentation present 呈现
+**Sentences**:
+*interpret the mening*
+解释含义
+
+#word
+#### intervene
+?
+v.干预；干涉；调停
+**Sentences**:
+*The Government is doing nothing to intervene in the crisis*
+政府没有采取任何行动对这次危机进行干预。
+
+*Neither bill became law because the general election intervened*
+因为大选的干扰，两个提案都没有成为法律。
+
+#word
+#### intricate
+?
+adj. 错综复杂的；难理解的，
+**Notes**:
+in+tri三-->走进三角关系-->错综复杂的
+**Sentences**:
+*The watch mechanism is extremely intricate and very difficult to repair.*
+手表的机械结构非常复杂精细，很难修理。
+
+#word
+#### intriguing
+?
+adj. 非常有趣的，引人入胜的
+**Sentences**:
+*an intriguing possibility/question*
+极具吸引力的可能性／问题
+
+#word
+#### intrinsic
+?
+固有的;内在的
+**Notes**:
+a is an intrinsic part of b;
+a是b的固有部分
+
+#word
+#### intuition
+?
+n. 直觉力；直觉
+**Notes**:
+intuitive  adj. 直觉的，直观的
+"Intuition" 由 "in-"（内部）和 "tuition"（教导、教育）组成，字面意思是内在的教导或指引。它暗示了一种内在的、非常规的认知能力。
+**Sentences**:
+*Trust your intuition when making important decisions.*
+在做重要决定时相信你的直觉。
+
+*She followed her intuition and chose the right path.*
+她遵循直觉选择了正确的道路。
+
+#word
+#### inventory
+?
+n. 物品清单；库存
+**Notes**:
+助记：发现某个东西的地方
+
+#word
+#### invert
+?
+v. 使倒置，使反转
+**Notes**:
+近义词：reverse、turn over
+词根记忆法: “Invert” 来自拉丁语 “invertere”，其中 “in-” 意思是“在……里面”，而 “vertere” 意思是“转动”。联想其他含有 “vert” 的词，如 “convert” (转换) 和 “divert” (转移)。
+**Sentences**:
+*To solve the problem, you need to invert the equation*
+要解决这个问题，你需要倒转这个方程
+
+*Please invert the cup before putting it in the cupboard*
+请把杯子倒过来再放进柜子里
+
+#word
+#### isolate
+?
+v. 隔绝；孤立
+**Sentences**:
+*Patients will be isolated from other people for three days to one month after treatment.*
+接受治疗后病人要隔离3天至1个月。
+
+#word
+#### issue
+?
+v. 发表，颁布  n. 问题
+
+#word
+#### it is suggested that
+?
+有人提议....
+
+#word
+#### it may be worth considering that
+?
+考虑做....是值得的
+
+#word
+#### it's overwhelming.
+?
+太不可思议了
+
+#word
+#### jealous
+?
+adj. 妒忌的，好嫉妒的
+**Sentences**:
+*I am jealous of you.*
+我真羡慕你。
+
+#word
+#### journal
+?
+刊物；期刊
+**Sentences**:
+*All our results are published in scientific journals.*
+我们的所有成果都刊登在科学期刊上。
+
+#word
+#### journalism
+?
+n. 新闻业，新闻工作
+**Sentences**:
+*It was an accomplished piece of investigative journalism.*
+这是一个成功的调查研究报道。
+
+#word
+#### judiciary
+?
+司法机关；司法系统；司法部
+**Notes**:
+jud-     (法律有关)
+ary/ery/ory
+n.地点 factory
+集合 dictionary pottery
+n.陶瓷
+
+#word
+#### jump off
+?
+跳出去
+
+#word
+#### justification
+?
+正当理由；辩解
+
+#word
+#### kindle
+?
+v. 唤起；点燃
+**Notes**:
+candle  n. 蜡烛
+
+#word
+#### ladder
+?
+n. 梯子；（职位晋升的）阶梯
+**Notes**:
+climb social/career/life ladder
+
+#word
+#### lag
+?
+v. 滞后，落后
+**Sentences**:
+*He's lagging behind - I think we'd better wait for him to catch us up.*
+他有点掉队了——我看我们最好等他赶上来。
+
+#word
+#### lame
+?
+adj. 瘸的残疾的；（尤指借口或论据）站不住脚的，无说服力的
+
+#word
+#### landmark
+?
+地标；里程碑
+**Notes**:
+a landmark ruling  里程碑式的裁定
+
+#word
+#### launch
+?
+发起，发行；启动（计算机程序）
+
+#word
+#### laureate
+?
+获奖者
+
+#word
+#### lawsuit
+?
+诉讼；诉讼案
+**Notes**:
+class     班级；阶级；等级
+classify   v. 把....归类
+class-action lawsuit    集体起诉案件
+file a lawsuit 提起诉讼
+file a complaint   提起投诉
+nuisance-lawsuit filer  妨碍行为诉讼的提交者
+
+#word
+#### leak
+?
+泄露；泄漏
+**Sentences**:
+*Water was leaking from the pipe.*
+水正从管子里漏出来。
+
+*He leaked the names to the press.*
+他向新闻界透露了名单。
+
+#word
+#### lean
+?
+adj.瘦的，匮乏的，精简的   v.倾斜，依靠某人
+**Notes**:
+助记：倾斜-太瘦了-精干的-没有油水的-公司没有利润的-经济不景气的
+these lean times (**负面**)
+recession
+**Sentences**:
+*lean on sb*
+依靠某人
+
+*lean muscle*
+瘦肌肉
+
+#word
+#### legislative
+?
+adj. 立法的；（与）立法机关（有关）的
+**Notes**:
+a legislative body  一个立法机构/机关
+legislation  n.法律，***立法
+
+#word
+#### legitimate
+?
+adj. 合法的；正当的
+**Sentences**:
+*a legitimate business transaction*
+合法的商业交易
+
+#word
+#### leisure
+?
+n. 休闲，闲暇   adj. 空闲的
+**Sentences**:
+*Most people only have a limited amount of leisure time.*
+大多数人只有有限的空闲时间。
+
+#word
+#### levy
+?
+n./v.征收；征税
+**Notes**:
+助记：levy 提升你的生活level
+
+#word
+#### liable
+?
+adj. （在法律上）有责任的，有义务的；
+**Notes**:
+**obligation 和 liable 的区别：**
+1. **定义：**
+"Obligation" 指的是对某人或某事有责任或义务，通常是因为法律、道德、约定或社会期望而产生的。
+"Liable" 指的是有可能受到责任、处罚或指控的，通常指法律上的责任或义务。
+2. **责任性质：**
+"Obligation" 指的是一种明确的责任或义务，通常源自法律、道德、约定或社会期望。
+"Liable" 指的是可能面临责任、处罚或指控的状态，可能是法律上的责任，也可能是其他方面的责任。
+3. **用法：**
+"Obligation" 通常用于描述对他人或某事有义务或责任的情况，强调了应尽的责任。
+"Liable" 通常用于描述可能面临法律责任或处罚的情况，强调了可能性和风险。
+4. **例句：**
+He has an obligation to take care of his elderly parents.（他有责任照顾年迈的父母。）
+The company is liable for any damages caused by its products.（公司对其产品造成的任何损害负责。）
+5. **相关性：**
+"Obligation" 和 "liable" 都与责任、义务等概念有关，但侧重点和用法有所不同。
+**总结：**
+"Obligation" 指的是明确的责任或义务，通常源自法律、道德、约定或社会期望；而 "liable" 指的是可能面临责任、处罚或指控的状态，可能是法律上的责任，也可能是其他方面的责任。两者用法和意义上有所区别，但都与责任、义务等概念有关。
+**Sentences**:
+*If you leave your car unlocked, you are liable to have it stolen.*
+如果你把车锁着放，你就有可能被偷。
+
+*He is liable for the damage caused by his negligence.*
+他应对因疏忽造成的损害负责。
+
+#word
+#### liberty
+?
+自由
+**Sentences**:
+*individual liberty*
+个人自由
+
+#word
+#### lie in
+?
+在于
+**Notes**:
+***写作高分表达***
+**Sentences**:
+*His skill lies in his ability to communicate quite complex ideas very simply.*
+他的能力体现在能将复杂的思想用非常简单的方式表达出来。
+
+#word
+#### limbic system
+?
+- 边缘系统：大脑的一组皮层下结构，包括下丘脑、海马体和杏仁核等，主要与情绪和动机有关。
+**Notes**:
+limbic   adj. 边的；缘的
+
+#word
+#### literally
+?
+adv. 按照字面意义地；真正地; 逐渐地
+**Sentences**:
+*Don't read the report literally now, just skim through it.*
+现在，不要逐字读报告，大致地看一下就可以了。
+
+#word
+#### literate
+?
+adj. 有读写能力的；有文化的  n. 仪式性的，习惯的
+**Notes**:
+literature  文学
+**Sentences**:
+*- Both literate and illiterate people can serve on juries.*
+有文化和没文化的人都可以担任陪审员。
+
+*- People may be starting to beef up their media literacy skills.*
+人们可能开始加强他们的媒体素养。
+
+#word
+#### lobby
+?
+n.大厅
+**Sentences**:
+*I met her in the lobby of the museum.*
+我在博物馆的大厅里碰见了她。
+
+#word
+#### longing
+?
+n. 渴望，热望
+**Notes**:
+a longing to do sth
+想做某事的渴望
+longing for sth
+对…的渴望
+
+#word
+#### loom
+?
+v.逼近，临近
+**Notes**:
+助记：100米
+
+#word
+#### loosen
+?
+v. （使）变松，（使）松开；
+**Notes**:
+loose   宽松的
+**Sentences**:
+*He loosened his tie.*
+他松开了领带。
+
+#word
+#### lucrative
+?
+adj. 赚钱的；盈利的
+**Sentences**:
+*They have signed lucrative contracts.*
+他们已经签订了获利丰厚的合同。
+
+#word
+#### lurk
+?
+vi. 潜伏；潜藏；埋伏
+**Notes**:
+美 [lɜːrk]
+**Sentences**:
+*Then we spotted a tall man lurking in the bushes outside.*
+接着我们发现一个高个儿男子潜伏在外面的灌木丛中。
+
+#word
+#### magnificent
+?
+adj.壮丽的；雄伟的；值得称赞的
+**Sentences**:
+*a magnificent country house in wooded grounds*
+在树木成荫的场地上建造的华丽的乡村宅邸
+
+#word
+#### maid
+?
+n. 女仆，女佣
+
+#word
+#### mandate
+?
+n. 授权，委任   v. 命令，要求
+**Sentences**:
+*The President may read this vote as a mandate for continued economic reform.*
+总统可能会将这次投票结果解读为继续实施经济改革的指令。
+
+*to give sb a mandate*
+给某人下命令；给某人下指令
+
+#word
+#### manufacture
+?
+v.（大量）制造
+**Notes**:
+助记：manu（手）+fact（造）-->制造
+
+#word
+#### margin
+?
+n.页边空白；利润；盈余
+**Notes**:
+margin of error
+profit margin
+
+#word
+#### marketing
+?
+营销
+**Notes**:
+marketing strategy  营销策略
+营销活动  marketing campaign
+营销手段   marketing method
+
+#word
+#### marketing intelligence
+?
+营销行情
+
+#word
+#### massive
+?
+adj. 大而重的，结实的，给人深刻印象的；
+**Sentences**:
+*a massive steam boat*
+一艘巨大的蒸汽船
+
+#word
+#### measure
+?
+衡量
+
+#word
+#### mechanic
+?
+n. 技工，机械师，机修工
+**Notes**:
+《mechanic》杰森 斯坦森主演电影《机械师》
+
+#word
+#### mechanism
+?
+途径，方法；（生物体内的）机制，构造
+**Sentences**:
+*The mechanism tends to lock in cold weather.*
+寒冷的天气里机械装置会变僵硬。
+
+#word
+#### merit
+?
+优点，价值
+**Sentences**:
+*an entertaining film with little artistic merit*
+一部有趣但艺术价值不高的电影
+
+*We discussed the merits of herbal tea.*
+我们讨论了药草茶的好处。
+
+#word
+#### meritocracy
+?
+n. 精英管理，精英制度
+**Notes**:
+助记：merit优点+cracy政治
+
+#word
+#### metropolitan
+?
+大都市
+**Notes**:
+metro  地铁
+**Sentences**:
+*He was drawn to the metropolitan glamour and excitement of Paris.*
+他为巴黎的大都会魅力与激情所吸引。
+
+#word
+#### middle-brow
+?
+品味一般的
+**Notes**:
+1. 拆分词组
+Middle：中间的
+Brow：眉毛
+2. 词义联想
+Middle-brow：可以联想到“中间的眉毛”，即品味处于中间水平，不高也不低。
+5. 对比记忆
+High-brow：高雅的，高品味的
+Low-brow：低俗的，低品味的
+Middle-brow：介于两者之间，品味一般的
+
+#word
+#### mild
+?
+adj. 轻微的；温和的
+**Sentences**:
+*She can't accept even mild criticism of her work.*
+即使別人对她的作品略有微词，她都不能接受。
+
+*We've had a mild winter this year.*
+我们今年过了个暖冬。
+
+#word
+#### millennial
+?
+n. 千禧一代   adj. 千禧年的
+
+#word
+#### miniature
+?
+n. 微缩模型；微型复制品
+
+#word
+#### minor
+?
+n. 未成年的，adj. 较小的，次要的
+**Notes**:
+助记：min- mini
+
+#word
+#### mobility
+?
+活动性，流动性
+**Notes**:
+"Mobility" 这个单词是从形容词 "mobile"（可移动的、流动的）派生而来的名词。"Mobile" 本身也可以作为名词使用，表示移动电话或者房车。而动词形式则是 "mobilize"，意为 "调动、动员"。 "Mobility" 的意思是 "能够移动的状态或性质"，可以用来描述人、物体或者概念的流动性、可移动性。
+
+#word
+#### mockery
+?
+嘲笑；笑柄
+**Notes**:
+美 [ˈmɑːkəri]
+**Sentences**:
+*Was there a glint of mockery in his eyes?*
+他眼睛里是不是闪过一丝嘲讽？
+
+#word
+#### moderate
+?
+adj. 普通的，中等的；不偏激的，温和的
+**Notes**:
+mod- mid
+mild adj.不强烈的；轻微的；
+**Sentences**:
+*moderate growth/inflation*
+适度的增长／通货膨胀
+
+*He's a moderate drinker*
+他是个饮酒有节制的人。
+
+#word
+#### modify
+?
+修饰，调整
+**Notes**:
+genetically modified crops
+转基因作物
+**Sentences**:
+*The machine needs to be modified before it can take the new cartridges.*
+机器需要先改造才能装配这些新墨盒。
+
+#word
+#### momentous
+?
+重大的，重要的
+**Sentences**:
+*This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice.*
+这一重大法令的颁布，犹如一盏巨大的灯塔之光，给千百万在不公正的火焰中焦灼的黑奴带来了希望。
+I have a dream
+
+#word
+#### monarch
+?
+君主；最高统治者
+**Notes**:
+mon(o)单+arch(统治)
+1. **Monarch（君主）**：指的是一个国家或地区的最高统治者，通常是一个国王或女王。君主通常通过继承或遗传方式获得权力，并在国家政府中拥有绝对或相对的权威。君主制度在绝大多数情况下是单一领袖统治的，即一个君主统治一个国家。
+2. **Overlord（霸主、统治者）**：指的是一个人或实体在某个地区或领域拥有绝对或相对的权力。与君主不同，overlord 的权力范围可能更广泛，他们可能通过征服、统一或控制其他国家或地区来获得权力。
+3. **Oppressor（压迫者、压制者）**：指的是以暴力、武力或压迫手段对其他人或群体施加控制、剥夺权利或施加不公平待遇的人或实体。Oppressor 的行为通常导致被压迫者的痛苦、苦难或不公正。Oppressor 可以是一个国家的政府、一个专制统治者、一个殖民者、或者是任何对他人施加压迫的人或实体。
+因此，这三个单词的区别在于它们所指的统治形式、权力范围以及对待他人的态度。Monarch 是一个国家的最高统治者，Overlord 可能是统治多个地区或国家的人或实体，而 Oppressor 则是以压迫和剥夺权利为手段对待他人的统治者。
+
+#word
+#### monetary
+?
+adj. 货币的；金钱的
+**Notes**:
+助记：money
+
+#word
+#### monopoly
+?
+n. 垄断
+**Notes**:
+mono 单个的+poly 谐音“暴力”——>暴力垄断了单个行业
+
+#word
+#### mortgage
+?
+n. 抵押贷款；按揭贷款
+**Notes**:
+mortal 烦人；致命的  （摸头杀）
+monthly mortgage  月供；按揭
+
+#word
+#### motto
+?
+n. 座右铭，格言，警句
+
+#word
+#### mushroom
+?
+n. 蘑菇 ；v. 大量涌现
+
+#word
+#### mutual
+?
+adj. 共同的，共有的；相互的，彼此的
+**Notes**:
+mutual-fund  - [会计] 共有基金
+
+#word
+#### nail
+?
+n. 钉子；指甲
+**Sentences**:
+*a three-inch nail*
+3英寸长的钉子
+
+*Stop biting your nails*
+别再咬指甲了！
+
+#word
+#### narrative
+?
+- n. 叙述；叙事  adj. 叙述性的
+**Sentences**:
+*Jason began his narrative with the day of the murder.*
+Jason从谋杀案发生的那天开始讲起。
+
+*a narrative poem*
+叙事诗
+
+#word
+#### negotiate
+?
+v.谈判，协商
+**Sentences**:
+*The government says it will not negotiate with terrorists.*
+政府表示不会与恐怖主义分子谈判。
+
+#word
+#### nervous system
+?
+神经系统
+**Notes**:
+have the nerve to do sth  有做....的胆量
+an attack of nerves   一阵紧张
+
+#word
+#### net
+?
+- net  n. 网；净数  adj. 净的，纯的
+**Notes**:
+net profit  净利润
+net-zero   adj. 净零排放
+
+#word
+#### neuroscientific
+?
+adj.神经学的
+
+#word
+#### nightmare
+?
+噩梦
+
+#word
+#### noble
+?
+崇高的，高尚的
+**Sentences**:
+*a man of noble character*
+品行高尚的人
+
+#word
+#### norm
+?
+规范、标准、准则（通常指社会或文化中的行为标准或习惯）
+**Notes**:
+词根记忆法: “Norm” 来源于拉丁语 “norma”，意思是“标准”或“规则”。可以联想到其他与标准相关的词语，比如 “normal” (正常的) 和 “normative” (规范的)。
+**Sentences**:
+*Breaking social norms can sometimes lead to positive change*
+打破社会规范有时会带来积极的变化。
+
+*It is a norm in many cultures to greet people with a handshake*
+在许多文化中，握手问候是一个规范。
+
+#word
+#### not ... but...
+?
+不是....而是....
+
+#word
+#### notion
+?
+n. 概念，想法
+
+#word
+#### notorious
+?
+- adj. 声名狼藉的，臭名昭著的
+**Sentences**:
+*a famous drinker and a notorious womanizer*
+一个有名的酒鬼和一个臭名昭著的好色之徒
+
+#word
+#### novel
+?
+adj. 新奇的
+
+#word
+#### nuclear
+?
+adj. 核子的，原子核的；核武器的
+**Sentences**:
+*nuclear energy/power*
+核能／核动力
+
+*a nuclear power plant*
+核电站
+
+#word
+#### numerous
+?
+很多的；大量的
+**Notes**:
+1. **Numerous**（众多的、许多的）：指的是数量很大，有很多个体或事物。"Numerous" 强调的是数量的多少，而不一定涉及事物的大小或质量。例如，"numerous books"（许多书籍）指的是有很多本书，数量庞大。
+2. **Substantial**（实质的、可观的）：指的是数量、规模或程度相当大、相当重要的事物。"Substantial" 强调的是事物的重要性、价值或程度。它可能与事物的大小、质量或影响力相关。例如，"a substantial amount of money"（一笔可观的金额）指的是相当大的金钱数额。
+在一般情况下，"numerous" 和 "substantial" 不能完全互换使用，因为它们的侧重点略有不同。"Numerous" 更强调数量的多少，而 "substantial" 更强调事物的重要性或程度。但在某些情况下，它们可能会有重叠的用法，取决于具体的语境和含义。
+**Sentences**:
+*numerous books*
+大量的书
+
+*numerous factors*
+大量的因素
+
+#word
+#### obese
+?
+adj. 极为肥胖的
+**Sentences**:
+*Obese people tend to have higher blood pressure than lean people.*
+肥胖的人普遍比瘦人血压高。
+
+#word
+#### object to sth
+?
+反对
+**Notes**:
+objective   a.客观的/n.目标
+objection   反对
+
+#word
+#### obligation
+?
+n. 义务，职责
+**Notes**:
+"Obligation" 由拉丁语的 "obligatio" 衍生而来，"ob-" 意味着 "朝向" 或 "对"，"ligatio" 意味着 "绑定" 或 "捆绑"。因此，"obligation" 字面上意味着 "被捆绑到某事上"。
+**Sentences**:
+*Paying taxes is a legal obligation for all citizens.*
+纳税是所有公民的法律义务。
+
+*He felt an obligation to help his elderly neighbor with her groceries.*
+他感到有责任帮助他年迈的邻居搬运杂货。
+
+#word
+#### oblige
+?
+v. 迫使，责成(侧重于义务，责任感或礼貌)
+**Notes**:
+obligation
+
+#word
+#### obscure
+?
+adj. 难以说清楚的，模糊的
+
+#word
+#### obscure（负面）
+?
+adj. 难以说清楚的，模糊的
+**Notes**:
+1. **Vague:**
+"Vague" 指的是不清楚或含糊的，缺乏具体的细节或明确的定义。它通常表示思想、概念或表达方式不清晰或模糊。
+例如，"He gave a vague answer to the question."（他对问题给了一个含糊的答案。）
+2. **Obscure:**
+"Obscure" 指的是模糊或不清晰的，但更侧重于信息或对象被掩盖或难以理解。它可能表示信息被隐藏、模糊、难以理解或不为人所知。
+例如，"The meaning of the poem is obscure."（这首诗的意义是模糊的。）
+总的来说，"vague" 更多地描述了思想或表达方式的不清晰或含糊，而 "obscure" 更多地描述了信息或对象的隐藏、模糊或难以理解。
+
+#word
+#### observation
+?
+观测。观察
+
+#word
+#### obsess
+?
+v. 使着迷；使困扰
+**Notes**:
+obsession
+**Sentences**:
+*The idea of hunting had obsessed me since I was about six.*
+从六岁左右起，我就一直对打猎着迷。
+
+*The whole relationship obsessed me for years.*
+这一关系多年来一直困扰着我。
+
+#word
+#### obstacle
+?
+n. 障碍，阻碍；障碍物
+**Notes**:
+助记：ob反对+sta站立-->站在中间反对-->障碍
+
+#word
+#### offspring
+?
+n. （人的）后代，子女；（动物的）幼崽，崽兽；
+**Notes**:
+**Sentences**:
+*Mary was now less anxious about her offspring than she had once been.*
+Mary现在不像以往那样为子女忧心了。
+**Sentences**:
+*Mary was now less anxious about her offspring than she had once been.*
+Mary现在不像以往那样为子女忧心了。
+
+#word
+#### one..at a time
+?
+一次一个
+
+#word
+#### onerous
+?
+adj. <正式>费力的，艰巨的；
+**Notes**:
+Onerous" 的近义词包括 burdensome、arduous、taxing 等。
+**Sentences**:
+*The new job came with onerous responsibilities that required long hours.*
+新工作带来了繁重的责任，需要长时间的工作。
+
+*The contract included onerous clauses that made it difficult to agree to.*
+合同包含了繁重的条款，使得很难同意。
+
+#word
+#### oppressive
+?
+adj. （社会、法律、习俗等）压迫的，暴虐的，不公的
+**Notes**:
+oppress  v. 压迫，欺压；使压抑，使烦恼
+oppressor 压迫者
+**Sentences**:
+*an oppressive government/military regime*
+暴虐的政府／军事政权
+
+#word
+#### oppressor
+?
+压迫者；暴君
+
+#word
+#### opt for sth
+?
+选择
+**Notes**:
+option  course 选修课
+opt  - v. 选择，作出抉择
+
+#word
+#### organic agriculture
+?
+有机农作物
+
+#word
+#### outlook
+?
+n. 看法，态度
+**Sentences**:
+*He has a fairly positive outlook on life.*
+他的人生观相当积极。
+
+#word
+#### outrage
+?
+n. 愤慨，愤怒
+**Sentences**:
+*These murders have provoked outrage across the country.*
+这些谋杀事件激起了全国公众的愤慨。
+
+*Local people were outraged at the bombing.*
+当地人对轰炸感到非常愤怒。
+
+#word
+#### outweigh
+?
+v.胜过；大于
+
+#word
+#### overall
+?
+adj.整体的；总体的;  n. 连体衣裤
+
+#word
+#### overrule
+?
+v. 否决，驳回，宣布....无效
+**Notes**:
+**记忆技巧**：将 "overrule" 分解成两部分，如 "over" 和 "rule"。"Over" 可以联想到 "above"（在...之上）或 "overpower"（压倒），而 "rule" 可以联想到 "regulation"（规则）或 "ruler"（统治者）。因此，你可以将 "overrule" 理解为 "在规则之上" 或 "压倒规则"，即对规则或决定的否决或驳回。
+
+#word
+#### overshadow
+?
+v.使蒙上阴影；使黯然失色
+
+#word
+#### overwhelmingly
+?
+压倒性地
+
+#word
+#### ownership
+?
+n.所有权，物主身份
+
+#word
+#### pandemic
+?
+n. <正式>大流行病
+**Notes**:
+dem-人民，人们
+1. **Epidemic（流行病）:**
+"Epidemic" 是指某种疾病在特定地区或人群中突然且异常地大量传播的情况。这种传播通常超出了正常水平，但仍局限在特定地理区域或人群中。
+"Epidemic" 可以是某种传染病在某个地区或社区中大规模爆发的情况，但并不涉及到全球性的传播。
+2. **Pandemic（大流行）:**
+"Pandemic" 是指某种疾病在全球范围内大规模传播和影响的情况。这种传播范围超出了单个地区或国家，涉及到多个国家或大陆。
+"Pandemic" 通常被用来描述全球性的传染病爆发，如COVID-19（新冠疫情）。
+**Sentences**:
+*They feared a new cholera pandemic*
+他们担心霍乱再次流行。
+
+*Scientists believe we are due another flu pandemic.*
+科学家认为我们会经历又一次流感大暴发。
+
+#word
+#### panel
+?
+n. 专家小组；仪表板，操纵台
+**Sentences**:
+*a panel of experts*
+一个专家小组
+
+*The icon was painted on a wooden panel.*
+这个圣像画在一块木板上。
+
+#word
+#### paradox
+?
+n. 矛盾的人（或事物、情况
+**Notes**:
+助记：para 旁边+dox 教，观点-->观点边上有观点-->自相矛盾
+**Sentences**:
+*Teenagers are paradoxical.*
+青少年是自相矛盾的。
+
+#word
+#### parallel
+?
+平行；相似，相对应
+**Notes**:
+"Unparalleled" 是由 "parallel" 演变而来的，其中的 "un-" 前缀表示 "not" 或 "lack of"。因此，"unparalleled" 的字面意思是 "not parallel" 或 "lacking parallel"。在英语中，"parallel" 常常用来比喻相似、相对应或类似的事物，而 "unparalleled" 则表示没有与之相比的、无与伦比的、无比的空前的。这是因为没有其他事物能够与其相媲美或相比较，所以它被形容为 "unparalleled"。
+为了记忆 "unparalleled" 的意思，你可以将 "un-" 前缀理解为 "not" 或 "lack of"，然后将 "paralleled" 解释为与之相比或相对应的事物。因此，"unparalleled" 意味着没有与之相比的或没有相对应的事物，是无与伦比的、无比的空前的。
+
+#word
+#### paralyze
+?
+麻痹
+**Sentences**:
+*Strict regulations that paralyze economic activity.*
+阻碍经济活动的严格的规章制度
+
+#word
+#### parliament
+?
+议会
+**Notes**:
+parliamentary   adj.议会的
+
+#word
+#### party
+?
+派对；党；相关方
+**Notes**:
+**third-party sellers   第三方卖家**
+
+#word
+#### passing remark
+?
+随意的评论
+**Notes**:
+a passing fad  一时的时尚
+passenger  旅客，乘客
+
+#word
+#### passion
+?
+热情
+
+#word
+#### pastimes
+?
+- n. 娱乐，消遣
+**Sentences**:
+*I often travel as a pastime.*
+我常常以旅行作为消遣。
+
+*Swimming is my favorite pastime.*
+游泳是我最喜欢的一种娱乐。
+
+#word
+#### patent
+?
+v./n. 专利，专利权；adj. 有专利的
+**Sentences**:
+*P&G applied for a patent on its cookies.*
+宝洁公司为自己的饼干申请了专利权。
+
+*a patent for sth*
+对某物的专利权
+
+#word
+#### patently
+?
+adv. 明显地
+**Notes**:
+patent 专利
+**Sentences**:
+*It is patently absurd for ministers to say that.*
+部长说出这样的话显然荒唐。
+
+#word
+#### patronize
+?
+经常光顾
+**Notes**:
+**低频**
+
+#word
+#### pattern
+?
+n. 方式，形式，模式
+**Sentences**:
+*All three attacks followed the same pattern.*
+三次袭击都采取同一种方式。
+
+#word
+#### peer review
+?
+同行评审
+**Notes**:
+peer
+n. 同龄人，同等地位的人
+v. 凝视，费力地看
+
+#word
+#### penalise
+?
+v.惩罚，处罚；使处于不利地位，不公正对待
+**Notes**:
+penalty
+
+#word
+#### penalty
+?
+n. （因违反法律、规定或合同而受到的）处罚
+**Sentences**:
+*The maximum penalty is 7 years' imprisonment.*
+最高处罚是7年监禁。
+
+#word
+#### perceive
+?
+vt. 察觉；认为，理解；注意到，意识到
+
+#word
+#### perception
+?
+看法；观念；认识
+
+#word
+#### perish
+?
+v. 死亡，毁灭
+**Sentences**:
+*If we destroy Godzilla,our planet will perish.*
+如果我们毁灭哥斯拉，地球将会毁灭。
+
+#word
+#### personalities
+?
+个性；名人
+
+#word
+#### perspective
+?
+n. （观察问题的）视角，观点
+**Notes**:
+from the persperctive of  从.....的视角来看
+put /get/place sth into/in persperctive 客观；公正的看待事物
+news from differernt perspectives  来自不同视角的新闻
+cross-check sources  反复/交叉检查新闻（消息）来源
+have perspecive on our lives  正确的看待我们的生活
+
+#word
+#### perspire
+?
+v. （使）出汗；分泌出
+**Sentences**:
+*He began to perspire as he climbed the hill into Highgate.*
+当他爬上山坡，到达海格特时，已是汗流浃背了。
+
+#word
+#### pervasive
+?
+adj. 弥漫的,遍布的;普遍的
+**Sentences**:
+*a pervasive smell of diesel*
+到处弥漫的柴油味
+
+*These are the most pervasive of Chinese musical forms.*
+吹打乐是中国最普遍的器乐品种。
+
+#word
+#### pessimistic
+?
+adj. 悲观的，悲观主义的
+**Notes**:
+近义词：gloomy 阴沉；negative 悲观的；消极的
+相关场景用法
+个人情感: 描述一个人对生活或未来的消极态度。
+经济和市场: 描述对经济或市场前景的悲观预测
+社会和政治: 描述对社会或政治问题的消极看法
+**Sentences**:
+*He has a pessimistic view of the economy.*
+他对经济持悲观看法。
+
+*His pessimistic attitude made it difficult for him to enjoy life.*
+他的悲观态度使他难以享受生活。
+
+#word
+#### physician
+?
+**医生**
+**Sentences**:
+*your family physician.*
+你的家庭医生。
+
+#word
+#### piece
+?
+n. **作品；文章；片；块**
+**Notes**:
+==a piece of cake =no brainer =child's play  很简单
+a piece of work    一件、一部作品
+
+#word
+#### pipeline
+?
+n. （常指地下的）输送管道；（供应货物、信息等的）渠道，途径；
+**Notes**:
+in the pipeline  即将发生；在计划中
+
+#word
+#### plausible
+?
+adj. 貌似合理的
+**Notes**:
+plaus 拍手，鼓掌+ible
+possible true;
+able to be believe
+**Sentences**:
+*a plausible explanation/excuse*
+貌似有理的解释／借口
+
+#word
+#### pledge
+?
+保证，誓言，抵押
+**Notes**:
+助记：pl漂亮+edge边缘-->她摸着漂亮的戒指边缘，说着“誓言”-->保证，誓言，抵押
+**Sentences**:
+*All the candidates have given/made pledges not to raise taxes if they are elected.*
+所有的候选人都保证当选后不增税。
+
+#word
+#### plug
+?
+n. 插头；接入；切入
+
+#word
+#### polish
+?
+v.磨光；润色；修改
+
+#word
+#### poll
+?
+v. 对.....进行民意测验（调查）
+**Sentences**:
+*A recent poll revealed surprising results*
+最近的一项民意调查结果出人意料。
+
+*Polls show that the Conservatives have gained support in the south*
+民意调查显示保守党在南部获得了支持。
+
+#word
+#### postpone
+?
+延后
+**Notes**:
+put off sth  延迟，推迟
+
+#word
+#### potray a as b
+?
+把A将B那样去描绘
+
+#word
+#### precedent
+?
+adj.先前的 **较生僻词**
+
+#word
+#### precious
+?
+珍贵的
+**Sentences**:
+*Water is becoming an increasingly precious resource.*
+水正成为日益珍贵的资源。
+
+#word
+#### precise
+?
+adj. 准确的，精确的
+**Notes**:
+pre先+cis切；杀-->预先切好的-->精确的
+**Sentences**:
+*He caught me at the precise moment that I fainted.*
+他正好在我晕倒的那一刻抓住了我。
+
+*The bunker's precise location is a closely guarded secret.*
+掩体的确切位置严格保密。
+
+#word
+#### prefigure
+?
+v. 预见；预兆
+
+#word
+#### prejudice
+?
+n. 偏见，成见，歧视
+**Notes**:
+Pride and Prejudice 傲慢与偏见
+discrimination
+
+#word
+#### premier
+?
+首位的，首要的；n.总理，首相
+
+#word
+#### premium
+?
+n. 保险费；额外价值  - adj. 高价的，高品质的
+**Notes**:
+put a premium on   非常重视或高度重视
+
+#word
+#### prescribe
+?
+v. 给……开（药）
+**Notes**:
+prescribe a drug
+scribe (写)
+
+#word
+#### preserve
+?
+v. 保护；n.保护区；专属从事的活动
+
+#word
+#### press charges
+?
+提出控告（起诉）
+
+#word
+#### presumably
+?
+- adv. 大概，可能
+**Sentences**:
+*Presumably he just forgot to send the letter.*
+他可能是忘了寄信。
+
+#word
+#### primacy
+?
+首位，卓越
+**Sentences**:
+*the primacy of agriculture in the economy*
+农业在经济中的首要地位
+
+#word
+#### privilege
+?
+特权
+**Notes**:
+under privilege
+-劣势；贫困的；贫穷的
+
+#word
+#### probe
+?
+v. 探测；调查，探究
+**Notes**:
+"Probe" 更加侧重于对某个问题或情况的深入探究，可能更加着重于发现隐藏或内部的方面。
+"Investigate" 则更加全面、系统地调查某个事件或问题，通常包括对多个方面的调查和收集证据。
+**Sentences**:
+*The committee probed into the allegations of corruption within the company.*
+委员会对公司内部的腐败指控进行了调查。
+
+#word
+#### proceed
+?
+v.继续做；行进
+
+#word
+#### profound
+?
+意义深远的
+
+#word
+#### prompt
+?
+v. 促使，导致；（计算机上）提示；
+**Notes**:
+助记：与promote 相近，动词意思相近
+
+#word
+#### propagate
+?
+v. 传播，宣传 ；（动植物等）繁殖，使繁殖
+
+#word
+#### property
+?
+n. 不动产；房地产
+**Notes**:
+property developer  房地产开发商
+
+#word
+#### proportion
+?
+比例；份额
+
+#word
+#### prosecute
+?
+v.起诉，检举
+**Notes**:
+助记：pro(前)+se(色)+cute	- 在
+好看的人面前不要涩涩
+
+#word
+#### prosperous
+?
+繁荣的，兴旺的
+**Sentences**:
+*They have a very prosperous family business.*
+他们有一个蒸蒸日上的家族企业。
+
+#word
+#### protest
+?
+n. 抗议，反对；抗议活动
+**Notes**:
+==protect the protest  保护抗议活动==
+
+#word
+#### provision
+?
+n. 规定，条款；提供，供应
+**Notes**:
+"Provision" 在法律和合同中通常指的是条款、规定或条件，特别是指合同或法律文件中明确规定的具体条款或款项。
+在一般的用法中，"provision" 可以表示为特定的规定、条款、条文或条件，其目的是规定或确保某种特定的情况、权利或义务。这个词常常用于以下情境中：
+1. **法律文件或合同中的规定**：指法律文件、合同或协议中明确规定的条款或款项。
+例如："According to the provisions of the lease agreement, the tenant must pay rent on the first of each month."
+（根据租赁协议的规定，租户必须在每月的第一天支付租金。）
+2. **财务或预算文件中的款项**：指财务报表或预算中预留的款项或经费。
+例如："The budget includes provisions for infrastructure development."
+（预算中包括了用于基础设施发展的款项。）
+3. **政府或组织制定的政策或法规**：指政府或组织制定的具体政策、法规或条例。
+例如："The new tax law includes provisions for tax breaks for low-income families."
+（新的税法包括了针对低收入家庭的减税政策。）
+"Provision" 这个词的含义在不同的语境中可能有所不同，但通常都指的是明确规定的条款、条件或款项，用于确保某种特定情况的发生或遵守。
+
+#word
+#### provoke
+?
+激起，引起（多指愤怒）
+**Notes**:
+vok-voc-voice
+pro-
+a provocative magazine  一份煽动性的杂志
+provocative  挑衅的
+
+#word
+#### prudent
+?
+- ** adj. 谨慎的，慎重的**
+**Notes**:
+"Prudence" 和 "Vigilance" 都是与谨慎和警惕相关的词语，但它们在含义上有一些区别：
+**Prudence**（名词）指的是谨慎和审慎地考虑、决策和行动，以避免可能的风险、危险或错误。Prudence 更强调的是在做出决策或行动之前考虑和评估可能的后果，以确保采取最合适、最明智的行动。
+**Vigilance**（名词）指的是保持警惕、警觉和警戒，以侦察和防范潜在的危险、威胁或侵犯。Vigilance 强调的是保持警惕的状态，随时准备应对可能发生的问题或挑战，以确保安全和保护。
+因此，虽然这两个词都涉及到对风险和危险的关注，但 "prudence" 更侧重于谨慎和审慎地行动，而 "vigilance" 更侧重于保持警觉和警惕的状态，以侦察和应对潜在的威胁。
+
+#word
+#### publication
+?
+n.出版；发表
+**Notes**:
+accept sth for publication   认可.....并出版
+means of publication   发表的方式
+forthcoming publications 即将出版的出版物
+forerunner   先驱
+forefathers   祖先
+行业出版物  trade publications
+business/industry/line of work /
+trade language   行话
+学术出版物 academic publications
+商业出版物 commercial/business ~
+专业出版物 professional/specialist ~
+publishing house 出版社
+commercial publishers 商业出版机构
+leading publisher  主要的/头部的出版商
+mainstream publisher  主流出版机构
+
+#word
+#### pursuit
+?
+n. 追求；追寻
+
+#word
+#### put sth away
+?
+==放好；收好；整理好==
+
+#word
+#### put/place/lay stress on sth
+?
+强调
+
+#word
+#### put/place/set/attach value on....
+?
+重视....
+**Notes**:
+value   v.评估.....的价值
+
+#word
+#### quarry
+?
+采石场
+
+#word
+#### quest
+?
+n./v.  追求；探求
+**Sentences**:
+*he quest for truth*
+探求真相
+
+*quest for sth*
+探寻某事
+
+*in quest of sth*
+寻求某事物
+
+#word
+#### questionnaire
+?
+调查问卷
+
+#word
+#### quota
+?
+**n. 配额，限额**
+**Sentences**:
+*production quotas*
+生产限额
+
+*The quota of four tickets per person had been reduced to two.*
+每人可购买的票的限额已经由四张降至两张。
+
+#word
+#### radical
+?
+adj. 根本的，彻底的；
+**Sentences**:
+*a radical fault*
+根本性错误
+
+#word
+#### rapid
+?
+adj. 快的，迅速的
+**Sentences**:
+*I was startled by a rapid movement to my left.*
+我左边什么东西猛地动了一下，吓了我一跳。
+
+*The 1990s were a period of rapid change/growth.*
+20世纪90年代是一个迅猛突变／发展的时期。
+
+#word
+#### rational
+?
+adj. 理性的，合理的，明智的
+**Notes**:
+"Rational" 经常用于描述思考、决策或行为是合乎逻辑和合理的。
+在哲学、心理学、经济学等领域经常探讨理性思维和理性行为的概念。
+**Sentences**:
+*It's not rational to make decisions based solely on emotions.（*
+仅基于情感做出决定是不理智的。
+
+*His explanation was clear and rational.*
+他的解释清晰而合乎逻辑。
+
+#word
+#### reasoning
+?
+n. 推想，推理
+**Notes**:
+"Reasoning" 意指通过逻辑、推理或分析来思考、解释或论证某个问题或情况的能力或过程。它是指人类使用逻辑和推理来得出结论或解释事物的能力。
+"Reasoning" 可以包括不同类型的推理，例如归纳推理、演绎推理、类比推理等。
+这个词常用于描述思考过程或讨论中的逻辑分析和推理。
+**Sentences**:
+*His reasoning behind the decision was sound and well-thought-out.*
+他做出这个决定的推理是合理且深思熟虑的。
+
+*Logical reasoning is an important skill in problem-solving.*
+逻辑推理是解决问题的重要技能。
+
+#word
+#### recession
+?
+衰退
+**Notes**:
+re-   往回走
+
+#word
+#### reckon
+?
+认为，估计；想
+**Sentences**:
+*I reckon you don't know where to go next*
+我想你不知道接下来去哪。
+
+*What do you reckon?*
+你认为怎么样?
+
+#word
+#### recount
+?
+诉说；叙述; 回忆
+**Sentences**:
+*He then recounted the story of the interview for his first job.*
+他然后叙述了有关他第一份工作面试的故事。
+
+#word
+#### recreation
+?
+娱乐，消遣
+
+#word
+#### recruit
+?
+v. 招募 n. 新成员；新兵
+**Notes**:
+1. **Recruit**: 主要指雇佣或征募人员加入组织、机构、部队等，通常用于军事、企业等场景。例如，“The army needs to recruit more soldiers.”
+2. **Enrollment**: 指的是加入某个机构、组织或课程等的行为，通常指个人主动申请或被接受成为该组织的成员。例如，“The university saw a significant increase in enrollment this year.”
+3. **Enlist**: 主要用于军事领域，指的是加入军队或部队的行为，通常是指个人自愿加入军队。例如，“He decided to enlist in the army after graduating from high school.”
+虽然这些词有重叠之处，但它们的用法和语境有所不同，需要根据具体情况进行选择。
+**Sentences**:
+*The country's first act would be to recruit for the navy.*
+国家的第一个行动是为海军征募新兵。
+
+#word
+#### reflect
+?
+v.反射；反思；反映
+
+#word
+#### reframe
+?
+v. 重塑
+**Notes**:
+frame 框架
+定义：重新构架，重新定义
+用法：通常用于重新定义或重新解释某个概念、问题或观点，更多地涉及心理和认知层面。
+**Sentences**:
+*The therapist helped her reframe her negative thoughts.*
+治疗师帮助她重新定义她的负面想法。
+
+*We need to reframe the discussion to focus on solutions rather than problems.*
+我们需要重新构架讨论，关注解决方案而不是问题。
+
+#word
+#### refuge
+?
+n. 庇护，避难
+**Notes**:
+助记：re向后+fug逃，逃离+e -->向后跑得远远的-->避难
+**Sentences**:
+*These people are seeking/taking refuge from persecution.*
+这些受到迫害的人正在寻求庇护。
+
+#word
+#### regime
+?
+政权；管理制度
+**Notes**:
+rein n.马的缰绳
+rein in sth  控制....
+1. **"Regime"**：
+"Regime" 通常指的是政府体制、统治体制或政权，强调的是一种政治或社会组织的形式或管理方式。
+例如："The authoritarian regime imposed strict rules on its citizens."（这个威权政权对其公民实施了严格的规定。）
+2. **"Regulation"**：
+"Regulation" 则是指规章、条例、法规或规定，强调的是对行为、活动或事物的管理和控制。
+例如："The new regulation requires all vehicles to be equipped with safety belts."（新的法规要求所有车辆配备安全带。）
+总的来说，"regime" 更侧重于政治或社会体制的形式和管理方式，而 "regulation" 更侧重于对特定行为或活动的管理和控制的规定。
+
+#word
+#### reign
+?
+统治；支配
+**Notes**:
+reign the region  统治这个地区
+
+#word
+#### release
+?
+释放；发行
+
+#word
+#### relieve sb of sth
+?
+消除....
+**Notes**:
+relieve 缓解；减轻
+relieve sb of modern stress    减轻某人的现代压力
+
+#word
+#### relocate
+?
+v. 搬家；搬迁
+
+#word
+#### reluctant
+?
+adj. 勉强的，不情愿的
+**Sentences**:
+*I was having such a good time I was reluctant to leave.*
+我玩得很开心，都不愿意离开了。
+
+#word
+#### remedy
+?
+n. 改进措施，治疗，补偿
+**Notes**:
+助记：medic  医务人员、医药品
+**Sentences**:
+*Drinking plenty of water is a simple remedy for dehydration.*
+多喝水是缓解脱水的简单方法。
+
+*The new law was seen as a remedy for the previous injustices.*
+新法被视为纠正之前不公正的一种方法。
+
+#word
+#### remold
+?
+- vt. 改造；重塑
+**Notes**:
+Remold
+定义：重新塑造，重新铸造
+用法：通常用于物理上的重新塑造或改变形状，也可以用于比喻意义上的重新塑造某种特质或特性。
+**主要区别**
+应用领域：
+Remold：更多用于物理上的重新塑造或比喻意义上的重新塑造某种特质。
+Reframe：更多用于心理和认知层面的重新定义或重新解释。
+**具体含义：**
+Remold：强调改变形状或特性，可能涉及实际的物理改变。
+Reframe：强调改变观点或解释方式，更多地涉及思维和认知的改变。
+**记忆技巧**
+Remold：想象一个模具（mold），重新（re）塑造它的形状。
+Reframe：想象一个框架（frame），重新（re）定义或调整它的边界。
+**Sentences**:
+*The artist decided to remold the clay sculpture.*
+艺术家决定重新塑造这个泥塑。
+
+*The company aims to remold its corporate culture to be more inclusive.*
+公司旨在重新塑造其企业文化，使其更加包容。
+
+#word
+#### remote
+?
+遥远的
+**Notes**:
+work  remotely   远程工作
+
+#word
+#### remuneration
+?
+n. 酬金，薪水
+**Sentences**:
+*They demanded adequate remuneration for their work.*
+他们要求为他们的工作偿付足够的报酬。
+
+#word
+#### render
+?
+让.....;使.....
+**Notes**:
+render=make    让.....；使......
+
+#word
+#### renewable energyclean energy
+?
+可再生能源
+
+#word
+#### republican
+?
+adj. 共和党的   n.共和党人
+
+#word
+#### resent
+?
+v. 憎恨，憎恶
+**Sentences**:
+*I resent his attitude towards her.*
+我看不惯他对待她的那种态度。
+
+#word
+#### resident
+?
+n.居民
+**Notes**:
+presidnet
+**Sentences**:
+*the local residents;local residents*
+当地居民
+
+#word
+#### resolution
+?
+n. 决议，正式决定；（冲突、问题等的）解决，解决办法
+**Notes**:
+to approve/adopt a resolution  批准／通过决议
+**Sentences**:
+*I made a resolution to give up chocolate.*
+我下决心不再吃巧克力了。
+
+#word
+#### respiratory
+?
+adj.呼吸的
+**Notes**:
+respire  呼吸
+**Sentences**:
+*respiratory rate*
+呼吸率
+
+*respiratory tract*
+呼吸道
+
+#word
+#### restore
+?
+恢复，复原
+**Notes**:
+restoration  恢复
+**Sentences**:
+*The picture was cleverly restored and showed up its original colouring.*
+这幅画已精心修复，显出了原来的色彩。
+
+#word
+#### restrict
+?
+v. 限制
+**Sentences**:
+*They were asked to restrict themselves to one meal a day.*
+他们被要求限制自己每天只吃一顿饭。
+
+#word
+#### retail
+?
+n. 零售 v.零售 adj. 零售的
+**Sentences**:
+*Goods are sold here by the retail price.*
+在这里货品以零售的价格售出。
+
+*More and more suppliers prefer selling products wholesale but not retail.*
+越来越多的供货商更愿意批发而不是零售产品。
+
+#word
+#### retain
+?
+保留
+**Notes**:
+助记：re重新+tain拿住-->重新拿回-->保留
+
+#word
+#### retreat
+?
+后退，撤退
+**Sentences**:
+*He retreated to the kitchen to consider their quarrel.*
+他躲到厨房里反思他们的争吵。
+
+#word
+#### reveal
+?
+v. 揭示，透露；表明
+
+#word
+#### revenue
+?
+n. （企业、组织的）收入，收益
+**Notes**:
+助记：
+这条大街**avenue**,是这个城市主要的**税收revenue**来源
+
+#word
+#### reverberate
+?
+发出回声，回荡
+**Sentences**:
+*The theater reverberated with songs of praise*
+剧院里回荡着唱颂赞美诗的声音。
+
+#word
+#### review
+?
+复习；回顾；检查；评论
+
+#word
+#### revise
+?
+v. 改变，修正
+**Sentences**:
+*His revised his essay before submitting it to the teacher.*
+他在提交给老师之前修改了他的文章。
+
+#word
+#### revive
+?
+复兴；振兴
+**Notes**:
+viv- life
+vivid  栩栩如生的
+
+#word
+#### rigid
+?
+adj. （方法、体制等）严格死板的，僵化的；（人）顽固的
+**Notes**:
+rigorous    adj. 严谨的；严格的
+**Sentences**:
+*Several colleges in our study have rigid rules about student conduct.*
+我们调查中的几所学院对学生行为举止都有过于严格的规定。
+
+*She was a fairly rigid person who had strong religious views.*
+她是个相当刻板、有着很强宗教观念的人。
+
+#word
+#### rigor
+?
+n. 严密，严格
+**Sentences**:
+*He was treated with great rigor.*
+他受到极为苛刻的待遇。
+
+*This close-knit organization promotes design rigor*
+这种紧密的机构促进了设计的严密性。
+
+#word
+#### ritual
+?
+n. 仪式；礼节  adj.仪式性的，习惯的
+**Sentences**:
+*The wedding ritual was filled with traditional customs and symbolism.*
+婚礼仪式充满了传统习俗和象征意义。
+
+*Every morning, she performs a meditation ritual to start her day peacefully.*
+每天早上，她进行冥想仪式以平静开始新的一天。
+
+#word
+#### rival
+?
+n. 竞争对手；可与之相比的人（或物）
+**Sentences**:
+*They are [rivals] for the same position.*
+他们是争夺同一个职位的敌手。
+
+*The bank merged with its major rival.*
+该银行与其主要对手合并了。
+
+#word
+#### rollout
+?
+推广
+
+#word
+#### rose
+?
+寓指美好的事物
+**Notes**:
+my **rosy/bright** prospect  光明的前景、很有希望的前景
+life is not **a bed of roses**.  生活并不是一帆风顺
+
+#word
+#### roughly
+?
+粗略地；大致地，近似地
+**Sentences**:
+*a period of roughly 30 million years*
+大约3,000万年的时间
+
+*The Ukraine is roughly equal to France in size.*
+乌克兰和法国的国土面积差不多一样大。
+
+#word
+#### route
+?
+n. 路线，航线；道路，路途
+**Notes**:
+=rode
+on route  在路上
+routine    n. 惯例，常规（你每天都在走的路）
+
+#word
+#### row
+?
+n. 一排，一行；（剧院、体育场等的）一排座位；
+
+#word
+#### rural
+?
+adj.乡村的
+**Notes**:
+urban     adj. 城市的
+suburban    adj. 郊区的，城外的
+
+#word
+#### rust
+?
+n. 锈，铁锈;v. （使）生锈；成铁锈色；（因疏忽或不用而）衰退，变迟钝
+**Sentences**:
+*If I rest, I rust*
+如果我休息，我就会生锈
+
+#word
+#### ruthless
+?
+adj. 无情的
+**Notes**:
+**构成**：Ruthless 由 "ruth"（怜悯、同情）和后缀 "-less"（无、缺少）构成。因此，"ruthless" 的字面意思是 "没有怜悯心的" 或 "无同情心的"。
+**Sentences**:
+*The ruthless dictator showed no mercy to those who opposed him.*
+这个冷酷无情的独裁者对那些反对他的人毫不留情。
+
+*The ruthless businessman would do anything to eliminate his competitors.*
+这个冷酷无情的商人会不择手段地消灭他的竞争对手。
+
+#word
+#### sanction
+?
+v./n. **制裁；处罚** ；正式许可
+**Notes**:
+国家被sanctioned(制裁)
+
+#word
+#### sb's exclusive right
+?
+某人的专属权利
+
+#word
+#### scale
+?
+规模
+**Sentences**:
+*-unparalleled economies of scales*
+无与伦比的**规模经济**
+
+#word
+#### scope
+?
+n. 范围，领域
+**Sentences**:
+**
+
+*I'm afraid that problem is beyond/outside the scope of my lecture.*
+恐怕那个问题超出了我的讲座范围。
+
+#word
+#### scorn
+?
+轻蔑、鄙视、嘲笑
+**Notes**:
+造句练习: 每天写几句包含 “scorn” 的句子，以便更好地掌握其用法。例如，“He felt the scorn of his peers after his mistake.”
+**Sentences**:
+*She scorned his offer of help, believing she could handle it on her own*
+她轻蔑地拒绝了他的帮助，认为自己可以应付。
+
+*He felt the scorn of his colleagues when his proposal was rejected*
+当他的提议被拒绝时，他感受到了同事们的轻蔑。
+
+#word
+#### scrap
+?
+n. 碎片；取消 v. 废弃，取消
+**Notes**:
+助记：谐音“时刻rap”-->利用“碎片”时间，时刻都在练习rap-->碎片，废弃
+**Sentences**:
+*They're considering scrapping the tax and raising the money in other ways.*
+他们正在考虑废除这个税种，用其他方法募集款项。
+
+#word
+#### screen
+?
+n.屏幕
+**Notes**:
+1. **检查或筛选**： "screen" 可以指检查或筛选，例如在医疗领域中指通过测试或评估来检查某种疾病或情况。例如："to screen for cancer"（筛查癌症）。
+2. **遮蔽或隐藏**： "screen" 也可以指遮蔽或隐藏，例如在电影院中用来遮挡光线的屏幕，或者在计算机界面中用来隐藏或保护隐私的屏幕。例如："to screen a window"（遮蔽窗口）。
+
+#word
+#### script
+?
+剧本；脚本（程序）
+**Notes**:
+JavaScript
+
+#word
+#### scroll
+?
+n.滚屏，滚动；卷轴
+**Sentences**:
+*Use the up and down arrows to scroll the list.*
+使用上下箭头键来滚动清单。
+
+*The Elder Scrolls*
+上古卷轴
+
+#word
+#### scrub
+?
+v. （尤指用硬刷子）擦洗，擦净
+**Sentences**:
+*She scrubbed (at) the mark on the wall for a long time, but it wouldn't come off.*
+她花了很长时间擦洗墙上的印迹，但仍然没有擦掉。
+
+#word
+#### scrutinize
+?
+v. 仔细检查、详细审查
+**Notes**:
+相关场景用法
+**法律和合同: 在签署合同或法律文件前的详细审查。**
+E.g., "Lawyers must scrutinize every detail of the contract."
+**科学研究: 在科学研究中仔细检查数据或实验结果。**
+E.g., "Scientists scrutinize the results of their experiments to ensure accuracy."
+**日常生活: 在购物或选择物品时仔细查看。**
+E.g., "Consumers should scrutinize product labels for ingredients."
+**Sentences**:
+*The detective scrutinized the evidence for any clues*
+侦探仔细检查证据寻找任何线索。
+
+*She scrutinized the report to ensure there were no errors.*
+她仔细检查报告以确保没有错误。
+
+#word
+#### segment a market
+?
+去细分/切分市场
+**Notes**:
+seg/sect--  to cut
+
+#word
+#### senseless
+?
+毫无知觉的；无意识的
+
+#word
+#### sentence
+?
+n./v. 判决；宣判；判刑
+**Sentences**:
+*The judge sentenced the criminal to five years in prison*
+法官判处罪犯五年监禁
+
+*“He was sentenced to community service for his involvement in the vandalism.”*
+他因参与破坏行为而被判处社区服务。
+
+*“The jury sentenced him after finding him guilty of the crime.”*
+陪审团在裁定他犯有罪行后对他做出了判决。
+
+#word
+#### sequence
+?
+n,, 序列；顺序
+**Notes**:
+subsequent   a. 后续的
+sequ-  to follow
+
+#word
+#### set sb up for life
+?
+使某人衣食无忧
+**Notes**:
+set the table up     把桌子摆好
+set the alarm (up)
+setup  n. 设置
+
+#word
+#### setback
+?
+挫折；阻碍
+**Sentences**:
+*a serious setback*
+严重的挫折
+
+#word
+#### shrewd
+?
+adj. （人）精明的，机敏的
+**Sentences**:
+*He was shrewd enough not to take the job when there was the possibility of getting a better one a few months later.*
+他很聪明没有接受那份工作，因为几个月后他有可能会得到更好的工作。
+
+#word
+#### shrink
+?
+v. （使）缩小，减少；萎缩
+
+#word
+#### signaling&trucking
+?
+信号的发射&卡车的运输（指代动作）
+**Notes**:
+-ing  指代动作
+
+#word
+#### silver linings
+?
+一线希望
+**Notes**:
+"silver linings" to the economic slowdown  经济放缓中的一线希望
+
+#word
+#### sin
+?
+n. （违背宗教或道德的）罪，罪恶；过错，过失
+
+#word
+#### singular
+?
+单数的
+**Notes**:
+plural  复数的
+
+#word
+#### sink
+?
+v. 下沉，沉没
+
+#word
+#### skepticism
+?
+怀疑态度；怀疑主义
+**Notes**:
+英 [ 'skeptɪsɪzəm]
+skeptic 持怀疑态度的人
+
+#word
+#### skimp
+?
+节约，吝啬
+
+#word
+#### slack
+?
+懒散的；萧条的
+**Sentences**:
+*Very few hotels offered work for the slack season.*
+淡季很少有宾馆招工。
+
+#word
+#### slice
+?
+片；块
+**Sentences**:
+*a slice of bread/cake*
+一片面包／蛋糕
+
+#word
+#### slip
+?
+n./v.  滑；错误（小错误）
+**Notes**:
+slippery a. 滑的
+a slip of tongue （舌头）**口误**
+
+#word
+#### slogan
+?
+n. 口号,标语
+
+#word
+#### slump
+?
+n. 萧条；跌破
+**Notes**:
+助记：死烂破
+
+#word
+#### small majority
+?
+微弱多数
+
+#word
+#### sober
+?
+未醉；冷静的
+
+#word
+#### sophisticated
+?
+adj.精密的，复杂的，精明老练的（可正面）
+**Sentences**:
+*He was older than me and from London and I thought him very sophisticated.*
+他比我大，而且来自伦敦，我觉得他为人很老练。
+
+#word
+#### sovereign
+?
+有主权的；至高无上的
+**Sentences**:
+*a sovereign lord/prince*
+拥有至高权力的君主/王子
+
+#word
+#### spasmodic
+?
+断断续续的；间歇性的
+**Sentences**:
+*He made spasmodic attempts to clean up the house.*
+他会时不时来了兴致后便打扫一下屋子。
+
+#word
+#### splash
+?
+飞溅；朝……泼洒
+**Sentences**:
+*The waves splashed on the beach.*
+波浪飞溅到海滩上。
+
+#word
+#### sponsor
+?
+资助，赞助
+**Notes**:
+助记：s+pon+sor谐音“是帮手”-->赞助，资助
+
+#word
+#### spontaneous
+?
+adj. 自发的；（程序，事件）自发的，自然的
+**Notes**:
+spont- 承诺，约定+aneous  有.....特征的-->发自内心的承诺（）
+**Sentences**:
+*a spontaneous display of friendship*
+友情的自然流露
+
+*spontaneous  smiles*
+自发的笑容
+
+#word
+#### spook
+?
+n. <非正式>鬼，幽灵；密探，间谍
+**Sentences**:
+*At night, he would creep out of the house like a spook*
+夜间，他常常像幽灵一般地从家里偷偷地出来。
+
+*I asked a spook what that message meant and he just smiled.*
+我问一个间谍那消息是什么意思，而他只是笑笑。
+
+#word
+#### squeeze
+?
+挤压（看语境） (==极负面)
+**Sentences**:
+*The children were squeezing the packets to find out what was inside.*
+孩子们使劲捏那些小包装，想要弄明白里面装的是什么。
+
+*The government will squeeze the economy into a severe recession to force inflation down.*
+政府将紧缩经济，使之出现严重衰退，以迫使通货膨胀率下降。
+
+#word
+#### staggering
+?
+- adj. 大得惊人的，令人吃惊的
+**Sentences**:
+*It costs a staggering $50,000 per week to keep the museum open to the public.*
+维持博物馆向公众开放的费用每周竟高达5万美元。
+
+#word
+#### stagnant
+?
+adj.经济停滞的
+**Sentences**:
+*He is seeking advice on how to revive the stagnant economy.*
+他正在征求复苏萧条经济的建议。
+
+#word
+#### stake
+?
+股份；赌注
+**Sentences**:
+*Tom increased his stake to get more money.*
+汤姆加大了赌注来赢取更多的钱。
+
+*to have a stake in sth*
+在…持有股份；对…感兴趣；支持…
+
+#word
+#### startle
+?
+使惊讶，使大吃一惊
+
+#word
+#### state（1）
+?
+情况；状况
+**Notes**:
+在...状态中   in ...state;in a...state of
+精神状态：mental~
+形势；事态：in a state of affairs
+信息过载的状态：in a state of overload
+
+#word
+#### state（2）
+?
+州；国家
+**Notes**:
+一个由州发起抗烟计划：an anti-smoking program launched by states
+政府资助：government /state funding
+国营部门：state sector
+国家元首：head of state
+主权国家：sovereign state
+sovereign n.主权；君主
+sover-  super -over
+reign  n. 统治；执政
+
+#word
+#### statesman
+?
+政治家
+
+#word
+#### statistics
+?
+统计；统计学；统计数据
+
+#word
+#### statute
+?
+n. 法律；法规
+**Notes**:
+federal statute   联邦法规
+parliamentary  statute   议会的法令
+paliment  n.议会
+criminal statue   刑法
+comply with statue  遵守法律/法规
+
+#word
+#### steak
+?
+牛排，肉排
+**Sentences**:
+*steak and chips*
+牛排和薯片
+
+#word
+#### stereotype
+?
+n. 刻板印象   v. 对....存在成见，把....模式化
+**Notes**:
+stereo固定的+type 类型
+**Sentences**:
+*Many men feel their body shape doesn't live up to the stereotype of the ideal man.*
+许多男性觉得自己的体型达不到理想男子的标准。
+
+*I just don't have an Iraqi stereotype.*
+我对伊拉克人不抱有刻板成见。
+
+#word
+#### storage
+?
+n. 储存；储备
+**Notes**:
+助记：有store 变化而来，有储存的意思
+
+#word
+#### strategy
+?
+n. 策略，行动计划；战略
+**Sentences**:
+*We're working on new strategies to improve our share of the market.*
+我们正在制订新策略来增加我们的市场份额。
+
+*I've just been explaining the basic principles of strategy to my generals.*
+我刚刚一直在向各位将军解释战略学的基本原理。
+
+#word
+#### stressed-out
+?
+压力很大
+**Notes**:
+stressful
+
+#word
+#### strive
+?
+v. 努力，力争；斗争，反抗
+**Notes**:
+助记：谐音“死拽我”-->生活的压力死命拽着我去“努力，奋斗”
+**Sentences**:
+*I strive for the best, and I do the possible.*
+我尽力而为争取最佳
+
+#word
+#### structure
+?
+结构；建筑物；机构；组织
+**Notes**:
+infrastructure  基础设施
+restructure  v.调整结构；改组
+the well-structured daily plans  组织良好的日常计划
+
+#word
+#### stylish
+?
+adj. 时髦的，流行的
+**Sentences**:
+*a very attractive and very stylish woman*
+一个非常迷人又非常时髦的27岁女子
+
+#word
+#### subject
+?
+n. 科目，试验对象，主题  adj. 取决于，服从于
+**Notes**:
+be subject to (exeperence) 取决于，服从于，使遭受
+**Sentences**:
+*The importance of education in poor countries is subject to groundless doubts.*
+在贫穷国家，教育的重要性遭到无根据的质疑。
+
+*Rail transports is subject to strict safety regulations.*
+铁路运输要遵守严格的安全规定。
+
+#word
+#### submit
+?
+- submit  v.提交，呈递；==服从
+**Sentences**:
+*If I submitted to their demands, they would not press the allegations.*
+我要是答应了他们的要求，他们就不会坚持那些指控了。
+
+#word
+#### subsequent
+?
+adj. 随后的，接着的
+**Notes**:
+sequence  序列，顺序
+
+#word
+#### subsidy
+?
+n.  补贴；津贴
+**Notes**:
+助记：sub(下)+sid(sit坐)——>坐下来等着拿补贴
+
+#word
+#### substantial
+?
+大量的（数量、规模、程度相当大、相当重要的事物）；大体的；基本的
+**Notes**:
+a substantial dinner   一顿大餐
+substantial cost reduction  大量的成本削减
+
+#word
+#### subtle
+?
+adj. 微妙的,不易察觉的
+**Notes**:
+谐音“洒脱”-->他们两个很洒脱，关系很微妙
+**Sentences**:
+*The play's message is perhaps too subtle to be understood by young children.*
+这部戏的内涵过于隐晦，小孩子可能难以理解。
+
+*a subtle plan/suggestion*
+巧妙的计划／建议
+
+#word
+#### sue
+?
+v.起诉，控告
+**Notes**:
+1. **Sue**：
+"Sue" 是一个动词，意思是向法院提起诉讼，寻求法律保护或补偿。当某人认为自己的权利受到侵犯，或者受到了损害，他们可以选择起诉对方，向法院提起诉讼。
+例如：She decided to sue the company for wrongful termination.（她决定就非法解雇起诉该公司。）
+2. **Lawsuit**：
+"Lawsuit" 是一个名词，指的是法律诉讼或法律程序，通常是指由一方对另一方提起的法律诉讼。它包括起诉的全部过程，从起诉到审判的整个程序。
+例如：The lawsuit against the pharmaceutical company resulted in a multimillion-dollar settlement.（对制药公司的诉讼导致了数百万美元的和解。）
+3. **Prosecute**：
+"Prosecute" 是一个动词，意味着对某人或某事进行起诉或提起公诉。它通常指的是政府或法律机构对某人进行法律追诉，以起诉犯罪行为或违反法律规定的行为。
+例如：The district attorney decided to prosecute the suspect for embezzlement.（地方检察官决定以挪用公款罪起诉嫌疑人。）
+**区别总结：**
+"Sue" 是指个人或组织向法院提起诉讼。
+"Lawsuit" 是指由一方对另一方提起的法律诉讼，包括起诉的全部过程。
+"Prosecute" 是指政府或法律机构对某人提起法律诉讼或追诉。
+
+#word
+#### sufficient
+?
+adj. 足够的，充足的
+**Notes**:
+deficiency  n. 缺乏，不足
+**Sentences**:
+*This recipe should be sufficient for five people.*
+这份食谱应该足够5个人吃。
+
+#word
+#### superficial
+?
+adj. 肤浅的
+**Sentences**:
+*I thought that article was written at a very superficial level.*
+我认为那篇文章写得很肤浅。
+
+*The driver only received superficial injuries/cuts/wounds.*
+司机只受了点皮外伤。
+
+#word
+#### superstition
+?
+- n. 迷信
+**Notes**:
+super-: 表示“在……上面”或“超越”。
+例如，superior (优越的), supermarket (超市), supernatural (超自然的)。
+-stitio: 来源于拉丁语 “stare”，意思是“站立”或“保持”。
+例如，station (车站), static (静止的)。
+暗示对某些事物的过度信仰。
+**Sentences**:
+*Many people consider breaking a mirror to be a bad superstition*
+许多人认为打破镜子是一个不好的迷信。
+
+*She avoided the number 13 due to her superstition*
+由于她的迷信，她避开了数字13
+
+#word
+#### supervise
+?
+v.监管，管理，指导
+**Notes**:
+助记：super(超级)+vis(看)
+**Sentences**:
+*Jenny was supervising her children in a game of football.*
+珍妮正在指导她的孩子们参加一场足球比赛。
+
+*Miss Young had three netball games to supervise.*
+扬小姐要监督三场无挡板篮球比赛。
+
+#word
+#### surveillance
+?
+n. 监视，监察
+**Notes**:
+"Surveil" 强调对特定目标的持续观察，通常用于描述对潜在威胁、犯罪活动或敏感情报的监视。
+"Supervise" 指的是管理、指导或监督某人或某事物的行为或活动，通常涉及对整个过程或行为的指导和管理。
+"Monitor" 指的是观察、监视或检查某人、某事或某地，以确保其正常运行或发现异常，通常用于描述对系统、设备、活动或环境的持续观察和监视。
+**Sentences**:
+*He was arrested after being kept under constant surveillance.*
+他在被连续监视之后给逮捕了。
+
+#word
+#### susceptible
+?
+易受影响的，易受伤害的
+**Notes**:
+近义词：vulnerable、sensitive
+**Sentences**:
+*Young children are particularly susceptible to the common cold.*
+幼儿特别容易感冒。
+
+*She is highly susceptible to peer pressure*
+她非常容易受到同伴压力的影响。
+
+#word
+#### suspect
+?
+v. 猜想，认为（某事有可能）；怀疑……有罪;n. 嫌疑犯;adj. 可疑的
+**Sentences**:
+*a suspect policy*
+可疑的警察
+
+#word
+#### suspend
+?
+暂停，暂缓
+**Notes**:
+suspention
+**Sentences**:
+*The ferry service has been suspended for the day because of bad weather.*
+因为天气恶劣，渡船已经停开了。
+
+#word
+#### suspicious
+?
+可疑的
+**Sentences**:
+*There were some suspicious characters hanging around outside.*
+有些可疑的人在外面晃荡。
+
+#word
+#### sustain
+?
+支持
+**Notes**:
+助记：sus（下）+tain（拿住）-->拿住下面使稳固-->支持
+sustainable  可持续的
+
+#word
+#### switch
+?
+v. 转变  n.开关；电闸；骤变。突变
+**Notes**:
+switch sth from a to b
+switch it on/off
+
+#word
+#### symbolic
+?
+用作象征的，被认为是象征的；有象征意义的；（行为举动）象征性的
+**Notes**:
+**Sentences**:
+*Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.*
+一百年前，一位伟大的美国人签署了《解放奴隶宣言》，今天我们就站在他象征性的影子下。
+I have a dream
+**Sentences**:
+*Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.*
+一百年前，一位伟大的美国人签署了《解放奴隶宣言》，今天我们就站在他象征性的影子下。
+I have a dream
+
+#word
+#### symptom
+?
+症状；征兆
+**Sentences**:
+*If the symptoms persist, it is important to go to your doctor.*
+如果症状持续存在，一定要去看医生。
+
+*Crime is one of the symptoms of social breakdown.*
+犯罪是社会崩坏的一个征兆。
+
+#word
+#### tackle
+?
+对付，处理；与…交涉
+**Sentences**:
+*There are many ways of tackling this problem.*
+处理这个问题有许多办法。
+
+*I tackled him about his careless work.*
+就他工作马虎一事我与他进行了交涉。
+
+#word
+#### tailor
+?
+裁缝
+
+#word
+#### take ...as
+?
+把.....看作
+**Notes**:
+....+as  不认识就当作**认为**的意思
+take=regard=perceive=recognize
+
+#word
+#### tangible
+?
+adj. 明确的，真实的；可感知的
+**Sentences**:
+*We need tangible evidence if we're going to take legal action.*
+如果我们要采取法律行动，就需要有实实在在的证据。
+
+*Other tangible benefits include an increase in salary and shorter working hours.*
+其他实实在在的好处包括加薪和缩短工作时间。
+
+#word
+#### tell a from b
+?
+- 区分 A 与 B
+
+#word
+#### temper
+?
+n.情绪  ；坏脾气；*使....缓和，使....温和*
+**Sentences**:
+*to be in a good temper*
+心情好
+
+*He has a terrible temper.*
+他脾气很冲。
+
+#word
+#### temperament
+?
+n. 性格，性情，气质
+**Notes**:
+1. **Temperament**：
+"Temperament" 是名词，指的是一个人的性格特征、情绪倾向或个性特点，通常用于描述一个人长期以来表现出的稳定的情绪和行为特征。
+"Temperament" 涉及个人的天性、性格倾向以及对环境和情境的反应方式。它通常被认为是相对稳定的，即使在不同情境下也会表现出相似的特征。
+例如：She has a calm and patient temperament.（她有着平静和耐心的性格。）
+2. **Temper**：
+"Temper" 也是名词，但指的是个人的情绪状态或临时的情绪反应。它通常用于描述某个时刻或特定情境下的情绪或态度。
+"Temper" 也可以指个人的脾气或倾向于发火的态度，尤其是在面对挑战或压力时。
+例如：He has a quick temper and often gets angry over small things.（他脾气急躁，经常因小事而发火。）
+因此，"temperament" 更强调长期的、相对稳定的性格特征，而 "temper" 则更强调短期的、临时的情绪状态或反应。虽然它们都与个人的情感和行为有关，但在含义和用法上有所不同。
+**Sentences**:
+*His impulsive temperament got him into difficulties.*
+他冲动的性格给他惹来了一些麻烦。
+
+#word
+#### template
+?
+模板；样板
+**Sentences**:
+*The deal is likely to provide a template for other agreements.*
+这个协议可能会成为其他协议的范例。
+
+*We used the structure of his report as the template for ours.*
+我们使用他的报告结构作为我们的样板。
+
+#word
+#### tempt
+?
+v. 引诱；怂恿；冒……的风险；想做（某事）
+**Sentences**:
+*They tempted him to join the company by offering him a huge salary and a company car.*
+他们许诺给他优厚的薪水和一辆公司汽车，以吸引他加入该公司。
+
+*I was sorely (= very) tempted to resign after my boss screamed at me for the second time.*
+老板第二次对我大喊大叫了以后，我很想辞职。
+
+#word
+#### tentative
+?
+犹豫的；不确定的
+
+#word
+#### territory
+?
+n. 领土；领域；版图
+**Sentences**:
+*He was shot down in enemy territory.*
+他在敌方领土上被击落。
+
+*The director is back on familiar territory with his latest film.*
+该导演的最新电影又转回到了他所熟悉的题材上。
+
+#word
+#### testimony
+?
+n.(由指法庭上的)证词，证言
+**Sentences**:
+*The witness provided crucial testimony in court that helped convict the suspect.*
+证人在法庭上提供了至关重要的证词，有助于定罪嫌疑人。
+
+*Her emotional testimony moved the jury and influenced their decision.*
+她感人的证言感动了陪审团，并影响了他们的决定。
+
+#word
+#### that is not to say that....,but rather stress that .....that...,and that....
+?
+这并不是说....，而是强调.....强调…,……
+
+#word
+#### that is to say..../ in other words/ to put it in another way/translated ....
+?
+换句话说
+
+#word
+#### the 10th straight year&10 years in a row
+?
+连续10年
+
+#word
+#### the code of conduct
+?
+行为准则
+
+#word
+#### the public in general
+?
+一般公众
+**Notes**:
+the society in general / the society in a whole
+
+#word
+#### thermostat
+?
+调节器
+**Sentences**:
+*Turn off your thermostat when you’re not home.*
+当你不在家的时候关掉恒温器。
+
+#word
+#### thinktank
+?
+智囊团
+
+#word
+#### thorny
+?
+棘手的
+**Notes**:
+**构词法解释**：
+**构成**：Thorny 由形容词 "thorn" 和后缀 "-y" 构成。"Thorn" 指的是荆棘，表示困难或令人不快的事物。添加后缀 "-y" 则表示具有该特性或特征。因此，"thorny" 的字面意思是类似于荆棘的，引申为具有困难或棘手的特性。
+**相关场景用法**：
+"Thorny" 经常用于描述复杂的问题、困难的局面或棘手的情况，如政治争议、人际关系问题、商业挑战等。
+在日常生活中，人们也可能用 "thorny" 来形容个人或家庭中的棘手问题，如财务困境、健康问题等。
+**Sentences**:
+*the thorny issue of immigration policy.*
+移民政策这个棘手的问题。
+
+#word
+#### threshold
+?
+门槛；**阈值；临界值
+**Notes**:
+on the threshold of sth：面临着…；将要经历…；在…的开端
+**Sentences**:
+*Moss has a high threshold for pain and a history of fast healing.*
+莫斯的忍痛力很强，而且有迅速愈合的经历。
+
+*I'll never cross the threshold of your house again.*
+我再也不进你的家门了。
+
+#word
+#### timid
+?
+adj.羞怯的，胆小的
+**Sentences**:
+*The newspaper called the plan timid and unimaginative.*
+该报称这一计划谨小慎微，毫无新意。
+
+#word
+#### tip/change/swing the balance between a and b
+?
+打破A,B之间平衡
+**Notes**:
+swing 秋千
+
+#word
+#### to do is to do
+?
+做....就是为了做...
+
+#word
+#### toil
+?
+辛情劳作，苦干
+**Sentences**:
+*Pleasure comes through toil*
+先苦后甜
+
+#word
+#### torture
+?
+n. 拷打，拷问，酷刑逼供；折磨
+
+#word
+#### trade
+?
+n. 贸易；交易
+**Notes**:
+international trade  国际贸易
+trade agreement  贸易协定
+trade publicatons 行业出版物
+trade language  行话
+
+#word
+#### tragic
+?
+adj. 悲惨的，悲痛的，可悲的
+
+#word
+#### transaction
+?
+n. 交易
+**Notes**:
+cash transaction 现金交易
+
+#word
+#### transition
+?
+n. 过渡，转变
+**Sentences**:
+*Adolescence is the period of transition between childhood and [adulthood].*
+青春期是童年与成年之间的过渡时期。
+
+*There will be an interim government to oversee the transition to democracy.*
+将会有一个临时政府来监督向民主政治的过渡。
+
+#word
+#### treat sb with consideration
+?
+以体贴对待某人
+**Notes**:
+treat sb with consideration  =show ....consideraton on
+**Sentences**:
+*detailed consideratioin*
+仔细斟酌
+
+#word
+#### trial
+?
+n. 审判，试验
+**Sentences**:
+*They underwent trial in the court.*
+他们在法庭上接受审判。
+
+*The company is conducting a trial of a new product.*
+该公司正在进行一项新产品的试验。
+
+#word
+#### trivial
+?
+adj.不重要的，琐碎的
+**Notes**:
+triviality 琐事，无足轻重
+**Sentences**:
+*I don't know why he gets so upset about something so trivial.*
+我不明白他因何为芝麻大的事儿也如此烦恼。
+
+#word
+#### tuition
+?
+n. 学费，指导
+**Sentences**:
+*The course will give the beginner personal tuition in all types of outdoor photography.*
+该课程将对初学者一对一讲授各种户外摄影技巧。
+
+*These kids pay only 1,200 dollars tuition each year.*
+这些孩子每年只交1,200美元学费。
+
+#word
+#### ubiquitous
+?
+a. 无处不在的
+**Notes**:
+"Ubiquitous" 的词根是拉丁语 "ubique"，意为 "everywhere"。
+后缀 "-ous" 用于构成形容词，表示具有某种特征或性质的意思。
+因此，将词根 "ubique" 和后缀 "-ous" 结合在一起，构成了 "ubiquitous" 这个形容词，表示 "everywhere" 或 "existing everywhere" 的意思。
+**Sentences**:
+*Mobile phones have become ubiquitous in modern society.*
+手机已经成为现代社会中无处不在的物品。
+
+#word
+#### uncharted
+?
+未知的，无人涉足的
+**Sentences**:
+*In 1925, Picasso began to explore an uncharted world.*
+1925年，毕加索开始探索尚未被描绘的世界。
+
+#word
+#### under fire
+?
+受到攻击：指在批评、指责或攻击的压力下
+
+#word
+#### undermine
+?
+v. 逐渐削弱（损害）；（尤指）从根基处损坏
+**Notes**:
+under- 在....之下+mine- 挖矿-->在下面挖矿，削弱根基-->逐渐破坏，从根基处破坏，暗中破坏
+**Sentences**:
+*The provisions may undermine managers authority.*
+这些规定可能会损害管理者的权威
+
+*Dark patterns undermine users'decision-making.*
+黑暗模式会破坏用户的决策
+
+#word
+#### underrated
+?
+adj. 低估
+**Sentences**:
+*The human nose is an underrated tool.*
+人的鼻子是一个被低估的工具。
+
+#word
+#### undertake
+?
+v. 承担，从事；承诺，答应；
+
+#word
+#### undesirable
+?
+不良的；不受欢迎的
+**Notes**:
+desire n./v.渴望；渴求
+desirable  令人向往的；值得拥有的
+
+#word
+#### unearth
+?
+v. 发掘；发现，揭露
+**Sentences**:
+*Treasure has been unearthed on his property.*
+从他家地里挖出了财宝。
+
+*More human remains have been unearthed.*
+又挖掘出了更多的人体遗骸。
+
+#word
+#### unfold
+?
+(使）展开；打开
+
+#word
+#### unleash
+?
+v. 释放出，发泄（力量、感情等）
+**Sentences**:
+*Rachel's arrival on the scene had unleashed passions in him that he could scarcely control.*
+瑞秋的到来激起了他难以抑制的热情。
+
+*At worst, nuclear war could be unleashed.*
+最坏的情况是，可能会爆发核战争。
+
+#word
+#### unparalleled
+?
+无比的；空前的
+**Sentences**:
+*The country is facing a crisis unparalleled since the Second World War.*
+该国家面临着第二次世界大战以来空前的危机。
+
+#word
+#### unremitting
+?
+坚持不懈的，持续不断的
+**Notes**:
+1. **"un-" 前缀**：表示否定或相反的意思。
+2. **"remitting"**：来自动词 "remit"，表示减轻、缓解、放松或停止。
+因此，"unremitting" 可以理解为持续不断的、不间断的、不减轻的或不停止的。你可以将其想象为一种持续进行且不间断的状态或行为，没有减轻或放松的迹象。
+例如，"unremitting rain" 表示持续不断的雨，"unremitting efforts" 表示持续不懈的努力。通过将 "un-" 表示否定和 "remitting" 表示放松或停止的含义联系起来，你可以更容易记忆 "unremitting" 的含义。
+
+#word
+#### upheaval
+?
+动荡；激变；剧变
+**Notes**:
+**区别**：
+"Upheaval" 指突然而剧烈的变化，可以包括社会、政治、环境等方面的动荡，但不一定涉及到革命性的改变。
+"Revolution" 则更强调对现存制度或体系的彻底改变，通常伴随着政治、社会或经济结构的根本性转变。
+**Sentences**:
+*The earthquake caused widespread upheaval in the region.*
+地震在该地区引发了广泛的动荡。
+
+*The company underwent a major upheaval after the change in leadership.*
+在领导层变动后，公司经历了一次重大动荡。
+
+#word
+#### upscale
+?
+高档的
+
+#word
+#### vacant
+?
+a.空缺的
+**Notes**:
+vacuum  n. 真空
+do sth in vain  徒劳的
+
+#word
+#### vaccine
+?
+n.疫苗
+
+#word
+#### vague(负面)
+?
+adj. 模糊的，不明确的，含糊其词的，
+**Notes**:
+vag- 漫游
+助记：思想在漫游，含糊的模糊的
+**Sentences**:
+*I do have a vague memory of meeting her many years ago.*
+我确实依稀记得多年前见过她。
+
+*Their report is studiously/deliberately vague on future economic prospects.*
+他们的报告故意对未来经济前景含糊其词。
+
+#word
+#### valid
+?
+adj.（法律上）有效的；合理的
+**Sentences**:
+*You will need a valid passport.*
+你需要一个有效护照。
+
+#word
+#### vanish
+?
+v. 消失；不复存在，
+**Notes**:
+助记：van- 空 -->空了-->消失
+vanity n. 虚荣
+
+#word
+#### vanity
+?
+n. 虚荣，自负
+**Notes**:
+**Arrogant 和 Vanity 的区别：**
+1. **意义：**
+"Arrogant" 指的是对自己的能力或地位过于自负，傲慢自大，经常表现为对他人的轻视或不尊重。
+"Vanity" 指的是对自己外貌、才华或成就的过度自负或自恋，以及对自己的外表或成就过分关注的态度。
+2. **关注点：**
+"Arrogant" 关注于自己的能力或地位，以及对他人的不尊重。
+"Vanity" 关注于自己的外貌、才华或成就，以及对自己的过度自恋或自我陶醉。
+3. **行为表现：**
+"Arrogant" 的行为可能包括自我吹嘘、对他人不耐烦、轻视他人的意见或忽视他人的感受。
+"Vanity" 的行为可能包括过分关注外貌、频繁自拍、对自己的外表或成就过分自满或自负。
+4. **关系：**
+"Arrogant" 和 "Vanity" 都与自我中心、自负、自我陶醉等心态有关，但侧重点不同。
+"Arrogant" 更强调对自己能力或地位的过度自负和对他人的轻视，而 "Vanity" 更强调对自己外貌、成就或才华的过度自恋和自我陶醉。
+**举例：**
+一个人可能因为他的出色表现而感到自豪（Vanity），但如果他因此对他人不尊重或傲慢自大，那么他可能被认为是 "Arrogant"。
+另一个人可能因为对自己外表的过分自恋而频繁自拍（Vanity），但如果他对他人的意见置之不理或经常表现出轻视他人的态度，那么他可能被认为是 "Arrogant"。
+**总结：**
+"Arrogant" 和 "Vanity" 都指自我中心、自负、自我陶醉等心态，但 "Arrogant" 更强调对自己能力或地位的过度自负和对他人的轻视，而 "Vanity" 更强调对自己外貌、成就或才华的过度自恋和自我陶醉。
+**Sentences**:
+*out of vanity*
+出于虚荣心
+
+*Her vanity led her to spend hours in front of the mirror each day.*
+她的虚荣心导致她每天花费数小时站在镜子前。
+
+#word
+#### vanquish
+?
+征服，战胜
+**Notes**:
+vanquish 通常用于表示对敌人或对手的征服，强调的是战斗中的胜利。
+**Sentences**:
+*The army vanquished the enemy.*
+军队战胜了敌人。
+
+#word
+#### vastly
+?
+- adv. 非常，极大地
+**Sentences**:
+*The jury has heard two vastly different accounts of what happened.*
+陪审团听到了对所发生事件的两种截然不同的陈述。
+
+#word
+#### vault
+?
+仓库，知识库，拱顶；金库
+
+#word
+#### vegetarian
+?
+- n. 素食者，素食主义者
+**Notes**:
+助记：vegetable   蔬菜
+
+#word
+#### verdict
+?
+裁决
+**Sentences**:
+*Has the jury reached a verdict?*
+陪审团裁决了吗？
+
+#word
+#### verge
+?
+边缘；临界点
+
+#word
+#### verify
+?
+查实；核实
+**Notes**:
+ver--right,correct
+**Sentences**:
+*I verified the source from which I had that information.*
+我核实了我获知那条信息的来源。
+
+#word
+#### vibrant
+?
+adj. 充满活力的，充满生机的
+**Notes**:
+viv,vib-life  生机勃勃的
+
+#word
+#### vigilance
+?
+n. 警戒，警醒
+**Sentences**:
+*relax vigilance*
+放松警惕
+
+*vigilance man*
+维持治安组织的成员
+
+#word
+#### virtue
+?
+美德；德行；优点
+
+#word
+#### visa
+?
+n. 签证
+
+#word
+#### vista
+?
+景色；展望；回顾
+
+#word
+#### visualize
+?
+想象，使形象化
+**Notes**:
+visual  adj. 视觉的，视力的
+**Sentences**:
+*She couldn't visualize flying through space.*
+她无法想像在太空中飞行的景象。
+
+*Look at the word, try to visualize it and then go on to the next word.*
+看着每个单词，努力将它形象化，然后继续下一个单词。
+
+#word
+#### vividly
+?
+生动地；强烈地
+
+#word
+#### vocation
+?
+n. 职业，工作
+**Notes**:
+vocational   adj. 职业的
+**Sentences**:
+*Her vocation is her work as an actress.*
+他很可能有种真正的使命感。
+
+#word
+#### volume
+?
+1.量：音量，容量，数额   2.书：卷，册
+**Notes**:
+vol- 卷
+
+#word
+#### vulnerable
+?
+易受伤的；脆弱的
+**Sentences**:
+*Old people are particularly vulnerable members of our society.*
+老年人是社会中尤为弱势的群体。
+
+#word
+#### warrant
+?
+n. 搜查令，逮捕状 v. 使有必要，担保
+
+#word
+#### whales&apes
+?
+鲸鱼&猿类
+
+#word
+#### whereby
+?
+- adv. 凭此，借以
+**Notes**:
+= by which
+**Sentences**:
+*They've set up a plan whereby you can spread the cost over a two-year period.*
+他们已经制订了这样一个计划，允许在一段时间内分期付款。
+
+*We need to devise some sort of system whereby people can liaise with each other.*
+我们需要设计一套办法，人们能够借以互相保持联络。
+
+#word
+#### wholesale
+?
+n./v. 批发
+
+#word
+#### wit
+?
+n. （说话）风趣；说话风趣的人；机智；明智（the wit）
+**Notes**:
+-wise       机智
+-witty      adj.机智的
+
+#word
+#### with an eye to do
+?
+着眼于....
+
+#word
+#### withdraw
+?
+v. 撤退，收回
+**Notes**:
+withdrawal
+the withdrawal of bank support
+
+#word
+#### within reason
+?
+合理地，理性地
+
+#word
+#### wreck
+?
+失事，破坏
+**Notes**:
+助记：w我+reck近似rock-->我撞上了石头-->失事，破坏
+
+#word
+#### wrongdoing
+?
+- n. 坏事；不道德的行为
+
+#word
+#### yield
+?
+n.投降，产量，收益  v.生产
+**Notes**:
+**yield  v. 生产
+produce（同义）
+**Sentences**:
+**low-risk but very high-yeild**
+低风险但高收益
+
+*All right,I yield.*
+好吧，我投降。
+
+*Polluted water lessens crop yields.*
+水污染导致农作物减产。
+
