@@ -1,2 +1,3 @@
 - 显示/恢复隐藏文件---Command (⌘) + Shift (⇧) + . （句号）
+- 剪切---- option+command+v
 - 
