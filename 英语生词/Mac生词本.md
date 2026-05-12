@@ -1,4 +1,4 @@
-#### 新学
+#### Learning
 obscure（负面）,    adj. 难以说清楚的，模糊的
 release,    释放；发行
 vague(负面),    adj. 模糊的，不明确的，含糊其词的，
@@ -812,15 +812,18 @@ within reason,    合理地，理性地
 wreck,    失事，破坏
 wrongdoing,    - n. 坏事；不道德的行为
 yield,    n.投降，产量，收益  v.生产
-vault,    仓库，知识库，拱顶；金库
+stash,    n. 藏匿处；藏匿物
+vt. 存放；贮藏
+vi. 存放；藏起来
+invalid,    adj. （法律上）无效的，作废的；（论据、理由等）站不住脚的，错误的；
 
-#### 眼熟
+#### Familiar
 
 
-#### 掌握
+#### Known
 
 
-#### 会了
+#### Learned
 
 
 
@@ -1638,4 +1641,7 @@ v. 撤退，收回  ,  withdraw
 失事，破坏  ,  wreck
 - n. 坏事；不道德的行为  ,  wrongdoing
 n.投降，产量，收益  v.生产  ,  yield
-仓库，知识库，拱顶；金库  ,  vault
+n. 藏匿处；藏匿物
+vt. 存放；贮藏
+vi. 存放；藏起来  ,  stash
+adj. （法律上）无效的，作废的；（论据、理由等）站不住脚的，错误的；  ,  invalid
