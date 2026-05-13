@@ -37,11 +37,11 @@ ___
 -   操作过程中请务必注意文件路径的书写
     -   只有操作文件与python文件在同一目录才能直接写文件名。
         
-        ![在这里插入图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/2aded785e2e36a61c8eff22f6aab1001.png)
+        ![[2aded785e2e36a61c8eff22f6aab1001.png]]
         
     -   新手建议都写文件的绝对路径，不易导致错误发生。
         
-        ![在这里插入图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/893e9d4d4475f359bb408a7447f164bf.png)
+        ![[893e9d4d4475f359bb408a7447f164bf.png]]
         
 
 #### (1) 文件的打开
@@ -93,7 +93,7 @@ f = open("C:/code/bill.txt", "r", encoding="UTF-8")
 -   每次读取会从上一次读取结束的位置开始
 -   每次open()中的内容只能被读取一次
 
-![请添加图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/f0b80ae1ed73228a443aad83fc2ade1a.png)
+![[f0b80ae1ed73228a443aad83fc2ade1a.png]]
 
 ##### (2.1) read方法
 
@@ -182,7 +182,7 @@ f.close()
 
 -   代码中不关闭文件对象，且python程序未停止运行，无法对文件删除重命名等操作：
 
-![请添加图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/3c44f31ec351ec4f45d2516453eab383.png)
+![[3c44f31ec351ec4f45d2516453eab383.png]]
 
 ##### (2.6) 自动close
 
@@ -210,7 +210,7 @@ f.write('hello world')
 f.flush()
 ```
 
-![请添加图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/6425361fdcba327a27aa369e1294cb6f.png)
+![[6425361fdcba327a27aa369e1294cb6f.png]]
 
 -   直接调用`write`，内容并**未真正**写入文件，而是会积攒在程序的内存中，称之为缓冲区
 -   当调用`flush`的时候，内容会**真正**写入文件
@@ -234,8 +234,8 @@ f.write('study')
 f.flush()
 ```
 
-![请添加图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/55101dbde4cd7c1bfe69b0f05bf1941d.png)
+![[55101dbde4cd7c1bfe69b0f05bf1941d.png]]
 
 ### 三.全文概览
 
-![在这里插入图片描述](python%E6%96%87%E4%BB%B6%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9Cpython-d/1ee37202cc60e59fc030e8a05b9e379d.png)
+![[1ee37202cc60e59fc030e8a05b9e379d.png]]
