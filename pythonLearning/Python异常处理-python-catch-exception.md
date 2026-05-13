@@ -103,7 +103,7 @@ except 待捕获异常名 as 别名:
     ```
     
 
-
+![[36da20e61a303a750232248178911d9d.png]]
 
 -   同样的代码却无法捕获处理找不到文件异常
 
@@ -114,7 +114,7 @@ except NameError as e:
     print('文件不存在')			
 ```
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/cb865cb859fc61a1a4617ced32e19f26.png)
+![[cb865cb859fc61a1a4617ced32e19f26.png]]
 
 #### (3) 捕获多个异常
 
@@ -130,7 +130,7 @@ except NameError as e:
     ```
     
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/e193cdfaaf772c036202162f41df4d83.png)
+![[e193cdfaaf772c036202162f41df4d83.png]]
 
 -   格式二:把要捕获的异常类型的名字，放到except 后，并使用元组的方式进行书写。
     
@@ -161,7 +161,7 @@ except (FileNotFoundError, NameError) as e:
 
 -   指定的两种异常都能捕获，未指定的无法捕获到
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/394a02db8c34e705f16d49753605727f.png)
+![[394a02db8c34e705f16d49753605727f.png]]
 
 #### (4) 其他用法
 
@@ -177,7 +177,7 @@ except (NameError, ZeroDivisionError) as e:
     print(e) # 打印 name 'num' is not defined
 ```
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/e8d69227b3f3ef7ef02730bd96cb8201.png)
+![[e8d69227b3f3ef7ef02730bd96cb8201.png]]
 
 ##### (4.2) 异常else
 
@@ -207,7 +207,7 @@ else:
     print("无异常") # 执行
 ```
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/5a67c3535ec235f9c6c2d76bbc82bd27.png)
+![[5a67c3535ec235f9c6c2d76bbc82bd27.png]]
 
 ##### (4.3) 异常finally
 
@@ -237,10 +237,10 @@ else:
 
 -   当函数调用链中出现异常，如果所有函数都没有捕获异常的时候, 程序就会报错
 
-![请添加图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/262241a8439a390c4b4610476fc8ecec.png)
+![[262241a8439a390c4b4610476fc8ecec.png]]
 
 -   利用异常具有传递性的特点, 当我们想要保证程序不会因为异常崩溃的时候, 就可以在主函数中设置异常捕获, 由于无论在整个程序哪里发生异常, 最终都会传递到主函数中, 这样就可以确保所有的异常都会被统一捕获
 
 ### 五.全文概览
 
-![在这里插入图片描述](python%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86python-cat/cac9d2c3f3cd28acc42f77d48c2d058c.png)
+![[cac9d2c3f3cd28acc42f77d48c2d058c.png]]
