@@ -239,3 +239,50 @@ f.flush()
 ### 三.全文概览
 
 ![[1ee37202cc60e59fc030e8a05b9e379d.png]]
+# Open()函数可以打开任何类型的文件
+因为很多教程在介绍 `open()` 时，喜欢用 `.txt` 文件作为例子，导致初学者以为它只能处理文本文件。实际上，`open()` 能够打开：
+
+- 文本文件：`.txt`、`.csv`、`.json`、`.py`、`.md`、`.html` 等
+    
+- 二进制文件：图片（`.jpg`、`.png`）、音频（`.mp3`）、视频（`.mp4`）、压缩包（`.zip`）、可执行程序（`.exe`）等
+## 关键在于打开模式
+
+|模式|含义|适用文件类型|
+|---|---|---|
+| `"r"` (默认)|只读文本模式|文本文件（需指定 `encoding`）|
+| `"rb"` |只读二进制模式|任何文件（图片、音视频等）|
+| `"w"` |写入文本模式|文本文件|
+| `"wb"` |写入二进制模式|任何文件|
+| `"r+"` |读写文本模式|文本文件|
+| `"rb+"` |读写二进制模式|任何文件|
+
+## 示例
+
+### 读取图片（二进制）
+
+```python
+
+with open("photo.jpg", "rb") as f:
+    data = f.read()   # data 是 bytes 类型
+```
+
+### 读取 CSV 文件（文本）
+```python
+
+import csv
+with open("data.csv", "r", encoding="utf-8") as f:
+    reader = csv.reader(f)
+```
+### 读取 JSON 文件（文本）
+```python
+
+import json
+with open("config.json", "r", encoding="utf-8") as f:
+    config = json.load(f)
+```
+
+## 关键区别
+
+- **文本模式**（`"r"`、`"w"`）：读取时得到 `str` 字符串，需要指定 `encoding`（如 UTF-8）来正确解码。
+    
+- **二进制模式**（`"rb"`、`"wb"`）：读取时得到 `bytes` 字节串，不进行编码转换，适合任何文件。
