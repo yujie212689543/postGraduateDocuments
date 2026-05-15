@@ -40,11 +40,14 @@ try:
 except:
     如果出现异常执行的代码
     
-# 未发生错误try全部代码都会执行
-# 未发生错误不会执行except中的代码
-# 发生错误try中只会执行到报错行为止的代码
-# 发生错误会执行except中的代码
+
 ```
+
+<mark class="eme-highlight eme-h-pink" data-id="a57615a1-3f65-4030-b859-6a5dacf9541a">未发生错误try全部代码都会执行</mark>
+<mark class="eme-highlight eme-h-pink" data-id="ab2dd955-8de5-4f2b-a62a-3ab40b385728">未发生错误不会执行except中的代码</mark>
+<mark class="eme-highlight eme-h-pink" data-id="7eb35fa9-58e7-4f8a-82cc-4e0c376d261a">发生错误try中只会执行到报错行为止的代码</mark>
+<mark class="eme-highlight eme-h-pink" data-id="7a627974-9dcf-4afc-810c-ecd786f99f08">发生错误会执行except中的代码</mark>
+
 
 -   使用示例:
     
