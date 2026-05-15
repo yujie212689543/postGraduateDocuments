@@ -90,8 +90,8 @@ f = open("C:/code/bill.txt", "r", encoding="UTF-8")
 |文件对象.close()|关闭文件对象|
 |with open() as f|通过with open语法打开文件，可以自动关闭|
 
--   每次读取会从上一次读取结束的位置开始
--   每次open()中的内容只能被读取一次
+-   <mark class="eme-highlight eme-h-yellow" data-id="afbf53ff-5c2e-4226-80c3-aac11b950a03">每</mark><mark class="eme-highlight eme-h-yellow" data-id="ace8fbf3-cab0-48c6-9ad2-99c62c3cc666">次读取会从上一次读取结束的位置开始</mark>
+-   <mark class="eme-highlight eme-h-yellow" data-id="29a9c056-ab96-4b70-b5e7-cde59ff882b0">每次open()中的内容只能被读取一次</mark>
 
 ![[f0b80ae1ed73228a443aad83fc2ade1a.png]]
 
