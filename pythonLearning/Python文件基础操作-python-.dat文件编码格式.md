@@ -10,11 +10,11 @@
 
 ### 一.文件编码
 
-> 编码就是一种规则集合，记录了内容和二进制间进行相互转换的逻辑。
+> 编码就是一种<mark class="eme-highlight eme-h-pink" data-id="eae44490-6d6a-4474-b3e8-6aa4c41423a1">规则集合，记录了内容和二进制间进行相互转换的逻辑。</mark>
 
 -   思考：计算机只能识别0和1，那么我们丰富的文本文件是如何被计算机识别，并存储在硬盘中呢？
     
--   答案：使用编码技术（密码本）将内容翻译成0和1存入。
+-   答案：<mark class="eme-highlight eme-h-green" data-id="286ccac6-9f31-425b-ab1a-1c39d9b15c0e">使用编码技术（密码本）将内容翻译成0和1存入。</mark>
     
 
 ![[a82c48999ca243dfe9f8347ebd4e91ac.png]]
@@ -26,16 +26,16 @@
 
 ![[10eb789bb5540f70d87cadd8148b8676.png]]
 
--   UTF-8是目前全球通用的编码格式,除非有特殊需求，否则，一律以UTF-8格式进行文件编码即可。
+-   <mark class="eme-highlight eme-h-green" data-id="b4bf95c7-b024-4c44-a691-ae906d6fcc82">UTF-8是目前全球通用的编码格式,除非有特殊需求，否则，一律以UTF-8格式进行文件编码即可。</mark>
 
 ___
 
 ### 二.文件操作
 
-> 在日常生活中，文件操作主要包括打开、关闭、读、写等操作
+> 在日常生活中，文件操作主要包括<mark class="eme-highlight eme-h-pink" data-id="2a487715-b3f1-4e09-90b4-f02e60d426e8">打开、关闭、读、写</mark>等操作
 
 -   操作过程中请务必注意文件路径的书写
-    -   只有操作文件与python文件在同一目录才能直接写文件名。
+    -   <mark class="eme-highlight eme-h-pink" data-id="a680b2d0-b67a-4fb2-8346-b789002baf68">只有操作文件与python文件在同一目录才能直接写文件名。</mark>
         
         ![[2aded785e2e36a61c8eff22f6aab1001.png]]
         
