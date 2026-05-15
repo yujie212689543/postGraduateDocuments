@@ -212,16 +212,16 @@ f.flush()
 
 ![[6425361fdcba327a27aa369e1294cb6f.png]]
 
--   直接调用`write`，内容并**未真正**写入文件，而是会积攒在程序的内存中，称之为缓冲区
--   当调用`flush`的时候，内容会**真正**写入文件
+-   <mark class="eme-highlight eme-h-blue" data-id="a7093270-c592-4ee1-a784-35ba5c1dfa43">直接调用write，内容并未真正写入文件，而是会积攒在程序的内存中，称之为缓冲区</mark>
+-   <mark class="eme-highlight eme-h-blue" data-id="d551c867-267f-4534-8020-da1759c2abf2">当调用flush的时候，内容会真正写入文件</mark>
     -   close()方法，附带flush()方法的功能
 -   这样做是避免频繁的操作硬盘，导致效率下降（攒一堆，一次性写磁盘）
 
 #### (4) 文件的追加
 
--   使用`w`模式，每次写入会将原有内容清空，写入新内容
+-   <mark class="eme-highlight eme-h-pink" data-id="f03141cb-bd64-4429-8921-610134861af6">使用w模式，每次写入会将原有内容清空，写入新内容</mark>
     
--   使用`a`模式，文件不存在会创建文件,文件存在会在最后追加内容写入文件
+-   使用`a`模式，文件不存在会创建文件,<mark class="eme-highlight eme-h-pink" data-id="26c298eb-8f12-4001-a339-04c681c295de">文件存在会在最后追加内容写入文件</mark>
     
 -   使用示例：
     
