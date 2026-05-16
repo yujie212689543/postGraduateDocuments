@@ -118,7 +118,8 @@ except NameError as e:
 ```
 
 ![[cb865cb859fc61a1a4617ced32e19f26.png]]
-[[
+
+- 小知识点： [[Python 异常处理中的类型匹配规则]]
 
 #### (3) 捕获多个异常
 
@@ -136,10 +137,10 @@ except NameError as e:
 
 ![[e193cdfaaf772c036202162f41df4d83.png]]
 
--   格式二:把要捕获的异常类型的名字，放到except 后，并使用元组的方式进行书写。
+-   <mark class="eme-highlight eme-h-pink" data-id="5f5876bf-3af1-404c-be9c-3f9104cb6110">格式二:把要捕获的异常类型的名字，放到except 后，并使用元组的方式进行书写。</mark>
     
 -   基本格式：
-    
+- 场景：你想对几种**已知的、可预见的**异常做统一处理
 
 ```python
 try:
@@ -151,21 +152,17 @@ except (异常名1,异常名2) as 别名:
 -   使用示例:
 
 ```python
-# 示例一：
 try:
-    f = open("C:/code/study.txt", "r")
-except (FileNotFoundError, NameError) as e:
-    print('文件不存在')
-# 示例二：    
-try:
-    print(name)
-except (FileNotFoundError, NameError) as e:
-    print('名称未定义')
+    with open("config.txt") as f:
+        data = f.read()
+except (FileNotFoundError, PermissionError) as e:
+    print(f"无法读取配置文件：{e}")
+    # 然后使用默认配置
 ```
 
 -   指定的两种异常都能捕获，未指定的无法捕获到
 
-![[394a02db8c34e705f16d49753605727f.png]]
+
 
 #### (4) 其他用法
 
