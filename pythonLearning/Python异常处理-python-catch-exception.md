@@ -84,7 +84,7 @@ except:
 
 #### (2) 捕获特定异常
 
--   如果尝试执行的代码的异常类型和要捕获的异常类型不一致，则无法捕获异常。
+-   <mark class="eme-highlight eme-h-pink" data-id="35fc3cc4-4317-4e72-9daa-1cef592ecde1">如果尝试执行的代码的异常类型和要捕获的异常类型不一致，则无法捕获异常。</mark>
 -   基本语法：
 
 ```python
@@ -118,6 +118,7 @@ except NameError as e:
 ```
 
 ![[cb865cb859fc61a1a4617ced32e19f26.png]]
+[[
 
 #### (3) 捕获多个异常
 
