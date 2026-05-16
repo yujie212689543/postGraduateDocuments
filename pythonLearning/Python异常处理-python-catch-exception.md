@@ -140,7 +140,8 @@ except NameError as e:
 -   <mark class="eme-highlight eme-h-pink" data-id="5f5876bf-3af1-404c-be9c-3f9104cb6110">格式二:把要捕获的异常类型的名字，放到except 后，并使用元组的方式进行书写。</mark>
     
 -   基本格式：
-- 场景：你想对几种**已知的、可预见的**异常做统一处理
+
+<mark class="eme-highlight eme-h-pink" data-id="ae19f97c-a220-401f-a2e2-27af1030511d">- 场景：你想对几种已知的、可预见的异常做统一处理</mark>
 
 ```python
 try:
@@ -160,15 +161,22 @@ except (FileNotFoundError, PermissionError) as e:
     # 然后使用默认配置
 ```
 
--   指定的两种异常都能捕获，未指定的无法捕获到
+ 为什么不用 `except Exception`？
 
+`except Exception` 会捕获**所有**继承自 `Exception` 的异常（几乎你遇到的所有异常）。这很方便，但也很危险：
+
+- 它会掩盖**编程错误**，比如变量名拼写错误、传入 `None` 导致属性错误等。
+    
+- 当你看到程序没有崩溃而是打印了“文件不存在”，你会误以为是文件问题，实际却是代码逻辑错误，导致浪费大量调试时间。
+    
+**工程原则**：**只捕获你预期会发生的异常，让其他异常自然崩溃**（或者记录日志后重新抛出）。这样程序出问题时，你能立刻看到真实的错误堆栈。
 
 
 #### (4) 其他用法
 
 ##### (4.1) 打印异常 信息
 
--   异常描述信息存贮在别名中，可以通过打印别名获取
+-   <mark class="eme-highlight eme-h-pink" data-id="f85c58d9-7a1a-43e6-b98a-edce41fcbb7f">异常描述信息存贮在别名中，可以通过打印别名获取</mark>
 -   使用示例：
 
 ```python
