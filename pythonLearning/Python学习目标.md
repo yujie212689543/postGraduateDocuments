@@ -361,7 +361,7 @@ for item in data:    print(item)
 比如：
 
 ```
-import jsonjson.dumps(data)
+import json  json.dumps(data)
 ```
 
 ---
