@@ -375,7 +375,7 @@ ___
 
 -   基本语法：
     -   <mark class="eme-highlight eme-h-pink" data-id="2e3e211a-dbaa-46e3-8670-b178fd3dc915">私有成员变量：变量名以__开头（2个下划线）</mark>
-    -   私有成员方法：方法名以\_\_开头（2个下划线）
+    -   <mark class="eme-highlight eme-h-pink" data-id="5272da70-2e26-462c-9dfb-b2a80c317323">私有成员方法：方法名以\_\_开头（2个下划线）</mark>
 
 ```python
 class Student:
