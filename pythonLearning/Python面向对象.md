@@ -101,7 +101,7 @@ stu_3.name = "罗辑"
 
 ##### (3.2) 成员方法
 
-> 定义在类内部的函数称之为方法，与函数存在细微区别。
+> 定义在类内部的函数称之为<mark class="eme-highlight eme-h-blue" data-id="4c4a32eb-3fa2-404c-b1ac-c44592f7129e">方法，与函数存在细微区别。</mark>
 
 ```python
 # 函数
@@ -116,8 +116,8 @@ def 方法名(self,形参1,形参2,..,形参N):
     方法体
 ```
 
--   `self`关键字在成员方法定义的时候**必须填写**，表示类对象自身
--   在方法内部，想要访问类的成员变量，必须使用self
+-   <mark class="eme-highlight eme-h-blue" data-id="1b4acb22-a0c4-4c50-a1b6-bb132b886192">self关键字在成员方法定义的时候必须填写，表示类对象自身</mark>
+-   <mark class="eme-highlight eme-h-blue" data-id="0040146c-2340-4d0f-b971-1b5b262ffb90">在方法内部，想要访问类的成员变量，必须使用self</mark>
 
 ```python
 class Student:
