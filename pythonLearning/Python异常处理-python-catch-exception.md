@@ -117,7 +117,7 @@ except NameError as e:
     print('文件不存在')			
 ```
 
-![[cb865cb859fc61a1a4617ced32e19f26.png]]
+![[cb865cb859fc61a1a4617ced32e19f26.png|632]]
 
 - 小知识点： [[Python 异常处理中的类型匹配规则]]
 
