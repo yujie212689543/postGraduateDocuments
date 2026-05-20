@@ -894,7 +894,7 @@ print(my_dict)  # 打印 {'观止': 110, '李白': 120}
 print(type(my_dict))  # 打印  <class 'dict'>
 ```
 
-#### (2) 数据的获取
+#### (2) 数据的获取（两种写法，第二种更好）
 
 -   字典同集合一样，不可以使用下标索引取值
 -   字典可以通过Key值来取得对应的Value
@@ -926,6 +926,20 @@ for name in my_dict:
 # key为：观止,value为：110
 ```
 
+~~~Python
+## 对比两种写法
+
+```python
+# 写法1：直接用中括号（有风险）
+articles = data["articles"]
+# 如果 data 里没有 "articles" 这个 key → 程序直接崩溃，报 KeyError
+
+# 写法2：用 .get() 加备用值（安全）
+articles = data.get("articles", [])
+# 如果 data 里没有 "articles" → 不报错，返回备用值 []
+```
+~~~
+##### 
 #### (3) 字典的常用操作
 
 |操作|说明|
