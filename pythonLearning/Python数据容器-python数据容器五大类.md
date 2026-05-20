@@ -939,7 +939,24 @@ articles = data.get("articles", [])
 # 如果 data 里没有 "articles" → 不报错，返回备用值 []
 ```
 ~~~
-##### 
+##### 举例
+
+**情况 A：API 正常返回，有 articles**
+
+```python
+data = {
+    "status": "ok",
+    "articles": [
+        {"title": "特斯拉大涨"},
+        {"title": "A股下跌"}
+    ]
+}
+
+articles = data.get("articles", [])
+print(articles)
+# 输出：[{"title": "特斯拉大涨"}, {"title": "A股下跌"}]
+#        ↑ 因为 key 存在，返回了这 2 条新闻的列表
+```
 #### (3) 字典的常用操作
 
 |操作|说明|
