@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780299100026-mjy8xczhd",
+  "providerId": "claude",
+  "title": "Say hello in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780299100029,
+  "updatedAt": 1780299150329,
+  "lastResponseAt": 1780299150329,
+  "sessionId": "4fb71c85-5a52-4ca0-8e27-9ec687672e28",
+  "providerState": {
+    "providerSessionId": "4fb71c85-5a52-4ca0-8e27-9ec687672e28"
+  },
+  "currentNote": "2026数据要素应用创新大赛/填报.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 146,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 160896,
+    "contextWindow": 200000,
+    "contextTokens": 161042,
+    "percentage": 81,
+    "contextWindowIsAuthoritative": true
+  }
+}
