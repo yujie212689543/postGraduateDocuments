@@ -4,20 +4,20 @@
   "title": "Say hello in Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1780299100029,
-  "updatedAt": 1780300545213,
-  "lastResponseAt": 1780300545213,
+  "updatedAt": 1780300902895,
+  "lastResponseAt": 1780300677322,
   "sessionId": "4fb71c85-5a52-4ca0-8e27-9ec687672e28",
   "providerState": {
     "providerSessionId": "4fb71c85-5a52-4ca0-8e27-9ec687672e28"
   },
   "usage": {
-    "model": "opus[1m]",
-    "inputTokens": 2065,
+    "model": "sonnet[1m]",
+    "inputTokens": 172,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 197504,
+    "cacheReadInputTokens": 200320,
     "contextWindow": 1000000,
-    "contextTokens": 199569,
+    "contextTokens": 200492,
     "percentage": 20,
-    "contextWindowIsAuthoritative": true
+    "contextWindowIsAuthoritative": false
   }
 }
