@@ -6,4 +6,6 @@
 	- 用**双指**把网页滚到你要的末尾位置；
 	- 按住 **Shift** 键，**单指轻点**末尾 → 中间所有文字自动全选。
 - **Vscode 代码提示**---Command (⌘) + Shift (⇧) + Space
-- 
+- **Jupyter notebook code & markdown 切换**
+	- Code ---esc+y
+	- Markdown ---esc+m
