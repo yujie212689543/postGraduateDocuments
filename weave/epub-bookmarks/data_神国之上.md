@@ -1,8 +1,10 @@
 ---
 format: "weave-epub-bookmarks/v2"
 weave_epub_bookmark_file: true
-stableKey: "epub-book-1dwzdgz"
+stableKey: "epubsrc-f3d1dd5a67d2"
 bookId: "epub-book-1dwzdgz"
+sourceId: "epubsrc-f3d1dd5a67d22d927e00a3ab"
+sourceFingerprint: "f3d1dd5a67d22d927e00a3abfcc6d3584e62a27dbbc57bc8b388bcb7a6950e23"
 bookPath: "novels/神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk).epub"
 bookTitle: "神国之上"
 bookAuthor: "见异思剑"
@@ -11,25 +13,25 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 25
 reading-status: "reading"
-reading-total-minutes: 9
+reading-total-minutes: 10
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 161
-    cfi: "epubcfi(/6/324!/4,/280,/298/1:30)"
-    percent: 25.133976420150056
+    chapterIndex: 162
+    cfi: "epubcfi(/6/326!/4,/352,/370/1:26)"
+    percent: 25.401929260450164
   readingStats:
-    totalReadTime: 517546
-    lastReadTime: 1780907277464
+    totalReadTime: 614281
+    lastReadTime: 1780907913784
     createdTime: 1780899806802
     bookWpm: 900
-    paceSampleCount: 21
-    paceSampleWords: 575256
+    paceSampleCount: 24
+    paceSampleWords: 579941
 bookmarks: []
 analytics:
-  updatedAt: 1780907336199
+  updatedAt: 1780907639998
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -37,8 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-  recentExcerpts: []
-updatedAt: 1780907336199
+updatedAt: 1780907913794
 ---
 
 > [!abstract] 关于本页
@@ -59,15 +60,15 @@ updatedAt: 1780907336199
 
 | | |
 | :-- | --: |
-| 累计阅读 | 9 分钟 |
+| 累计阅读 | 10 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-08 16:27 |
+| 最近阅读 | 2026-06-08 16:38 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 162 章**（约 25%）。
+> 当前停在 **第 163 章**（约 25%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
