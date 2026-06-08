@@ -19,19 +19,19 @@ highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 164
-    cfi: "epubcfi(/6/330!/4,/2,/486/1:19)"
-    percent: 25.669882100750268
+    chapterIndex: 165
+    cfi: "epubcfi(/6/332!/4,/2,/450/1:2)"
+    percent: 25.937834941050376
   readingStats:
-    totalReadTime: 634010
-    lastReadTime: 1780908394972
+    totalReadTime: 651252
+    lastReadTime: 1780908908050
     createdTime: 1780899806802
     bookWpm: 900
-    paceSampleCount: 27
-    paceSampleWords: 585949
+    paceSampleCount: 29
+    paceSampleWords: 589024
 bookmarks: []
 analytics:
-  updatedAt: 1780907639998
+  updatedAt: 1780908907465
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1780908394986
+updatedAt: 1780908908059
 ---
 
 > [!abstract] 关于本页
@@ -65,10 +65,10 @@ updatedAt: 1780908394986
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-08 16:46 |
+| 最近阅读 | 2026-06-08 16:55 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 165 章**（约 26%）。
+> 当前停在 **第 166 章**（约 26%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
