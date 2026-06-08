@@ -11,25 +11,25 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 25
 reading-status: "reading"
-reading-total-minutes: 7
+reading-total-minutes: 9
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 160
-    cfi: "epubcfi(/6/322!/4,/164,/182/1:15)"
-    percent: 24.866023579849948
+    chapterIndex: 161
+    cfi: "epubcfi(/6/324!/4,/280,/298/1:30)"
+    percent: 25.133976420150056
   readingStats:
-    totalReadTime: 434931
-    lastReadTime: 1780906315013
+    totalReadTime: 517546
+    lastReadTime: 1780907277464
     createdTime: 1780899806802
     bookWpm: 900
-    paceSampleCount: 18
-    paceSampleWords: 569743
+    paceSampleCount: 21
+    paceSampleWords: 575256
 bookmarks: []
 analytics:
-  updatedAt: 1780906796110
+  updatedAt: 1780907336199
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -38,7 +38,7 @@ analytics:
   topChaptersByHighlights: []
   linkedNotePaths: []
   recentExcerpts: []
-updatedAt: 1780906796110
+updatedAt: 1780907336199
 ---
 
 > [!abstract] 关于本页
@@ -59,15 +59,15 @@ updatedAt: 1780906796110
 
 | | |
 | :-- | --: |
-| 累计阅读 | 7 分钟 |
+| 累计阅读 | 9 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-08 16:11 |
+| 最近阅读 | 2026-06-08 16:27 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 161 章**（约 25%）。
+> 当前停在 **第 162 章**（约 25%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
