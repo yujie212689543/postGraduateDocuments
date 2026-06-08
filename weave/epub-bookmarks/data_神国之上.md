@@ -13,22 +13,22 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 24
 reading-status: "reading"
-reading-total-minutes: 4
+reading-total-minutes: 5
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 156
-    cfi: "epubcfi(/6/314!/4,/314/1:73,/332/1:35)"
-    percent: 24.062165058949624
+    chapterIndex: 157
+    cfi: "epubcfi(/6/316!/4,/378,/398/1:16)"
+    percent: 24.330117899249732
   readingStats:
-    totalReadTime: 238850
-    lastReadTime: 1780904343962
+    totalReadTime: 288076
+    lastReadTime: 1780904962177
     createdTime: 1780899806802
     bookWpm: 900
-    paceSampleCount: 10
-    paceSampleWords: 555384
+    paceSampleCount: 11
+    paceSampleWords: 557106
 bookmarks: []
 analytics:
   updatedAt: 1780903720791
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1780904343979
+updatedAt: 1780904962191
 ---
 
 > [!abstract] 关于本页
@@ -60,15 +60,15 @@ updatedAt: 1780904343979
 
 | | |
 | :-- | --: |
-| 累计阅读 | 4 分钟 |
+| 累计阅读 | 5 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-08 15:39 |
+| 最近阅读 | 2026-06-08 15:49 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 157 章**（约 24%）。
+> 当前停在 **第 158 章**（约 24%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
