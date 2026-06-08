@@ -1,0 +1,3089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:37ab1778-08c6-49e3-9a52-724ca4b53950"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>神国之上</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>简介</text>
+      </navLabel>
+      <content src="Text/nrjj.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>朱雀掠影焚天国</text>
+      </navLabel>
+      <content src="Text/Vol01.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>第一章 皇城的鬼</text>
+        </navLabel>
+        <content src="Text/Chapter0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>第二章 醒来的少年</text>
+        </navLabel>
+        <content src="Text/Chapter0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>第三章 遇见一个自己</text>
+        </navLabel>
+        <content src="Text/Chapter0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>第四章 跪在殿前的少女</text>
+        </navLabel>
+        <content src="Text/Chapter0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>第五章 雀鬼</text>
+        </navLabel>
+        <content src="Text/Chapter0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>第六章 小殿下</text>
+        </navLabel>
+        <content src="Text/Chapter0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>第七章 三更</text>
+        </navLabel>
+        <content src="Text/Chapter0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>第八章 榕树与日落</text>
+        </navLabel>
+        <content src="Text/Chapter0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>第九章 刀剑入夜</text>
+        </navLabel>
+        <content src="Text/Chapter0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>第十章 一纸空梦为谁书</text>
+        </navLabel>
+        <content src="Text/Chapter0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>第十一章 殿下入井去，仙人乘轿来</text>
+        </navLabel>
+        <content src="Text/Chapter0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>第十二章 妖雀鸣城</text>
+        </navLabel>
+        <content src="Text/Chapter0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>第十三章 仙子悬剑气如虹</text>
+        </navLabel>
+        <content src="Text/Chapter0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>第十四章 湖上狐影</text>
+        </navLabel>
+        <content src="Text/Chapter0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>第十五章 我为杀局，请君入瓮</text>
+        </navLabel>
+        <content src="Text/Chapter0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>第十六章 一个小道士的故事</text>
+        </navLabel>
+        <content src="Text/Chapter0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>第十七章 皇宫下的背影</text>
+        </navLabel>
+        <content src="Text/Chapter0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>第十八章 老狐一炬</text>
+        </navLabel>
+        <content src="Text/Chapter0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>第十九章 一身白衣入城来</text>
+        </navLabel>
+        <content src="Text/Chapter0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>第二十章 苏醒</text>
+        </navLabel>
+        <content src="Text/Chapter0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>第二十一章 境界</text>
+        </navLabel>
+        <content src="Text/Chapter0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>第二十二章 朱雀掠影焚天火</text>
+        </navLabel>
+        <content src="Text/Chapter0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>第二十三章 秋雨肃杀</text>
+        </navLabel>
+        <content src="Text/Chapter0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>第二十四章 狐影随形</text>
+        </navLabel>
+        <content src="Text/Chapter0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>第二十五章 长街有雨，青衫接剑</text>
+        </navLabel>
+        <content src="Text/Chapter0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>第二十六章 夜幕降临之前</text>
+        </navLabel>
+        <content src="Text/Chapter0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>第二十七章 城楼之下谪仙人</text>
+        </navLabel>
+        <content src="Text/Chapter0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>第二十八章 城国之间，朱雀焚火</text>
+        </navLabel>
+        <content src="Text/Chapter0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>第二十九章 天雷地火渐尾声</text>
+        </navLabel>
+        <content src="Text/Chapter0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>第三十章 风雪十六载，雨停烟花尽</text>
+        </navLabel>
+        <content src="Text/Chapter0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>第三十一章 就像是一场梦</text>
+        </navLabel>
+        <content src="Text/Chapter0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>第三十二章 婚书</text>
+        </navLabel>
+        <content src="Text/Chapter0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>第三十三章 妖种</text>
+        </navLabel>
+        <content src="Text/Chapter0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>第三十四章 小院之战</text>
+        </navLabel>
+        <content src="Text/Chapter0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>第三十五章 仙剑来时</text>
+        </navLabel>
+        <content src="Text/Chapter0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>第三十六章 云至劫来</text>
+        </navLabel>
+        <content src="Text/Chapter0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>第三十七章 心魔历劫</text>
+        </navLabel>
+        <content src="Text/Chapter0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>第三十八章 落雪之城，春寒料峭</text>
+        </navLabel>
+        <content src="Text/Chapter0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>第三十九章 白雪如梦，华裳如炬</text>
+        </navLabel>
+        <content src="Text/Chapter0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>第四十章 心魔领域里的小女孩</text>
+        </navLabel>
+        <content src="Text/Chapter0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>第四十一章 如此长夜</text>
+        </navLabel>
+        <content src="Text/Chapter0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>第四十二章 黎明之前，彩虹倾天</text>
+        </navLabel>
+        <content src="Text/Chapter0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>第四十三章 夜半钟声到客船</text>
+        </navLabel>
+        <content src="Text/Chapter0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>第四十四章 双魂</text>
+        </navLabel>
+        <content src="Text/Chapter0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>第四十五章 一颗星星的毁灭</text>
+        </navLabel>
+        <content src="Text/Chapter0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>第四十六章 深闺一夜</text>
+        </navLabel>
+        <content src="Text/Chapter0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>第四十七章 夜幕深处的人们</text>
+        </navLabel>
+        <content src="Text/Chapter0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>第四十八章 生辰宴，赵国的朝阳</text>
+        </navLabel>
+        <content src="Text/Chapter0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>第四十九章 世间的每一封婚书都是战书</text>
+        </navLabel>
+        <content src="Text/Chapter0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>第五十章 退婚与三年之约</text>
+        </navLabel>
+        <content src="Text/Chapter0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>第五十一章 溅血</text>
+        </navLabel>
+        <content src="Text/Chapter0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>第五十二章 狐妖再现</text>
+        </navLabel>
+        <content src="Text/Chapter0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>第五十三章 侵神</text>
+        </navLabel>
+        <content src="Text/Chapter0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>第五十四章 古卷为牢</text>
+        </navLabel>
+        <content src="Text/Chapter0054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>第五十五章 那座道观的名字</text>
+        </navLabel>
+        <content src="Text/Chapter0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>第五十六章 我的剑与棺</text>
+        </navLabel>
+        <content src="Text/Chapter0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>第五十七章 朱雀燎羽入西国</text>
+        </navLabel>
+        <content src="Text/Chapter0057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>第五十八章 天外的魔，最后的赵</text>
+        </navLabel>
+        <content src="Text/Chapter0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>第五十九章 我眼中的暮色</text>
+        </navLabel>
+        <content src="Text/Chapter0059.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>九死南荒魂归处</text>
+      </navLabel>
+      <content src="Text/Vol02.xhtml"/>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>第六十章 宁静的雨夜</text>
+        </navLabel>
+        <content src="Text/Chapter0060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>第六十一章 黄昏里的少年少女们</text>
+        </navLabel>
+        <content src="Text/Chapter0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>第六十二章 入峰登仙</text>
+        </navLabel>
+        <content src="Text/Chapter0062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>第六十三章 拜见师尊</text>
+        </navLabel>
+        <content src="Text/Chapter0063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>第六十四章 还缺一把刀</text>
+        </navLabel>
+        <content src="Text/Chapter0064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>第六十五章 修道的意义</text>
+        </navLabel>
+        <content src="Text/Chapter0065.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>第六十六章 剑堂第一课</text>
+        </navLabel>
+        <content src="Text/Chapter0066.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>第六十七章 书阁的老人</text>
+        </navLabel>
+        <content src="Text/Chapter0067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>第六十八章 纸上的名字</text>
+        </navLabel>
+        <content src="Text/Chapter0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>第六十九章 十五日</text>
+        </navLabel>
+        <content src="Text/Chapter0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>第七十章 看不见的书</text>
+        </navLabel>
+        <content src="Text/Chapter0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>第七十一章 云台游剑</text>
+        </navLabel>
+        <content src="Text/Chapter0071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>第七十二章 先天之灵</text>
+        </navLabel>
+        <content src="Text/Chapter0072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>第七十三章 千里之行也</text>
+        </navLabel>
+        <content src="Text/Chapter0073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>第七十四章 戒尺</text>
+        </navLabel>
+        <content src="Text/Chapter0074.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>第七十五章 隐峰之中</text>
+        </navLabel>
+        <content src="Text/Chapter0075.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>第七十六章 后天剑胎</text>
+        </navLabel>
+        <content src="Text/Chapter0076.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>第七十七章 一些阴谋诡计</text>
+        </navLabel>
+        <content src="Text/Chapter0077.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>第七十八章 一节早课</text>
+        </navLabel>
+        <content src="Text/Chapter0078.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>第七十九章 隐峰里的小绵羊</text>
+        </navLabel>
+        <content src="Text/Chapter0079.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>第八十章 缠龙柱下的深渊</text>
+        </navLabel>
+        <content src="Text/Chapter0080.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>第八十一章 陨神</text>
+        </navLabel>
+        <content src="Text/Chapter0081.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>第八十二章 燃星</text>
+        </navLabel>
+        <content src="Text/Chapter0082.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>第八十三章 夜空中最亮的星</text>
+        </navLabel>
+        <content src="Text/Chapter0083.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>第八十四章 雪衣浴星辉</text>
+        </navLabel>
+        <content src="Text/Chapter0084.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>第八十五章 除夕将至，云舟出山</text>
+        </navLabel>
+        <content src="Text/Chapter0085.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>第八十六章 临河城的暗杀</text>
+        </navLabel>
+        <content src="Text/Chapter0086.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>第八十七章 旧怨</text>
+        </navLabel>
+        <content src="Text/Chapter0087.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>第八十八章 书信诺长生</text>
+        </navLabel>
+        <content src="Text/Chapter0088.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>第八十九章 还恩</text>
+        </navLabel>
+        <content src="Text/Chapter0089.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>第九十章 闹鬼</text>
+        </navLabel>
+        <content src="Text/Chapter0090.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>第九十一章 除夕来临之前</text>
+        </navLabel>
+        <content src="Text/Chapter0091.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>第九十二章 灭城</text>
+        </navLabel>
+        <content src="Text/Chapter0092.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>第九十三章 白骨不老</text>
+        </navLabel>
+        <content src="Text/Chapter0093.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>第九十四章 前夜</text>
+        </navLabel>
+        <content src="Text/Chapter0094.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>第九十五章 灯笼</text>
+        </navLabel>
+        <content src="Text/Chapter0095.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>第九十六章 铜画</text>
+        </navLabel>
+        <content src="Text/Chapter0096.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>第九十七章 瓷佣</text>
+        </navLabel>
+        <content src="Text/Chapter0097.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>第九十八章 人鬼何处不相逢</text>
+        </navLabel>
+        <content src="Text/Chapter0098.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>第九十九章 战鬼</text>
+        </navLabel>
+        <content src="Text/Chapter0099.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>第一百章 亡灵再现</text>
+        </navLabel>
+        <content src="Text/Chapter0100.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>第一百零一章 恶灵不死</text>
+        </navLabel>
+        <content src="Text/Chapter0101.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>第一百零二章 屠户</text>
+        </navLabel>
+        <content src="Text/Chapter0102.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>第一百零三章 神话中的城</text>
+        </navLabel>
+        <content src="Text/Chapter0103.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>第一百零四章 古城为奠，血牛过街</text>
+        </navLabel>
+        <content src="Text/Chapter0104.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>第一百零五章 九羽化剑斩长夜</text>
+        </navLabel>
+        <content src="Text/Chapter0105.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>第一百零六章 酆都神国</text>
+        </navLabel>
+        <content src="Text/Chapter0106.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>第一百零七章 生死之间你的眼</text>
+        </navLabel>
+        <content src="Text/Chapter0107.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>第一百零八章 黄泉为界</text>
+        </navLabel>
+        <content src="Text/Chapter0108.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>第一百零九章 在漫漫雪夜里</text>
+        </navLabel>
+        <content src="Text/Chapter0109.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>第一百一十章 在寂寂黎明前</text>
+        </navLabel>
+        <content src="Text/Chapter0110.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>第一百一十二章 襄儿的魔鬼训练</text>
+        </navLabel>
+        <content src="Text/Chapter0111.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>第一百一十三章 彼岸与衰败之城</text>
+        </navLabel>
+        <content src="Text/Chapter0112.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>第一百一十四章 夜色如墨 裙袂如雪</text>
+        </navLabel>
+        <content src="Text/Chapter0113.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>第一百一十五章 红月为眸</text>
+        </navLabel>
+        <content src="Text/Chapter0114.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>第一百一十六章 从天而降的剑</text>
+        </navLabel>
+        <content src="Text/Chapter0115.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>第一百一十七章 潜过长桥的阴影</text>
+        </navLabel>
+        <content src="Text/Chapter0116.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>第一百一十八章 牛头巨斧</text>
+        </navLabel>
+        <content src="Text/Chapter0117.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>第一百一十九章 灭世之舞</text>
+        </navLabel>
+        <content src="Text/Chapter0118.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>第一百二十章 白骨羽蛇</text>
+        </navLabel>
+        <content src="Text/Chapter0119.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>第一百二十一章 残躯为剑斩人间</text>
+        </navLabel>
+        <content src="Text/Chapter0120.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>第一百二十二章 大日如来破长夜</text>
+        </navLabel>
+        <content src="Text/Chapter0121.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>第一百二十三章 冬末痴醉的春风</text>
+        </navLabel>
+        <content src="Text/Chapter0122.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>第一百二十四章 黑夜落幕之后</text>
+        </navLabel>
+        <content src="Text/Chapter0123.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>第一百二十五章 夜行收徒</text>
+        </navLabel>
+        <content src="Text/Chapter0124.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>第一百二十六章 百炼成剑</text>
+        </navLabel>
+        <content src="Text/Chapter0125.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>第一百二十七章 回峰之行，梦中之剑</text>
+        </navLabel>
+        <content src="Text/Chapter0126.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>第一百二十八章 嫁嫁的深夜造访</text>
+        </navLabel>
+        <content src="Text/Chapter0127.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>第一百二十九章 长久的斗智斗勇</text>
+        </navLabel>
+        <content src="Text/Chapter0128.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>第一百三十章 小龄的绝地反击</text>
+        </navLabel>
+        <content src="Text/Chapter0129.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>第一百三十一章 晨风里的笑</text>
+        </navLabel>
+        <content src="Text/Chapter0130.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>第一百三十二章 初春</text>
+        </navLabel>
+        <content src="Text/Chapter0131.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>第一百三十三章 死亡之剑，深渊之底</text>
+        </navLabel>
+        <content src="Text/Chapter0132.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>第一百三十四章 峰谷里的老人</text>
+        </navLabel>
+        <content src="Text/Chapter0133.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>第一百三十五章 坠谷</text>
+        </navLabel>
+        <content src="Text/Chapter0134.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>第一百三十六章 外峰考核</text>
+        </navLabel>
+        <content src="Text/Chapter0135.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>第一百三十七章 背后的剑</text>
+        </navLabel>
+        <content src="Text/Chapter0136.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>第一百三十八章 白衣逆空</text>
+        </navLabel>
+        <content src="Text/Chapter0137.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>第一百三十九章 隐峰中 血染剑裳</text>
+        </navLabel>
+        <content src="Text/Chapter0138.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>第一百四十章 峰主殿中</text>
+        </navLabel>
+        <content src="Text/Chapter0139.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>第一百四十一章 轻纱掩映，月色扑朔</text>
+        </navLabel>
+        <content src="Text/Chapter0140.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>第一百四十二章 惊殿之乱</text>
+        </navLabel>
+        <content src="Text/Chapter0141.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>第一百四十三章 神弃之月</text>
+        </navLabel>
+        <content src="Text/Chapter0142.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>第一百四十四章 访妖</text>
+        </navLabel>
+        <content src="Text/Chapter0143.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>第一百四十五章 小镇七日</text>
+        </navLabel>
+        <content src="Text/Chapter0144.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>第一百四十六章 误入藕花深处</text>
+        </navLabel>
+        <content src="Text/Chapter0145.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>第一百四十七章 执一笔江山入画</text>
+        </navLabel>
+        <content src="Text/Chapter0146.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>第一百四十八章 苟延残喘三千年</text>
+        </navLabel>
+        <content src="Text/Chapter0147.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>第一百四十九章 混沌之始</text>
+        </navLabel>
+        <content src="Text/Chapter0148.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>第一百五十章 破题</text>
+        </navLabel>
+        <content src="Text/Chapter0149.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>第一百五十一章 四峰有剑谁来问</text>
+        </navLabel>
+        <content src="Text/Chapter0150.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>第一百五十二章 九婴</text>
+        </navLabel>
+        <content src="Text/Chapter0151.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>第一百五十三章 原来是你</text>
+        </navLabel>
+        <content src="Text/Chapter0152.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>第一百五十四章 天谕剑经下卷</text>
+        </navLabel>
+        <content src="Text/Chapter0153.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>第一百五十五章 剑经之灵 白骨之谜</text>
+        </navLabel>
+        <content src="Text/Chapter0154.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>第一百五十六章 等了许多年</text>
+        </navLabel>
+        <content src="Text/Chapter0155.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>第一百五十七章 骨蛇衔烛来</text>
+        </navLabel>
+        <content src="Text/Chapter0156.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>第一百五十八章 宗主出峰 妖魔问世</text>
+        </navLabel>
+        <content src="Text/Chapter0157.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>第一百五十九章 背叛</text>
+        </navLabel>
+        <content src="Text/Chapter0158.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>第一百六十章 画卷绘界 白骨观人</text>
+        </navLabel>
+        <content src="Text/Chapter0159.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>第一百六十一章 司姑娘</text>
+        </navLabel>
+        <content src="Text/Chapter0160.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>第一百六十二章 陆嫁嫁的剑</text>
+        </navLabel>
+        <content src="Text/Chapter0161.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>第一百六十三章 山水断脉 崩乱之夕</text>
+        </navLabel>
+        <content src="Text/Chapter0162.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>第一百六十四章 弟子拜见师父</text>
+        </navLabel>
+        <content src="Text/Chapter0163.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>第一百六十五章 碑雪</text>
+        </navLabel>
+        <content src="Text/Chapter0164.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>第一百六十六章 九婴白骨爪</text>
+        </navLabel>
+        <content src="Text/Chapter0165.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>第一百六十七章 且乘青雀去</text>
+        </navLabel>
+        <content src="Text/Chapter0166.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>第一百六十八章 骑在黑蛇背上</text>
+        </navLabel>
+        <content src="Text/Chapter0167.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>第一百六十九章 九死南荒魂归处</text>
+        </navLabel>
+        <content src="Text/Chapter0168.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>地彻天通神道开</text>
+      </navLabel>
+      <content src="Text/Vol03.xhtml"/>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>第一百七十章 凝望深渊</text>
+        </navLabel>
+        <content src="Text/Chapter0169.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>第一百七十一章 十死无生</text>
+        </navLabel>
+        <content src="Text/Chapter0170.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>第一百七十二章 时渊</text>
+        </navLabel>
+        <content src="Text/Chapter0171.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>第一百七十三章 召唤灵</text>
+        </navLabel>
+        <content src="Text/Chapter0172.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>第一百七十四章 枯枝</text>
+        </navLabel>
+        <content src="Text/Chapter0173.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>第一百七十五章 神迹的光</text>
+        </navLabel>
+        <content src="Text/Chapter0174.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>第一百七十六章 光幕</text>
+        </navLabel>
+        <content src="Text/Chapter0175.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>第一百七十七章 惊殿</text>
+        </navLabel>
+        <content src="Text/Chapter0176.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>第一百七十八章 邵小黎家老大回</text>
+        </navLabel>
+        <content src="Text/Chapter0177.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>第一百七十九章 司命</text>
+        </navLabel>
+        <content src="Text/Chapter0178.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>第一百八十章 第一个日夜</text>
+        </navLabel>
+        <content src="Text/Chapter0179.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>第一百八十一章 修罗</text>
+        </navLabel>
+        <content src="Text/Chapter0180.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>第一百八十二章 夜除</text>
+        </navLabel>
+        <content src="Text/Chapter0181.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>第一百八十三章 弃落之城</text>
+        </navLabel>
+        <content src="Text/Chapter0182.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>第一百八十四章 阳寿</text>
+        </navLabel>
+        <content src="Text/Chapter0183.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>第一百八十五章 夜除说命，重岁乱城</text>
+        </navLabel>
+        <content src="Text/Chapter0184.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>第一百八十六章 小黎学剑，长久开荒</text>
+        </navLabel>
+        <content src="Text/Chapter0185.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>第一百八十七章 虎视眈眈</text>
+        </navLabel>
+        <content src="Text/Chapter0186.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>第一百八十八章 司命之约</text>
+        </navLabel>
+        <content src="Text/Chapter0187.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>第一百八十九章 狭路相逢</text>
+        </navLabel>
+        <content src="Text/Chapter0188.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>第一百九十章 誓言</text>
+        </navLabel>
+        <content src="Text/Chapter0189.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>第一百九十一章 雪原的黎明</text>
+        </navLabel>
+        <content src="Text/Chapter0190.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>第一百九十二章 南北</text>
+        </navLabel>
+        <content src="Text/Chapter0191.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>第一百九十三章 重岁</text>
+        </navLabel>
+        <content src="Text/Chapter0192.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>第一百九十四章 绝地走来的少年</text>
+        </navLabel>
+        <content src="Text/Chapter0193.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>第一百九十五章 白裳望渊 黑裙负剑</text>
+        </navLabel>
+        <content src="Text/Chapter0194.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>第一百九十六章 当天上星河转</text>
+        </navLabel>
+        <content src="Text/Chapter0195.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>第一百九十七章 审判之日</text>
+        </navLabel>
+        <content src="Text/Chapter0196.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>第一百九十八章 决战前夕</text>
+        </navLabel>
+        <content src="Text/Chapter0197.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>第一百九十九章 神女为囚</text>
+        </navLabel>
+        <content src="Text/Chapter0198.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>第二百章 比肩神明</text>
+        </navLabel>
+        <content src="Text/Chapter0199.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>第二百零一章 神战之后</text>
+        </navLabel>
+        <content src="Text/Chapter0200.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>第二百零二章 风华</text>
+        </navLabel>
+        <content src="Text/Chapter0201.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>第二百零三章 神官之辱</text>
+        </navLabel>
+        <content src="Text/Chapter0202.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>第二百零四章 神女俯首</text>
+        </navLabel>
+        <content src="Text/Chapter0203.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>第二百零五章 发硎之刃</text>
+        </navLabel>
+        <content src="Text/Chapter0204.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>第二百零六章 破囚</text>
+        </navLabel>
+        <content src="Text/Chapter0205.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>第二百零七章 杀神</text>
+        </navLabel>
+        <content src="Text/Chapter0206.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>第二百零八章 修罗之剑</text>
+        </navLabel>
+        <content src="Text/Chapter0207.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>第二百零九章 神话之战</text>
+        </navLabel>
+        <content src="Text/Chapter0208.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>第二百一十章 穿过世界的手</text>
+        </navLabel>
+        <content src="Text/Chapter0209.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>第二百一十一章 她们的剑</text>
+        </navLabel>
+        <content src="Text/Chapter0210.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>第二百一十二章 战书</text>
+        </navLabel>
+        <content src="Text/Chapter0211.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>第二百一十三章 为奴</text>
+        </navLabel>
+        <content src="Text/Chapter0212.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>第二百一十四章 时间的横截面</text>
+        </navLabel>
+        <content src="Text/Chapter0213.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>第二百一十五章 深渊之外 离别之前</text>
+        </navLabel>
+        <content src="Text/Chapter0214.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>第二百一十六章 归乡</text>
+        </navLabel>
+        <content src="Text/Chapter0215.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>第二百一十七章 待到山花烂漫时</text>
+        </navLabel>
+        <content src="Text/Chapter0216.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>第二百一十八章 何待月圆花好 相逢即是良宵</text>
+        </navLabel>
+        <content src="Text/Chapter0217.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>第二百一十九章 醉后不知天在水</text>
+        </navLabel>
+        <content src="Text/Chapter0218.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>第二百二十章 此地宜有剑仙 拥素云白鹤</text>
+        </navLabel>
+        <content src="Text/Chapter0219.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>第二百二十一章 今夕是何年</text>
+        </navLabel>
+        <content src="Text/Chapter0220.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>第二百二十二章 师姐</text>
+        </navLabel>
+        <content src="Text/Chapter0221.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>第二百二十三章 昔我往矣</text>
+        </navLabel>
+        <content src="Text/Chapter0222.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>第二百二十四章 宗主大典</text>
+        </navLabel>
+        <content src="Text/Chapter0223.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>第二百二十五章 三月</text>
+        </navLabel>
+        <content src="Text/Chapter0224.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>第二百二十六章 三年之期已到</text>
+        </navLabel>
+        <content src="Text/Chapter0225.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>第二百二十七章 孤舟载酒入湖心</text>
+        </navLabel>
+        <content src="Text/Chapter0226.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>第二百二十八章 看尽晚秋一片叶</text>
+        </navLabel>
+        <content src="Text/Chapter0227.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>第二百二十九章 焚国之火</text>
+        </navLabel>
+        <content src="Text/Chapter0228.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>第二百三十章 修罗浴火</text>
+        </navLabel>
+        <content src="Text/Chapter0229.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>第二百三十一章 神荼苍鸾</text>
+        </navLabel>
+        <content src="Text/Chapter0230.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>第二百三十二章 背着女帝去青楼</text>
+        </navLabel>
+        <content src="Text/Chapter0231.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>第二百三十三章 与襄儿的谈判</text>
+        </navLabel>
+        <content src="Text/Chapter0232.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>第二百三十四章 在日出之时与你相见</text>
+        </navLabel>
+        <content src="Text/Chapter0233.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>第二百三十五章 忤逆之命</text>
+        </navLabel>
+        <content src="Text/Chapter0234.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>第二百三十六章 婚宴之夕</text>
+        </navLabel>
+        <content src="Text/Chapter0235.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>第二百三十七章 风雪之中铁剑来</text>
+        </navLabel>
+        <content src="Text/Chapter0236.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>第二百三十八章 嫁衣惹雪</text>
+        </navLabel>
+        <content src="Text/Chapter0237.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>第二百三十九章 洞房花烛夜，长风搅雪来</text>
+        </navLabel>
+        <content src="Text/Chapter0238.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>第二百四十章 雪入城中，剑至城外</text>
+        </navLabel>
+        <content src="Text/Chapter0239.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>第二百四十一章 妖道</text>
+        </navLabel>
+        <content src="Text/Chapter0240.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>第二百四十二章 鱼王入城</text>
+        </navLabel>
+        <content src="Text/Chapter0241.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>第二百四十三章 金乌朱雀</text>
+        </navLabel>
+        <content src="Text/Chapter0242.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>第二百四十四章 双国</text>
+        </navLabel>
+        <content src="Text/Chapter0243.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>第二百四十五章 沉鱼落雁</text>
+        </navLabel>
+        <content src="Text/Chapter0244.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>第二百四十六章 如火</text>
+        </navLabel>
+        <content src="Text/Chapter0245.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-251" playOrder="251">
+      <navLabel>
+        <text>长鲸万里触琼楼</text>
+      </navLabel>
+      <content src="Text/Vol04.xhtml"/>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>第二百四十七章 剑阁</text>
+        </navLabel>
+        <content src="Text/Chapter0246.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-253" playOrder="253">
+        <navLabel>
+          <text>第二百四十八章 幽冥</text>
+        </navLabel>
+        <content src="Text/Chapter0247.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-254" playOrder="254">
+        <navLabel>
+          <text>第二百四十九章 谛听</text>
+        </navLabel>
+        <content src="Text/Chapter0248.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-255" playOrder="255">
+        <navLabel>
+          <text>第二百五十章 劫龙</text>
+        </navLabel>
+        <content src="Text/Chapter0249.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-256" playOrder="256">
+        <navLabel>
+          <text>第二百五十一章 破幻</text>
+        </navLabel>
+        <content src="Text/Chapter0250.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-257" playOrder="257">
+        <navLabel>
+          <text>第二百五十二章 便宜女儿</text>
+        </navLabel>
+        <content src="Text/Chapter0251.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-258" playOrder="258">
+        <navLabel>
+          <text>第二百五十三章 幽阁拔灵</text>
+        </navLabel>
+        <content src="Text/Chapter0252.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-259" playOrder="259">
+        <navLabel>
+          <text>第二百五十四章 师妹师兄，相隔西东</text>
+        </navLabel>
+        <content src="Text/Chapter0253.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>第二百五十五章 彩眷仙宫</text>
+        </navLabel>
+        <content src="Text/Chapter0254.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>第二百五十六章 小龄的寻宝历险</text>
+        </navLabel>
+        <content src="Text/Chapter0255.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-262" playOrder="262">
+        <navLabel>
+          <text>第二百五十七章 太初六神</text>
+        </navLabel>
+        <content src="Text/Chapter0256.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-263" playOrder="263">
+        <navLabel>
+          <text>第二百五十八章 棋与剑</text>
+        </navLabel>
+        <content src="Text/Chapter0257.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-264" playOrder="264">
+        <navLabel>
+          <text>第二百五十九章 第四楼</text>
+        </navLabel>
+        <content src="Text/Chapter0258.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-265" playOrder="265">
+        <navLabel>
+          <text>第二百六十章 白蛇神殿</text>
+        </navLabel>
+        <content src="Text/Chapter0259.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-266" playOrder="266">
+        <navLabel>
+          <text>第二百六十一章 刺骨</text>
+        </navLabel>
+        <content src="Text/Chapter0260.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-267" playOrder="267">
+        <navLabel>
+          <text>第二百六十二章 神殿战妖</text>
+        </navLabel>
+        <content src="Text/Chapter0261.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-268" playOrder="268">
+        <navLabel>
+          <text>第二百六十三章 我自幽冥踏紫庭</text>
+        </navLabel>
+        <content src="Text/Chapter0262.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-269" playOrder="269">
+        <navLabel>
+          <text>第二百六十四章 灵谷大比落幕</text>
+        </navLabel>
+        <content src="Text/Chapter0263.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-270" playOrder="270">
+        <navLabel>
+          <text>第二百六十五章 罪恶诗篇</text>
+        </navLabel>
+        <content src="Text/Chapter0264.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271">
+        <navLabel>
+          <text>第二百六十六章 十七岁</text>
+        </navLabel>
+        <content src="Text/Chapter0265.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-272" playOrder="272">
+        <navLabel>
+          <text>第二百六十七章 四方杀戮</text>
+        </navLabel>
+        <content src="Text/Chapter0266.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-273" playOrder="273">
+        <navLabel>
+          <text>第二百六十八章 剑灵的抉择</text>
+        </navLabel>
+        <content src="Text/Chapter0267.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-274" playOrder="274">
+        <navLabel>
+          <text>第二百六十九章 皇不在殿</text>
+        </navLabel>
+        <content src="Text/Chapter0268.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-275" playOrder="275">
+        <navLabel>
+          <text>第二百七十章 开峰破云入楼去</text>
+        </navLabel>
+        <content src="Text/Chapter0269.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-276" playOrder="276">
+        <navLabel>
+          <text>第二百七十一章 冥君</text>
+        </navLabel>
+        <content src="Text/Chapter0270.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-277" playOrder="277">
+        <navLabel>
+          <text>第二百七十二章 地龙升空啸苍穹</text>
+        </navLabel>
+        <content src="Text/Chapter0271.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-278" playOrder="278">
+        <navLabel>
+          <text>第二百七十三章 传说三境的天碑</text>
+        </navLabel>
+        <content src="Text/Chapter0272.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-279" playOrder="279">
+        <navLabel>
+          <text>第二百七十四章 圣人之言</text>
+        </navLabel>
+        <content src="Text/Chapter0273.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-280" playOrder="280">
+        <navLabel>
+          <text>第二百七十五章 绝地相遇</text>
+        </navLabel>
+        <content src="Text/Chapter0274.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-281" playOrder="281">
+        <navLabel>
+          <text>第二百七十六章 乱世佳人</text>
+        </navLabel>
+        <content src="Text/Chapter0275.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-282" playOrder="282">
+        <navLabel>
+          <text>第二百七十七章 夫君与主人</text>
+        </navLabel>
+        <content src="Text/Chapter0276.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-283" playOrder="283">
+        <navLabel>
+          <text>第二百七十八章 黑月</text>
+        </navLabel>
+        <content src="Text/Chapter0277.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-284" playOrder="284">
+        <navLabel>
+          <text>第二百七十九章 第七神</text>
+        </navLabel>
+        <content src="Text/Chapter0278.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-285" playOrder="285">
+        <navLabel>
+          <text>第二百八十章 神降之日</text>
+        </navLabel>
+        <content src="Text/Chapter0279.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-286" playOrder="286">
+        <navLabel>
+          <text>第二百八十一章 晚辈陆嫁嫁</text>
+        </navLabel>
+        <content src="Text/Chapter0280.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-287" playOrder="287">
+        <navLabel>
+          <text>第二百八十二章 湖崖闲话</text>
+        </navLabel>
+        <content src="Text/Chapter0281.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-288" playOrder="288">
+        <navLabel>
+          <text>第二百八十三章 论道授业</text>
+        </navLabel>
+        <content src="Text/Chapter0282.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-289" playOrder="289">
+        <navLabel>
+          <text>第二百八十四章 洛书之局</text>
+        </navLabel>
+        <content src="Text/Chapter0283.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-290" playOrder="290">
+        <navLabel>
+          <text>第二百八十五章 地核深处的孤单</text>
+        </navLabel>
+        <content src="Text/Chapter0284.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-291" playOrder="291">
+        <navLabel>
+          <text>第二百八十六章 邱月的最终计划</text>
+        </navLabel>
+        <content src="Text/Chapter0285.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-292" playOrder="292">
+        <navLabel>
+          <text>第二百八十七章 坏女人与傻姑娘</text>
+        </navLabel>
+        <content src="Text/Chapter0286.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-293" playOrder="293">
+        <navLabel>
+          <text>第二百八十八章 意味不明的笑</text>
+        </navLabel>
+        <content src="Text/Chapter0287.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-294" playOrder="294">
+        <navLabel>
+          <text>第二百八十九章 终末之日</text>
+        </navLabel>
+        <content src="Text/Chapter0288.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-295" playOrder="295">
+        <navLabel>
+          <text>第二百九十章 阵法动 冥府开</text>
+        </navLabel>
+        <content src="Text/Chapter0289.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-296" playOrder="296">
+        <navLabel>
+          <text>第二百九十一章 白银雪宫</text>
+        </navLabel>
+        <content src="Text/Chapter0290.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-297" playOrder="297">
+        <navLabel>
+          <text>第二百九十二章 狮子</text>
+        </navLabel>
+        <content src="Text/Chapter0291.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-298" playOrder="298">
+        <navLabel>
+          <text>第二百九十三章 幽冥王座</text>
+        </navLabel>
+        <content src="Text/Chapter0292.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-299" playOrder="299">
+        <navLabel>
+          <text>第二百九十四章 千里过境 杀人闯楼</text>
+        </navLabel>
+        <content src="Text/Chapter0293.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-300" playOrder="300">
+        <navLabel>
+          <text>第二百九十五章 冥君长诗</text>
+        </navLabel>
+        <content src="Text/Chapter0294.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-301" playOrder="301">
+        <navLabel>
+          <text>第二百九十六章 新任宗主</text>
+        </navLabel>
+        <content src="Text/Chapter0295.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-302" playOrder="302">
+        <navLabel>
+          <text>第二百九十七章 入幽</text>
+        </navLabel>
+        <content src="Text/Chapter0296.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-303" playOrder="303">
+        <navLabel>
+          <text>第二百九十八章 与冥君的交易</text>
+        </navLabel>
+        <content src="Text/Chapter0297.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-304" playOrder="304">
+        <navLabel>
+          <text>第二百九十九章 这样的人</text>
+        </navLabel>
+        <content src="Text/Chapter0298.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-305" playOrder="305">
+        <navLabel>
+          <text>第三百章 你竟是这样的师兄</text>
+        </navLabel>
+        <content src="Text/Chapter0299.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-306" playOrder="306">
+        <navLabel>
+          <text>第三百零一章 唯恐相逢是梦中</text>
+        </navLabel>
+        <content src="Text/Chapter0300.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-307" playOrder="307">
+        <navLabel>
+          <text>第三百零二章 拯救幽冥古国</text>
+        </navLabel>
+        <content src="Text/Chapter0301.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-308" playOrder="308">
+        <navLabel>
+          <text>第三百零三章 与九幽殿下的约定</text>
+        </navLabel>
+        <content src="Text/Chapter0302.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-309" playOrder="309">
+        <navLabel>
+          <text>第三百零四章 小龄是只小狐狸</text>
+        </navLabel>
+        <content src="Text/Chapter0303.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-310" playOrder="310">
+        <navLabel>
+          <text>第三百零五章 圣人为何人</text>
+        </navLabel>
+        <content src="Text/Chapter0304.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-311" playOrder="311">
+        <navLabel>
+          <text>第三百零六章 嚣张的司命姐姐</text>
+        </navLabel>
+        <content src="Text/Chapter0305.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-312" playOrder="312">
+        <navLabel>
+          <text>第三百零七章 晚来天欲雪</text>
+        </navLabel>
+        <content src="Text/Chapter0306.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-313" playOrder="313">
+        <navLabel>
+          <text>第三百零八章 强盗众人推</text>
+        </navLabel>
+        <content src="Text/Chapter0307.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-314" playOrder="314">
+        <navLabel>
+          <text>第三百零九章 东风夜放花千树</text>
+        </navLabel>
+        <content src="Text/Chapter0308.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-315" playOrder="315">
+        <navLabel>
+          <text>第三百一十章 天命与天榜</text>
+        </navLabel>
+        <content src="Text/Chapter0309.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-316" playOrder="316">
+        <navLabel>
+          <text>第三百一十一章 剑阁第十四弟子</text>
+        </navLabel>
+        <content src="Text/Chapter0310.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-317" playOrder="317">
+        <navLabel>
+          <text>第三百一十二章 无心插柳</text>
+        </navLabel>
+        <content src="Text/Chapter0311.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-318" playOrder="318">
+        <navLabel>
+          <text>第三百一十三章 你是我的剑</text>
+        </navLabel>
+        <content src="Text/Chapter0312.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-319" playOrder="319">
+        <navLabel>
+          <text>第三百一十四章 剑灵之泣</text>
+        </navLabel>
+        <content src="Text/Chapter0313.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-320" playOrder="320">
+        <navLabel>
+          <text>第三百一十五章 锻剑</text>
+        </navLabel>
+        <content src="Text/Chapter0314.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-321" playOrder="321">
+        <navLabel>
+          <text>第三百一十六章 登楼</text>
+        </navLabel>
+        <content src="Text/Chapter0315.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-322" playOrder="322">
+        <navLabel>
+          <text>第三百一十六章 昆仑之上有月国</text>
+        </navLabel>
+        <content src="Text/Chapter0316.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-323" playOrder="323">
+        <navLabel>
+          <text>第三百一十七章 承冠佩剑镇名楼</text>
+        </navLabel>
+        <content src="Text/Chapter0317.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-324" playOrder="324">
+        <navLabel>
+          <text>第三百一十八章 人间大雪，玉宇琼楼</text>
+        </navLabel>
+        <content src="Text/Chapter0318.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-325" playOrder="325">
+        <navLabel>
+          <text>第三百一十九章 天榜之人，雪亭之刺</text>
+        </navLabel>
+        <content src="Text/Chapter0319.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-326" playOrder="326">
+        <navLabel>
+          <text>第三百一十九章 万鹤千雪，金乌一剑</text>
+        </navLabel>
+        <content src="Text/Chapter0320.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-327" playOrder="327">
+        <navLabel>
+          <text>第三百二十章 无不可锤锻之剑</text>
+        </navLabel>
+        <content src="Text/Chapter0321.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-328" playOrder="328">
+        <navLabel>
+          <text>第三百二十一章 雪过春来，前世今生</text>
+        </navLabel>
+        <content src="Text/Chapter0322.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-329" playOrder="329">
+        <navLabel>
+          <text>第三百二十一章 剑气纵长虹</text>
+        </navLabel>
+        <content src="Text/Chapter0323.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-330" playOrder="330">
+        <navLabel>
+          <text>第三百二十二章 人间天上</text>
+        </navLabel>
+        <content src="Text/Chapter0324.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-331" playOrder="331">
+        <navLabel>
+          <text>第三百二十三章 狐嫁虎 危！</text>
+        </navLabel>
+        <content src="Text/Chapter0325.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-332" playOrder="332">
+        <navLabel>
+          <text>第三百二十四章 纸鸢</text>
+        </navLabel>
+        <content src="Text/Chapter0326.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-333" playOrder="333">
+        <navLabel>
+          <text>第三百二十五章 师尊之名</text>
+        </navLabel>
+        <content src="Text/Chapter0327.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-334" playOrder="334">
+        <navLabel>
+          <text>第三百二十六章 春风雪冬各相离</text>
+        </navLabel>
+        <content src="Text/Chapter0328.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-335" playOrder="335">
+        <navLabel>
+          <text>第三百二十七章 延绵千里的跋涉之旅</text>
+        </navLabel>
+        <content src="Text/Chapter0329.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-336" playOrder="336">
+        <navLabel>
+          <text>第三百二十八章 大恶人与坏女人</text>
+        </navLabel>
+        <content src="Text/Chapter0330.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-337" playOrder="337">
+        <navLabel>
+          <text>第三百二十九章 乘舟过峰一万重</text>
+        </navLabel>
+        <content src="Text/Chapter0331.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-338" playOrder="338">
+        <navLabel>
+          <text>第三百三十章 鬼庙</text>
+        </navLabel>
+        <content src="Text/Chapter0332.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-339" playOrder="339">
+        <navLabel>
+          <text>第三百三十一章 观主之剑 万妖之城</text>
+        </navLabel>
+        <content src="Text/Chapter0333.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-340" playOrder="340">
+        <navLabel>
+          <text>第三百三十二章 初探万妖城</text>
+        </navLabel>
+        <content src="Text/Chapter0334.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-341" playOrder="341">
+        <navLabel>
+          <text>第三百三十三章 如意</text>
+        </navLabel>
+        <content src="Text/Chapter0335.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-342" playOrder="342">
+        <navLabel>
+          <text>第三百三十四章 梦里不知身是客</text>
+        </navLabel>
+        <content src="Text/Chapter0336.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-343" playOrder="343">
+        <navLabel>
+          <text>第三百三十五章 人生若只如初见</text>
+        </navLabel>
+        <content src="Text/Chapter0337.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-344" playOrder="344">
+        <navLabel>
+          <text>第三百三十六章 梦里春风，峰中雷雨</text>
+        </navLabel>
+        <content src="Text/Chapter0338.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-345" playOrder="345">
+        <navLabel>
+          <text>第三百三十七章 妖王之谋，卷中之道</text>
+        </navLabel>
+        <content src="Text/Chapter0339.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-346" playOrder="346">
+        <navLabel>
+          <text>第三百三十八章 万寿之宴</text>
+        </navLabel>
+        <content src="Text/Chapter0340.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-347" playOrder="347">
+        <navLabel>
+          <text>第三百三十九章 花与鹿</text>
+        </navLabel>
+        <content src="Text/Chapter0341.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-348" playOrder="348">
+        <navLabel>
+          <text>第三百四十章 年华正好</text>
+        </navLabel>
+        <content src="Text/Chapter0342.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-349" playOrder="349">
+        <navLabel>
+          <text>第三百四十一章 不可观里读书声</text>
+        </navLabel>
+        <content src="Text/Chapter0343.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-350" playOrder="350">
+        <navLabel>
+          <text>第三百四十二章 湖上拦道者</text>
+        </navLabel>
+        <content src="Text/Chapter0344.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-351" playOrder="351">
+        <navLabel>
+          <text>第三百四十三章 朝辞白帝彩云间</text>
+        </navLabel>
+        <content src="Text/Chapter0345.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-352" playOrder="352">
+        <navLabel>
+          <text>第三百四十四章 齐聚不可观</text>
+        </navLabel>
+        <content src="Text/Chapter0346.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-353" playOrder="353">
+        <navLabel>
+          <text>第三百四十五章 不可观的一天</text>
+        </navLabel>
+        <content src="Text/Chapter0347.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-354" playOrder="354">
+        <navLabel>
+          <text>第三百四十六章 梦里梦外</text>
+        </navLabel>
+        <content src="Text/Chapter0348.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-355" playOrder="355">
+        <navLabel>
+          <text>第三百四十七章 世事大梦，尘世春凉</text>
+        </navLabel>
+        <content src="Text/Chapter0349.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-356" playOrder="356">
+        <navLabel>
+          <text>第三百四十八章 当时只道是寻常</text>
+        </navLabel>
+        <content src="Text/Chapter0350.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-357" playOrder="357">
+        <navLabel>
+          <text>第三百四十九章 与二先生约三剑</text>
+        </navLabel>
+        <content src="Text/Chapter0351.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-358" playOrder="358">
+        <navLabel>
+          <text>第三百五十章 带剑者死</text>
+        </navLabel>
+        <content src="Text/Chapter0352.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-359" playOrder="359">
+        <navLabel>
+          <text>第三百五十一章 神雀如云</text>
+        </navLabel>
+        <content src="Text/Chapter0353.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-360" playOrder="360">
+        <navLabel>
+          <text>第三百五十二章 万里妖城听风雷</text>
+        </navLabel>
+        <content src="Text/Chapter0354.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-361" playOrder="361">
+        <navLabel>
+          <text>第三百五十三章 河东狮吼</text>
+        </navLabel>
+        <content src="Text/Chapter0355.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-362" playOrder="362">
+        <navLabel>
+          <text>第三百五十四章 宿命之争</text>
+        </navLabel>
+        <content src="Text/Chapter0356.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-363" playOrder="363">
+        <navLabel>
+          <text>第三百五十五章 怒雨横流洗刀剑</text>
+        </navLabel>
+        <content src="Text/Chapter0357.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-364" playOrder="364">
+        <navLabel>
+          <text>第三百五十六章 死生何所依</text>
+        </navLabel>
+        <content src="Text/Chapter0358.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-365" playOrder="365">
+        <navLabel>
+          <text>第三百五十七章 举头望明月，回首白云低</text>
+        </navLabel>
+        <content src="Text/Chapter0359.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-366" playOrder="366">
+        <navLabel>
+          <text>第三百五十八章 欺天瞒地十九年</text>
+        </navLabel>
+        <content src="Text/Chapter0360.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-367" playOrder="367">
+        <navLabel>
+          <text>第三百五十九章 三百年一剑</text>
+        </navLabel>
+        <content src="Text/Chapter0361.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-368" playOrder="368">
+        <navLabel>
+          <text>第三百六十章 天心月圆 神火成灰</text>
+        </navLabel>
+        <content src="Text/Chapter0362.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-369" playOrder="369">
+        <navLabel>
+          <text>第三百六十一章 前世今生的真相</text>
+        </navLabel>
+        <content src="Text/Chapter0363.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-370" playOrder="370">
+        <navLabel>
+          <text>第三百六十二章 雪儿</text>
+        </navLabel>
+        <content src="Text/Chapter0364.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-371" playOrder="371">
+        <navLabel>
+          <text>第三百六十三章 恶的故事</text>
+        </navLabel>
+        <content src="Text/Chapter0365.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-372" playOrder="372">
+        <navLabel>
+          <text>第三百六十四章 恶诗</text>
+        </navLabel>
+        <content src="Text/Chapter0366.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-373" playOrder="373">
+        <navLabel>
+          <text>第三百六十五章 告白</text>
+        </navLabel>
+        <content src="Text/Chapter0367.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-374" playOrder="374">
+        <navLabel>
+          <text>第三百六十六章 莲花池间的身影</text>
+        </navLabel>
+        <content src="Text/Chapter0368.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-375" playOrder="375">
+        <navLabel>
+          <text>第三百六十七章 天下剑争之始</text>
+        </navLabel>
+        <content src="Text/Chapter0369.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-376" playOrder="376">
+        <navLabel>
+          <text>第三百六十八章 南下候剑</text>
+        </navLabel>
+        <content src="Text/Chapter0370.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-377" playOrder="377">
+        <navLabel>
+          <text>第三百六十九章 插无心柳</text>
+        </navLabel>
+        <content src="Text/Chapter0371.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-378" playOrder="378">
+        <navLabel>
+          <text>第三百七十章 剑过天笏峰</text>
+        </navLabel>
+        <content src="Text/Chapter0372.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-379" playOrder="379">
+        <navLabel>
+          <text>第三百七十一章 阁主拦江</text>
+        </navLabel>
+        <content src="Text/Chapter0373.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-380" playOrder="380">
+        <navLabel>
+          <text>第三百七十二章 一片孤城万仞山</text>
+        </navLabel>
+        <content src="Text/Chapter0374.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-381" playOrder="381">
+        <navLabel>
+          <text>第三百七十三章 孤城一座见死生</text>
+        </navLabel>
+        <content src="Text/Chapter0375.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-382" playOrder="382">
+        <navLabel>
+          <text>第三百七十四章 相逢孤云城</text>
+        </navLabel>
+        <content src="Text/Chapter0376.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-383" playOrder="383">
+        <navLabel>
+          <text>第三百七十五章 聚散别离万般痴</text>
+        </navLabel>
+        <content src="Text/Chapter0377.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-384" playOrder="384">
+        <navLabel>
+          <text>第三百七十六章 雾满庭院 旧事新帐</text>
+        </navLabel>
+        <content src="Text/Chapter0378.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-385" playOrder="385">
+        <navLabel>
+          <text>第三百七十七章 生米煮成熟饭</text>
+        </navLabel>
+        <content src="Text/Chapter0379.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-386" playOrder="386">
+        <navLabel>
+          <text>第三百七十八章 走向幽冥</text>
+        </navLabel>
+        <content src="Text/Chapter0380.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-387" playOrder="387">
+        <navLabel>
+          <text>第三百七十九章 断界</text>
+        </navLabel>
+        <content src="Text/Chapter0381.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-388" playOrder="388">
+        <navLabel>
+          <text>第三百八十章 尘封</text>
+        </navLabel>
+        <content src="Text/Chapter0382.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-389" playOrder="389">
+        <navLabel>
+          <text>第三百八十一章 神话之躯开天国</text>
+        </navLabel>
+        <content src="Text/Chapter0383.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-390" playOrder="390">
+        <navLabel>
+          <text>第三百八十二章 图穷匕见</text>
+        </navLabel>
+        <content src="Text/Chapter0384.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-391" playOrder="391">
+        <navLabel>
+          <text>第三百八十三章 日出东方！</text>
+        </navLabel>
+        <content src="Text/Chapter0385.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-392" playOrder="392">
+      <navLabel>
+        <text>白骨成圣碎青霄</text>
+      </navLabel>
+      <content src="Text/Vol05.xhtml"/>
+      <navPoint id="navPoint-393" playOrder="393">
+        <navLabel>
+          <text>第三百八十四章 缥缈楼</text>
+        </navLabel>
+        <content src="Text/Chapter0386.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-394" playOrder="394">
+        <navLabel>
+          <text>第三百八十五章 天狗吞月</text>
+        </navLabel>
+        <content src="Text/Chapter0387.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-395" playOrder="395">
+        <navLabel>
+          <text>第三百八十六章 夕阳下的身影</text>
+        </navLabel>
+        <content src="Text/Chapter0388.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-396" playOrder="396">
+        <navLabel>
+          <text>第三百八十七章 少年</text>
+        </navLabel>
+        <content src="Text/Chapter0389.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-397" playOrder="397">
+        <navLabel>
+          <text>第三百八十八章 先天灵</text>
+        </navLabel>
+        <content src="Text/Chapter0390.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-398" playOrder="398">
+        <navLabel>
+          <text>第三百八十九章 传承</text>
+        </navLabel>
+        <content src="Text/Chapter0391.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-399" playOrder="399">
+        <navLabel>
+          <text>第三百九十章 误见雪莲开处</text>
+        </navLabel>
+        <content src="Text/Chapter0392.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-400" playOrder="400">
+        <navLabel>
+          <text>第三百九十一章 夏夜湖风</text>
+        </navLabel>
+        <content src="Text/Chapter0393.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-401" playOrder="401">
+        <navLabel>
+          <text>第三百九十二章 合欢宗主</text>
+        </navLabel>
+        <content src="Text/Chapter0394.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-402" playOrder="402">
+        <navLabel>
+          <text>第三百九十三章 匿思</text>
+        </navLabel>
+        <content src="Text/Chapter0395.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-403" playOrder="403">
+        <navLabel>
+          <text>第三百九十四章 神国创始</text>
+        </navLabel>
+        <content src="Text/Chapter0396.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-404" playOrder="404">
+        <navLabel>
+          <text>第三百九十五章 尽在牢笼中</text>
+        </navLabel>
+        <content src="Text/Chapter0397.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-405" playOrder="405">
+        <navLabel>
+          <text>第三百九十六章 南荒</text>
+        </navLabel>
+        <content src="Text/Chapter0398.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-406" playOrder="406">
+        <navLabel>
+          <text>第三百九十七章 月上柳梢头</text>
+        </navLabel>
+        <content src="Text/Chapter0399.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-407" playOrder="407">
+        <navLabel>
+          <text>第三百九十八章 千峰剑争</text>
+        </navLabel>
+        <content src="Text/Chapter0400.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-408" playOrder="408">
+        <navLabel>
+          <text>第三百九十九章 路转峰回雨丝哀</text>
+        </navLabel>
+        <content src="Text/Chapter0401.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-409" playOrder="409">
+        <navLabel>
+          <text>第四百章 星火飘摇夜光沉</text>
+        </navLabel>
+        <content src="Text/Chapter0402.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-410" playOrder="410">
+        <navLabel>
+          <text>第四百零一章 海上围猎 山间夜赌</text>
+        </navLabel>
+        <content src="Text/Chapter0403.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-411" playOrder="411">
+        <navLabel>
+          <text>第四百零二章 泉鳞之月</text>
+        </navLabel>
+        <content src="Text/Chapter0404.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-412" playOrder="412">
+        <navLabel>
+          <text>第四百零三章 星空</text>
+        </navLabel>
+        <content src="Text/Chapter0405.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-413" playOrder="413">
+        <navLabel>
+          <text>第四百零四章 白城遇仙</text>
+        </navLabel>
+        <content src="Text/Chapter0406.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-414" playOrder="414">
+        <navLabel>
+          <text>第四百零五章 眺望北冥的少女与猫</text>
+        </navLabel>
+        <content src="Text/Chapter0407.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-415" playOrder="415">
+        <navLabel>
+          <text>第四百零六章 黑月</text>
+        </navLabel>
+        <content src="Text/Chapter0408.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-416" playOrder="416">
+        <navLabel>
+          <text>第四百零七章 月行人间多清辉</text>
+        </navLabel>
+        <content src="Text/Chapter0409.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-417" playOrder="417">
+        <navLabel>
+          <text>第四百零八章 小龄与小黎的初次会面</text>
+        </navLabel>
+        <content src="Text/Chapter0410.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-418" playOrder="418">
+        <navLabel>
+          <text>第四百零九章 南溟</text>
+        </navLabel>
+        <content src="Text/Chapter0411.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-419" playOrder="419">
+        <navLabel>
+          <text>第四百一十章 三面杀机 四处皆敌</text>
+        </navLabel>
+        <content src="Text/Chapter0412.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-420" playOrder="420">
+        <navLabel>
+          <text>第四百一十一章 白虎啸长河</text>
+        </navLabel>
+        <content src="Text/Chapter0413.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-421" playOrder="421">
+        <navLabel>
+          <text>第四百一十二章 洛河红楼 金乌残国</text>
+        </navLabel>
+        <content src="Text/Chapter0414.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-422" playOrder="422">
+        <navLabel>
+          <text>第四百一十三章 洛河之畔的守望</text>
+        </navLabel>
+        <content src="Text/Chapter0415.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-423" playOrder="423">
+        <navLabel>
+          <text>第四百一十四章 青驹驾车往南去</text>
+        </navLabel>
+        <content src="Text/Chapter0416.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-424" playOrder="424">
+        <navLabel>
+          <text>第四百一十五章 凤火烧云空 金辇落南海</text>
+        </navLabel>
+        <content src="Text/Chapter0417.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-425" playOrder="425">
+        <navLabel>
+          <text>第四百一十六章 太阳神国之主</text>
+        </navLabel>
+        <content src="Text/Chapter0418.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-426" playOrder="426">
+        <navLabel>
+          <text>第四百一十七章 万剑与我同归墟</text>
+        </navLabel>
+        <content src="Text/Chapter0419.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-427" playOrder="427">
+        <navLabel>
+          <text>第四百一十八章 野火烧不尽</text>
+        </navLabel>
+        <content src="Text/Chapter0420.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-428" playOrder="428">
+        <navLabel>
+          <text>第四百一十九章 伐我身同骨 铸为剑与棺</text>
+        </navLabel>
+        <content src="Text/Chapter0421.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-429" playOrder="429">
+        <navLabel>
+          <text>第四百二十章 初醒</text>
+        </navLabel>
+        <content src="Text/Chapter0422.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-430" playOrder="430">
+        <navLabel>
+          <text>第四百二十一章 宁家大院</text>
+        </navLabel>
+        <content src="Text/Chapter0423.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-431" playOrder="431">
+        <navLabel>
+          <text>第四百二十二章 洛书外的未解之谜</text>
+        </navLabel>
+        <content src="Text/Chapter0424.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-432" playOrder="432">
+        <navLabel>
+          <text>第四百二十三章 开始收束的线</text>
+        </navLabel>
+        <content src="Text/Chapter0425.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-433" playOrder="433">
+        <navLabel>
+          <text>第四百二十四章 将离</text>
+        </navLabel>
+        <content src="Text/Chapter0426.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-434" playOrder="434">
+        <navLabel>
+          <text>第四百二十五章 嫁衣</text>
+        </navLabel>
+        <content src="Text/Chapter0427.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-435" playOrder="435">
+        <navLabel>
+          <text>第四百二十六章 送葬</text>
+        </navLabel>
+        <content src="Text/Chapter0428.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-436" playOrder="436">
+        <navLabel>
+          <text>第四百二十七章 剑至古煌</text>
+        </navLabel>
+        <content src="Text/Chapter0429.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-437" playOrder="437">
+        <navLabel>
+          <text>第四百二十八章 世界的真相</text>
+        </navLabel>
+        <content src="Text/Chapter0430.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-438" playOrder="438">
+        <navLabel>
+          <text>第四百二十九章 古往今来的星辰大海</text>
+        </navLabel>
+        <content src="Text/Chapter0431.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-439" playOrder="439">
+        <navLabel>
+          <text>第四百三十章 暮色残阳妖见妖</text>
+        </navLabel>
+        <content src="Text/Chapter0432.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-440" playOrder="440">
+        <navLabel>
+          <text>第四百三十一章 剑圣</text>
+        </navLabel>
+        <content src="Text/Chapter0433.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-441" playOrder="441">
+        <navLabel>
+          <text>第四百三十二章 神仙老虎狗</text>
+        </navLabel>
+        <content src="Text/Chapter0434.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-442" playOrder="442">
+        <navLabel>
+          <text>第四百三十三章 齐天大圣</text>
+        </navLabel>
+        <content src="Text/Chapter0435.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-443" playOrder="443">
+        <navLabel>
+          <text>第四百三十四章 白骨成佛</text>
+        </navLabel>
+        <content src="Text/Chapter0436.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-444" playOrder="444">
+        <navLabel>
+          <text>第四百三十五章 世界修复之战</text>
+        </navLabel>
+        <content src="Text/Chapter0437.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-445" playOrder="445">
+      <navLabel>
+        <text>尾声</text>
+      </navLabel>
+      <content src="Text/Vol06.xhtml"/>
+      <navPoint id="navPoint-446" playOrder="446">
+        <navLabel>
+          <text>第四百三十六章 杀神</text>
+        </navLabel>
+        <content src="Text/Chapter0438.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-447" playOrder="447">
+        <navLabel>
+          <text>第四百三十七章 灭国</text>
+        </navLabel>
+        <content src="Text/Chapter0439.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-448" playOrder="448">
+        <navLabel>
+          <text>第四百三十八章 饲养</text>
+        </navLabel>
+        <content src="Text/Chapter0440.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-449" playOrder="449">
+        <navLabel>
+          <text>第四百三十九章 师徒</text>
+        </navLabel>
+        <content src="Text/Chapter0441.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-450" playOrder="450">
+        <navLabel>
+          <text>第四百四十章 镜子</text>
+        </navLabel>
+        <content src="Text/Chapter0442.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-451" playOrder="451">
+        <navLabel>
+          <text>第四百四十一章 破碎</text>
+        </navLabel>
+        <content src="Text/Chapter0443.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-452" playOrder="452">
+        <navLabel>
+          <text>第四百四十二章 大雪</text>
+        </navLabel>
+        <content src="Text/Chapter0444.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-453" playOrder="453">
+        <navLabel>
+          <text>第四百四十三章 界碑</text>
+        </navLabel>
+        <content src="Text/Chapter0445.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-454" playOrder="454">
+        <navLabel>
+          <text>第四百四十四章 坏女人我来当</text>
+        </navLabel>
+        <content src="Text/Chapter0446.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-455" playOrder="455">
+        <navLabel>
+          <text>第四百四十五章 火凤亮羽 嫁嫁在后</text>
+        </navLabel>
+        <content src="Text/Chapter0447.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-456" playOrder="456">
+        <navLabel>
+          <text>第四百四十六章 家法</text>
+        </navLabel>
+        <content src="Text/Chapter0448.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-457" playOrder="457">
+        <navLabel>
+          <text>第四百四十七章 三千世界鸦杀尽</text>
+        </navLabel>
+        <content src="Text/Chapter0449.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-458" playOrder="458">
+        <navLabel>
+          <text>第四百四十八章 姐妹</text>
+        </navLabel>
+        <content src="Text/Chapter0450.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-459" playOrder="459">
+        <navLabel>
+          <text>第四百四十九章 白藏斩灵</text>
+        </navLabel>
+        <content src="Text/Chapter0451.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-460" playOrder="460">
+        <navLabel>
+          <text>第四百五十章 消失的冥狰</text>
+        </navLabel>
+        <content src="Text/Chapter0452.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-461" playOrder="461">
+        <navLabel>
+          <text>第四百五十一章 戏中的人与墓</text>
+        </navLabel>
+        <content src="Text/Chapter0453.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-462" playOrder="462">
+        <navLabel>
+          <text>第四百五十二章 丧家野犬</text>
+        </navLabel>
+        <content src="Text/Chapter0454.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-463" playOrder="463">
+        <navLabel>
+          <text>第四百五十三章 灭世之灾</text>
+        </navLabel>
+        <content src="Text/Chapter0455.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-464" playOrder="464">
+        <navLabel>
+          <text>第四百五十四章 空猎</text>
+        </navLabel>
+        <content src="Text/Chapter0456.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-465" playOrder="465">
+        <navLabel>
+          <text>第四百五十五章 离离原上草</text>
+        </navLabel>
+        <content src="Text/Chapter0457.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-466" playOrder="466">
+        <navLabel>
+          <text>第四百五十六章 最终的审判</text>
+        </navLabel>
+        <content src="Text/Chapter0458.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-467" playOrder="467">
+        <navLabel>
+          <text>第四百五十七章 说罪</text>
+        </navLabel>
+        <content src="Text/Chapter0459.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-468" playOrder="468">
+        <navLabel>
+          <text>第四百五十八章 踏春</text>
+        </navLabel>
+        <content src="Text/Chapter0460.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-469" playOrder="469">
+        <navLabel>
+          <text>第四百五十九章 天外之物</text>
+        </navLabel>
+        <content src="Text/Chapter0461.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-470" playOrder="470">
+        <navLabel>
+          <text>第四百六十章 星辰陨灭古龙吟</text>
+        </navLabel>
+        <content src="Text/Chapter0462.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-471" playOrder="471">
+        <navLabel>
+          <text>第四百六十一章 有期之梦</text>
+        </navLabel>
+        <content src="Text/Chapter0463.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-472" playOrder="472">
+        <navLabel>
+          <text>第四百六十二章 长梦</text>
+        </navLabel>
+        <content src="Text/Chapter0464.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-473" playOrder="473">
+        <navLabel>
+          <text>第四百六十三章 无名婚书与循环之梦</text>
+        </navLabel>
+        <content src="Text/Chapter0465.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-474" playOrder="474">
+        <navLabel>
+          <text>第四百六十四章 蝴蝶</text>
+        </navLabel>
+        <content src="Text/Chapter0466.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-475" playOrder="475">
+        <navLabel>
+          <text>第四百六十五章 月色何皎皎 曾照一双人</text>
+        </navLabel>
+        <content src="Text/Chapter0467.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-476" playOrder="476">
+        <navLabel>
+          <text>第四百六十六章 叶婵宫的微笑</text>
+        </navLabel>
+        <content src="Text/Chapter0468.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-477" playOrder="477">
+        <navLabel>
+          <text>第四百六十七章 弹指一挥间</text>
+        </navLabel>
+        <content src="Text/Chapter0469.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-478" playOrder="478">
+        <navLabel>
+          <text>第四百六十八章 宿命</text>
+        </navLabel>
+        <content src="Text/Chapter0470.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-479" playOrder="479">
+        <navLabel>
+          <text>第四百六十九章 朱雀</text>
+        </navLabel>
+        <content src="Text/Chapter0471.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-480" playOrder="480">
+        <navLabel>
+          <text>第四百七十章 暗日降临！</text>
+        </navLabel>
+        <content src="Text/Chapter0472.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-481" playOrder="481">
+        <navLabel>
+          <text>第四百七十一章 逆命</text>
+        </navLabel>
+        <content src="Text/Chapter0473.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-482" playOrder="482">
+        <navLabel>
+          <text>第四百七十二章 射日之弓</text>
+        </navLabel>
+        <content src="Text/Chapter0474.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-483" playOrder="483">
+        <navLabel>
+          <text>第四百七十三章 剑与旧时代</text>
+        </navLabel>
+        <content src="Text/Chapter0475.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-484" playOrder="484">
+        <navLabel>
+          <text>第四百七十四章 不昼国的勇士</text>
+        </navLabel>
+        <content src="Text/Chapter0476.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-485" playOrder="485">
+        <navLabel>
+          <text>第四百七十五章 他自黑暗来</text>
+        </navLabel>
+        <content src="Text/Chapter0477.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-486" playOrder="486">
+        <navLabel>
+          <text>第四百七十六章 暗日降临！（下）</text>
+        </navLabel>
+        <content src="Text/Chapter0478.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-487" playOrder="487">
+        <navLabel>
+          <text>第四百七十七章 日落</text>
+        </navLabel>
+        <content src="Text/Chapter0479.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-488" playOrder="488">
+        <navLabel>
+          <text>第四百七十八章 待子时天悬玉蟾</text>
+        </navLabel>
+        <content src="Text/Chapter0480.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-489" playOrder="489">
+        <navLabel>
+          <text>第四百七十九章 千载婚约</text>
+        </navLabel>
+        <content src="Text/Chapter0481.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-490" playOrder="490">
+        <navLabel>
+          <text>第四百八十章 卧看牵牛织女星</text>
+        </navLabel>
+        <content src="Text/Chapter0482.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-491" playOrder="491">
+      <navLabel>
+        <text>番外</text>
+      </navLabel>
+      <content src="Text/vol07.xhtml"/>
+      <navPoint id="navPoint-492" playOrder="492">
+        <navLabel>
+          <text>第一章 番外 陆仙子与她的剑宗学堂记事</text>
+        </navLabel>
+        <content src="Text/Chapter0483.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-493" playOrder="493">
+        <navLabel>
+          <text>第二章 番外 与襄儿的泛舟夜游</text>
+        </navLabel>
+        <content src="Text/Chapter0484.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-494" playOrder="494">
+        <navLabel>
+          <text>第三章 番外 我的同桌是剑灵</text>
+        </navLabel>
+        <content src="Text/Chapter0486.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-495" playOrder="495">
+        <navLabel>
+          <text>第四章 番外 断界城的审判之夜</text>
+        </navLabel>
+        <content src="Text/Chapter0487.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-496" playOrder="496">
+        <navLabel>
+          <text>第五章 番外 与女帝陛下的赌约</text>
+        </navLabel>
+        <content src="Text/Chapter0488.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-497" playOrder="497">
+        <navLabel>
+          <text>第六章 番外 被欺负的襄儿与陆仙子的威仪</text>
+        </navLabel>
+        <content src="Text/Chapter0489.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-498" playOrder="498">
+        <navLabel>
+          <text>第七章 番外 嫁嫁师父的阴谋大败露</text>
+        </navLabel>
+        <content src="Text/Chapter0490.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-499" playOrder="499">
+        <navLabel>
+          <text>第八章 番外 学堂上的灵罗果实验</text>
+        </navLabel>
+        <content src="Text/Chapter0491.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-500" playOrder="500">
+        <navLabel>
+          <text>第九章 番外 各怀鬼胎的剑阁师姐妹</text>
+        </navLabel>
+        <content src="Text/Chapter0492.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-501" playOrder="501">
+        <navLabel>
+          <text>第十章 番外 剑阁师姐妹与阁主的暧昧之旅</text>
+        </navLabel>
+        <content src="Text/Chapter0493.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-502" playOrder="502">
+        <navLabel>
+          <text>第十一章 番外 最后的旅程与大决战之夜（十一）</text>
+        </navLabel>
+        <content src="Text/Chapter0494.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-503" playOrder="503">
+        <navLabel>
+          <text>第十二章 番外 赌约与最终的告白（十二）</text>
+        </navLabel>
+        <content src="Text/Chapter0495.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-504" playOrder="504">
+        <navLabel>
+          <text>第十三章 番外 并蒂之花盛放的夜（十三）</text>
+        </navLabel>
+        <content src="Text/Chapter0496.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-505" playOrder="505">
+        <navLabel>
+          <text>第十四章 番外 夜深人静，襄儿殿下不为人知的一面（十四）</text>
+        </navLabel>
+        <content src="Text/Chapter0497.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-506" playOrder="506">
+        <navLabel>
+          <text>第十五章 番外 神女应无恙（十五）</text>
+        </navLabel>
+        <content src="Text/Chapter0498.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-507" playOrder="507">
+        <navLabel>
+          <text>第十六章 番外 第十六篇番外以及暂停更新的说明</text>
+        </navLabel>
+        <content src="Text/Chapter0499.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-508" playOrder="508">
+        <navLabel>
+          <text>第十七章 番外 小狐狸师妹与西行之路（十七）</text>
+        </navLabel>
+        <content src="Text/Chapter0500.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-509" playOrder="509">
+        <navLabel>
+          <text>第十八章 番外 难辨真假的小黎与天外亮起的星（十八）</text>
+        </navLabel>
+        <content src="Text/Chapter0501.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-510" playOrder="510">
+        <navLabel>
+          <text>第十九章 番外 中秋！前往不可观（十九）</text>
+        </navLabel>
+        <content src="Text/Chapter0502.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-511" playOrder="511">
+        <navLabel>
+          <text>第二十章 番外 大树下，抱着师尊望月亮（二十）</text>
+        </navLabel>
+        <content src="Text/Chapter0503.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-512" playOrder="512">
+        <navLabel>
+          <text>第二十一章 番外 中秋（完结）</text>
+        </navLabel>
+        <content src="Text/Chapter0504.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

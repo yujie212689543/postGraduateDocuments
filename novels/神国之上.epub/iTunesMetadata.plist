@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>28999680</integer>
+	<key>BKDisplayName</key>
+	<string>神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk)</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>802459613</integer>
+	<key>artistName</key>
+	<string>见异思剑</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>6D2CFC1B76B70EE7D008E82FD271B8AD</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>7E4F5AA11F38BEF982C8BF0FD7D43E07</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:37ab1778-08c6-49e3-9a52-724ca4b53950</string>
+		<key>unique-id</key>
+		<integer>-2422124515449605238</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>神国之上</string>
+	<key>updateDate</key>
+	<date>2026-06-06T17:26:53Z</date>
+</dict>
+</plist>
