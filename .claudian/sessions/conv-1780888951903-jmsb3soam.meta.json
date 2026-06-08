@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780888951903-jmsb3soam",
+  "providerId": "claude",
+  "title": "Revise exam prep plan per position screening",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780888951903,
+  "updatedAt": 1780888985224,
+  "lastResponseAt": 1780888985224,
+  "sessionId": "d73b83c8-abef-4b6f-9472-3cbcf9d3f010",
+  "providerState": {
+    "providerSessionId": "d73b83c8-abef-4b6f-9472-3cbcf9d3f010"
+  },
+  "currentNote": "军队文职/个人岗位分析报告.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1000,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32768,
+    "contextWindow": 1000000,
+    "contextTokens": 33768,
+    "percentage": 3
+  }
+}
