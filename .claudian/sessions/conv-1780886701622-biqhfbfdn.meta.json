@@ -4,20 +4,19 @@
   "title": "Revise education timeline text",
   "titleGenerationStatus": "success",
   "createdAt": 1780886701626,
-  "updatedAt": 1780886715566,
-  "lastResponseAt": 1780886715566,
+  "updatedAt": 1780888038314,
+  "lastResponseAt": 1780888038314,
   "sessionId": "7257cd42-1477-4787-9030-7391942cf445",
   "providerState": {
     "providerSessionId": "7257cd42-1477-4787-9030-7391942cf445"
   },
-  "currentNote": "军队文职/岗位筛选方法论文档.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 724,
+    "inputTokens": 4117,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 20864,
+    "cacheReadInputTokens": 22528,
     "contextWindow": 1000000,
-    "contextTokens": 21588,
-    "percentage": 2
+    "contextTokens": 26645,
+    "percentage": 3
   }
 }
