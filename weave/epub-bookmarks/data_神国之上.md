@@ -2,7 +2,7 @@
 format: "weave-epub-bookmarks/v2"
 weave_epub_bookmark_file: true
 stableKey: "epubsrc-f3d1dd5a67d2"
-bookId: "epub-book-1dwzdgz"
+bookId: "epub-kse4v3"
 sourceId: "epubsrc-f3d1dd5a67d22d927e00a3ab"
 sourceFingerprint: "f3d1dd5a67d22d927e00a3abfcc6d3584e62a27dbbc57bc8b388bcb7a6950e23"
 bookPath: "novels/神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk).epub"
@@ -11,27 +11,26 @@ bookAuthor: "见异思剑"
 bookLanguage: "zh"
 wordCount: 2485686
 chapterCount: 512
-reading-progress: 26
+reading-progress: 0
 reading-status: "reading"
-reading-total-minutes: 12
-reading-wpm: 900
+reading-total-minutes: 0
+reading-wpm: 0
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 166
-    cfi: "epubcfi(/6/334!/4,/2,/478/1:2)"
-    percent: 26.20578778135048
+    chapterIndex: 0
+    cfi: "epubcfi(/6/2!/4,/1:0,/1:1)"
+    percent: 0
   readingStats:
-    totalReadTime: 717117
-    lastReadTime: 1780909492135
-    createdTime: 1780899806802
-    bookWpm: 900
-    paceSampleCount: 33
-    paceSampleWords: 595091
+    totalReadTime: 0
+    lastReadTime: 1780910517292
+    createdTime: 1780910517292
+    paceSampleCount: 0
+    paceSampleWords: 0
 bookmarks: []
 analytics:
-  updatedAt: 1780908907465
+  updatedAt: 1780910517754
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -39,7 +38,8 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1780909492146
+  recentExcerpts: []
+updatedAt: 1780910517754
 ---
 
 > [!abstract] 关于本页
@@ -50,7 +50,7 @@ updatedAt: 1780909492146
 
 # 神国之上
 
-*见异思剑* · `阅读中` · 进度 **26%**
+*见异思剑* · `阅读中` · 进度 **0%**
 
 [[novels/神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk).epub|打开书籍]]
 
@@ -60,15 +60,14 @@ updatedAt: 1780909492146
 
 | | |
 | :-- | --: |
-| 累计阅读 | 12 分钟 |
-| 阅读速度 | 900 字/分钟 |
+| 累计阅读 | 0 分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-08 17:04 |
+| 最近阅读 | 2026-06-08 17:21 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 167 章**（约 26%）。
+> 当前停在 **第 1 章**（约 0%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
