@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781005795257-9020p3hyj",
+  "providerId": "claude",
+  "title": "Respond to greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781005795257,
+  "updatedAt": 1781005799513,
+  "lastResponseAt": 1781005799513,
+  "sessionId": "a4a0a089-3ef4-4a2d-9ed6-af24c8da66d2",
+  "providerState": {
+    "providerSessionId": "a4a0a089-3ef4-4a2d-9ed6-af24c8da66d2"
+  },
+  "currentNote": "copilot/copilot-custom-prompts/Clip Web Page.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 20834,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 20834,
+    "percentage": 2
+  }
+}
