@@ -13,22 +13,22 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 40
 reading-status: "reading"
-reading-total-minutes: 10
+reading-total-minutes: 11
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 230
-    cfi: "epubcfi(/6/462!/4,/314/1:0,/336/1:30)"
-    percent: 40.19292604501607
+    chapterIndex: 231
+    cfi: "epubcfi(/6/464!/4,/232/1:37,/258/1:28)"
+    percent: 40.460878885316184
   readingStats:
-    totalReadTime: 625451
-    lastReadTime: 1781077158008
+    totalReadTime: 642927
+    lastReadTime: 1781077558045
     createdTime: 1780910517292
     bookWpm: 900
-    paceSampleCount: 24
-    paceSampleWords: 950774
+    paceSampleCount: 26
+    paceSampleWords: 954022
 bookmarks: []
 analytics:
   updatedAt: 1781076690344
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781077158023
+updatedAt: 1781077558058
 ---
 
 > [!abstract] 关于本页
@@ -60,15 +60,15 @@ updatedAt: 1781077158023
 
 | | |
 | :-- | --: |
-| 累计阅读 | 10 分钟 |
+| 累计阅读 | 11 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-10 15:39 |
+| 最近阅读 | 2026-06-10 15:45 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 231 章**（约 40%）。
+> 当前停在 **第 232 章**（约 40%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
