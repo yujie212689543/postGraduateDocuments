@@ -29,7 +29,7 @@ readingState:
     paceSampleWords: 930828
 bookmarks: []
 analytics:
-  updatedAt: 1781062457700
+  updatedAt: 1781068530194
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -38,7 +38,7 @@ analytics:
   topChaptersByHighlights: []
   linkedNotePaths: []
   recentExcerpts: []
-updatedAt: 1781062457700
+updatedAt: 1781068530194
 ---
 
 > [!abstract] 关于本页
