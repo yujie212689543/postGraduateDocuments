@@ -13,22 +13,22 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 42
 reading-status: "reading"
-reading-total-minutes: 12
+reading-total-minutes: 13
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 239
-    cfi: "epubcfi(/6/480!/4/2)"
-    percent: 42.068595927116824
+    chapterIndex: 240
+    cfi: "epubcfi(/6/482!/4,/44/1:43,/60/1:84)"
+    percent: 42.336548767416936
   readingStats:
-    totalReadTime: 748046
-    lastReadTime: 1781080437201
+    totalReadTime: 765039
+    lastReadTime: 1781080888667
     createdTime: 1780910517292
     bookWpm: 900
-    paceSampleCount: 34
-    paceSampleWords: 968873
+    paceSampleCount: 36
+    paceSampleWords: 972363
 bookmarks: []
 analytics:
   updatedAt: 1781078178705
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781080437213
+updatedAt: 1781080888681
 ---
 
 > [!abstract] 关于本页
@@ -60,15 +60,15 @@ updatedAt: 1781080437213
 
 | | |
 | :-- | --: |
-| 累计阅读 | 12 分钟 |
+| 累计阅读 | 13 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-10 16:33 |
+| 最近阅读 | 2026-06-10 16:41 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 240 章**（约 42%）。
+> 当前停在 **第 241 章**（约 42%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
