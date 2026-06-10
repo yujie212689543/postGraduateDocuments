@@ -19,19 +19,19 @@ highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 228
-    cfi: "epubcfi(/6/458!/4,/204,/220/1:11)"
-    percent: 39.71061093247588
+    chapterIndex: 229
+    cfi: "epubcfi(/6/460!/4,/328/1:34,/352/1:28)"
+    percent: 39.92497320471597
   readingStats:
-    totalReadTime: 521724
-    lastReadTime: 1781074466485
+    totalReadTime: 541204
+    lastReadTime: 1781075532890
     createdTime: 1780910517292
     bookWpm: 900
-    paceSampleCount: 21
-    paceSampleWords: 945437
+    paceSampleCount: 22
+    paceSampleWords: 947376
 bookmarks: []
 analytics:
-  updatedAt: 1781073289604
+  updatedAt: 1781075528283
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781074466498
+updatedAt: 1781075532896
 ---
 
 > [!abstract] 关于本页
@@ -65,10 +65,10 @@ updatedAt: 1781074466498
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-10 14:54 |
+| 最近阅读 | 2026-06-10 15:12 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 229 章**（约 40%）。
+> 当前停在 **第 230 章**（约 40%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
