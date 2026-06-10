@@ -11,24 +11,24 @@ bookAuthor: "见异思剑"
 bookLanguage: "zh"
 wordCount: 2485686
 chapterCount: 512
-reading-progress: 39
+reading-progress: 40
 reading-status: "reading"
-reading-total-minutes: 8
+reading-total-minutes: 9
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 227
-    cfi: "epubcfi(/6/456!/4,/60/1:27,/80/1:24)"
-    percent: 39.442658092175776
+    chapterIndex: 228
+    cfi: "epubcfi(/6/458!/4,/204,/220/1:11)"
+    percent: 39.71061093247588
   readingStats:
-    totalReadTime: 470862
-    lastReadTime: 1781073801627
+    totalReadTime: 521724
+    lastReadTime: 1781074466485
     createdTime: 1780910517292
     bookWpm: 900
-    paceSampleCount: 18
-    paceSampleWords: 939593
+    paceSampleCount: 21
+    paceSampleWords: 945437
 bookmarks: []
 analytics:
   updatedAt: 1781073289604
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781073801640
+updatedAt: 1781074466498
 ---
 
 > [!abstract] 关于本页
@@ -50,7 +50,7 @@ updatedAt: 1781073801640
 
 # 神国之上
 
-*见异思剑* · `阅读中` · 进度 **39%**
+*见异思剑* · `阅读中` · 进度 **40%**
 
 [[novels/神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk).epub|打开书籍]]
 
@@ -60,15 +60,15 @@ updatedAt: 1781073801640
 
 | | |
 | :-- | --: |
-| 累计阅读 | 8 分钟 |
+| 累计阅读 | 9 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-10 14:43 |
+| 最近阅读 | 2026-06-10 14:54 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 228 章**（约 39%）。
+> 当前停在 **第 229 章**（约 40%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
