@@ -19,16 +19,16 @@ highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 264
-    cfi: "epubcfi(/6/530!/4/2)"
-    percent: 47.05251875669882
+    chapterIndex: 265
+    cfi: "epubcfi(/6/532!/4,/60/1:19,/76/1:51)"
+    percent: 47.32047159699893
   readingStats:
-    totalReadTime: 164120
-    lastReadTime: 1781157863555
+    totalReadTime: 174278
+    lastReadTime: 1781158376292
     createdTime: 1781082985136
     bookWpm: 900
-    paceSampleCount: 7
-    paceSampleWords: 1139169
+    paceSampleCount: 8
+    paceSampleWords: 1140958
 bookmarks: []
 analytics:
   updatedAt: 1781157447798
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781157863568
+updatedAt: 1781158376304
 ---
 
 > [!abstract] 关于本页
@@ -65,10 +65,10 @@ updatedAt: 1781157863568
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-11 14:04 |
+| 最近阅读 | 2026-06-11 14:12 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 265 章**（约 47%）。
+> 当前停在 **第 266 章**（约 47%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
