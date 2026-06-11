@@ -10,3 +10,4 @@
 - **Jupyter notebook code & markdown 切换**
 	- Code ---esc+y
 	- Markdown ---esc+m
+- **切换输入法**--- control+space
