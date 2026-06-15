@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781502808472-v4i1dj3yh",
+  "providerId": "claude",
+  "title": "Categorize AI use cases into four domains",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781502808473,
+  "updatedAt": 1781502852182,
+  "lastResponseAt": 1781502852182,
+  "sessionId": "8f088c47-bebd-4af4-8bf1-e0d4d9d14931",
+  "providerState": {
+    "providerSessionId": "8f088c47-bebd-4af4-8bf1-e0d4d9d14931"
+  },
+  "currentNote": "2026江苏网络强省建设优秀实践成果申报表/填写.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 2546,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23680,
+    "contextWindow": 1000000,
+    "contextTokens": 26226,
+    "percentage": 3
+  }
+}
