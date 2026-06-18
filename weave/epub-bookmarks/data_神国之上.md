@@ -1,10 +1,8 @@
 ---
 format: "weave-epub-bookmarks/v2"
 weave_epub_bookmark_file: true
-stableKey: "epubsrc-f3d1dd5a67d2"
+stableKey: "神国之上"
 bookId: "epub-kse4v3"
-sourceId: "epubsrc-f3d1dd5a67d22d927e00a3ab"
-sourceFingerprint: "f3d1dd5a67d22d927e00a3abfcc6d3584e62a27dbbc57bc8b388bcb7a6950e23"
 bookPath: "novels/神国之上(多看精品版) (见异思剑) (z-library.sk, 1lib.sk, z-lib.sk).epub"
 bookTitle: "神国之上"
 bookAuthor: "见异思剑"
@@ -31,7 +29,7 @@ readingState:
     paceSampleWords: 1146250
 bookmarks: []
 analytics:
-  updatedAt: 1781268994314
+  updatedAt: 1781761967625
   highlightCount: 0
   highlightsByColor: {}
   excerptNoteCount: 0
@@ -40,7 +38,7 @@ analytics:
   topChaptersByHighlights: []
   linkedNotePaths: []
   recentExcerpts: []
-updatedAt: 1781268994314
+updatedAt: 1781761967625
 ---
 
 > [!abstract] 关于本页
