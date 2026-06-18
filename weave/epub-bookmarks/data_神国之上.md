@@ -13,22 +13,22 @@ wordCount: 2485686
 chapterCount: 512
 reading-progress: 62
 reading-status: "reading"
-reading-total-minutes: 6
+reading-total-minutes: 7
 reading-wpm: 900
 highlight-count: 0
 excerpt-note-count: 0
 readingState:
   currentPosition:
-    chapterIndex: 333
-    cfi: "epubcfi(/6/668!/4,/80/1:0,/104/1:20)"
-    percent: 61.521972132904615
+    chapterIndex: 334
+    cfi: "epubcfi(/6/670!/4,/188/1:26,/212/1:61)"
+    percent: 61.78992497320471
   readingStats:
-    totalReadTime: 349226
-    lastReadTime: 1781773054120
+    totalReadTime: 436421
+    lastReadTime: 1781773571700
     createdTime: 1781082985136
     bookWpm: 900
-    paceSampleCount: 15
-    paceSampleWords: 1498420
+    paceSampleCount: 19
+    paceSampleWords: 1505958
 bookmarks: []
 analytics:
   updatedAt: 1781771347568
@@ -39,7 +39,7 @@ analytics:
   concealedCount: 0
   topChaptersByHighlights: []
   linkedNotePaths: []
-updatedAt: 1781773054136
+updatedAt: 1781773571713
 ---
 
 > [!abstract] 关于本页
@@ -60,15 +60,15 @@ updatedAt: 1781773054136
 
 | | |
 | :-- | --: |
-| 累计阅读 | 6 分钟 |
+| 累计阅读 | 7 分钟 |
 | 阅读速度 | 900 字/分钟 |
 | 高亮 | 0 处 |
 | 关联笔记 | 0 篇 |
 | 书签 | 0 个 |
-| 最近阅读 | 2026-06-18 16:57 |
+| 最近阅读 | 2026-06-18 17:06 |
 
 > [!tip] 继续阅读
-> 当前停在 **第 334 章**（约 62%）。
+> 当前停在 **第 335 章**（约 62%）。
 > 在 EPUB 阅读器中打开本书即可从上次位置继续。
 
 ## 书签
