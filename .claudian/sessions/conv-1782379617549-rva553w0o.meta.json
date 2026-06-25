@@ -4,8 +4,8 @@
   "title": "Create Obsidian traceability repository template",
   "titleGenerationStatus": "success",
   "createdAt": 1782379617553,
-  "updatedAt": 1782379690034,
-  "lastResponseAt": 1782379690034,
+  "updatedAt": 1782380109867,
+  "lastResponseAt": 1782380109867,
   "sessionId": "e44a4168-670e-4e6f-972b-b489ee22e9b9",
   "providerState": {
     "providerSessionId": "e44a4168-670e-4e6f-972b-b489ee22e9b9"
@@ -13,11 +13,11 @@
   "currentNote": "2026江苏网络强省建设优秀实践成果申报表/成果溯源库.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 85,
+    "inputTokens": 81,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 46720,
+    "cacheReadInputTokens": 55424,
     "contextWindow": 1000000,
-    "contextTokens": 46805,
-    "percentage": 5
+    "contextTokens": 55505,
+    "percentage": 6
   }
 }
