@@ -11,3 +11,4 @@
 	- Code ---esc+y
 	- Markdown ---esc+m
 - **切换输入法**--- control+space
+- **邮件字体调整**--- `Command`（⌘）+ `+` /  按  `Command`（⌘）+ `-`
