@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782875766906-0ieei2ro5",
+  "providerId": "claude",
+  "title": "Merge registration notice into student guide",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782875766909,
+  "updatedAt": 1782875851113,
+  "lastResponseAt": 1782875851113,
+  "sessionId": "356393f4-6e22-46cb-82ad-d13ea2241042",
+  "providerState": {
+    "providerSessionId": "356393f4-6e22-46cb-82ad-d13ea2241042"
+  },
+  "currentNote": "开学前规划/研究生新生须知.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 181,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37504,
+    "contextWindow": 1000000,
+    "contextTokens": 37685,
+    "percentage": 4
+  }
+}
