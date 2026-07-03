@@ -4,8 +4,8 @@
   "title": "Revise government AI model description",
   "titleGenerationStatus": "success",
   "createdAt": 1783041288349,
-  "updatedAt": 1783041504513,
-  "lastResponseAt": 1783041504513,
+  "updatedAt": 1783042200894,
+  "lastResponseAt": 1783042200894,
   "sessionId": "2b96236f-6dc3-413b-8456-3b2d33c12413",
   "providerState": {
     "providerSessionId": "2b96236f-6dc3-413b-8456-3b2d33c12413"
@@ -13,11 +13,11 @@
   "currentNote": "2026数据大赛-江苏分赛/项目简述.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 1015,
+    "inputTokens": 644,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 23552,
+    "cacheReadInputTokens": 30976,
     "contextWindow": 1000000,
-    "contextTokens": 24567,
-    "percentage": 2
+    "contextTokens": 31620,
+    "percentage": 3
   }
 }
