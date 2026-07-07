@@ -1,0 +1,22 @@
+{
+  "id": "conv-1783411185269-4ilu1arqb",
+  "providerId": "claude",
+  "title": "Draft internship certificate position and duties",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783411185272,
+  "updatedAt": 1783411295222,
+  "lastResponseAt": 1783411295222,
+  "sessionId": "0a142da7-fc1c-4e75-9aed-78e1b387be87",
+  "providerState": {
+    "providerSessionId": "0a142da7-fc1c-4e75-9aed-78e1b387be87"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 185,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43392,
+    "contextWindow": 1000000,
+    "contextTokens": 43577,
+    "percentage": 4
+  }
+}
