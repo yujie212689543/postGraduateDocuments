@@ -4,8 +4,8 @@
   "title": "Merge registration notice into student guide",
   "titleGenerationStatus": "success",
   "createdAt": 1782875766909,
-  "updatedAt": 1783388862245,
-  "lastResponseAt": 1783388862245,
+  "updatedAt": 1783394060131,
+  "lastResponseAt": 1783394060131,
   "sessionId": "356393f4-6e22-46cb-82ad-d13ea2241042",
   "providerState": {
     "providerSessionId": "356393f4-6e22-46cb-82ad-d13ea2241042"
@@ -13,11 +13,11 @@
   "currentNote": "开学前规划/研究生新生须知.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 539,
+    "inputTokens": 766,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 92160,
+    "cacheReadInputTokens": 92672,
     "contextWindow": 1000000,
-    "contextTokens": 92699,
+    "contextTokens": 93438,
     "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
