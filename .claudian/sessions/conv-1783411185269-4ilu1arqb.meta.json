@@ -4,19 +4,19 @@
   "title": "Draft internship certificate position and duties",
   "titleGenerationStatus": "success",
   "createdAt": 1783411185272,
-  "updatedAt": 1783412346777,
-  "lastResponseAt": 1783412346777,
+  "updatedAt": 1783412880178,
+  "lastResponseAt": 1783412880178,
   "sessionId": "0a142da7-fc1c-4e75-9aed-78e1b387be87",
   "providerState": {
     "providerSessionId": "0a142da7-fc1c-4e75-9aed-78e1b387be87"
   },
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 436,
+    "inputTokens": 318,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 44800,
+    "cacheReadInputTokens": 45696,
     "contextWindow": 1000000,
-    "contextTokens": 45236,
+    "contextTokens": 46014,
     "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
