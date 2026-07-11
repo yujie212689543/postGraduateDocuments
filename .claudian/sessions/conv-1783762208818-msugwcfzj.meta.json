@@ -4,20 +4,19 @@
   "title": "Advise on document placement",
   "titleGenerationStatus": "success",
   "createdAt": 1783762208818,
-  "updatedAt": 1783762233286,
-  "lastResponseAt": 1783762233286,
+  "updatedAt": 1783762472772,
+  "lastResponseAt": 1783762472772,
   "sessionId": "afb24e96-2eed-4b70-a647-314a6e68c28e",
   "providerState": {
     "providerSessionId": "afb24e96-2eed-4b70-a647-314a6e68c28e"
   },
-  "currentNote": "AI Writing Skills 项目上下文（Project Context）.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 31,
+    "inputTokens": 51,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 29440,
+    "cacheReadInputTokens": 34688,
     "contextWindow": 1000000,
-    "contextTokens": 29471,
+    "contextTokens": 34739,
     "percentage": 3
   }
 }
