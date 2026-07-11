@@ -1,0 +1,22 @@
+{
+  "id": "conv-1783762096518-ok7ektsv0",
+  "providerId": "claude",
+  "title": "Create file for AI writing project context",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783762096519,
+  "updatedAt": 1783762171171,
+  "lastResponseAt": 1783762116528,
+  "sessionId": "f4ca59a2-958c-48ae-bd05-9b8b96718352",
+  "providerState": {
+    "providerSessionId": "f4ca59a2-958c-48ae-bd05-9b8b96718352"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 600,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextWindow": 1000000,
+    "contextTokens": 27352,
+    "percentage": 3
+  }
+}
