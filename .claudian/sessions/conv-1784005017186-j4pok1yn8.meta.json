@@ -1,0 +1,14 @@
+{
+  "id": "conv-1784005017186-j4pok1yn8",
+  "providerId": "claude",
+  "title": "你好",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1784005017186,
+  "updatedAt": 1784005045118,
+  "lastResponseAt": 1784005045118,
+  "sessionId": "0041d1ba-13d2-4e72-b7cf-a7890bc8e03f",
+  "providerState": {
+    "providerSessionId": "0041d1ba-13d2-4e72-b7cf-a7890bc8e03f"
+  },
+  "currentNote": "开学前规划/研究生新生须知.md"
+}
