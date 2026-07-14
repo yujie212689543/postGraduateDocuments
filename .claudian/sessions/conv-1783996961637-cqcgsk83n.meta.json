@@ -4,8 +4,8 @@
   "title": "Decipher Macau first entry stamp",
   "titleGenerationStatus": "success",
   "createdAt": 1783996961638,
-  "updatedAt": 1783998889176,
-  "lastResponseAt": 1783998889176,
+  "updatedAt": 1784002865610,
+  "lastResponseAt": 1784002865610,
   "sessionId": "d654578e-1b8a-434d-b32a-4793a88c0c8f",
   "providerState": {
     "providerSessionId": "d654578e-1b8a-434d-b32a-4793a88c0c8f"
@@ -13,11 +13,11 @@
   "currentNote": "开学前规划/研究生新生须知.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 115,
+    "inputTokens": 765,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 35840,
     "contextWindow": 1000000,
-    "contextTokens": 35955,
+    "contextTokens": 36605,
     "percentage": 4
   }
 }
