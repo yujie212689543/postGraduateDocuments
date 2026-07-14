@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783827681024-3c18v4sow",
+  "providerId": "claude",
+  "title": "确认逗留许可可否在大陆预约办理",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783827681024,
+  "updatedAt": 1783827870554,
+  "lastResponseAt": 1783827870554,
+  "sessionId": "441dd6f6-8b10-4245-ac04-6141d48d6396",
+  "providerState": {
+    "providerSessionId": "441dd6f6-8b10-4245-ac04-6141d48d6396"
+  },
+  "currentNote": "开学前规划/研究生新生须知.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 240,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 1000000,
+    "contextTokens": 30832,
+    "percentage": 3
+  }
+}
