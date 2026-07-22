@@ -4,8 +4,8 @@
   "title": "Update grad guide with registration",
   "titleGenerationStatus": "success",
   "createdAt": 1784107200569,
-  "updatedAt": 1784684976348,
-  "lastResponseAt": 1784684976348,
+  "updatedAt": 1784689321840,
+  "lastResponseAt": 1784689321840,
   "sessionId": "7a2648f5-f56b-4447-82dc-6327e44e7edc",
   "providerState": {
     "providerSessionId": "7a2648f5-f56b-4447-82dc-6327e44e7edc"
@@ -13,12 +13,12 @@
   "currentNote": "开学前规划/研究生新生须知.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 1021,
+    "inputTokens": 735,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 53632,
+    "cacheReadInputTokens": 57984,
     "contextWindow": 1000000,
-    "contextTokens": 54653,
-    "percentage": 5,
+    "contextTokens": 58719,
+    "percentage": 6,
     "contextWindowIsAuthoritative": true
   }
 }
