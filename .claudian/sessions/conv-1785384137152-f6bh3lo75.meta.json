@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785384137152-f6bh3lo75",
+  "providerId": "claude",
+  "title": "Suggest edits for Yakuza 6 essay",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785384137155,
+  "updatedAt": 1785384186302,
+  "lastResponseAt": 1785384186302,
+  "sessionId": "c07b6890-1c17-46d4-81ad-872b12a11d9a",
+  "providerState": {
+    "providerSessionId": "c07b6890-1c17-46d4-81ad-872b12a11d9a"
+  },
+  "currentNote": "如龙 6 个人评价.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 133,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28288,
+    "contextWindow": 1000000,
+    "contextTokens": 28421,
+    "percentage": 3
+  }
+}
