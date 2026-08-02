@@ -4,8 +4,8 @@
   "title": "Greet in Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1784005098117,
-  "updatedAt": 1785644568267,
-  "lastResponseAt": 1785644568267,
+  "updatedAt": 1785672227880,
+  "lastResponseAt": 1785672227880,
   "sessionId": "a6de725e-0960-4502-a384-468a1f1e0812",
   "providerState": {
     "providerSessionId": "a6de725e-0960-4502-a384-468a1f1e0812"
@@ -13,11 +13,11 @@
   "currentNote": "开学前规划/研究生新生须知.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 40363,
+    "inputTokens": 2160,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 41856,
     "contextWindow": 1000000,
-    "contextTokens": 40363,
+    "contextTokens": 44016,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
