@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786073446906-cy66qiswd",
+  "providerId": "claude",
+  "title": "Check local IP and port on Windows",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786073446906,
+  "updatedAt": 1786073464123,
+  "lastResponseAt": 1786073464123,
+  "sessionId": "a103a782-603e-4e7f-8f8a-ab60e07decca",
+  "providerState": {
+    "providerSessionId": "a103a782-603e-4e7f-8f8a-ab60e07decca"
+  },
+  "currentNote": "一些技术配置上的文档/开发工具/git上传配置.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 187,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26880,
+    "contextWindow": 1000000,
+    "contextTokens": 27067,
+    "percentage": 3
+  }
+}
