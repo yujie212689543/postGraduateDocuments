@@ -18,3 +18,4 @@ Linguistic structure  语言结构
 semi-supervised learning
 
 Extracion  提取
+Bias  偏见；偏好
