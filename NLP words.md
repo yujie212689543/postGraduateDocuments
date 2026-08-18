@@ -13,4 +13,4 @@ Discourse 演讲？
 Layer 层；层次；等级
 
 Caption  说明
-Linguistic structure
+Linguistic structure  语言结构
