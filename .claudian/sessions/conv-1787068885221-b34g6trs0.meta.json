@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787068885221-b34g6trs0",
+  "providerId": "claude",
+  "title": "我现在在澳门大学读研，专业是计算语言学，所以有很多这个专业领域的单词我不是很能理解，这个文件是我今天...",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1787068885224,
+  "updatedAt": 1787068936271,
+  "lastResponseAt": 1787068936271,
+  "sessionId": "560e17fb-7042-4478-a9dd-d9a1dea1fdd2",
+  "providerState": {
+    "providerSessionId": "560e17fb-7042-4478-a9dd-d9a1dea1fdd2"
+  },
+  "currentNote": "澳门大学课程/NLP words.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 154,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32512,
+    "contextWindow": 1000000,
+    "contextTokens": 32666,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
