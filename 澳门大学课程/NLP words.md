@@ -16,3 +16,5 @@ Caption  说明
 Linguistic structure  语言结构
 
 semi-supervised learning
+
+Extracion  提取
