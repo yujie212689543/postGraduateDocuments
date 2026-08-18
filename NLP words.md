@@ -14,3 +14,5 @@ Layer 层；层次；等级
 
 Caption  说明
 Linguistic structure  语言结构
+
+semi-supervised learning
