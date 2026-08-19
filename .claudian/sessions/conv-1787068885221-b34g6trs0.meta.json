@@ -4,21 +4,20 @@
   "title": "Reformat and explain linguistics vocab in MD",
   "titleGenerationStatus": "success",
   "createdAt": 1787068885224,
-  "updatedAt": 1787069226118,
-  "lastResponseAt": 1787068936271,
+  "updatedAt": 1787099697339,
+  "lastResponseAt": 1787099697339,
   "sessionId": "560e17fb-7042-4478-a9dd-d9a1dea1fdd2",
   "providerState": {
     "providerSessionId": "560e17fb-7042-4478-a9dd-d9a1dea1fdd2"
   },
-  "currentNote": "澳门大学课程/NLP words.md",
+  "currentNote": "澳门大学课程/NLP 专业词汇笔记（计算语言学）.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 154,
+    "inputTokens": 531,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32512,
+    "cacheReadInputTokens": 32640,
     "contextWindow": 1000000,
-    "contextTokens": 32666,
-    "percentage": 3,
-    "contextWindowIsAuthoritative": true
+    "contextTokens": 33171,
+    "percentage": 3
   }
 }
