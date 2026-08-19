@@ -11,6 +11,15 @@
 
 记住这条链，下面这些词就是在讲每一层在干嘛。
 
+|术语|词根拆解|你早就认识的词|秒懂|
+|---|---|---|---|
+|**Phonology**|**phone**（声音）+ logy（学科）|telephone 电话、headphone 耳机、microphone 麦克风|"研究声音系统的学科"|
+|**Morphology**|**morph**（形态、变形）+ logy|变形金刚 _Transformers_ 里的 morph 就是变形|"研究词的形态怎么变的学科"|
+|**Syntax**|**syn**（一起）+ **tax**（排列）|synthesize 合成、taxonomy 分类法|"词怎么**排在一起**才是合法句子"|
+|**Semantics**|**sema**（信号、意义）|sign 符号、signal 信号 同源|"研究意义/符号的学科"|
+|**Pragmatics**|**pragma**（行动、实用）|**pragmatic 务实的**（这个词你多半见过）|"研究语言**实际用起来**是啥意思"|
+|**Discourse**|**dis**（来回）+ **course**（跑）|current 水流、course 课程（都从"流动"来）|"语言来回流动"，即整段对话/语|
+
 ---
 
 ## 一、语言学六大分支（语言的层级）
