@@ -40,6 +40,14 @@ _Undergraduate Capstone Project_
 
 **Technologies:** WeChat Mini Program, JavaScript, Node.js, Express.js, MongoDB, Redis
 
+### **Financial Data Analysis — AAPL Price Trend**
 
+_Python Data Analysis Project_
+
+- **Conducted a basic exploratory analysis of Apple (AAPL) historical stock data using Python and Pandas, including data loading, preprocessing, and basic statistical analysis.**
+- **Analyzed historical price movements and visualized AAPL price trends to identify general patterns in stock price changes.**
+- **Developed the analysis in Jupyter Notebook and published the project on GitHub.**
+
+**Technologies:** Python, Pandas, Jupyter Notebook, GitHub
 
 ---
