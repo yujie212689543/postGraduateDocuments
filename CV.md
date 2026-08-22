@@ -159,8 +159,8 @@ _Python Data Analysis Project_
 ## **HONORS & AWARDS**
 
 - **Heilongjiang Provincial Outstanding Student (Three Good Student)** — 2023
-- **University Scholarship** — Heilongjiang Institute of Technology
-- **Outstanding Communist Youth League Member** — Heilongjiang Institute of Technology
+- **University Scholarship** — Heilongjiang Institute of Technology — 2023
+- **Outstanding Communist Youth League Member** — Heilongjiang Institute of Technology — 2019
 - **“Four-Haves” Outstanding Soldier** — 2021
 - **Company-Level Commendation** — 2021
 
