@@ -51,3 +51,17 @@ _Python Data Analysis Project_
 **Technologies:** Python, Pandas, Jupyter Notebook, GitHub
 
 ---
+HONORS & AWARDS
+
+• Heilongjiang Provincial Outstanding Student (Three Good Student), 2023
+• University Scholarship, Heilongjiang Institute of Technology
+• Outstanding Communist Youth League Member, Heilongjiang Institute of Technology
+• “Four-Haves” Outstanding Soldier, 2021
+• Company-Level Commendation, 
+
+---
+### **Military Service**
+
+**People's Liberation Army of China** | **Sep 2020 – Sep 2022**
+
+> Completed two years of compulsory military service, developing strong discipline, teamwork, and responsibility in a structured and demanding environment.
