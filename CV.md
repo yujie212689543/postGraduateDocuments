@@ -21,3 +21,11 @@ _B.Eng. in Software Engineering_ | Sep 2019 – Jun 2025
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ---
+
+
+**Wuxi Data Group Co., Ltd.**  
+_Project Assistant — Government AI & Digital Governance Projects_ | **Mar 2026 – Jul 2026**
+
+- Independently developed three project proposals, each approximately 4,000 Chinese characters, for data- and AI-related competitions, synthesizing technical documents, project materials, system screenshots, and supporting evidence into structured proposals
+- Contributed to proposal development for the **Wuxi Government LLM Public Service Platform**, covering project overview, solution design, technological innovation, application value, and business model, with multiple rounds of revisions based on project review feedback.
+- Prepared proposal materials for an **AI-powered urban flood management project**, synthesizing technical information on multimodal models, prompt engineering, knowledge bases, and system design into a structured project proposal.
