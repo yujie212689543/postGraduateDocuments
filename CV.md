@@ -65,3 +65,16 @@ HONORS & AWARDS
 **People's Liberation Army of China** | **Sep 2020 – Sep 2022**
 
 > Completed two years of compulsory military service, developing strong discipline, teamwork, and responsibility in a structured and demanding environment.
+
+
+---
+### **LANGUAGES**
+
+**Chinese:** Native  
+**English:** IELTS 6.0; CET-4 / CET-6
+
+
+---
+### **PROFILE**
+
+> **MSc Data Science student at the University of Macau with a background in Software Engineering. Interested in data analysis and AI applications, with hands-on experience in Python-based data analysis, AI project documentation, and software development.**
