@@ -30,4 +30,16 @@ _Project Assistant — Government AI & Digital Governance Projects_ | **Mar 2026
 - **Developed the project proposal for the Wuxi Government LLM Public Service Platform, covering the solution architecture, technological innovation, application value, and operational model, and iterated the proposal through multiple rounds of review and revision.**
 - **Developed the full project proposal for an AI-powered urban flood management agent, synthesizing technical materials on multimodal models, prompt engineering, knowledge bases, and system design into a structured technical solution.**
 
+### **Novel & Manga Sharing WeChat Mini Program**
+
+_Undergraduate Capstone Project_
+
+- **Designed the overall product structure and user experience of a WeChat mini program for novel and manga sharing, benchmarking commercial platforms such as Qidian and Fanqie Novel to develop the navigation, content organization, bookshelf, search, and reading experience.**
+- **Leveraged AI-assisted development tools to implement and iterate core frontend and backend functionalities, including user authentication, content management, search, bookshelf management, and reading-progress synchronization; independently conducted functional testing and debugging throughout development.**
+- **Managed and imported novel and manga content into the backend, ensuring data consistency and validating content retrieval and display across the application.**
+
+**Technologies:** WeChat Mini Program, JavaScript, Node.js, Express.js, MongoDB, Redis
+
+
+
 ---
