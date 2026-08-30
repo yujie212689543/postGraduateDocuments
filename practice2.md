@@ -13,3 +13,6 @@ Another strength is that the visualization combines several types of information
 I think the visualization presents the data fairly overall, but it also has some limitations. Minard clearly states his data sources and even explains an assumption he made when representing some detached troops. This makes the visualization more transparent about how the data were constructed.
 
 However, the visualization does not show the specific causes of the army’s losses, such as battle, disease, hunger, or desertion. Because the temperature data are shown together with the retreat, viewers might also assume that the cold was the main cause of the losses. Therefore, while the figure presents the decline in troop numbers effectively, it does not provide a complete explanation of why those losses occurred.
+
+# 04
+I find the visualization somewhat difficult to understand at first because it combines several types of information, including the army’s size, direction of movement, geographic location, and temperature. However, after understanding that the width of the line represents the number of soldiers, the overall story becomes much easier to follow. The visualization effectively shows the dramatic loss of Napoleon’s army during the campaign.
