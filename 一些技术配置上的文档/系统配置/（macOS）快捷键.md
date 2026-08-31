@@ -12,4 +12,4 @@
 	- Markdown ---esc+m
 - **切换输入法**--- control+space
 - **邮件字体调整**--- `Command`（⌘）+ `+` /  按  `Command`（⌘）+ `-`
-- 
+- **Jupyter notebook 退出**---- crtl+c
