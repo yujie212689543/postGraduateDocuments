@@ -2,7 +2,7 @@
 # 一、Jupyter notebook 打开方式
 ## 方式一：Terminal 打开
 ~~~bash
-conda activate base  # 打开bash环境
+conda activate base  # 打开base环境
 ~~~
 ~~~bash
 jupyter notebook   # 打开jupyter notebook
