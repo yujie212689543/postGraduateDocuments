@@ -4,6 +4,19 @@
   "title": "Organize file in Technical Documentation folder",
   "titleGenerationStatus": "success",
   "createdAt": 1788176866129,
-  "updatedAt": 1788176872755,
-  "sessionId": null
+  "updatedAt": 1788176908797,
+  "lastResponseAt": 1788176908797,
+  "sessionId": "c1c53ac8-41f6-4d7a-b381-ab98446f3d87",
+  "providerState": {
+    "providerSessionId": "c1c53ac8-41f6-4d7a-b381-ab98446f3d87"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 834,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31104,
+    "contextWindow": 1000000,
+    "contextTokens": 31938,
+    "percentage": 3
+  }
 }
