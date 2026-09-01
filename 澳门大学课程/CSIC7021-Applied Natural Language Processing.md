@@ -264,3 +264,55 @@ BPE 要解决 BOW 的第一个致命伤：**时态变形（love vs loved）**。
 如果你想了解 Bigram/Trigram 具体怎么计算，或者想看它们和 Unigram 生成文本的效果对比，我也可以继续为你展开 😊
 
 ---
+![[Pasted image 20260901202140.png]]
+这张图片总结了传统语言模型（比如 N-gram）面临的**三个主要问题**，以及对应的**解决方案**。
+
+我们可以把它看作是语言模型进化过程中的“升级打怪”指南。
+
+---
+
+### 问题一：无法在“相似词”之间共享经验
+**（Cannot share strength among similar words）**
+
+*   **痛点**：
+    传统的模型把每个词都当成独立的个体。它学过 "She bought a **car**"，但不代表它就懂 "She bought a **bicycle**"。
+    同样，它学过 "**bought** a car"，也不代表它懂 "**purchased** a car"。
+    这就导致模型很“死板”，明明 "car" 和 "bicycle" 都是交通工具，"bought" 和 "purchased" 都是买的意思，模型却要把它们分开重新学，浪费了大量数据。
+*   **解决方案：基于类别的语言模型 (Class-based language models)**
+    *   **原理**：给单词分类。把 "car" 和 "bicycle" 归为 `<交通工具>` 类，把 "bought" 和 "purchased" 归为 `<购买>` 类。
+    *   **效果**：模型只要学会了 "`<购买>` + `<交通工具>`" 这个搭配，那么无论是 "bought a car" 还是 "purchased a bicycle"，它都能触类旁通，一下子都学会了。这就是“举一反三”。
+
+### 问题二：无法处理“中间隔着词”的上下文
+**（Cannot condition on context with intervening words）**
+
+*   **痛点**：
+    传统模型通常只看紧挨着的词。
+    比如 "She bought a **blue** car" 和 "I bought a **red** car"。
+    或者 "Like **those** movies" 和 "Like **these** movies"。
+    如果中间的形容词（blue/red）或者指示代词（those/these）变了，传统模型可能就觉得这是两个完全不同的情况，忽略了它们结构上的相似性。它很难灵活地处理这种“中间插了一句”的情况。
+*   **解决方案：Skip-gram 语言模型**
+    *   **原理**：这种模型允许“跳过”中间的词。它不一定要紧挨着，而是去预测上下文中相关的词。
+    *   **效果**：它能捕捉到更灵活的搭配关系，即使中间隔了一两个词，它也能理解前后的关联，让模型更灵活。
+
+### 问题三：无法处理“长距离依赖”
+**（Cannot handle long-distance dependencies）**
+
+*   **痛点**：
+    这是最头疼的问题。有时候句子的开头和结尾是呼应的，但中间隔了很长一串话。
+    **例子**： "The **house** that they built on the hill has a stunning **view**."
+    这里的 "house"（房子）和 "view"（景色）是紧密相关的（房子有景色）。但是它们中间隔了 "that they built on the hill has a stunning" 这么长一串词。
+    传统模型记性不好（通常只记前几个词），读到 "view" 的时候，早就把开头的 "house" 给忘了，所以没法理解这句话的逻辑。
+*   **解决方案：缓存、触发器、主题模型等 (cache, trigger, topic, syntactic models, etc.)**
+    *   **原理**：这些方法都是为了增强模型的“记忆力”或“关注力”。
+        *   **Cache（缓存）**：把刚才提到过的词暂时存起来，后面再用到时能想起来。
+        *   **Topic（主题）**：知道整句话是在讲“房子”，那么后面出现“景色”就很合理。
+        *   **Syntactic（句法）**：分析句子的语法结构，知道 "house" 是主语，"view" 是宾语，不管中间隔多远，它们都是有关系的。
+    *   **效果**：让模型拥有“长时记忆”，能理解复杂的长句子。
+
+### 总结
+这张图展示了语言模型从**“死记硬背”**向**“灵活理解”**进化的过程：
+1.  为了解决**词义孤立**，发明了**分类法**。
+2.  为了解决**搭配僵化**，发明了**Skip-gram**。
+3.  为了解决**记性太差**，发明了**长距离依赖处理技术**（这也是后来深度学习/RNN/Transformer 重点解决的问题）。
+
+---
