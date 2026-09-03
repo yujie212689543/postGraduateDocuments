@@ -1,9 +1,22 @@
 {
   "id": "conv-1788432490419-y4is80i7l",
   "providerId": "claude",
-  "title": "Implement this plan:",
-  "titleGenerationStatus": "pending",
+  "title": "Reorganize UM course folders and rename to CISC",
+  "titleGenerationStatus": "success",
   "createdAt": 1788432490421,
-  "updatedAt": 1788432490430,
-  "sessionId": null
+  "updatedAt": 1788432667283,
+  "lastResponseAt": 1788432667283,
+  "sessionId": "a3424017-51a9-4165-9c95-ed10525a3244",
+  "providerState": {
+    "providerSessionId": "a3424017-51a9-4165-9c95-ed10525a3244"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 62,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 77824,
+    "contextWindow": 1000000,
+    "contextTokens": 77886,
+    "percentage": 8
+  }
 }
