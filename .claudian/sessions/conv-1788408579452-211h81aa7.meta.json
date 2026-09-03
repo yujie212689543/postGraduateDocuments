@@ -4,8 +4,8 @@
   "title": "Organize class notes and extract key concepts",
   "titleGenerationStatus": "success",
   "createdAt": 1788408579452,
-  "updatedAt": 1788408926057,
-  "lastResponseAt": 1788408926057,
+  "updatedAt": 1788432490389,
+  "lastResponseAt": 1788432490388,
   "sessionId": "58aa1d66-e2e7-412e-a652-8b75a4b1cb4e",
   "providerState": {
     "providerSessionId": "58aa1d66-e2e7-412e-a652-8b75a4b1cb4e"
@@ -13,11 +13,11 @@
   "currentNote": "澳门大学课程/CSIC7021-Applied Natural Language Processing.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 87,
+    "inputTokens": 163,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 68480,
+    "cacheReadInputTokens": 100352,
     "contextWindow": 1000000,
-    "contextTokens": 68567,
-    "percentage": 7
+    "contextTokens": 100515,
+    "percentage": 10
   }
 }

@@ -1,4 +1,4 @@
-# CSIC7021 Applied Natural Language Processing
+# CISC7021 Applied Natural Language Processing
 
 > 📌 本页是课堂**原始随记**（较零散、含自我讲解）。已按主题整理成下方几篇结构化笔记，**复习请从主题笔记开始**；原始内容保留在下方，未删改。
 
@@ -9,16 +9,16 @@
 
 | # | 主题笔记 | 回答的问题 |
 |---|---|---|
-| 1 | [[CSIC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]] | BOW 为什么不行？BPE 怎么拆词？ |
-| 2 | [[CSIC7021-NLP-02 统计语言模型与N-gram]] | 怎么给句子打分？N-gram 的成与败？ |
-| 3 | [[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]] | RNN / CNN / Transformer 各怎么预测下一个词？ |
-| 4 | [[CSIC7021-NLP-04 文本生成 - 温度与采样策略]] | 生成时温度如何控制「大胆 / 保守」？ |
+| 1 | [[CISC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]] | BOW 为什么不行？BPE 怎么拆词？ |
+| 2 | [[CISC7021-NLP-02 统计语言模型与N-gram]] | 怎么给句子打分？N-gram 的成与败？ |
+| 3 | [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]] | RNN / CNN / Transformer 各怎么预测下一个词？ |
+| 4 | [[CISC7021-NLP-04 文本生成 - 温度与采样策略]] | 生成时温度如何控制「大胆 / 保守」？ |
 
 ---
 
 ## 📥 原始随记（保留，未删改）
 
-> 术语对照：[[NLP 专业词汇笔记（计算语言学）]]
+> 术语对照：[[AHGC7315-NLP 专业词汇笔记（计算语言学）]]
 
 # BOW 缺点
 

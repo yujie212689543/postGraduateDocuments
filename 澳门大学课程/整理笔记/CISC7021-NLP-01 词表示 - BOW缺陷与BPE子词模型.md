@@ -1,6 +1,6 @@
-# CSIC7021 · 词表示：从 BOW 到子词模型（BPE）
+# CISC7021 · 词表示：从 BOW 到子词模型（BPE）
 
-> 课程：[[CSIC7021-Applied Natural Language Processing]] ｜ 下一篇：[[CSIC7021-NLP-02 统计语言模型与N-gram]]
+> 课程：[[CISC7021-Applied Natural Language Processing]] ｜ 下一篇：[[CISC7021-NLP-02 统计语言模型与N-gram]]
 > 内容来源：课堂随记中「BOW 缺点」「Subword model」部分（已重组并补充解释）
 
 ---
@@ -52,7 +52,7 @@
 
 - **现象**：`The movie was interesting but boring`——前半褒、后半贬，作者真实态度偏贬。BOW 只看到 `interesting`(褒) 和 `boring`(贬) 混在一起，完全不知道 `but` 是**转折**，把前后语义对立起来。
 - **类比（课堂原例）**：`Dog bites man`（狗咬人）和 `Man bites dog`（人咬狗）在 BOW 中**完全相同**，意思却天差地别。
-- **修复**：需要能「按顺序读、并理解词间关系」的模型 → RNN / Transformer（见 [[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]）。
+- **修复**：需要能「按顺序读、并理解词间关系」的模型 → RNN / Transformer（见 [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]）。
 
 ### 小结表
 
@@ -153,4 +153,4 @@
 | `</w>` | 词尾边界符（不是字母） |
 | 子词模型的意义 | 压缩词汇表、处理生词、识别词形变化 |
 
-> 下一步：有了词的表示，怎么计算「一个句子像不像人话」？→ [[CSIC7021-NLP-02 统计语言模型与N-gram]]
+> 下一步：有了词的表示，怎么计算「一个句子像不像人话」？→ [[CISC7021-NLP-02 统计语言模型与N-gram]]

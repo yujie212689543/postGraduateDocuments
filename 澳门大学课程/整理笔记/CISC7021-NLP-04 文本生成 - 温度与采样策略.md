@@ -1,6 +1,6 @@
-# CSIC7021 · 文本生成：温度（Temperature）与采样策略
+# CISC7021 · 文本生成：温度（Temperature）与采样策略
 
-> 课程：[[CSIC7021-Applied Natural Language Processing]] ｜ 上一篇：[[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
+> 课程：[[CISC7021-Applied Natural Language Processing]] ｜ 上一篇：[[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
 > 内容来源：课堂随记「Temperature」部分（已重组并补充 Top-K / Top-p）
 
 ---
@@ -96,4 +96,4 @@ $$P_T(w) = \frac{\exp(z_w / T)}{\sum_j \exp(z_j / T)}$$
 | 温度是否改知识 | 否，只改采样「胆量」 |
 | Top-K / Top-p | 先限定候选范围，再按温度采样 |
 
-> 上一环：模型是怎么来的？→ [[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
+> 上一环：模型是怎么来的？→ [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]

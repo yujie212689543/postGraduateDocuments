@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "plan",
+  "permissionMode": "yolo",
   "model": "sonnet[1m]",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -87,7 +87,7 @@
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "plan"
+    "claude": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 5,

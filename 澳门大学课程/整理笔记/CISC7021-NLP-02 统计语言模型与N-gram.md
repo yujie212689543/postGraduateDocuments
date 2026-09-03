@@ -1,6 +1,6 @@
-# CSIC7021 · 统计语言模型与 N-gram
+# CISC7021 · 统计语言模型与 N-gram
 
-> 课程：[[CSIC7021-Applied Natural Language Processing]] ｜ 上一篇：[[CSIC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]] ｜ 下一篇：[[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
+> 课程：[[CISC7021-Applied Natural Language Processing]] ｜ 上一篇：[[CISC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]] ｜ 下一篇：[[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
 > 内容来源：课堂随记「Unigram Model」「N-gram Models」及「传统 LM 三大问题」部分
 
 ---
@@ -114,7 +114,7 @@ $$P(w_i \mid w_{i-1}) = \frac{\text{count}(w_{i-1}, w_i)}{\text{count}(w_{i-1})}
 
 - **表现**：学过 `She bought a car`，不等于懂 `She bought a bicycle`；学过 `bought`，不等于懂 `purchased`。每个词都要单独学，**浪费数据**。
 - **历史补丁**：**基于类别的语言模型（Class-based LM）**——把词归类：`car/bicycle → <交通工具>`、`bought/purchased → <购买>`。学会「`<购买>` + `<交通工具>`」就能举一反三。
-- **终极解法**：**词嵌入**——每个词一个稠密向量，相似词向量相近，模型自动共享统计（见 [[CSIC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]]）。
+- **终极解法**：**词嵌入**——每个词一个稠密向量，相似词向量相近，模型自动共享统计（见 [[CISC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]]）。
 
 ### 痛点 ② 隔了词的上下文用不上
 *Cannot condition on context with intervening words*
@@ -128,7 +128,7 @@ $$P(w_i \mid w_{i-1}) = \frac{\text{count}(w_{i-1}, w_i)}{\text{count}(w_{i-1})}
 
 - **表现**：`The house that they built on the hill has a stunning view.` —— `house` 与 `view` 语义相关，中间却隔了一长串。传统模型「记性差」，读到 `view` 时早忘了 `house`。
 - **历史补丁**：**Cache（缓存近词）、Trigger、Topic（主题）、Syntactic（句法）** 等模型——本质是给模型「加记忆 / 加关注」。
-- **终极解法**：**RNN（循环记忆）** 与 **Transformer（注意力让任意两词直接互连）** → [[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]。
+- **终极解法**：**RNN（循环记忆）** 与 **Transformer（注意力让任意两词直接互连）** → [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]。
 
 > **一句话总结**：这三张「病假条」，正是后来**深度学习取代 N-gram** 的根本原因。
 
@@ -146,4 +146,4 @@ $$P(w_i \mid w_{i-1}) = \frac{\text{count}(w_{i-1}, w_i)}{\text{count}(w_{i-1})}
 | 历史补丁 | 类别模型 / Skip-gram / Cache-Topic |
 | 终极解法 | 神经网络（词嵌入 + RNN / 注意力） |
 
-> 下一步：看看神经网络怎么彻底解决这些痛点 → [[CSIC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
+> 下一步：看看神经网络怎么彻底解决这些痛点 → [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]
