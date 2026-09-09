@@ -156,3 +156,48 @@ NumPy 提供了高效的向量化统计函数。大多数函数支持 `axis` 参
   	 print(x)
   ```
 
+- `np.ndenumerate(data)`: 遍历并获取 **(索引，值)** 对。
+```python
+	for index, value in np.ndenumerate(dataset):
+    print(f"Index: {index}, Value: {value}")
+    # index 是一个元组，例如 (0, 1) 代表第 0 行第 1 列
+```
+
+## 6. 常用代码速查表 (Cheat Sheet)
+import numpy as np
+
+# 1. 加载
+data = np.genfromtxt('data.csv', delimiter=',')
+
+# 2. 统计
+mean_val = np.mean(data)          # 整体均值
+col_means = np.mean(data, axis=0) # 列均值
+std_dev = np.std(data, axis=1)    # 行标准差
+
+# 3. 索引与切片
+first_row = data[0]
+last_col = data[:, -1]
+sub_matrix = data[1:3, 1:3]       # 2 x 2 子集
+reversed_row = data[-1, ::-1]     # 最后一行反转
+
+# 4. 过滤
+filtered = data[data > 100]       # 大于 100 的值
+indices = np.where(data > 100)    # 大于 100 的索引
+
+# 5. 排序
+sorted_data = np.sort(data, axis=0)
+sort_indices = np.argsort(data)
+
+# 6. 变形
+split_cols = np.hsplit(data, 3)
+combined = np.vstack([data, data])
+reshaped = data.reshape(-1, 2)
+
+## 7. 常见陷阱 (Pitfalls)
+
+1. **逻辑运算符错误**: 在 NumPy 中组合条件时，必须使用 `&`, `|`, `~`，**不能**使用 Python 的 `and`, `or`, `not`。
+    - ❌ `data[(data > 10) and (data < 20)]`
+    - ✅ `data[(data > 10) & (data < 20)]`
+2. **Axis 混淆**: 记不清 axis 是行还是列？记住 `axis=0` 是沿着行向下走（操作列），`axis=1` 是沿着列向右走（操作行）。
+3. **视图 vs 副本**: 切片操作通常返回**视图 (View)**，修改切片会影响原数组。如果需要副本，请使用 `.copy()`。
+4. **分割限制**: `hsplit` 和 `vsplit` 要求维度必须能被整除，否则抛出 `ValueError`。
