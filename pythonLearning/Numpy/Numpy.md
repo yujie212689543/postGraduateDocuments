@@ -137,7 +137,7 @@ NumPy 提供了高效的向量化统计函数。大多数函数支持 `axis` 参
 ### 4.4 重塑 (Reshaping)
 改变数组形状，但元素总数不变。
 - `data.reshape(rows, cols)`
-- **使用 `-1` **: 让 NumPy 自动计算该维度的大小。
+- **使用 `-1`**: 让 NumPy 自动计算该维度的大小。
   - `data.reshape(1, -1)`: 展平为单行。
   - `data.reshape(-1, 2)`: 变为多行 2 列。
 
@@ -151,19 +151,25 @@ NumPy 提供了高效的向量化统计函数。大多数函数支持 `axis` 参
 虽然向量化运算优于循环，但有时仍需遍历。
 
 - `np.nditer(data)`: 高效遍历每个元素 (扁平化遍历)。
+
   ```python
-    for x in np.nditer(dataset):
-  	 print(x)
+  for x in np.nditer(dataset):
+      print(x)
   ```
 
 - `np.ndenumerate(data)`: 遍历并获取 **(索引，值)** 对。
-```python
-	for index, value in np.ndenumerate(dataset):
-    print(f"Index: {index}, Value: {value}")
-    # index 是一个元组，例如 (0, 1) 代表第 0 行第 1 列
-```
+
+  ```python
+  for index, value in np.ndenumerate(dataset):
+      print(f"Index: {index}, Value: {value}")
+      # index 是一个元组，例如 (0, 1) 代表第 0 行第 1 列
+  ```
+
+---
 
 ## 6. 常用代码速查表 (Cheat Sheet)
+
+```python
 import numpy as np
 
 # 1. 加载
@@ -192,6 +198,9 @@ sort_indices = np.argsort(data)
 split_cols = np.hsplit(data, 3)
 combined = np.vstack([data, data])
 reshaped = data.reshape(-1, 2)
+```
+
+---
 
 ## 7. 常见陷阱 (Pitfalls)
 

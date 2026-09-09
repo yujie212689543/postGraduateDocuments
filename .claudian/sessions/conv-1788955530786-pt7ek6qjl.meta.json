@@ -4,6 +4,20 @@
   "title": "Fix formatting errors in Markdown file",
   "titleGenerationStatus": "success",
   "createdAt": 1788955530789,
-  "updatedAt": 1788955543720,
-  "sessionId": null
+  "updatedAt": 1788955707370,
+  "lastResponseAt": 1788955707370,
+  "sessionId": "a6f70745-a571-482f-b4d7-f1d6a07de00d",
+  "providerState": {
+    "providerSessionId": "a6f70745-a571-482f-b4d7-f1d6a07de00d"
+  },
+  "currentNote": "pythonLearning/Numpy/Numpy.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 355,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46720,
+    "contextWindow": 1000000,
+    "contextTokens": 47075,
+    "percentage": 5
+  }
 }
