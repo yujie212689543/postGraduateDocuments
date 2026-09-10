@@ -47,13 +47,13 @@ For example, in English plurals, the /z/ sound changes to /s/ after voiceless so
 **（你的回答）**
 "I think it's mainly about **Machine Learning**. We can feed a lot of pronunciation data into a computer model, and the model can learn the patterns between phonological features and how they are actually pronounced. It helps us find rules automatically from big data."
 
-#### A 4: What are the basic parts that make up a syllable? Name them.
+#### A 4: What are the basic parts that make up a syllable（音节）? Name them.
 **（你的回答）**
 "A syllable has three main parts. First, the **Onset**, which is the consonant(s) at the beginning. Second, the **Nucleus**, the core vowel. And third, the **Coda**, the consonant(s) at the end. The Nucleus and Coda together make up the **Rime**."
 
 #### A 5: What is the difference between primary stress and secondary stress?
 **（你的回答）**
-"The main difference is prominence. **Primary stress** is the strongest and most prominent syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses."
+"The main difference is prominence. **Primary stress** is the strongest and most prominent（突出的） syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses."
 
 ---
 
