@@ -97,6 +97,9 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 3. **Delete** segments, and
 4. **Add** segments."
 
+- Segment insertion and deletion
+- Assimilation and dissimilation in phoneme
+
 #### A5. Between the compound noun "hot dog" and the phrase "hot dog" that means "a dog that feels hot", which one puts the main stress on the first word?
 **（你的回答）**
 "The compound noun 'hot dog' (the food) puts the main stress on the first word, 'hot'. The phrase meaning a dog that feels hot puts stress on the second word, 'dog'."
