@@ -28,6 +28,26 @@
 **Q 5: 主重音（primary stress）和次重音（secondary stress）的区别？**
 *   **大白话**：主重音是单词里读得最重、最强的那个音节（标 `´`），一个词只有一个。次重音是稍微重一点，但比不上主重音。
 
+
+**Q 1: What is a Phoneme?（什么是音位？）**
+
+- **大白话**：音位就是“能区别意思的最小声音单位”。注意，它不只是一个字母的发音，而是**脑子里的那个抽象声音**。
+    
+- **举例秒懂**：`pat`（轻拍）和 `bat`（蝙蝠）。两个词就差在开头一个音 /p/ 和 /b/，意思完全不同。所以 /p/ 和 /b/ 就是两个不同的音位。光换个音，词义就变，这就是音位的作用。
+    
+
+**Q 3: What are the four functions of phonological rules?（音系规则的四个功能是什么？）**
+
+- **大白话**：规则就是用来“动手脚”的。这四个功能就是：
+    
+    1. **改特征（Change feature values）**：比如把清音变成浊音。
+        
+    2. **加特征（Add new features）**：给某个音凭空加个特性（比如加个送气）。
+        
+    3. **删音（Delete segments）**：把这个音直接去掉。
+        
+    4. **加音（Add segments）**：在这个位置凭空插一个新音进去。
+
 ---
 
 ### 上课时的英语回答模板（直接背这几个，非常接地气）
@@ -55,6 +75,20 @@ For example, in English plurals, the /z/ sound changes to /s/ after voiceless so
 **（你的回答）**
 "The main difference is prominence. **Primary stress** is the strongest and most prominent（突出的） syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses.
 Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-noon' carries the **primary stress**, and the first syllable 'af-' carries the **secondary stress**, which is weaker. The middle syllable '-ter-' is unstressed. Another example is **'photograph'** /ˈfoʊ.təˌɡræf/ — primary stress on 'pho-' and secondary stress on '-graph'."
+
+**Q 1: What is a Phoneme?**  
+"Basically, a **phoneme** is the smallest unit of sound in a language that can change the meaning of a word. For example, in 'pat' and 'bat', the sounds /p/ and /b/ are different phonemes because they change the word's meaning."
+
+**Q 3: What are the four functions of phonological rules?**  
+"There are four main functions. They can:
+
+1. **Change** feature values,
+    
+2. **Add** new features,
+    
+3. **Delete** segments, and
+    
+4. **Add** segments."
 
 ---
 
