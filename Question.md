@@ -36,7 +36,7 @@
 
 #### A 1: How many morphemes of "unforgotten"? What are they?
 **（你的回答）**
-"Basically, there are **three** morphemes. They are **un-**, which is a negative prefix; **forget**, which is the root verb; and **-en**, which indicates the past participle. So, un-forget-en."
+"Basically, there are **three** morphemes. They are **un-**, which is a negative prefix（否定前缀）; **forget**, which is the root verb; and **-en**, which indicates the past participle（过去分词）. So, un-forget-en."
 
 #### A 2: What is the main difference between assimilation and dissimilation? Can you give one example of each?
 **（你的回答）**
