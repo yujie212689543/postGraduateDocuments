@@ -4,20 +4,20 @@
   "title": "Explain question five with an example",
   "titleGenerationStatus": "success",
   "createdAt": 1789025943113,
-  "updatedAt": 1789040895491,
-  "lastResponseAt": 1789040895491,
+  "updatedAt": 1789043108542,
+  "lastResponseAt": 1789043108542,
   "sessionId": "da7d546d-f80f-457b-8da7-6e1865efb11b",
   "providerState": {
     "providerSessionId": "da7d546d-f80f-457b-8da7-6e1865efb11b"
   },
-  "currentNote": "Question.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 158,
+    "inputTokens": 160,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 47232,
+    "cacheReadInputTokens": 95872,
     "contextWindow": 1000000,
-    "contextTokens": 47390,
-    "percentage": 5
+    "contextTokens": 96032,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
   }
 }

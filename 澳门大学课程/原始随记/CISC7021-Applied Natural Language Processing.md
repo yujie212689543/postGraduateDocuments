@@ -13,6 +13,7 @@
 | 2 | [[CISC7021-NLP-02 统计语言模型与N-gram]] | 怎么给句子打分？N-gram 的成与败？ |
 | 3 | [[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]] | RNN / CNN / Transformer 各怎么预测下一个词？ |
 | 4 | [[CISC7021-NLP-04 文本生成 - 温度与采样策略]] | 生成时温度如何控制「大胆 / 保守」？ |
+| ✍️ | [[CISC7021-LLM 学习笔记：Tiny Llama-2 作业实践]] | Assignment 1 动手实践：基线 → 生成 → 解码策略 → PPL → 持续预训练 |
 
 ---
 

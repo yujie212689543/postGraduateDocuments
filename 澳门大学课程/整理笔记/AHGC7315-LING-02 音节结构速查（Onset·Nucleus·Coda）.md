@@ -1,4 +1,7 @@
-# Computational Linguistics｜Phonetics & Syllable 课堂速记
+# AHGC7315 · 音节结构速查（Onset · Nucleus · Coda）
+
+> 课程：[[AHGC7315-Language and Linguistics]] ｜ 相关：[[AHGC7315-LING-01 音位、音节与重音（课堂问答整理）]] ｜ 术语对照：[[AHGC7315-NLP 专业词汇笔记（计算语言学）]]
+> 内容来源：Phonetics & Syllable 课堂速记（原内容全部保留，已统一标题层级、补充互链与术语对照）
 
 > [!tip] 先记住这句话
 > **A syllable has three basic parts: onset, nucleus, and coda.**
@@ -29,13 +32,13 @@
 
 ---
 
-# 2. 什么是 Syllable？
+## 2. 什么是 Syllable？
 
 **Syllable = 音节**
 
 可以先把它简单理解为：
 
-> **一个单词在发音上被分成的一个“节拍/发音单位”。**
+> **一个单词在发音上被分成的一个“节拍 / 发音单位”。**
 
 例如：
 
@@ -47,9 +50,9 @@
 
 ---
 
-# 3. 一个 Syllable 的三个基本部分
+## 3. 一个 Syllable 的三个基本部分
 
-## ① Onset — 音节首
+### ① Onset — 音节首
 
 **Onset = 音节核前面的辅音**
 
@@ -63,9 +66,7 @@
 - /æ/ = Nucleus
 - /t/ = Coda
 
----
-
-## ② Nucleus — 音节核
+### ② Nucleus — 音节核
 
 **Nucleus = 音节最核心的部分**
 
@@ -81,9 +82,7 @@
 
 > **Nucleus 是音节的“中心”。**
 
----
-
-## ③ Coda — 音节尾
+### ③ Coda — 音节尾
 
 **Coda = 音节核后面的辅音**
 
@@ -95,7 +94,7 @@
 
 ---
 
-# 4. 最重要的结构
+## 4. 最重要的结构
 
 记住这个：
 
@@ -125,11 +124,11 @@ Syllable
 
 ---
 
-# 5. 不是每个音节都有三个部分！
+## 5. 不是每个音节都有三个部分！
 
 这是很重要的。
 
-## 例子 1：cat
+### 例子 1：cat
 
 `/k æ t/`
 
@@ -139,9 +138,7 @@ Syllable
 
 → **三个都有**
 
----
-
-## 例子 2：at
+### 例子 2：at
 
 `/æ t/`
 
@@ -151,9 +148,7 @@ Syllable
 
 → **没有 Onset**
 
----
-
-## 例子 3：me
+### 例子 3：me
 
 `/m iː/`
 
@@ -163,9 +158,7 @@ Syllable
 
 → **没有 Coda**
 
----
-
-## 例子 4：I
+### 例子 4：I
 
 `/aɪ/`
 
@@ -177,7 +170,7 @@ Syllable
 
 ---
 
-# 6. 一个容易混淆的地方
+## 6. 一个容易混淆的地方
 
 我之前说：
 
@@ -216,7 +209,7 @@ Syllable
 
 ---
 
-# 7. 课堂上可能出现的几个词
+## 7. 速查表：课堂上可能出现的几个词
 
 | Term | 中文 | 记忆 |
 |---|---|---|
@@ -226,13 +219,13 @@ Syllable
 | **coda** | 音节尾 | 元音后面的辅音 |
 | **vowel** | 元音 | V |
 | **consonant** | 辅音 | C |
-| **phoneme** | 音素 | 能区别意义的最小声音单位 |
+| **phoneme** | 音位（也常写作“音素”） | 能区别意义的最小声音单位 |
 | **phonetic** | 语音的 | 和实际发音有关 |
 | **phonology** | 音系学 | 研究语言声音系统 |
 
 ---
 
-# 8. C 和 V 是什么？
+## 8. C 和 V 是什么？
 
 老师后面可能会用：
 
@@ -254,8 +247,6 @@ Syllable
 
 **CVC**
 
----
-
 ### at
 
 `VC`
@@ -268,8 +259,6 @@ Syllable
 所以：
 
 **VC**
-
----
 
 ### me
 
@@ -286,7 +275,7 @@ Syllable
 
 ---
 
-# 9. 课堂题目怎么回答？
+## 9. 课堂题目怎么回答？
 
 ### Q: What are the basic parts that make up a syllable?
 
@@ -298,9 +287,11 @@ Syllable
 
 > **The onset comes before the nucleus, the nucleus is the core of the syllable, and the coda comes after the nucleus.**
 
+> 📌 这一题在课堂问答整理里的完整英文回答：[[AHGC7315-LING-01 音位、音节与重音（课堂问答整理）]] → A4
+
 ---
 
-# 10. 超短记忆版
+## 10. 超短记忆版
 
 > **Onset = 前面**
 >

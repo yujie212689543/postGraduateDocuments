@@ -1,8 +1,19 @@
-# 语言学课堂问答整理（Linguistics Q&A）
+# AHGC7315 · 音位、音节与重音（课堂问答整理）
 
-别担心，语言学（Linguistics）本来就有很多抽象概念。上课被提问时，**老师看重的不是你把定义背得多完美，而是你理解了核心概念，并且能用英语表达出来。**
+> 课程：[[AHGC7315-Language and Linguistics]] ｜ 相关：[[AHGC7315-LING-02 音节结构速查（Onset·Nucleus·Coda）]] ｜ 术语对照：[[AHGC7315-NLP 专业词汇笔记（计算语言学）]]
+> 内容来源：Language and Linguistics 课堂提问 + 自己整理的英文回答（已统一格式、补充中文注解与速查表，原内容全部保留）
 
-下面先用大白话把问题讲清楚，再给一套「上课直接背」的英语口语回答模板。
+---
+
+## 0. 本页主线（30 秒版）
+
+语言学课的提问套路其实就三类：
+
+1. **拆结构** —— 语素（morpheme）、音节（syllable）；
+2. **说规则** —— 同化 / 异化、音系规则的四个功能；
+3. **比轻重** —— 主重音 / 次重音、复合词重音位置。
+
+下面先给「大白话理解」，再给「上课直接背的英文回答」。
 
 ---
 
@@ -28,6 +39,7 @@
     - **Nucleus（中间肉饼）**：音节的核心，通常是元音。
     - **Coda（底层面包）**：音节结尾的辅音。
     - **Rime（肉饼 + 底层面包）**：也就是 Nucleus + Coda。注意这个词不是诗歌里的 Rhyme（押韵）。
+- 📖 展开见：[[AHGC7315-LING-02 音节结构速查（Onset·Nucleus·Coda）]]
 
 #### Q5. 主重音（primary stress）和次重音（secondary stress）的区别？
 - **大白话**：主重音是单词里读得最重、最强的那个音节（标 `ˈ`），一个词只有一个；次重音稍微重一点，但比不上主重音（标 `ˌ`）。
@@ -90,7 +102,7 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 
 ### 第二组：音位与音系规则
 
-#### A1. What is a Phoneme（音素）?
+#### A1. What is a Phoneme（音位）?
 **（你的回答）**
 "Basically, a **phoneme** is the smallest unit of sound in a language that can change the meaning of a word. For example, in 'pat' and 'bat', the sounds /p/ and /b/ are different phonemes because they change the word's meaning."
 
@@ -102,7 +114,7 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 3. **Delete** segments — for example, 'handbag' is often pronounced like [ˈhæmbæɡ], where the /d/ is deleted; and
 4. **Add** segments — for example, 'something' is often pronounced [ˈsʌmpθɪŋ], with an extra /p/ inserted."
 
-> 补充：你笔记里的 **Segment insertion / deletion** 就是上面的第 4 条和第 3 条；**assimilation（同化）** 属于第 1 条「改特征」，**dissimilation（异化）** 是它的反方向。
+> 补充：**Segment insertion / deletion** 就是上面的第 4 条和第 3 条；**assimilation（同化）** 属于第 1 条「改特征」，**dissimilation（异化）** 是它的反方向。
 
 #### A5. Between the compound noun "hot dog" and the phrase "hot dog" that means "a dog that feels hot", which one puts the main stress on the first word?
 **（你的回答）**
@@ -112,20 +124,20 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 
 ## 📋 速查表
 
-| 术语 | 中文 | 一句话解释 | 例子 |
-|---|---|---|---|
-| Morpheme | 语素 | 最小的有意义单位 | un + forget + en |
-| Assimilation | 同化 | 相邻的音变得相似 | `cats` 的 /z/ → /s/ |
-| Dissimilation | 异化 | 相似的音变得不同 | 拉丁语 /l/ → /r/ |
-| Onset | 音节首 | 音节开头的辅音 | c- in `cat` |
-| Nucleus | 音节核 | 音节的核心元音 | -a- in `cat` |
-| Coda | 音节尾 | 音节结尾的辅音 | -t in `cat` |
-| Rime | 韵基 | Nucleus + Coda | -at in `cat` |
-| Primary stress | 主重音 | 最强、唯一 | af-ter-**ˈnoon** |
-| Secondary stress | 次重音 | 较弱、可以没有 | **ˌaf**-ter-noon |
-| Compound stress | 复合词重音 | 复合词重音在前，短语重音在后 | `ˈhot dog` vs `hot ˈdog` |
-| Phoneme | 音位 | 能区别意义的最小声音单位 | /p/ vs /b/ |
-| Phonological rules | 音系规则 | 改、加、删、添四种操作 | `cats` 的 /z/→/s/；[pʰ]；`handbag`→[ˈhæmbæɡ]；`something`→[ˈsʌmpθɪŋ] |
+| 术语 | 中文 | 一句话解释 | 例子 | 英文怎么说 |
+|---|---|---|---|---|
+| Morpheme | 语素 | 最小的有意义单位 | un + forget + en | the smallest meaningful unit |
+| Assimilation | 同化 | 相邻的音变得相似 | `cats` 的 /z/ → /s/ | sounds become more similar to their neighbors |
+| Dissimilation | 异化 | 相似的音变得不同 | 拉丁语 /l/ → /r/ | similar sounds become less similar |
+| Onset | 音节首 | 音节开头的辅音 | c- in `cat` | the consonants before the nucleus |
+| Nucleus | 音节核 | 音节的核心元音 | -a- in `cat` | the core of the syllable |
+| Coda | 音节尾 | 音节结尾的辅音 | -t in `cat` | the consonants after the nucleus |
+| Rime | 韵基 | Nucleus + Coda | -at in `cat` | the nucleus and coda together |
+| Primary stress | 主重音 | 最强、唯一 | af-ter-**ˈnoon** | the strongest, most prominent syllable |
+| Secondary stress | 次重音 | 较弱、可以没有 | **ˌaf**-ter-noon | weaker than primary stress |
+| Compound stress | 复合词重音 | 复合词重音在前，短语重音在后 | `ˈhot dog` vs `hot ˈdog` | compounds take stress on the first word |
+| Phoneme | 音位 | 能区别意义的最小声音单位 | /p/ vs /b/ | the smallest unit of sound that changes meaning |
+| Phonological rules | 音系规则 | 改、加、删、添四种操作 | `cats` 的 /z/→/s/；[pʰ]；`handbag`→[ˈhæmbæɡ]；`something`→[ˈsʌmpθɪŋ] | change / add features, delete / add segments |
 
 ---
 
@@ -134,5 +146,3 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 1. **语速慢一点**：用简单的句子，卡壳了就说 `"Well..."` 或 `"Let me put it this way..."`。
 2. **举例子**：语言学最怕干巴巴的定义。像 A2 那样举出 `cats` 和拉丁语的例子，老师一听就知道你懂了。
 3. **如果没听懂老师的问题**：大方地说 `"Sorry, could you please rephrase the question?"`（抱歉，能换个说法吗？）或者 `"Do you mean...?"`（你是指……吗？）。没人会怪你的。
-
-祝你晚上上课顺利！有问题随时问我。
