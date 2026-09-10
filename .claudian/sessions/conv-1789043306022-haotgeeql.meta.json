@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789043306022-haotgeeql",
+  "providerId": "claude",
+  "title": "Confirm direct image reading capability",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789043306025,
+  "updatedAt": 1789043314811,
+  "lastResponseAt": 1789043314811,
+  "sessionId": "6c97516a-f752-4901-8ca2-30f06d34dd89",
+  "providerState": {
+    "providerSessionId": "6c97516a-f752-4901-8ca2-30f06d34dd89"
+  },
+  "currentNote": "澳门大学课程/整理笔记/CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1079,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27136,
+    "contextWindow": 1000000,
+    "contextTokens": 28215,
+    "percentage": 3
+  }
+}
