@@ -40,11 +40,16 @@
 - **举例秒懂**：`pat`（轻拍）和 `bat`（蝙蝠）。两个词就差在开头一个音 /p/ 和 /b/，意思完全不同。所以 /p/ 和 /b/ 就是两个不同的音位。光换个音，词义就变，这就是音位的作用。
 
 #### Q3. What are the four functions of phonological rules?（音系规则的四个功能是什么？）
-- **大白话**：规则就是用来“动手脚”的。这四个功能是：
-    1. **改特征（Change feature values）**：比如把清音变成浊音。
-    2. **加特征（Add new features）**：给某个音凭空加个特性（比如加个送气）。
+- **大白话**：规则就是用来“动手脚”的。这四种手段分别是**改、加、删、添**：
+    1. **改特征（Change feature values）**：把一个音的某个特征改掉，比如清音变异化（或反过来）。
+        - 例：`cats` 里的 /z/ 受前面清音 /t/ 影响，被改成清音 /s/。
+    2. **加特征（Add new features）**：给某个音凭空加个特性。
+        - 例：`pot` 词首的 /p/ 要送气，读成 [pʰɒt]，就是多了一个「送气」特征。
     3. **删音（Delete segments）**：把这个音直接去掉。
+        - 例：`handbag` 读快了变成 [ˈhæmbæɡ]，中间的 /d/ 被删掉了。
     4. **加音（Add segments）**：在这个位置凭空插一个新音进去。
+        - 例：`something` 常被读成 [ˈsʌmpθɪŋ]，中间插进来一个 /p/。
+- **一句话**：**改（Change）、加（Add）、删（Delete）、添（Add）** —— 音系规则就是这四种给语音“动手脚”的方式。
 
 #### Q5. 复合名词 “hot dog”（热狗）和表示“一只觉得热的狗”的 hot dog，哪个把主重音放在第一个词上？
 - **大白话**：**复合词重音在前，短语重音在后**。
@@ -89,16 +94,15 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 **（你的回答）**
 "Basically, a **phoneme** is the smallest unit of sound in a language that can change the meaning of a word. For example, in 'pat' and 'bat', the sounds /p/ and /b/ are different phonemes because they change the word's meaning."
 
-#### A3. What are the four functions of phonological rules（音韵特征）?
+#### A3. What are the four functions of phonological rules（音系规则）?
 **（你的回答）**
 "There are four main functions. They can:
-1. **Change** feature values, the voiceless sound to voiced sound
-2. **Add** new features,
-3. **Delete** segments, and
-4. **Add** segments."
+1. **Change** feature values — for example, the plural /z/ becomes /s/ after a voiceless sound, like in 'cats';
+2. **Add** new features — for example, the /p/ in 'pot' is aspirated（送气）, so it gets one extra feature;
+3. **Delete** segments — for example, 'handbag' is often pronounced like [ˈhæmbæɡ], where the /d/ is deleted; and
+4. **Add** segments — for example, 'something' is often pronounced [ˈsʌmpθɪŋ], with an extra /p/ inserted."
 
-- Segment insertion and deletion
-- Assimilation and dissimilation in phoneme
+> 补充：你笔记里的 **Segment insertion / deletion** 就是上面的第 4 条和第 3 条；**assimilation（同化）** 属于第 1 条「改特征」，**dissimilation（异化）** 是它的反方向。
 
 #### A5. Between the compound noun "hot dog" and the phrase "hot dog" that means "a dog that feels hot", which one puts the main stress on the first word?
 **（你的回答）**
@@ -121,6 +125,7 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 | Secondary stress | 次重音 | 较弱、可以没有 | **ˌaf**-ter-noon |
 | Compound stress | 复合词重音 | 复合词重音在前，短语重音在后 | `ˈhot dog` vs `hot ˈdog` |
 | Phoneme | 音位 | 能区别意义的最小声音单位 | /p/ vs /b/ |
+| Phonological rules | 音系规则 | 改、加、删、添四种操作 | `cats` 的 /z/→/s/；[pʰ]；`handbag`→[ˈhæmbæɡ]；`something`→[ˈsʌmpθɪŋ] |
 
 ---
 
