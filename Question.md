@@ -45,7 +45,7 @@ For example, in English plurals, the /z/ sound changes to /s/ after voiceless so
 
 #### A 3: How can data science help analyze phonological rules?
 **（你的回答）**
-"I think it's mainly about **Machine Learning**. We can feed a lot of pronunciation data into a computer model, and the model can learn the patterns between phonological features and how they are actually pronounced. It helps us find rules automatically from big data."
+"I think it's mainly about **Machine Learning**. We can feed a lot of pronunciation data into a computer model, and the model can learn the patterns between phonological features（音韵特征） and how they are actually pronounced. It helps us find rules automatically from big data."
 
 #### A 4: What are the basic parts that make up a syllable（音节）? Name them.
 **（你的回答）**
