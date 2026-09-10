@@ -92,7 +92,7 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 #### A3. What are the four functions of phonological rules（音韵特征）?
 **（你的回答）**
 "There are four main functions. They can:
-1. **Change** feature values,
+1. **Change** feature values, the voiceless sound to voiced sound
 2. **Add** new features,
 3. **Delete** segments, and
 4. **Add** segments."
