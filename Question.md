@@ -53,7 +53,8 @@ For example, in English plurals, the /z/ sound changes to /s/ after voiceless so
 
 #### A 5: What is the difference between primary stress and secondary stress?
 **（你的回答）**
-"The main difference is prominence. **Primary stress** is the strongest and most prominent（突出的） syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses."
+"The main difference is prominence. **Primary stress** is the strongest and most prominent（突出的） syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses.
+Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-noon' carries the **primary stress**, and the first syllable 'af-' carries the **secondary stress**, which is weaker. The middle syllable '-ter-' is unstressed. Another example is **'photograph'** /ˈfoʊ.təˌɡræf/ — primary stress on 'pho-' and secondary stress on '-graph'."
 
 ---
 
