@@ -46,6 +46,105 @@ drive.mount('/content/drive')
 
 ---
 
+### 1.3 分词器（Tokenizer）
+
+**定义**：把人类能读的**文本** ↔ 模型能读的**数字（token ID）**互相转换的工具。
+
+```
+"Once upon a time"  --tokenizer-->  [128, 3321, 440, 259]
+       (文本)                            (token ID 序列)
+```
+
+**为什么需要它**：神经网络只能处理数字，不能直接吃字符串。所以要有一步"编码"，把文本切成 **token**（词/子词片段），再查表映射成整数 ID。
+
+**关键点**：
+
+| 概念 | 英文 | 含义 |
+|------|------|------|
+| 词元 | Token | 模型的最小处理单位，不一定是"一个词" |
+| 词表 | Vocabulary | 所有 token 的集合，Llama 约 32000 个 |
+| 编码 | encode | 文本 → token ID（模型输入方向） |
+| 解码 | decode | token ID → 文本（模型输出方向） |
+| 特殊 token | Special Token | 有专门用途的 token，如 `<s>`（句首）、`</s>`（句尾）、`<pad>`（填充） |
+
+**例子**（Llama 的分词方式）：
+- `"playing"` 可能被切成 `play` + `ing`（两个 token）
+- `"cat"` 是 1 个 token
+- 中文常常一个字 1~2 个 token，所以中文对英文模型来说"很贵、很陌生"
+
+> 💡 这正是本作业**英文模型中文 PPL = 70030** 的直接原因。
+
+**对应代码**（见 2.1 节）：
+```python
+tokenized_input = tokenizer.encode(prompt, return_tensors='pt').to(device)  # 编码
+output_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)     # 解码
+```
+
+---
+
+### 1.4 批大小（batch_size）
+
+**定义**：一次同时喂给模型多少条数据。
+
+```
+batch_size = 1  →  [样本1]                        一次处理 1 条
+batch_size = 4  →  [样本1, 样本2, 样本3, 样本4]     一次处理 4 条
+```
+
+| | batch_size 大 | batch_size 小 |
+|--|--------------|--------------|
+| 速度 | 更快（GPU 并行利用率高） | 慢 |
+| 显存 | 占用大 | 占用小 |
+| 训练稳定性 | 梯度更平滑、更稳 | 噪声大，震荡 |
+
+> 💡 本作业报错表里的 `CUDA out of memory → 减小 batch_size` 就是从这来的。
+
+---
+
+### 1.5 为什么批处理会牵扯出 pad_token？
+
+**批处理要求**：一个 batch 里的所有样本必须**长度一致**，才能拼成一个方正矩阵送进 GPU。但真实句子长短不一：
+
+```
+样本1: [128, 3321, 440, 259, 88, 12]       长度 6
+样本2: [128, 3321, 440]                    长度 3  ← 太短
+```
+
+**解决办法 = 填充（Padding）**：把短的用 `<pad>` 补到一样长。
+
+```
+样本2: [128, 3321, 440, PAD, PAD, PAD]     补齐到 6
+```
+
+**问题来了**：Llama 的 tokenizer **默认没有 `pad_token`**（因为它常被单条推理使用，不需要补）。所以代码里要手动给它指定一个：
+
+```python
+if tokenizer.pad_token is None and batch_size > 1:
+    #        ①还没有pad_token     ②且确实要批处理（>1 才有补齐需求）
+    existing_special_tokens = list(tokenizer.special_tokens_map_extended.values())
+    #        ③取出模型已有的所有特殊 token，如 ['<s>', '</s>', '<unk>']
+    assert len(existing_special_tokens) > 0, "..."
+    #        ④确保至少有一个能拿来复用，否则直接报错
+    tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
+    #        ⑤把第一个特殊 token（通常是 '<s>'）复用为 pad_token
+```
+
+**逐句拆解**：
+
+| 代码片段 | 作用 | 通俗解释 |
+|----------|------|----------|
+| `tokenizer.pad_token is None` | 检查有没有 pad token | "你没带填充符号？" |
+| `batch_size > 1` | 只有批处理才需要填充 | 单条推理不用补，跳过 |
+| `special_tokens_map_extended.values()` | 列出已有特殊 token | 看看手头有哪些现成符号 |
+| `assert len(...) > 0` | 一个都没有就报错 | 防止复用空气 |
+| `add_special_tokens(...)` | 把第一个复用为 pad | "那就把 `<s>` 拿来当填充符" |
+
+**为什么要"复用已有的"**：给 Llama 新增 token 会改变词表大小，导致 embedding 层和原来预训练权重**不匹配**（需要 resize 并重新训练）。复用已有的 `<s>` 当 pad 是低成本的常见做法。
+
+> ⚠️ 小提醒：用 `<s>`（句首符）当 pad 其实不太规范（模型可能误以为那是句首）。更干净的做法是用 `</s>`（句尾符），即 `tokenizer.pad_token = tokenizer.eos_token`。本作业的 `generate` 函数里 `pad_token_id=tokenizer.eos_token_id`（见 8.1 节）就是这么干的。
+
+---
+
 ## 二、文本生成核心
 
 ### 2.1 model.generate() 三步骤
@@ -364,6 +463,12 @@ print(f"Perplexity: {results['mean_perplexity']:.2f}")
 | 持续预训练 | Continual Pre-training | 在已有模型上继续训练 |
 | 词汇丰富度 | Type-Token Ratio (TTR) | 不同词数/总词数 |
 | 特殊 token | Special Token | 如 `<s>`、`</s>`、`<pad>` |
+| 分词器 | Tokenizer | 文本 ↔ token ID 的转换器 |
+| 词元 | Token | 模型处理的最小文本单位（词或子词） |
+| 词表 | Vocabulary | 所有 token 的集合 |
+| 批大小 | batch_size | 一次喂给模型的数据条数 |
+| 填充 | Padding | 把短样本补齐到统一长度 |
+| 填充 token | pad_token | 用于补齐的占位 token |
 
 ---
 

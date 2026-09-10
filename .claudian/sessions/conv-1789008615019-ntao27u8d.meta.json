@@ -4,8 +4,8 @@
   "title": "Explain tokenizer and batch_size in Python",
   "titleGenerationStatus": "success",
   "createdAt": 1789008615019,
-  "updatedAt": 1789008625341,
-  "lastResponseAt": 1789008625341,
+  "updatedAt": 1789008725844,
+  "lastResponseAt": 1789008725844,
   "sessionId": "8ad568a9-68ed-4138-a7e0-33b65a17f3ee",
   "providerState": {
     "providerSessionId": "8ad568a9-68ed-4138-a7e0-33b65a17f3ee"
@@ -13,11 +13,11 @@
   "currentNote": "澳门大学课程/整理笔记/CISC7021-LLM 学习笔记：Tiny Llama-2 作业实践.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 4160,
+    "inputTokens": 219,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 23040,
+    "cacheReadInputTokens": 30720,
     "contextWindow": 1000000,
-    "contextTokens": 27200,
+    "contextTokens": 30939,
     "percentage": 3
   }
 }
