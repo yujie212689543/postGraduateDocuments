@@ -85,11 +85,11 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 
 ### 第二组：音位与音系规则
 
-#### A1. What is a Phoneme?
+#### A1. What is a Phoneme（音素）?
 **（你的回答）**
 "Basically, a **phoneme** is the smallest unit of sound in a language that can change the meaning of a word. For example, in 'pat' and 'bat', the sounds /p/ and /b/ are different phonemes because they change the word's meaning."
 
-#### A3. What are the four functions of phonological rules（音韵te）?
+#### A3. What are the four functions of phonological rules（音韵特征）?
 **（你的回答）**
 "There are four main functions. They can:
 1. **Change** feature values,
