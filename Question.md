@@ -46,6 +46,12 @@
     3. **删音（Delete segments）**：把这个音直接去掉。
     4. **加音（Add segments）**：在这个位置凭空插一个新音进去。
 
+#### Q5. 复合名词 “hot dog”（热狗）和表示“一只觉得热的狗”的 hot dog，哪个把主重音放在第一个词上？
+- **大白话**：**复合词重音在前，短语重音在后**。
+    - `ˈhot ˌdog`（热狗，食物）：这是一个**复合名词**，主重音落在第一个词 **hot** 上。
+    - `hot ˈdog`（一只觉得热的狗）：这是「形容词 + 名词」的**普通短语**，不是复合词，主重音落在第二个词 **dog** 上。
+- **一句话**：重音位置不同，意思就不同 —— 听力里就是靠这个区分“热狗”和“热的狗”。
+
 ---
 
 ## 🎤 二、上课英语回答模板（直接背，很接地气）
@@ -91,6 +97,10 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 3. **Delete** segments, and
 4. **Add** segments."
 
+#### A5. Between the compound noun "hot dog" and the phrase "hot dog" that means "a dog that feels hot", which one puts the main stress on the first word?
+**（你的回答）**
+"The compound noun 'hot dog' (the food) puts the main stress on the first word, 'hot'. The phrase meaning a dog that feels hot puts stress on the second word, 'dog'."
+
 ---
 
 ## 📋 速查表
@@ -106,6 +116,7 @@ Let's take **'afternoon'** for example: /ˌæf.tɚˈnuːn/. The last syllable '-
 | Rime | 韵基 | Nucleus + Coda | -at in `cat` |
 | Primary stress | 主重音 | 最强、唯一 | af-ter-**ˈnoon** |
 | Secondary stress | 次重音 | 较弱、可以没有 | **ˌaf**-ter-noon |
+| Compound stress | 复合词重音 | 复合词重音在前，短语重音在后 | `ˈhot dog` vs `hot ˈdog` |
 | Phoneme | 音位 | 能区别意义的最小声音单位 | /p/ vs /b/ |
 
 ---
