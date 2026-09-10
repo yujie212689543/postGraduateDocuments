@@ -49,8 +49,8 @@ For example, in English plurals, the /z/ sound changes to /s/ after voiceless so
 
 #### A 4: What are the basic parts that make up a syllable（音节）? Name them.
 **（你的回答）**
-"A syllable has three main parts. First, the **Onset**, which is the consonant(s) at the beginning. Second, the **Nucleus**, the core vowel. And third, the **Coda**, the consonant(s) at the end. The Nucleus and Coda together make up the **Rime**."
-
+"A syllable has three main parts. First, the **Onset(音节首)**, which is the consonant(s) at the beginning. Second, the **Nucleus（音节核）**, the core vowel. And third, the **Coda（音节尾）**, the consonant(s) at the end. The Nucleus and Coda together make up the **Rime**."
+比如说在单词 “cat” 里,K 是 Onset,A 是 Nucleus,T 是 Coda。呃。你在课堂上可以直接这么说:“A syllable has three basic parts: the onset, the nucleus, and the coda.
 #### A 5: What is the difference between primary stress and secondary stress?
 **（你的回答）**
 "The main difference is prominence. **Primary stress** is the strongest and most prominent（突出的） syllable in a word. Every word has exactly **one** primary stress. **Secondary stress** is less prominent, it's weaker than primary stress, and a word can have zero or multiple secondary stresses.
