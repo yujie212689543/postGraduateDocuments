@@ -227,10 +227,11 @@ Forum Thread named "My Response to Question 01 - Why did Lila focus on communica
 Forum Thread named "My Response to Question 02 - What is the importance of domain knowledge in data science?"
 
 - 领域知识能让数据科学家将通用技术应用于特定行业的实际痛点。对于 Lila 来说，结合她的经济学背景选择电商领域，使她能更精准地解决该行业的实际问题，而不是盲目地分析数据。
-- To Lila，she chooses a niche that aligns with her interests. Because her bachelor's knowledge in economics can land herself a data science career.
-
+- Domain knowledge enables data scientists to apply general techniques to the real pain points of specific industries. For Lila, combining her economics background with the choice of the e-commerce sector allowed her to solve practical problems in that industry more precisely, rather than blindly analyzing data.
 ## Question 03 - What key skills did Lila acquire during her data science education?
 Forum Thread named "My Response to Question 03 - What key skills did Lila acquire during her data science education?"
+
+
 
 ## Question 04 - What sources did Lila explore to procure data for her data science project?
 Forum Thread named "My Response to Question 04 - What sources did Lila explore to procure data for her data science project?"
