@@ -217,3 +217,19 @@ That said, I am fully aware that my current foundation is still somewhat shaky. 
 
 ---
 # Practice 4
+## Question 01 - Why did Lila focus on communication and storytelling skills?
+Forum Thread named "My Response to Question 01 - Why did Lila focus on communication and storytelling skills?"
+
+- 
+
+## Question 02 - What is the importance of domain knowledge in data science?
+Forum Thread named "My Response to Question 02 - What is the importance of domain knowledge in data science?"
+
+## Question 03 - What key skills did Lila acquire during her data science education?
+Forum Thread named "My Response to Question 03 - What key skills did Lila acquire during her data science education?"
+
+## Question 04 - What sources did Lila explore to procure data for her data science project?
+Forum Thread named "My Response to Question 04 - What sources did Lila explore to procure data for her data science project?"
+
+## Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?
+Forum Thread named "My Response to Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?"

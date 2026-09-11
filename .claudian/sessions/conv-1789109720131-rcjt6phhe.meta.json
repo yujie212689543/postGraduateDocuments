@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789109720131-rcjt6phhe",
+  "providerId": "claude",
+  "title": "统一选中内容为 question1 格式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789109720132,
+  "updatedAt": 1789109745178,
+  "lastResponseAt": 1789109745178,
+  "sessionId": "0ab4bea3-5c62-42a2-be92-70c94c6b950d",
+  "providerState": {
+    "providerSessionId": "0ab4bea3-5c62-42a2-be92-70c94c6b950d"
+  },
+  "currentNote": "CISC7204-Practice.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 484,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 1000000,
+    "contextTokens": 31076,
+    "percentage": 3
+  }
+}
