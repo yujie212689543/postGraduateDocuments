@@ -231,10 +231,12 @@ Forum Thread named "My Response to Question 02 - What is the importance of domai
 ## Question 03 - What key skills did Lila acquire during her data science education?
 Forum Thread named "My Response to Question 03 - What key skills did Lila acquire during her data science education?"
 
-
+- She enrolled in a Master of Data Science program that covers key topics like statistics, machine learning, data analysis, and programming languages like Python and SQL. She diligently completes coursework and practices her coding skills on real datasets.
 
 ## Question 04 - What sources did Lila explore to procure data for her data science project?
 Forum Thread named "My Response to Question 04 - What sources did Lila explore to procure data for her data science project?"
+
+
 
 ## Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?
 Forum Thread named "My Response to Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?"
