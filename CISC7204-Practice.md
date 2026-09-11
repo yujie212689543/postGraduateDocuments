@@ -237,6 +237,9 @@ Forum Thread named "My Response to Question 03 - What key skills did Lila acquir
 Forum Thread named "My Response to Question 04 - What sources did Lila explore to procure data for her data science project?"
 
 
-
+- Apart from the historical data available for the organizations for the past four years, she scoured various repositories, websites, and databases to find the right datasets for her project. To harmonize and integrate these disparate datasets into a cohesive whole，she reached out to product professionals, data engineers, and domain specialists, seeking their input and expertise in merging datasets. 
+- 
 ## Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?
 Forum Thread named "My Response to Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?"
+
+- 
