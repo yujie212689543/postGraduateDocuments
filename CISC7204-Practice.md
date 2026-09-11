@@ -221,7 +221,7 @@ That said, I am fully aware that my current foundation is still somewhat shaky. 
 Forum Thread named "My Response to Question 01 - Why did Lila focus on communication and storytelling skills?"
 
 - Lila 意识到只有将数据转化为清晰的故事和视觉图表，非技术背景的利益相关者才能理解数据的价值，从而推动业务决策。
-- Because Lila realized that only transforming the data to the clear story and visual chart, the 
+- Because Lila realized that only transforming the data to the clear story and visual chart, the stakeholders can grasp the data's significance to push the decision of the job.
 
 ## Question 02 - What is the importance of domain knowledge in data science?
 Forum Thread named "My Response to Question 02 - What is the importance of domain knowledge in data science?"
