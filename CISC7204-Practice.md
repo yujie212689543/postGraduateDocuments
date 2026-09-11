@@ -243,3 +243,4 @@ Forum Thread named "My Response to Question 04 - What sources did Lila explore t
 Forum Thread named "My Response to Question 05 - What does Lila do at the end of her first project as a junior data scientist to effectively convey insights and recommendations to stakeholders?"
 
 - Lila compiles her analysis and findings using a Jupyter Notebook into a comprehensive report and presentation. She highlights actionable insights and recommendations for the e-commerce platform's stakeholders.
+
