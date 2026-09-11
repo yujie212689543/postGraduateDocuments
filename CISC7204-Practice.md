@@ -1,3 +1,4 @@
+# Practice 3
 好的！明白了，我们直接在这个对话框进行。
 
 **规则确认：**
@@ -212,3 +213,7 @@ That said, I am fully aware that my current foundation is still somewhat shaky. 
 |Q1: 现有硬技能|Python、MySQL、Linux，正通过课程深化，并拓展数据管道、数据库优化、系统管理|
 |Q2: 软技能/背景|实习中亲眼见证AI对社会变革的深远影响，理解AI是“协作伙伴”而非仅工具，有使命感|
 |Q3: 最需加强的技能|分布式系统、高级ML框架、大规模数据处理——清楚认识差距，愿意投入时间和精力|
+
+
+---
+# Practice 4
