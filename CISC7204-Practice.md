@@ -330,12 +330,8 @@ These skills align perfectly with the core technical competencies emphasized in 
 #### **Thread 08**
 **Title:** `My Findings - Question 08 What are at least two ideas or concepts you learned about (in this course) so far relevant to these job posts?`
 
-**Content:**
-Two key concepts from the course that are highly relevant to this job posting are:
-
-1.  **Data Storytelling and Communication**: The job requires "describing business progress, identifying anomalies, and interpreting root causes" (有效描述业务进展、及时洞察异动，并解读归因). This mirrors the course emphasis on translating complex data findings into clear, actionable insights for non-technical stakeholders, just like Lila did in her case study.
-
-2.  **Domain Knowledge and Business Acumen**: The role demands "deep understanding of business logic and user needs" (深入理解业务逻辑和用户需求) and acting as a "bridge between business and data" (做好业务和数据之间的桥梁). This reflects the course lesson that technical skills alone are insufficient; success in data science requires combining them with domain expertise (in this case, the social media/content creation industry) to solve real-world business problems effectively.
+**Content:**  
+Two critical concepts from our course relevant to this role are **Data Wrangling/EDA** and **Data Storytelling**. The job's requirement to "identify anomalies and interpret root causes" mirrors the **Exploratory Data Analysis (EDA)** and cleaning steps we practiced before, emphasizing that understanding data quality is foundational. Furthermore, the need to act as a "bridge between business and data" reflects the **Data Storytelling** principle we studied, where technical findings must be translated into clear, visual narratives to drive effective business decision-making.**
 
 ---
 
