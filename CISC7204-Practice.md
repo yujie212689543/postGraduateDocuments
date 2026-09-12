@@ -310,10 +310,8 @@ When searching for "Data Analyst" (数据分析师) roles in Shenzhen on the BOS
 #### **Thread 06**
 **Title:** `My Findings - Question 06 What is one technical responsibility from the job post related to something you learned about (in this course) so far?`
 
-**Content:**
-One key technical responsibility mentioned is: **"Conducting A/B testing to support business iteration and provide improvement suggestions"** (基于需求 AB 分析等，总结提炼经验，提出改进建议).
-
-This directly relates to the course concept of **Experimental Design and Hypothesis Testing**. In our coursework, we learned how to design controlled experiments, define control and treatment groups, and use statistical methods to determine if observed differences are significant. This job requires applying those exact principles to test product features or strategies and make data-driven decisions on which version performs better.
+**Content:**  
+The responsibility to **"build data monitoring systems to effectively describe business progress and visualize key process indicators"** directly aligns with our course module on **Data Visualization**. Just as we learned to select appropriate charts (like line or bar graphs) to reveal trends and anomalies in Lila's case study, this role requires constructing visual dashboards that transform raw metrics into clear, actionable insights for stakeholders to monitor business health instantly.**
 
 ---
 
