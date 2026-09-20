@@ -1,6 +1,6 @@
-# CISC 7204 Preliminary Project Proposal
+# Assessing Macau's Monthly Gross Gaming Revenue against Visitor Arrivals from 2019 to 2026
 
-_Assessing Macau's Monthly Gross Gaming Revenue against Visitor Arrivals from 2019 to 2026_
+_CISC 7204 Preliminary Project Proposal_
 
 | Field | Value |
 |---|---|

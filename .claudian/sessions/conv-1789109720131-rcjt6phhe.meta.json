@@ -4,19 +4,19 @@
   "title": "统一选中内容为 question1 格式",
   "titleGenerationStatus": "success",
   "createdAt": 1789109720132,
-  "updatedAt": 1789915247771,
-  "lastResponseAt": 1789915247771,
+  "updatedAt": 1789915553073,
+  "lastResponseAt": 1789915553073,
   "sessionId": "0ab4bea3-5c62-42a2-be92-70c94c6b950d",
   "providerState": {
     "providerSessionId": "0ab4bea3-5c62-42a2-be92-70c94c6b950d"
   },
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 220,
+    "inputTokens": 242,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 42880,
+    "cacheReadInputTokens": 43648,
     "contextWindow": 1000000,
-    "contextTokens": 43100,
+    "contextTokens": 43890,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
