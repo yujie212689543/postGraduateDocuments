@@ -77,6 +77,8 @@
 3. **Aid Human-human Communication**（辅助人际交流：Translation 翻译、Writing 写作）
 4. **Analyze / Understand Language**（分析与理解语言：Lexical 词汇层、Syntax 句法层、Semantic 语义层）
 
+![[CISC7021-Ch1-P16-NLP-four-uses.png]]
+
 ### 2.3 典型任务术语
 
 - **Speech Recognition（语音识别）**：语音 → 文本
@@ -131,6 +133,8 @@
 ---
 
 
+![[CISC7021-Ch1-P24-course-questions-data-scale.png]]
+
 ### 模块 2 练习（9 题）
 
 1. According to the lecture, NLP is defined as: A. computers using natural language as input and/or output B. the study of linguistic sound C. building formal logics D. translating programs into natural language
@@ -152,6 +156,8 @@
 ---
 
 ## 模块 3：语言六大层次（P25–37）
+
+![[CISC7021-Ch1-P26-six-layers.png]]
 
 ### 3.0 六大层次总表（必须能背）
 
@@ -199,6 +205,8 @@
 
 > 归纳：**词性歧义（lexical category）** 看的是"这个词是名词还是动词"；**词义歧义（lexical semantics）** 看的是"这个词是哪个意思"。考试常在这两个词上设陷阱。
 
+![[CISC7021-Ch1-P33-lexical-ambiguity.png]]
+
 ### 3.4 句法学（Syntax —— Grammatical Structure）（P34）
 
 - 定义：**the study of structural relationships between words**（研究词与词之间的结构关系）。
@@ -208,6 +216,8 @@
   - 结构歧义：`that` 从句到底修饰谁？→ **structural / syntactic ambiguity（结构歧义）**
 - *I made her duck* 同样存在句法结构歧义。
 - **Part-of-speech（POS，词性/词类）** 歧义是句法分析的主要难点之一。
+
+![[CISC7021-Ch1-P34-parse-tree.png]]
 
 ### 3.5 语义学（Semantics）（P35）
 
@@ -271,6 +281,8 @@
 ---
 
 ## 模块 4：自然语言理解 NLU 的流程（P38）
+
+![[CISC7021-Ch1-P38-NLU-pipeline.png]]
 
 **Pipeline（流水线）逐级如下**：
 
@@ -355,6 +367,8 @@
 
 ## 模块 6：NLP 发展史（P43）
 
+![[CISC7021-Ch1-P43-history-timeline.png]]
+
 | 阶段 | 时间 | 特征（原文） | 代表系统 |
 |---|---|---|---|
 | **Rule-Based（规则驱动）** | **1950–1990** | **Intent recognition based on keywords**（基于关键词的意图识别） | Georgetown-IBM（1954）、ELIZA（1965）、SHRDLU（1968） |
@@ -408,6 +422,8 @@
 
 ### 7.2 通用开发循环（A General Development Cycle）（P45）
 
+![[CISC7021-Ch1-P45-development-cycle.png]]
+
 - **Data Engineering（数据工程）**：Training Data（训练数据，含 **Labeled Data 标注数据**）
 - **Feature Engineering（特征工程）**
 - **Learning Algorithms（学习算法）**：
@@ -442,6 +458,8 @@
 
 ## 模块 8：三种建系统的方法 + 数据需求（P46–47）
 
+### 8.1 三种创建 NLP 系统的方法（P46）★
+
 | 方法 | 英文 | 做法 | 需要数据？ |
 |---|---|---|---|
 | 规则 | **Rules** | Manual creation of rules（手工写规则） | 不需要 |
@@ -467,6 +485,8 @@ else: return "other"
 
 **提示示例（不训练）**：给 LLM 一句指示 —— "If the following sentence is about 'sports' reply 'sports'. Otherwise reply 'other'."
 
+![[CISC7021-Ch1-P46-three-methods.png]]
+
 ### 8.2 建系统所需的数据量（Data Requirements）（P47）★
 
 | 层次 | 说明 |
@@ -480,6 +500,8 @@ else: return "other"
 
 ---
 
+
+![[CISC7021-Ch1-P47-data-requirements.png]]
 
 ### 模块 8 练习（8 题）
 
@@ -515,6 +537,8 @@ else: return "other"
   - "We saw this movie after dinner." → Neutral (0)
 
 ### 9.2 预测的三个步骤（To Make a Prediction: Three-step Process）（P50–51）★
+
+![[CISC7021-Ch1-P51-three-step-prediction.png]]
 
 1. **Feature Extraction（特征抽取）**：从文本中抽取显著特征 → 数据点写成 `⟨b₀, b₁, …, b₁₁, label⟩`
    - 公式：**h = f(x)**
@@ -580,6 +604,8 @@ def run_classifier(x: str) -> int:
 - 决策：`2.5 > 0` → 预测 **1（Positive）**
 
 > 规则总结：**score > 0 → 1；score < 0 → −1；score = 0 → 0**。
+
+![[CISC7021-Ch1-P54-decision-rule.png]]
 
 ### 9.6 准确率计算（Accuracy Calculation，P55）
 
@@ -673,6 +699,8 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
 
 ### 改进系统的循环（P58）★
 
+![[CISC7021-Ch1-P58-improvement-loop.png]]
+
 1. **What's going wrong with my system?** → Look at **error analysis**（哪里出了问题？→ 看错误分析）
 2. **Modify the system**（修改系统：featurization 特征化、scoring function 打分函数等）
 3. **Measure accuracy improvements, accept/reject change**（测准确率提升，决定接受还是回退）
@@ -734,6 +762,8 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
 - 核心结论：**Features f are based on word identity（特征基于"词本身"）and weights w are learned（权重是被学出来的）**。
 - 关键词：**word identity（词的身份/词形）**，即只看"出现了哪个词、出现几次"，**不看词序**。
 
+![[CISC7021-Ch1-P67-bag-of-words.png]]
+
 ### 11.3 向量代表什么（What do Our Vectors Represent?）（P68）
 
 - **Binary classification（二分类）**：每个词只有一个标量，正数表示"是（yes）"，负数表示"否（no）"
@@ -746,6 +776,8 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
   - dog：[−0.3, 0.3, 0.6, 0.2, −0.2]
 
 > 注意：BOW 学到的"权重"本质上是**词的情感极性打分**（如 love 很正面、hate 很负面），dog 接近中性。
+
+![[CISC7021-Ch1-P68-word-vectors.png]]
 
 ### 11.4 BOW 的训练：结构化感知机（Training of BOW Models: Structured Perceptron）（P69）★
 
@@ -766,6 +798,8 @@ for x, y in data:
   - 若真实标签 y 为正而预测错 → 好词的权重被加大
   - 若真实标签 y 为负而预测错 → 好词的权重被减小（y 为负数）
 - 术语：**update the weights（更新权重）**、**prediction（预测）**。
+
+![[CISC7021-Ch1-P69-structured-perceptron.png]]
 
 ### 11.5 BOW 缺什么（What's Missing in BOW?）（P70）★
 
@@ -802,6 +836,8 @@ for x, y in data:
 
 ## 模块 12：神经网络 + 课程大纲（P71–73）
 
+![[CISC7021-Ch1-P71-neural-network.png]]
+
 - 同样输入 `I like this movie`：**lookup → 相加 → weights → score**，但特征与权重由 **Neural Networks（神经网络）** 给出。
 - 课件评价：**Powerful enough to perform classification, LM, any task!**（强大到可以做分类、语言建模乃至任何任务！）
 - 关键区别：**"Some complicated functions to extract features"（用复杂的函数来抽特征）** —— 特征不再靠人工设计，而是学出来的。
@@ -828,6 +864,8 @@ for x, y in data:
 
 ---
 
+
+![[CISC7021-Ch1-P73-roadmap.png]]
 
 ### 模块 12 练习（8 题）
 
