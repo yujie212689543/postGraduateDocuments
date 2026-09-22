@@ -1,107 +1,25 @@
-# CISC7021 Applied Natural Language Processing
+# CISC7021 · Chapter 1 Introduction（模块版笔记）
 
-## Chapter 1 — Introduction 详细笔记
+> 课程：[[CISC7021-Applied Natural Language Processing]] ｜ 相关主题：[[CISC7021-NLP-01 词表示 - BOW缺陷与BPE子词模型]]、[[CISC7021-NLP-02 统计语言模型与N-gram]]、[[CISC7021-NLP-03 神经语言模型 - RNN与CNN与Transformer]]、[[CISC7021-NLP-04 文本生成 - 温度与采样策略]]
+> 来源：课件 `Chapter 1 - Introduction.pdf`（P1–P75）｜ 场景：随堂测验复习（30 分钟、全选择题）
+> 用法：每个模块 = 一块知识点 → 立刻做后面的 5–10 道题 → 对答案。术语统一写成 **English（中文）**，带 ★ 的是高频考点。
 
-> 对应课件事务页 P1–P9 + 正文 P10–P75。术语统一写成 **English（中文）** 形式，方便对照专业英语。
-
----
-
-## 0. 课程事务与政策（P1–P9）
-
-### 0.1 教材（Text Books）
-
-- **主教材**：*Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition*, 3rd ed., Daniel Jurafsky & James Martin, Prentice Hall, 2024.
-
-  - **Natural Language Processing（自然语言处理）** = 让计算机处理人类语言。
-  - **Computational Linguistics（计算语言学）** = 用计算方法研究语言学的学科视角。
-  - **Speech Recognition（语音识别）** = 把语音信号转成文字。
-
-- *Neural Machine Translation*, Philipp Koehn, 2018.
-  - **Neural Machine Translation / NMT（神经机器翻译）** = 用神经网络做翻译。
-- *Deep Learning*, I. Goodfellow, Y. Bengio, A. Courville, MIT Press, 2017.
-
-### 0.2 参考书（Reference Books）
-
-- *Foundations of Statistical Natural Language Processing*, D. Manning & H. Schütze, 1999.
-- *Foundations of Large Language Models*, Tong Xiao & Jingbo Zhu, 2025.
-  - **Large Language Model / LLM（大语言模型）** = 在海量文本上预训练的大型神经网络语言模型。
-
-- **Course Website（课程网站）**：http://ummoodle.umac.mo/
-
-### 0.3 课程结构（Course Structure）
-
-- **Assignments（作业）**：hands-on experiments（动手实验）；reading and problem solving（阅读与解题）。
-  - 课件原话："No way to really internalize without doing it"（不亲手做就没法真正内化）。
-- **Term Project（学期项目）**：
-  - **Paper Reading（论文阅读）**：review selected state-of-the-art research topics（综述精选前沿课题），learn the research methodology and experiment results（学习研究方法与实验结果）。
-  - **Development（开发实践）**：implement and extend based on the selected topic（在选定课题上实现并扩展）。
-
-### 0.4 考核（Assessment）
-
-| 项目 | 比例 |
-|---|---|
-| Assignments（作业） | 40% |
-| Term Projects（学期项目） | 60% |
-
-**Late submission policy（迟交政策）**：
-
-| 迟交时长 | 扣分 |
-|---|---|
-| 1 day late（迟 1 天） | 扣 15% |
-| 2 days late（迟 2 天） | 扣 30% |
-| 3 days late（迟 3 天） | 扣 50% |
-| 4 or more days late（≥4 天） | 得 0% |
-
-- Assignments have to be done **individually**（必须个人独立完成）→ **No collaboration with others（不得与他人合作）**。
-- **Class Participation（课堂参与）**：in-class assignments（随堂作业）。
-
-### 0.5 生成式 AI 使用政策（Policy for Using Generative AI Tools）
-
-**May be used as（可以用于）**：learning and problem-solving assistants（学习与解题助手）。
-
-**Appropriate Use（合规用法）**：
-
-- **Explain concepts** and clarify understanding（讲解概念、理清理解）
-- Provide **hints**（提示）、**suggestions**（建议）、**alternative approaches**（替代思路）
-- Help **debug** code（调试代码）and improve writing（改进写作）
-- Offer **feedback** on solutions（对解答给出反馈）
-
-**Not Permitted（禁止用法）**：
-
-- **Generate complete assignment solutions for submission**（用 AI 生成完整作业解答直接提交）
-- **Copy AI-generated answers without independent work and understanding**（不经独立思考与理解就照抄 AI 答案）
-
-**核心原则**：GenAI should **support learning, not replace independent thinking and problem solving**（AI 应支持学习，而非替代独立思考与解题）。Students must **independently complete and submit their own work**（必须独立完成并提交自己的作品）。
-
-### 0.6 学术诚信（Academic Integrity）
-
-- 必须遵守《澳门大学学术诚信与学术诚实政策》。
-- **Permitted use of GenAI does not excuse（允许使用 AI 不能成为以下行为的借口）**：
-  - **plagiarism（抄袭）**
-  - **unauthorized collaboration（未经授权的合作）**
-  - **fabrication（编造）**
-  - **falsification（篡改）**
-  - **misrepresentation（虚假陈述）**
-  - **submitting AI-generated work as one's own（把 AI 生成的内容当作自己的成果提交）**
-- Any use of GenAI must **support, not replace, the student's original intellectual contribution**（AI 只能支持、不能替代学生本人的智力贡献）。
-- **Students MUST Declare any GenAI use（必须声明所有 AI 使用情况）**，包括如何使用。
-
-### 0.7 课程内容（Course Content，五点）
-
-1. Learn in detail about **building NLP systems from a research perspective**（从研究视角细致了解如何构建 NLP 系统）
-2. Learn **basic and advanced topics in machine learning approaches to NLP and language models**（NLP 的机器学习方法与语言模型，从基础到进阶）
-3. Learn **basic linguistic knowledge useful in NLP**（对 NLP 有用的基础语言学知识）
-4. See **case studies** of NLP applications and learn how to identify unique problems for each（看应用案例，学会识别每个任务特有的问题）
-5. Learn how to **debug when and where NLP systems fail**（学会排查 NLP 系统在何时何处失败），and build improvements based on this（并据此改进）
-
-### 0.8 教学团队（Teaching Assistants & Project Advisors）
-
-- Instructor（授课教师）：Derek F. Wong；隶属 **NLP2CT（Natural Language Processing & Portuguese-Chinese Machine Translation Research Group，自然语言处理与葡汉机器翻译研究组）** 与 **CAGI（Centre for Artificial General Intelligence，通用人工智能中心）**。
-- 助教（TAs）与项目导师（PAs）：Zhaocong、Yingpeng、Yutong、Junchao、Jingkun、Kaixin、Fengying 等，部分 TBA（To Be Announced，待定）。
+| 1 | 自然语言与语言的四大特性 | P12–14 |
+| 2 | NLP 是什么：定义、四大用途、典型任务 | P15–24 |
+| 3 | 语言六大层次 ★ | P25–37 |
+| 4 | 自然语言理解 NLU 的流程 | P38 |
+| 5 | NLP 难在哪：歧义与世界知识 | P39–41 |
+| 6 | NLP 发展史 | P43 |
+| 7 | 通用框架 `Y = f(X)` 与开发循环 | P44–45 |
+| 8 | 三种建系统的方法 + 数据需求 | P46–47 |
+| 9 | 情感分类器完整案例 ★ | P48–58 |
+| 10 | 改进循环 + 五类难点案例 | P58–64 |
+| 11 | 机器学习、BOW 与结构化感知机 ★ | P65–70 |
+| 12 | 神经网络 + 课程大纲 | P71–73 |
 
 ---
 
-## 1. 什么是自然语言（What is a Natural Language?）（P13–14）
+## 模块 1：自然语言与语言的四大特性（P12–14）
 
 ### 1.1 定义
 
@@ -126,7 +44,27 @@
 
 ---
 
-## 2. 什么是自然语言处理（What is NLP?）（P15–P24）
+
+### 模块 1 练习（8 题）
+
+1. Which term refers to a language such as Chinese or English, as opposed to a constructed or machine language? A. formal language B. natural language C. artificial language D. programming language
+2. According to the lecture, natural language is also called: A. ordinary language B. formal language C. machine language D. logical language
+3. All of the following are properties shared by ALL natural languages EXCEPT: A. systematics B. conventional and arbitrary mapping C. redundancy D. a fixed and unchanging vocabulary
+4. "A particular word is assigned to a specific thing or concept without inherent reason" describes: A. redundancy B. language evolution C. conventional and arbitrary D. language systematics
+5. Which best illustrates redundancy in language? A. "bank" can mean a river bank or a financial institution B. In English, plurality is marked both by the numeral and by the noun ending ("two book-s") C. New words such as "selfie" enter the language D. Chinese and English use different words for water
+6. Which of the following is NOT listed as part of the language system in the lecture? A. phonology B. graphics C. lexicon D. discourse
+7. Which statement about language evolution is correct? A. Natural languages never change B. Only constructed languages change C. All natural languages undergo change due to various factors D. Only written languages change
+8. A student argues: "Since word-meaning pairs are arbitrary, we can rename anything we want at any time." Which aspect does this ignore? A. language systematics B. the "conventional" part — the pairing is fixed by agreement within a speech community C. redundancy D. graphics
+
+### 模块 1 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **B** | **A** | **D** | **C** | **B** | **D** | **C** | **B** |
+
+---
+
+## 模块 2：NLP 是什么：定义、四大用途、典型任务（P15–24）
 
 ### 2.1 定义
 
@@ -192,7 +130,28 @@
 
 ---
 
-## 3. 语言的层次（Layers of Language Processing）（P25–P37）★重点
+
+### 模块 2 练习（9 题）
+
+1. According to the lecture, NLP is defined as: A. computers using natural language as input and/or output B. the study of linguistic sound C. building formal logics D. translating programs into natural language
+2. Which is an example of "Aid Human-machine Communication"? A. translation and writing B. lexical and syntactic analysis C. Q&A and dialog D. phonology and morphology
+3. Which belongs to "Analyze/Understand Language" rather than aiding communication? A. dialog systems B. lexical and syntactic analysis C. machine translation D. question answering
+4. The question "How many medals will be awarded at Los Angeles 2028?" is used to show that: A. NLP systems always answer correctly B. future events are easy for NLP C. the answer requires phonology D. the model may lack the required information and cannot give a reliable answer
+5. Which is listed as a caution when using ChatGPT for translation? A. it may miss information such as names, and may fabricate information during multiple rounds of conversation B. it always misses all proper names C. it cannot translate Portuguese D. it refuses to translate news reports
+6. The study by Sap et al. (2017) on movie scripts is an example of: A. speech recognition B. morphological analysis C. speech synthesis D. computational social science
+7. Which representation is described as "an equivalent graph" of a sentence's meaning? A. AMR (Abstract Meaning Representation) B. POS tag C. parse tree D. syllable structure
+8. According to the lecture's chart, the largest amount of data is available in the form of: A. rules (10s) B. cases (100s) C. parallel data (millions) D. monolingual data (in 10 billions)
+9. The evolution path of machine translation methods shown in the lecture is: A. SMT → RBMT → NMT → EBMT B. NMT → SMT → RBMT C. RBMT → EBMT → SMT → NMT → Pre-training D. Pre-training → NMT → SMT → RBMT → EBMT
+
+### 模块 2 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---|---|---|---|---|---|---|---|---|---|
+| 答 | **A** | **C** | **B** | **D** | **A** | **D** | **A** | **D** | **C** |
+
+---
+
+## 模块 3：语言六大层次（P25–37）
 
 ### 3.0 六大层次总表（必须能背）
 
@@ -289,7 +248,29 @@
 
 ---
 
-## 4. 自然语言理解的流程（Process of NLU）（P38）★
+
+### 模块 3 练习（10 题）
+
+1. "The study of word components" refers to: A. phonology B. syntax C. morphology D. semantics
+2. Which layer studies the relationship of meaning to the goals and intentions of the speaker? A. semantics B. syntax C. pragmatics D. discourse
+3. In "I know that you and Frank were planning to disconnect me," analyzing ACTION / ACTOR / OBJECT belongs to: A. semantics B. syntax C. phonology D. discourse
+4. In "I made her duck," the fact that "her" can be a possessive pronoun or a dative pronoun is an example of: A. lexical semantics B. lexical category ambiguity C. syntactic ambiguity D. no ambiguity
+5. Which is the lecture's definition of phonology? A. the study of systems of discrete sounds and syllable structure B. the study of how sounds are physically formed C. the study of word components D. the study of literal meaning
+6. The pair "It's easy to recognize speech." / "It's easy to wreck a nice beach." illustrates: A. morphological variation B. negation C. the need for world knowledge D. ambiguity at the sound level (homophony)
+7. "Turn taking" and "thread of meaning" are studied at which level? A. syntax B. semantics C. pragmatics D. discourse
+8. The Turkish word "uygarlastiramadiklarimizdanmissinizcasina" is used to show the need for: A. syntactic analysis B. speech recognition C. pragmatic reasoning D. morphological analysis
+9. The difference between "I cooked waterfowl belonging to her" and "I made the (plaster) duck statue she owns" lies in: A. the lexical semantics of "make" B. the lexical category of "duck" C. the syntax of the sentence D. phonology
+10. "He's got a knife!" — concluding that you should run rather than ask how sharp it is, is an example of: A. phonology B. morphology C. pragmatics D. syntax
+
+### 模块 3 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 答 | **C** | **C** | **A** | **B** | **A** | **D** | **D** | **D** | **A** | **C** |
+
+---
+
+## 模块 4：自然语言理解 NLU 的流程（P38）
 
 **Pipeline（流水线）逐级如下**：
 
@@ -307,7 +288,27 @@
 
 ---
 
-## 5. NLP 难在哪里（What Makes NLP Hard?）（P39–P41）
+
+### 模块 4 练习（8 题）
+
+1. Which NLU component converts the spoken input into a sequence of words? A. syntactic analyzer B. phonological/morphological analyzer C. semantic interpreter D. contextual reasoner
+2. Which knowledge source does the syntactic analyzer use? A. grammatical knowledge B. semantic knowledge C. world knowledge D. selectional restrictions
+3. Which component uses selectional restrictions? A. phonological analyzer B. syntactic analyzer C. semantic interpreter D. contextual reasoner
+4. Which component uses pragmatic and world knowledge? A. phonological analyzer B. syntactic analyzer C. semantic interpreter D. contextual reasoner
+5. The output of the semantic interpreter is: A. a sequence of words B. a syntactic structure C. logic D. speech
+6. NLU differs from NLG in that NLU: A. maps language into a meaning representation B. generates text from meaning C. trains language models D. translates speech into text
+7. In the pipeline, the representation `made(I, her(duck))` is produced by: A. the phonological analyzer B. the morphological analyzer C. the syntactic analyzer D. the contextual reasoner
+8. Which statement about the pipeline is correct? A. every stage uses the same knowledge source B. each stage relies on a different knowledge source, and later stages need more world knowledge C. simple sentences need no analysis D. only written input is supported
+
+### 模块 4 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **B** | **A** | **C** | **D** | **C** | **A** | **D** | **B** |
+
+---
+
+## 模块 5：NLP 难在哪：歧义与世界知识（P39–41）
 
 ### 5.1 歧义（Ambiguity）
 
@@ -332,7 +333,27 @@
 
 ---
 
-## 6. NLP 的发展史（Development of NLP）（P43）★
+
+### 模块 5 练习（8 题）
+
+1. According to the lecture, what is a fundamental problem of computational linguistics? A. missing training data B. ambiguity C. slow hardware D. spelling errors
+2. Each layer of language knowledge can be thought of as: A. an ambiguity-resolving component B. a translation rule C. a training set D. a speech signal
+3. Which example is used in the lecture to show the need for world knowledge? A. disconnect [dis-kə-ˈnekt] B. uygarlastiramadiklarimizdanmissinizcasina C. "I took the cake from the plate and ate it." D. "I know that you and Frank were planning to disconnect me."
+4. Rendering 我們去金沙 as "Let's go to the Sands casino" requires: A. morphological analysis B. phonology C. negation handling D. world knowledge
+5. In "I made her duck," deciding whether "duck" is a noun or a verb mainly requires: A. discourse knowledge B. world knowledge C. phonetic knowledge D. syntactic knowledge
+6. Which statement is correct according to the lecture? A. Ambiguity only appears at the semantic layer B. Ambiguity is a fundamental problem of computational linguistics C. World knowledge is not needed for language use D. Natural languages are unambiguous
+7. The 911 attack and the Tiangong-1 / Shenzhou-8 docking examples illustrate: A. world knowledge B. morphological variation C. syllable structure D. language evolution
+8. Resolving ambiguity in a sentence typically requires: A. looking only at the last word B. using knowledge at multiple layers C. increasing the speech rate D. translating into another language
+
+### 模块 5 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **B** | **A** | **C** | **D** | **D** | **B** | **A** | **B** |
+
+---
+
+## 模块 6：NLP 发展史（P43）
 
 | 阶段 | 时间 | 特征（原文） | 代表系统 |
 |---|---|---|---|
@@ -349,7 +370,27 @@
 
 ---
 
-## 7. NLP 系统的通用框架（A General Framework for NLP Systems）（P44–P45）
+
+### 模块 6 练习（8 题）
+
+1. The rule-based era of NLP is: A. 1950–1990 B. 1990–2010 C. 2014–now D. 2000–2010
+2. Which era is characterized by "intent recognition based on syntax analysis"? A. rule-based B. statistics-based C. deep-learning-based D. none of the above
+3. The deep-learning era is characterized by: A. hand-written rules B. keyword matching C. statistical machine translation D. semantic feature extraction
+4. Which system appeared FIRST? A. ELIZA B. SHRDLU C. Georgetown-IBM D. ALICE
+5. ALICE is dated: A. 1954 B. 1965 C. 1968 D. 1995
+6. Which belongs to the statistics-based era? A. IBM's Watson B. ELIZA C. SHRDLU D. ChatGPT
+7. The vertical axis of the development chart represents: A. data size B. quality C. cost D. number of rules
+8. Which label is used for the shaded band of the current era? A. Rule-based B. Statistical C. Neural + Pre-training D. Symbolic
+
+### 模块 6 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **A** | **B** | **D** | **C** | **D** | **A** | **B** | **C** |
+
+---
+
+## 模块 7：通用框架 Y = f(X) 与开发循环（P44–45）
 
 ### 7.1 核心思想
 
@@ -379,7 +420,27 @@
   - **Agents（智能体）**
 - 流程：Training Data → Trained Model（训练好的模型）→ Test Data（测试数据）→ Results（结果）→ Real Data（真实数据，回流）
 
-### 7.3 三种创建 NLP 系统的方法（P46）★
+
+### 模块 7 练习（8 题）
+
+1. In the general framework `Y = f(X)`, X and/or Y involve: A. language B. only images C. only speech D. only formal logic
+2. For classification, Y is: A. the target language B. linguistic structure C. continue text D. a label
+3. For which task is X an image and Y a text? A. language modeling B. captioning C. translation D. classification
+4. Which task has Y = linguistic structure? A. translation B. classification C. analysis D. captioning
+5. Which of the following is NOT listed as a learning algorithm/approach in the development cycle? A. supervised learning B. self-supervised learning C. agents D. gradient boosting decision trees
+6. In the development cycle, "data engineering" is associated with: A. decision function B. error analysis C. training data (labeled data) D. speech synthesis
+7. Which pair is correct? A. translation: Y = a label B. language modeling: Y = continue text C. captioning: X = text, Y = image D. classification: X = image only
+8. The development cycle ends with: A. training data B. test data C. labeled data D. real data
+
+### 模块 7 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **A** | **D** | **B** | **C** | **D** | **C** | **B** | **D** |
+
+---
+
+## 模块 8：三种建系统的方法 + 数据需求（P46–47）
 
 | 方法 | 英文 | 做法 | 需要数据？ |
 |---|---|---|---|
@@ -406,7 +467,7 @@ else: return "other"
 
 **提示示例（不训练）**：给 LLM 一句指示 —— "If the following sentence is about 'sports' reply 'sports'. Otherwise reply 'other'."
 
-### 7.4 建系统所需的数据量（Data Requirements）（P47）★
+### 8.2 建系统所需的数据量（Data Requirements）（P47）★
 
 | 层次 | 说明 |
 |---|---|
@@ -419,9 +480,29 @@ else: return "other"
 
 ---
 
-## 8. 案例：情感分析（Sentiment Analysis）（P49–P58）★必考
 
-### 8.1 任务定义
+### 模块 8 练习（8 题）
+
+1. Which method is described as "manual creation of rules"? A. fine-tuning B. prompting C. rules D. pre-training
+2. Fine-tuning learns from: A. unlabeled text B. hand-written rules C. dictionaries D. paired data ⟨X, Y⟩
+3. Prompting differs from fine-tuning because prompting: A. requires a large training set B. needs paired data ⟨X, Y⟩ C. is done without training the model D. cannot be evaluated
+4. "Rules/prompting based on intuition" means: A. no data are needed, but there are no performance guarantees B. a full training set is required C. a held-out test set is required D. accuracy increases when data size doubles
+5. "Rules/prompting based on spot-checks" require: A. a small amount of data with input X only B. no data at all C. paired data ⟨X, Y⟩ for training D. a test set
+6. For rigorous evaluation of rules/prompting, the lecture suggests a development set of about: A. 20–50 examples B. 200–2000 examples C. 20k–50k examples D. 200k+ examples
+7. For fine-tuning, when the data size doubles, accuracy: A. always doubles B. usually decreases C. stays the same D. usually increases by a constant amount
+8. Which order of datasets is used in the lecture? A. test → dev → train B. train → dev → test C. dev → test → train D. train → test → dev
+
+### 模块 8 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **C** | **D** | **C** | **A** | **A** | **B** | **D** | **B** |
+
+---
+
+## 模块 9：情感分类器完整案例（P48–58）
+
+### 9.1 任务定义
 
 - 输入 **X**：a review on a movie reviewing web site（影评网站的一条评论）
 - 输出 **Y**：标签，三分类
@@ -433,7 +514,7 @@ else: return "other"
   - "The movie is poor!" → Negative (−1)
   - "We saw this movie after dinner." → Neutral (0)
 
-### 8.2 预测的三个步骤（To Make a Prediction: Three-step Process）（P50–51）★
+### 9.2 预测的三个步骤（To Make a Prediction: Three-step Process）（P50–51）★
 
 1. **Feature Extraction（特征抽取）**：从文本中抽取显著特征 → 数据点写成 `⟨b₀, b₁, …, b₁₁, label⟩`
    - 公式：**h = f(x)**
@@ -443,7 +524,7 @@ else: return "other"
 3. **Decision Function（决策函数）**：从若干可能中选一个
    - 公式：**Y = predict(s)**
 
-### 8.3 完整五步流程（P52）
+### 9.3 完整五步流程（P52）
 
 1. **Featurization（特征化）**
 2. **Scoring（打分）**
@@ -451,7 +532,7 @@ else: return "other"
 4. **Accuracy calculation（准确率计算）**
 5. **Error analysis（错误分析）**
 
-### 8.4 特征抽取与权重（代码细节，P53）
+### 9.4 特征抽取与权重（代码细节，P53）
 
 **Good words（正面词表）**：`love, good, nice, great, enjoy, enjoyed`
 **Bad words（负面词表）**：`hate, bad, terrible, disappointing, sad, lost, angry`
@@ -480,7 +561,7 @@ feature_weights = {'good_word_count': 1.0, 'bad_word_count': -1.0, 'bias': 0.5}
 - **Feature（特征）**：能支持判断的文本属性，这里就是"好词个数""坏词个数""偏置"。
 - **Bias（偏置/截距项）**：**always one**（恒为 1），允许给文本一个 **default score（默认分数）**。
 
-### 8.5 决策规则（Make Decision，P54）★
+### 9.5 决策规则（Make Decision，P54）★
 
 ```python
 def run_classifier(x: str) -> int:
@@ -500,7 +581,7 @@ def run_classifier(x: str) -> int:
 
 > 规则总结：**score > 0 → 1；score < 0 → −1；score = 0 → 0**。
 
-### 8.6 准确率计算（Accuracy Calculation，P55）
+### 9.6 准确率计算（Accuracy Calculation，P55）
 
 ```python
 def calculate_accuracy(x_data: list[str], y_data: list[int]) -> float:
@@ -516,7 +597,7 @@ def calculate_accuracy(x_data: list[str], y_data: list[int]) -> float:
 
 - **Accuracy（准确率） = 预测正确的样本数 / 总样本数**（correct_number / total_number）。
 
-### 8.7 错误分析（Error Analysis，P56）
+### 9.7 错误分析（Error Analysis，P56）
 
 ```python
 def find_errors(x_data, y_data):
@@ -540,7 +621,7 @@ def find_errors(x_data, y_data):
 
 **错因**：`listless`（无精打采的）、`inept`（无能的）不在词表里；`prowess`（高超技艺）看着像褒义但实际不决定情感。→ 属于 **low-frequency / rare words（低频罕见词）** 问题。
 
-### 8.8 数据长什么样（What Does the Data Look Like?，P57）
+### 9.8 数据长什么样（What Does the Data Look Like?，P57）
 
 数据格式：**`label ||| text`**（三竖线分隔）
 
@@ -566,7 +647,31 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
 
 ---
 
-## 9. 改进系统的循环（Improving the NLP System）（P58）
+
+### 模块 9 练习（10 题）
+
+1. In this task, the labels are: A. Positive = 1, Negative = −1, Neutral = 0 B. Positive = 0, Negative = 1, Neutral = 2 C. Positive = 1, Negative = 0 D. a 1-to-5 scale
+2. Weights: good = 1.0, bad = −1.0, bias = 0.5. The score of "I love this great product" is: A. 1.5 B. 2.0 C. 2.5 D. 3.0
+3. Same weights. The score of "I hate this terrible movie" is: A. −2.5 B. −2.0 C. −1.5 D. 0.5
+4. Same weights. What is predicted for "We saw this movie after dinner." (no word from either list)? A. 1 B. −1 C. 0 D. an error
+5. The score of "I love this movie" is 2.5. Without the bias term it would be: A. 1.5 B. 2.5 C. 0.5 D. 2.0
+6. In the code, `features['bias'] = 1` means: A. the bias is 1 only for neutral sentences B. the bias is learned from the data C. the sentence contains a bias word D. the feature is added for every input regardless of its content
+7. Accuracy is computed as: A. correct predictions / total predictions B. total predictions / correct predictions C. errors / total predictions D. correct predictions − errors
+8. If the classifier is correct on 27 of 30 reviews, its accuracy is: A. 0.27 B. 0.80 C. 0.90 D. 0.30
+9. The data format used in the lecture's file is: A. text ||| label B. label ||| text C. label, text D. text: label
+10. The review "…special effects are both listless." (true label −1) was predicted as 1 mainly because: A. of negation B. the words listless/inept are not in the word lists C. the sentence has no bias D. the accuracy formula is wrong
+
+### 模块 9 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 答 | **A** | **C** | **C** | **A** | **D** | **D** | **A** | **C** | **B** | **B** |
+
+---
+
+## 模块 10：改进循环 + 五类难点案例（P58–64）
+
+### 改进系统的循环（P58）★
 
 1. **What's going wrong with my system?** → Look at **error analysis**（哪里出了问题？→ 看错误分析）
 2. **Modify the system**（修改系统：featurization 特征化、scoring function 打分函数等）
@@ -578,7 +683,9 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
 
 ---
 
-## 10. 困难案例与解决方案（Difficult Cases）（P60–P64）★
+
+### 困难案例与解决方案（P60–P64）★
+
 
 | # | 挑战 | 英文 | 例句 | 解决方案 |
 |---|---|---|---|---|
@@ -592,7 +699,29 @@ def read_xy_data(filename: str) -> tuple[list[str], list[int]]:
 
 ---
 
-## 11. 机器学习与词袋模型（Machine Learning NLP & Bag of Words）（P65–P70）
+
+### 模块 10 练习（10 题）
+
+1. According to the improvement loop, the first step is: A. evaluate on the test set B. look at error analysis to see what is going wrong C. immediately add new features D. retrain the model
+2. When should the test set be used? A. after every modification B. before training the model C. it should be used for tuning D. only once, when satisfied with dev accuracy
+3. "Keep working till we get all of them; incorporate external resources such as sentiment dictionaries" is the solution for: A. negation B. metaphor and analogy C. low-frequency (rare) words D. multilingual
+4. The solution "morphological analysis would be needed to recover the root form and POS" addresses: A. conjugation / morphological variation B. rare words C. negation D. multilingual
+5. "This one is not nearly as dreadful as expected." (labeled POSITIVE) illustrates: A. rare words B. metaphor C. multilingual D. negation
+6. The lecture says that handling negation "would probably be necessary" with: A. syntactic analysis B. world knowledge C. speech recognition D. sentiment dictionaries
+7. "Has all the depth of a wading pool." (Negative) requires: A. morphological analysis B. a bigger word list C. world knowledge D. OCR
+8. The Portuguese review is used to illustrate: A. negation B. the multilingual challenge C. rare words D. metaphor
+9. Step 3 of the improvement loop is to: A. repeat from step 1 B. evaluate on the test set C. look at error analysis D. measure the accuracy improvement and accept/reject the change
+10. The examples containing "tenuous" and "glitches" are used to show the problem of: A. low-frequency (rare) words B. negation C. metaphor D. multilingual
+
+### 模块 10 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 答 | **B** | **D** | **C** | **A** | **D** | **A** | **C** | **B** | **D** | **A** |
+
+---
+
+## 模块 11：机器学习、词袋模型 BOW 与结构化感知机（P65–70）
 
 ### 11.1 机器学习：超越手工规则（P66）
 
@@ -649,7 +778,29 @@ for x, y in data:
 
 ---
 
-## 12. 神经网络模型（A Better Attempt: Neural Network Models）（P71）
+
+### 模块 11 练习（10 题）
+
+1. In BOW, features are based on ___ and weights are ___: A. word order; learned B. sentence structure; hand-written C. word identity; learned D. word identity; hand-written
+2. In the binary model, each word's weight is a single scalar where: A. positive indicates "yes" and negative indicates "no" B. the value is always positive C. it stores the word frequency D. it is hand-written
+3. In the multi-class model, each word has one component per: A. sentence B. document C. hidden layer D. class (e.g., very good … very bad)
+4. `love` has binary weight 2.4 and multi-class vector [2.4, 1.5, −0.5, −0.8, −1.4]. The binary weight equals: A. the average of the five components B. the first component (very good) C. the sum of the components D. the last component
+5. The algorithm used to train the BOW weights is called: A. k-means B. backpropagation C. Structured Perceptron D. dynamic programming
+6. In Structured Perceptron, the weights are updated: A. only when the prediction is wrong B. after every example C. once at the very end D. never
+7. The update rule is: A. w[f] = y + f_value B. w[f] += y × feature_value C. w[f] = 0 D. w[f] −= feature_value
+8. Which of the following is NOT listed as a limitation of BOW? A. conjugated or compound words B. word similarity C. combination features such as negation D. too few features
+9. "I love this movie" vs "I don't love this movie" illustrates BOW's inability to handle: A. word similarity B. conjugated words C. combination features D. sentence length
+10. Compared with the rule-based approach, the key difference of the machine-learning approach is: A. the weights are learned by a learning algorithm instead of being hand-written B. no features are needed C. the score is no longer computed D. there is no training data
+
+### 模块 11 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 答 | **C** | **A** | **D** | **B** | **C** | **A** | **B** | **D** | **C** | **A** |
+
+---
+
+## 模块 12：神经网络 + 课程大纲（P71–73）
 
 - 同样输入 `I like this movie`：**lookup → 相加 → weights → score**，但特征与权重由 **Neural Networks（神经网络）** 给出。
 - 课件评价：**Powerful enough to perform classification, LM, any task!**（强大到可以做分类、语言建模乃至任何任务！）
@@ -658,7 +809,9 @@ for x, y in data:
 
 ---
 
-## 13. 后续课程内容（Future Roadmap）（P73）
+
+### 后续课程内容（Future Roadmap，P73）
+
 
 1. **Word Representation and Text Classification**（词表示与文本分类）
 2. **Language Modeling**（语言建模）
@@ -675,8 +828,125 @@ for x, y in data:
 
 ---
 
-## 14. 术语总表（英中对照）★背单词用
 
+### 模块 12 练习（8 题）
+
+1. Compared with the rule-based system, the main change in the neural network model is: A. complicated functions extract the features instead of hand-written rules B. no features are used C. the score is not computed D. no weights are needed
+2. The lecture says neural networks are powerful enough to perform: A. only classification B. only translation C. classification, language modeling, and any task D. only speech tasks
+3. Which is the FIRST item in the tentative course content list? A. Transformers B. Word Representation and Text Classification C. Prompting D. Machine Translation
+4. Which topic appears in the roadmap? A. Optical character recognition B. Speech signal processing C. Computer vision D. Fine Tuning and Instruction Tuning
+5. In "perform classification, LM, any task," LM stands for: A. Language Modeling B. Logical Meaning C. Lexical Morphology D. Learning Machine
+6. Which topic deals with evaluating NLP systems on standard datasets? A. Pretraining B. Prompting C. Benchmarks and Evaluations D. Sequence Modeling
+7. The lecture notes that some slides are adapted from the course given by: A. Jacob Eisenstein B. Graham Neubig (2024) C. Daniel Jurafsky D. Philipp Koehn
+8. Which of the following is NOT among the ten roadmap topics? A. Sequence Modeling B. Prompting C. Transformers D. Optical Character Recognition
+
+### 模块 12 答案
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 答 | **A** | **C** | **B** | **D** | **A** | **C** | **B** | **D** |
+
+---
+
+# 附录
+
+## 附录 A：课程事务与政策（P1–P9）
+
+### A.1 教材（Text Books）
+
+- **主教材**：*Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition*, 3rd ed., Daniel Jurafsky & James Martin, Prentice Hall, 2024.
+
+  - **Natural Language Processing（自然语言处理）** = 让计算机处理人类语言。
+  - **Computational Linguistics（计算语言学）** = 用计算方法研究语言学的学科视角。
+  - **Speech Recognition（语音识别）** = 把语音信号转成文字。
+
+- *Neural Machine Translation*, Philipp Koehn, 2018.
+  - **Neural Machine Translation / NMT（神经机器翻译）** = 用神经网络做翻译。
+- *Deep Learning*, I. Goodfellow, Y. Bengio, A. Courville, MIT Press, 2017.
+
+### A.2 参考书（Reference Books）
+
+- *Foundations of Statistical Natural Language Processing*, D. Manning & H. Schütze, 1999.
+- *Foundations of Large Language Models*, Tong Xiao & Jingbo Zhu, 2025.
+  - **Large Language Model / LLM（大语言模型）** = 在海量文本上预训练的大型神经网络语言模型。
+
+- **Course Website（课程网站）**：http://ummoodle.umac.mo/
+
+### A.3 课程结构（Course Structure）
+
+- **Assignments（作业）**：hands-on experiments（动手实验）；reading and problem solving（阅读与解题）。
+  - 课件原话："No way to really internalize without doing it"（不亲手做就没法真正内化）。
+- **Term Project（学期项目）**：
+  - **Paper Reading（论文阅读）**：review selected state-of-the-art research topics（综述精选前沿课题），learn the research methodology and experiment results（学习研究方法与实验结果）。
+  - **Development（开发实践）**：implement and extend based on the selected topic（在选定课题上实现并扩展）。
+
+### A.4 考核（Assessment）
+
+| 项目 | 比例 |
+|---|---|
+| Assignments（作业） | 40% |
+| Term Projects（学期项目） | 60% |
+
+**Late submission policy（迟交政策）**：
+
+| 迟交时长 | 扣分 |
+|---|---|
+| 1 day late（迟 1 天） | 扣 15% |
+| 2 days late（迟 2 天） | 扣 30% |
+| 3 days late（迟 3 天） | 扣 50% |
+| 4 or more days late（≥4 天） | 得 0% |
+
+- Assignments have to be done **individually**（必须个人独立完成）→ **No collaboration with others（不得与他人合作）**。
+- **Class Participation（课堂参与）**：in-class assignments（随堂作业）。
+
+### A.5 生成式 AI 使用政策（Policy for Using Generative AI Tools）
+
+**May be used as（可以用于）**：learning and problem-solving assistants（学习与解题助手）。
+
+**Appropriate Use（合规用法）**：
+
+- **Explain concepts** and clarify understanding（讲解概念、理清理解）
+- Provide **hints**（提示）、**suggestions**（建议）、**alternative approaches**（替代思路）
+- Help **debug** code（调试代码）and improve writing（改进写作）
+- Offer **feedback** on solutions（对解答给出反馈）
+
+**Not Permitted（禁止用法）**：
+
+- **Generate complete assignment solutions for submission**（用 AI 生成完整作业解答直接提交）
+- **Copy AI-generated answers without independent work and understanding**（不经独立思考与理解就照抄 AI 答案）
+
+**核心原则**：GenAI should **support learning, not replace independent thinking and problem solving**（AI 应支持学习，而非替代独立思考与解题）。Students must **independently complete and submit their own work**（必须独立完成并提交自己的作品）。
+
+### A.6 学术诚信（Academic Integrity）
+
+- 必须遵守《澳门大学学术诚信与学术诚实政策》。
+- **Permitted use of GenAI does not excuse（允许使用 AI 不能成为以下行为的借口）**：
+  - **plagiarism（抄袭）**
+  - **unauthorized collaboration（未经授权的合作）**
+  - **fabrication（编造）**
+  - **falsification（篡改）**
+  - **misrepresentation（虚假陈述）**
+  - **submitting AI-generated work as one's own（把 AI 生成的内容当作自己的成果提交）**
+- Any use of GenAI must **support, not replace, the student's original intellectual contribution**（AI 只能支持、不能替代学生本人的智力贡献）。
+- **Students MUST Declare any GenAI use（必须声明所有 AI 使用情况）**，包括如何使用。
+
+### A.7 课程内容（Course Content，五点）
+
+1. Learn in detail about **building NLP systems from a research perspective**（从研究视角细致了解如何构建 NLP 系统）
+2. Learn **basic and advanced topics in machine learning approaches to NLP and language models**（NLP 的机器学习方法与语言模型，从基础到进阶）
+3. Learn **basic linguistic knowledge useful in NLP**（对 NLP 有用的基础语言学知识）
+4. See **case studies** of NLP applications and learn how to identify unique problems for each（看应用案例，学会识别每个任务特有的问题）
+5. Learn how to **debug when and where NLP systems fail**（学会排查 NLP 系统在何时何处失败），and build improvements based on this（并据此改进）
+
+### A.8 教学团队（Teaching Assistants & Project Advisors）
+
+- Instructor（授课教师）：Derek F. Wong；隶属 **NLP2CT（Natural Language Processing & Portuguese-Chinese Machine Translation Research Group，自然语言处理与葡汉机器翻译研究组）** 与 **CAGI（Centre for Artificial General Intelligence，通用人工智能中心）**。
+- 助教（TAs）与项目导师（PAs）：Zhaocong、Yingpeng、Yutong、Junchao、Jingkun、Kaixin、Fengying 等，部分 TBA（To Be Announced，待定）。
+
+---
+
+
+## 附录 B：术语总表（英中对照）
 ### 14.1 语言学基础
 
 | English | 中文 | 一句话记忆 |
@@ -793,8 +1063,8 @@ for x, y in data:
 
 ---
 
-## 15. 易错点对比速查
 
+## 附录 C：易错点对比速查
 | 容易混 | 区别 |
 |---|---|
 | **Phonetics vs Phonology** | 前者：声音**如何物理形成**；后者：**声音系统/音节结构** |
@@ -810,8 +1080,8 @@ for x, y in data:
 
 ---
 
-## 16. 数字与公式速查（考前 3 分钟）
 
+## 附录 D：数字与公式速查
 - `Y = f(X)` ｜ `h = f(x)`（特征抽取）｜ `s = wᵀh`（二分类）｜ `s = Wh`（多分类）｜ `Y = predict(s)`
 - 决策：**score > 0 → 1；score < 0 → −1；score = 0 → 0**
 - 算例：好词权重 1.0，坏词权重 −1.0，bias 0.5；`I love this great product` → **2.5（Positive）**
@@ -825,7 +1095,28 @@ for x, y in data:
 
 ---
 
-## 17. 自测题（20 题）与答案
+
+## 附录 E：一页式考前速记
+1. **语言四性**：系统性 / 约定任意性 / 冗余性 / 演变性
+2. **六大层次**：Phonology 音系、Morphology 形态、Syntax 句法、Semantics 语义、Pragmatics 语用、Discourse 篇章
+3. **NLP 四用途**：用计算机处理语言 / 助人机交流 / 助人际交流 / 分析理解语言
+4. **`I made her duck`**：词性歧义（duck N/V；her 所有格/与格）+ 词义歧义（make = create/cook）
+5. **流程**：语音 → 音系形态分析 → 词序列 → 句法分析 → 句法结构 → 语义解释 → 逻辑式 → 语境推理 → 意义表示
+6. **发展史**：规则 1950–1990（关键词）→ 统计 1990–2010（句法分析）→ 深度学习 2014–今（语义特征）
+7. **框架**：`Y = f(X)`；分类/翻译/语言建模/结构分析/图像描述
+8. **三方法**：Rules（手工、无需数据）/ Fine-tuning（成对数据）/ Prompting（不训练）
+9. **三步预测**：`h = f(x)` → `s = wᵀh` 或 `Wh` → `Y = predict(s)`
+10. **情感算例**：2.5 → Positive；决策 >0→1、<0→−1、=0→0
+11. **五难点**：罕见词→外部词典；词形变化→形态分析；否定→句法分析；隐喻→世界知识；多语言→多语言能力
+12. **BOW**：按词学权重；缺词序、词形、同义、组合
+13. **Structured Perceptron**：仅在错误时更新
+14. **流程纪律**：dev 迭代，test 只测一次
+15. **课程政策**：独立完成、必须声明 AI 使用、AI 不能代替你思考
+
+---
+
+
+## 附录 F：题库（共三组 74 题）
 
 **题目**
 
@@ -877,20 +1168,210 @@ for x, y in data:
 
 ---
 
-## 18. 一页式考前速记
 
-1. **语言四性**：系统性 / 约定任意性 / 冗余性 / 演变性
-2. **六大层次**：Phonology 音系、Morphology 形态、Syntax 句法、Semantics 语义、Pragmatics 语用、Discourse 篇章
-3. **NLP 四用途**：用计算机处理语言 / 助人机交流 / 助人际交流 / 分析理解语言
-4. **`I made her duck`**：词性歧义（duck N/V；her 所有格/与格）+ 词义歧义（make = create/cook）
-5. **流程**：语音 → 音系形态分析 → 词序列 → 句法分析 → 句法结构 → 语义解释 → 逻辑式 → 语境推理 → 意义表示
-6. **发展史**：规则 1950–1990（关键词）→ 统计 1990–2010（句法分析）→ 深度学习 2014–今（语义特征）
-7. **框架**：`Y = f(X)`；分类/翻译/语言建模/结构分析/图像描述
-8. **三方法**：Rules（手工、无需数据）/ Fine-tuning（成对数据）/ Prompting（不训练）
-9. **三步预测**：`h = f(x)` → `s = wᵀh` 或 `Wh` → `Y = predict(s)`
-10. **情感算例**：2.5 → Positive；决策 >0→1、<0→−1、=0→0
-11. **五难点**：罕见词→外部词典；词形变化→形态分析；否定→句法分析；隐喻→世界知识；多语言→多语言能力
-12. **BOW**：按词学权重；缺词序、词形、同义、组合
-13. **Structured Perceptron**：仅在错误时更新
-14. **流程纪律**：dev 迭代，test 只测一次
-15. **课程政策**：独立完成、必须声明 AI 使用、AI 不能代替你思考
+**题目**
+
+21. NLU (Natural Language Understanding) is best described as:
+   A. converting meaning into natural language text
+   B. mapping language into a meaning representation
+   C. training large language models on unlabeled corpora
+   D. translating one natural language into another
+22. Which pair correctly matches an NLU pipeline stage with the knowledge it uses?
+   A. Syntactic analyzer ← world knowledge
+   B. Contextual reasoner ← grammatical knowledge
+   C. Semantic interpreter ← selectional restrictions
+   D. Morphological analyzer ← pragmatic knowledge
+23. Which component of the NLU pipeline uses pragmatic and world knowledge?
+   A. phonological/morphological analyzer
+   B. syntactic analyzer
+   C. semantic interpreter
+   D. contextual reasoner
+24. In the rule-based sentiment classifier, `features['bias'] = 1` is executed for every input. Its purpose is to:
+   A. count the neutral words in the sentence
+   B. provide a constant default score, shifting the decision boundary
+   C. normalize the sentence length
+   D. store the gold label
+25. Weights: good_word_count = 1.0, bad_word_count = −1.0, bias = 0.5. The sentence "This film is boring and predictable." contains no word from either list. What does the classifier predict?
+   A. 1
+   B. −1
+   C. 0
+   D. It crashes
+26. In the multi-class sentiment model, the label of a sentence is decided by:
+   A. taking the sign of a single total score
+   B. counting the good and bad words
+   C. summing the word vectors and taking the class with the highest value
+   D. comparing the score with the threshold 0.5
+27. With classes [very good, good, neutral, bad, very bad], the vector of `nice` is [1.2, 2.1, 0.4, −0.1, −0.2]. `nice` most strongly supports:
+   A. very good
+   B. neutral
+   C. good
+   D. bad
+28. Given nice = [1.2, 2.1, 0.4, −0.1, −0.2] and dog = [−0.3, 0.3, 0.6, 0.2, −0.2], the predicted class for "nice dog" is:
+   A. very good
+   B. good
+   C. neutral
+   D. bad
+29. In the binary sentiment model each word has only a single scalar weight because:
+   A. a single score per word suffices; its sign decides positive vs negative
+   B. words are binary features
+   C. there is no bias term
+   D. the vocabulary is too small to store vectors
+30. Which of the following is NOT one of the five challenges/difficult cases discussed in the lecture?
+   A. negation
+   B. spelling errors and typos
+   C. metaphor and analogy
+   D. low-frequency (rare) words
+31. According to the lecture, the low-frequency (rare) word problem should be addressed by:
+   A. discarding sentences that contain rare words
+   B. ignoring the polarity of the whole sentence
+   C. applying world knowledge
+   D. incorporating external resources such as sentiment dictionaries
+32. A student submits an assignment 4 days after the deadline. The penalty is:
+   A. −15%
+   B. −30%
+   C. −50%
+   D. no marks (0%)
+33. In the assessment scheme, term projects account for:
+   A. 60%
+   B. 50%
+   C. 40%
+   D. 100%
+34. "Intent recognition based on syntax analysis" characterizes which era?
+   A. rule-based (1950–1990)
+   B. statistics-based (1990–2010)
+   C. deep-learning-based (2014–now)
+   D. none of the above
+35. Which system belongs to the deep-learning era in the lecture's timeline?
+   A. SHRDLU
+   B. ELIZA
+   C. ALICE
+   D. Microsoft Cortana
+36. In the bag-of-words model: features are based on ____ and weights are ____.
+   A. word order; learned from data
+   B. sentence structure; hand-written by experts
+   C. word identity; hand-written by experts
+   D. word identity; learned from data
+37. Which pair of sentences best illustrates the "combination features" limitation of BOW?
+   A. "I love this movie." / "I loved this movie."
+   B. "I love this movie." / "I adore this movie."
+   C. "I love this movie." / "I don't love this movie."
+   D. "It has an interesting story but is boring overall."
+38. Structured Perceptron: `feature_weights = {}` initially. For an example whose features are `{'good_word_count': 1, 'bias': 1}` with gold label y = 1, the prediction was wrong. After the update, `feature_weights['bias']` equals:
+   A. 0
+   B. 0.5
+   C. 1
+   D. −1
+39. You check accuracy after each modification while developing. When should you evaluate on the test set?
+   A. after every modification
+   B. only once, after you are satisfied with dev-set accuracy
+   C. before training the model
+   D. never; dev accuracy is enough
+40. Which statement about the framework Y = f(X) is correct?
+   A. For captioning, X is an image and Y is text
+   B. Y is always a label
+   C. X is always text
+   D. For language modeling, X and Y are both labels
+41. The pair "It's easy to recognize speech." / "It's easy to wreck a nice beach." shows a difficulty at which level?
+   A. phonetics/phonology
+   B. morphology
+   C. syntax
+   D. discourse
+42. "我们去金沙 → Let's go to the Sands casino" illustrates the need for:
+   A. morphological analysis
+   B. syntactic analysis
+   C. speech synthesis
+   D. world knowledge
+
+**答案与解析**
+
+| 题 | 答案 | 解析 |
+|---|---|---|
+| 21 | **B** | NLU = 语言 → 意义表示；A 是 NLG，D 是翻译 |
+| 22 | **C** | 语义解释器用语义知识与选择限制 |
+| 23 | **D** | 语境推理器（contextual reasoner）用语用与世界知识 |
+| 24 | **B** | bias 恒为 1，等于给每个句子垫一个常数底分，平移决策边界 |
+| 25 | **A** | 分数 = 0 + 0 + 1×0.5 = 0.5 > 0 → 预测 1（正 bias 让模型默认偏正面，这题本该是中性） |
+| 26 | **C** | 多分类：词向量逐维相加，取最大分量对应的类 |
+| 27 | **C** | 2.1 最大，落在 good 上 |
+| 28 | **B** | [1.2,2.1,0.4,−0.1,−0.2] + [−0.3,0.3,0.6,0.2,−0.2] = [0.9,**2.4**,1.0,0.1,−0.4] → good |
+| 29 | **A** | 二分类一个标量即可，正负号决定类别 |
+| 30 | **B** | 五类难点：罕见词、词形变化、否定、隐喻类比、多语言；拼写错误不在其中 |
+| 31 | **D** | Incorporate external resources such as sentiment dictionaries |
+| 32 | **D** | ≥4 天迟交得 0% |
+| 33 | **A** | 作业 40% + 项目 60% |
+| 34 | **B** | 统计阶段 1990–2010 |
+| 35 | **D** | Cortana（2015）属深度学习阶段；SHRDLU、ELIZA、ALICE 都是规则阶段 |
+| 36 | **D** | Features based on word identity, weights learned |
+| 37 | **C** | 否定词改变了整体极性，属 combination features；A 是词形变化，B 是同义词 |
+| 38 | **C** | w['bias'] = 0 + y × features['bias'] = 1 × 1 = 1（bias 的权重也是学出来的） |
+| 39 | **B** | dev 迭代，test 只在最后评估一次 |
+| 40 | **A** | 图像描述任务 X 是图像、Y 是文本 |
+| 41 | **A** | 同音串歧义，属语音学/音系学层面 |
+| 42 | **D** | "金沙"= 赌场，需要世界知识 |
+
+---
+
+
+> 只覆盖 NLP 正文（P10–P75），不含课程事务与政策。
+
+**题目**
+
+1. All natural languages share the following properties EXCEPT:
+   A. language systematics B. conventional and arbitrary word assignment C. redundancy D. invariance over time
+2. "Redundancy" in natural language means: A. information is often signaled in more than one way B. one word has several meanings C. sentences can be arbitrarily long D. languages borrow words from each other
+3. The division of "disconnect" into [dis-kə-ˈnekt] is a matter of: A. phonology / syllable structure B. morphology C. syntax D. semantics
+4. The Turkish word "uygarlastiramadiklarimizdanmissinizcasina" is used to show: A. the importance of world knowledge B. how many morphemes one word can carry, requiring morphological analysis C. that Turkish has no syntax D. that translation is impossible
+5. "I made her duck" can mean "I cooked waterfowl belonging to her" or "I caused her to quickly lower her head." The key difference is: A. "duck" is a noun in one reading and a verb in the other B. "make" is a noun in one reading C. the sentence is ungrammatical D. it is only a pragmatic ambiguity
+6. Which reading of "I made her duck" is explained by lexical semantics rather than lexical category? A. I caused her to lower her head B. I cooked waterfowl belonging to her C. I made the (plaster) duck statue she owns D. I asked her about the duck
+7. "Quick! Fire!" and "He's got a knife!" are used to illustrate: A. phonology B. morphology C. pragmatics D. semantics
+8. Turn taking and the thread of meaning belong to which level? A. syntax B. semantics C. pragmatics D. discourse
+9. Which belongs to "Analyze/Understand Language" rather than aiding communication? A. text translation B. speech synthesis C. parsing a sentence into its syntactic structure D. dialog systems
+10. The deep-learning era (2014–now) is characterized by: A. intent recognition based on keywords B. intent recognition based on syntax analysis C. semantic feature extraction D. hand-written transfer rules
+11. Which system is matched with the WRONG year? A. Georgetown-IBM — 1954 B. ELIZA — 1965 C. SHRDLU — 1968 D. ALICE — 2015
+12. In the framework Y = f(X), which task has Y = linguistic structure? A. classification B. analysis (parsing) C. translation D. language modeling
+13. Which method requires NO data at all (the "based on intuition" row)? A. fine-tuning B. prompting with rigorous evaluation C. supervised learning D. rules or prompting based on intuition
+14. "Rules/prompting based on spot-checks" require: A. a small amount of data with input X only B. a full training set with X and Y C. no data at all D. a held-out test set
+15. For fine-tuning, when the data size doubles: A. accuracy always doubles B. accuracy decreases C. accuracy usually increases by a constant amount D. nothing changes
+16. In the three-step prediction process, `h = f(x)` corresponds to: A. score calculation B. feature extraction C. decision function D. error analysis
+17. In the three-step prediction process, `Y = predict(s)` corresponds to: A. feature extraction B. score calculation C. decision function D. training
+18. In the rule-based sentiment classifier, which of the following is a FEATURE? A. good_word_count B. Positive C. 2.5 D. 1.0
+19. Which is TRUE about the 'bias' feature? A. it equals 1 only for neutral sentences B. it equals 1 for every input C. it is learned from data D. it counts neutral words
+20. The classifier predicts Neutral (0) only when: A. the numbers of good and bad words are equal B. the sentence is short C. the bias is removed D. the total score is exactly 0
+21. Accuracy is computed as: A. correct predictions / total predictions B. total predictions / correct predictions C. errors / total predictions D. correct predictions − errors
+22. In the lecture's error analysis, "…special effects are both listless." and "How inept is Serving Sara?" were both: A. correctly predicted negative B. predicted positive although they are negative C. labeled neutral D. mislabeled by the annotator
+23. The recommended fix for the rare-word problem is to: A. use more training data only B. lower the bias weight C. remove rare words from the vocabulary D. incorporate external resources such as sentiment dictionaries
+24. "This one is not nearly as dreadful as expected." is labeled positive to show that: A. dreadfulness is a good thing B. negation can flip polarity, and handling it probably needs syntactic analysis C. morphology is enough D. world knowledge is unnecessary
+25. "Has all the depth of a wading pool." is negative; handling it requires: A. morphological analysis B. a bigger word list C. world knowledge D. OCR
+26. In bag of words, the sentence representation is obtained by: A. summing the word vectors and taking a dot product with the weights B. concatenating word vectors in order C. parsing into a tree D. counting clauses
+27. Which of the following CAN be handled by bag of words? A. negation ("I don't love this movie") B. sentence structure ("interesting story but boring overall") C. individual informative words ("great", "terrible") D. word similarity ("adore" ≈ "love")
+28. Structured Perceptron: for an example with gold label y = −1 that was predicted wrong, the weights of its features are: A. increased B. decreased C. always unchanged D. set to zero
+29. Compared with the rule-based system, the main change in the neural network model is: A. no features are used B. the score is no longer needed C. the bias term disappears D. complicated functions extract the features instead of hand-written rules
+30. Which topic is NOT in the tentative roadmap of the course? A. Optical character recognition (OCR) B. Transformers C. Benchmarks and evaluations D. Word representation and text classification
+31. Which NLU stage uses selectional restrictions? A. phonological/morphological analyzer B. syntactic analyzer C. semantic interpreter D. contextual reasoner
+32. In the framework Y = f(X), "language modeling" means: A. Y = continue text B. Y = target language C. Y = label D. Y = linguistic structure
+
+**答案**
+
+| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 答案 | D | A | A | B | A | C | C | D | C | C | D | B | D | A | C | B |
+
+| 题 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 答案 | C | A | B | D | A | B | D | B | C | A | C | B | D | A | C | A |
+
+**解析要点**
+
+- 1：自然语言四性——系统性、约定任意性、冗余性、**演变性**（"不变"是错的）。
+- 4：土耳其语例子说明一个词可含大量**语素（morpheme）**，需要形态分析。
+- 5/6：duck 名/动 → 词性歧义；make = create/cook → 词义歧义。
+- 11：ALICE 是 **1995**，不是 2015。
+- 13：凭直觉的规则/提示**不需要数据**，但也没有性能保证。
+- 14：抽查式只用**少量只有 X（没有 Y）**的数据。
+- 15：数据量翻倍，准确率**通常稳定提升一个常量**。
+- 18：特征是可用于判断的输入属性（good_word_count）；Positive 是标签，2.5 是分数，1.0 是权重。
+- 20：三分类靠**总分与 0 比较**，score = 0 才判中性（好词数=坏词数时还有 bias 的 0.5，会判成正面）。
+- 22：两个例句真实标签 −1 却预测成 1，因为 listless、inept 不在词表里。
+- 25：隐喻（"像戏水池一样浅"）需要**世界知识**。
+- 28：`w[f] += y × f_value`，y = −1 时权重被往负方向推。
+- 29：神经网络的关键是**用复杂函数自动抽特征**，取代人工写规则。
