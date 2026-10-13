@@ -4,8 +4,8 @@
   "title": "Respond to a Chinese greeting",
   "titleGenerationStatus": "success",
   "createdAt": 1791871493845,
-  "updatedAt": 1791871526515,
-  "lastResponseAt": 1791871526515,
+  "updatedAt": 1791871711100,
+  "lastResponseAt": 1791871711100,
   "sessionId": "3d52d255-5854-4c15-981b-3a4dd29a97bb",
   "providerState": {
     "providerSessionId": "3d52d255-5854-4c15-981b-3a4dd29a97bb"
@@ -13,12 +13,12 @@
   "currentNote": "CV.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 1093,
+    "inputTokens": 321,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28544,
+    "cacheReadInputTokens": 50432,
     "contextWindow": 1000000,
-    "contextTokens": 29637,
-    "percentage": 3,
+    "contextTokens": 50753,
+    "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
 }

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>顾渝杰 - 简历</title>
+<style>
+  @page {
+    size: A4;
+    margin: 9mm 13mm;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+    font-size: 9.5pt;
+    line-height: 1.33;
+    color: #2b2b2b;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* ===== Header ===== */
+  .header {
+    text-align: center;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #1f3a5f;
+    margin-bottom: 8px;
+  }
+  .name {
+    font-size: 20pt;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #1f3a5f;
+    margin-bottom: 2px;
+  }
+  .subtitle {
+    font-size: 10pt;
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 4px;
+  }
+  .contact {
+    font-size: 9pt;
+    color: #555;
+    letter-spacing: 0.2px;
+  }
+  .contact span { margin: 0 8px; white-space: nowrap; }
+  .contact .sep { color: #b8c2cc; margin: 0 2px; }
+
+  /* ===== Section ===== */
+  .section { margin-bottom: 6px; }
+  .section h2 {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #1f3a5f;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #c9d3de;
+    margin-bottom: 4px;
+    letter-spacing: 1px;
+  }
+
+  /* ===== Entries ===== */
+  .entry { margin-bottom: 5px; break-inside: avoid; }
+  .entry:last-child { margin-bottom: 0; }
+
+  .entry-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .org { font-size: 10pt; font-weight: 700; color: #1a1a1a; }
+  .date {
+    font-size: 8.5pt;
+    color: #666;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .role {
+    font-size: 9.2pt;
+    color: #3a5a7c;
+    font-style: italic;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .role .loc { font-style: normal; color: #888; font-size: 8.5pt; }
+
+  ul {
+    list-style: none;
+    margin-top: 1px;
+  }
+  li {
+    position: relative;
+    padding-left: 12px;
+    margin-bottom: 1px;
+    text-align: justify;
+  }
+  li::before {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 7px;
+    width: 3.5px;
+    height: 3.5px;
+    background: #1f3a5f;
+    border-radius: 50%;
+  }
+
+  .tech {
+    font-size: 9pt;
+    color: #444;
+    margin-top: 1px;
+    padding: 1px 7px;
+    background: #f2f5f8;
+    border-left: 3px solid #1f3a5f;
+    border-radius: 2px;
+  }
+  .tech b { color: #1f3a5f; }
+
+  /* ===== Skills ===== */
+  .skill-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 1px;
+    font-size: 9.3pt;
+  }
+  .skill-row .label {
+    flex: 0 0 118px;
+    font-weight: 700;
+    color: #1f3a5f;
+  }
+  .skill-row .val { flex: 1; color: #333; }
+
+  /* ===== Awards (two columns) ===== */
+  .awards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 22px;
+    row-gap: 1px;
+  }
+  .award-item {
+    position: relative;
+    padding-left: 12px;
+  }
+  .award-item::before {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 7px;
+    width: 3.5px;
+    height: 3.5px;
+    background: #1f3a5f;
+    border-radius: 50%;
+  }
+  .award-item .yr { color: #666; font-size: 9pt; }
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="name">顾渝杰</div>
+    <div class="subtitle">数据科学硕士在读 ｜ 数据分析与人工智能应用</div>
+    <div class="contact">
+      <span>📍 中国 · 澳门</span><span class="sep">|</span>
+      <span>✉ 1505755334@qq.com</span><span class="sep">|</span>
+      <span>📱 +86-13366853226</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>个人简介</h2>
+    <p>澳门大学数据科学专业硕士在读，本科软件工程背景。对数据分析与人工智能应用方向具有浓厚兴趣，具备 Python 数据分析、人工智能项目文档撰写及软件开发方面的实践经验。</p>
+  </div>
+
+  <div class="section">
+    <h2>教育背景</h2>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">澳门大学（UM）</span>
+        <span class="date">2026.08 – 2028.06（预计）</span>
+      </div>
+      <div class="role"><span>数据科学硕士 —— 计算语言学方向</span><span class="loc">中国 · 澳门</span></div>
+    </div>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">黑龙江工程学院</span>
+        <span class="date">2019.09 – 2025.06</span>
+      </div>
+      <div class="role"><span>软件工程 工学学士　·　平均成绩 86/100</span><span class="loc">中国 · 哈尔滨</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>实习与工作经历</h2>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">无锡数据集团股份有限公司</span>
+        <span class="date">2026.03 – 2026.07</span>
+      </div>
+      <div class="role"><span>项目助理 —— 政府人工智能与数字治理项目</span></div>
+      <ul>
+        <li>独立撰写三份项目申报书，每份约 4000 字，将技术文档、方案设计、系统截图及配套材料整合为结构化的申报材料，面向数据与人工智能相关竞赛。</li>
+        <li>撰写无锡市政府大模型公共服务平台项目申报书，涵盖方案架构、技术创新、应用价值与运营模式，并经过多轮评审与修改反复打磨。</li>
+        <li>撰写人工智能城市内涝智能体项目的完整申报书，将多模态模型、提示词工程、知识库及系统设计等技术材料整合为结构化的技术方案。</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>项目经历</h2>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">小说漫画分享微信小程序</span>
+        <span class="date">本科毕业设计</span>
+      </div>
+      <ul>
+        <li>设计小说漫画分享微信小程序的整体产品结构与用户体验，对标起点、番茄小说等商业平台，规划导航、内容组织、书架、搜索及阅读体验。</li>
+        <li>借助 AI 辅助开发工具实现并迭代核心前后端功能，包括用户认证、内容管理、搜索、书架管理及阅读进度同步；独立完成开发过程中的功能测试与调试。</li>
+        <li>负责向后台上传与导入小说、漫画内容，保证数据一致性，并验证内容在应用中的检索与展示效果。</li>
+      </ul>
+      <div class="tech"><b>技术栈：</b>微信小程序、JavaScript、Node.js、Express.js、MongoDB、Redis</div>
+    </div>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">金融数据分析 —— AAPL 股价趋势</span>
+        <span class="date">Python 数据分析项目</span>
+      </div>
+      <ul>
+        <li>使用 Python 与 Pandas 对苹果公司（AAPL）历史股价数据进行基础探索性分析，包括数据加载、预处理及基础统计分析。</li>
+        <li>分析历史价格走势并可视化 AAPL 股价趋势，识别股价变化的一般规律。</li>
+        <li>基于 Jupyter Notebook 完成分析，并将项目发布至 GitHub。</li>
+      </ul>
+      <div class="tech"><b>技术栈：</b>Python、Pandas、Jupyter Notebook、GitHub</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>专业技能</h2>
+    <div class="skill-row"><span class="label">编程语言</span><span class="val">C/C++、Java、JavaScript、Python（基础）</span></div>
+    <div class="skill-row"><span class="label">数据科学与分析</span><span class="val">Pandas、NumPy、Excel、数据清洗、数据可视化</span></div>
+    <div class="skill-row"><span class="label">Web 开发</span><span class="val">微信小程序、Node.js、Express.js、RESTful API</span></div>
+    <div class="skill-row"><span class="label">数据库</span><span class="val">MongoDB、Redis</span></div>
+    <div class="skill-row"><span class="label">工具</span><span class="val">Git、GitHub、Jupyter Notebook、VS Code</span></div>
+    <div class="skill-row"><span class="label">语言能力</span><span class="val">中文（母语）；英语（雅思 6.0；CET-4 / CET-6）</span></div>
+  </div>
+
+  <div class="section">
+    <h2>荣誉奖项</h2>
+    <div class="awards">
+      <div class="award-item">黑龙江省优秀学生（三好学生）　<span class="yr">2023</span></div>
+      <div class="award-item">校级奖学金 —— 黑龙江工程学院　<span class="yr">2023</span></div>
+      <div class="award-item">优秀共青团员 —— 黑龙江工程学院　<span class="yr">2019</span></div>
+      <div class="award-item">“四有”优秀士兵　<span class="yr">2021</span></div>
+      <div class="award-item">公司级嘉奖　<span class="yr">2021</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>服役经历</h2>
+    <div class="entry">
+      <div class="entry-head">
+        <span class="org">中国人民解放军</span>
+        <span class="date">2020.09 – 2022.09</span>
+      </div>
+      <p style="margin-top:2px;">完成两年义务兵役，在严格、有序的环境中培养了较强的纪律性、团队协作能力与责任心。</p>
+    </div>
+  </div>
+
+</body>
+</html>
