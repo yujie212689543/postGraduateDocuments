@@ -78,11 +78,11 @@
 
 ### 三个必须会的"细节口诀"（课件原文）
 
-| 音           | 课件对发音动作的描述                                                                                                |
-| ----------- | --------------------------------------------------------------------------------------------------------- |
-| /t/ /d/ /n/ | the **tip of the tongue** touching the alveolar ridge                                                     |
-| /s/ /z/     | the **sides of the tongue raised** but the tip lowered to allow air to escape                             |
-| /l/         | tongue tip raised, rest of the tongue down so air escapes **over the sides** → 所以 [l] 是 **lateral** sound |
+| 音 | 课件对发音动作的描述 |
+|---|---|
+| /t/ /d/ /n/ | the **tip of the tongue** touching the alveolar ridge |
+| /s/ /z/ | the **sides of the tongue raised** but the tip lowered to allow air to escape |
+| /l/ | tongue tip raised, rest of the tongue down so air escapes **over the sides** → 所以 [l] 是 **lateral** sound |
 
 ### 两个特殊音
 
@@ -158,7 +158,7 @@
 | /s/ | voiceless alveolar fricative | sip |
 | /z/ | voiced alveolar fricative | zip |
 | /l/ | alveolar liquid（lateral approximant） | let |
-| /r/ [ɹ] | alveolar liquid（approximant） | red |
+| /r/（实际写 **[ɹ]**） | alveolar liquid（= IPA 图的 alveolar **approximant**） | red |
 | /ʃ/ | voiceless post-alveolar fricative | **sh**ip |
 | /ʒ/ | voiced post-alveolar fricative | plea**s**ure |
 | /tʃ/ | voiceless post-alveolar affricate | **ch**air |
@@ -169,6 +169,29 @@
 | /ŋ/ | velar nasal | si**ng** |
 | /h/ | glottal fricative | hat |
 | /w/ | labial-velar glide（double articulation） | wet |
+
+### ⚠️ 你发现的关键点：这门课同时存在「两套 manner 术语」
+
+左边这张 VPM 表用的是**试卷术语表（QUIZ 01 Table 1）**的词，右边 IPA 图用的是**标准 IPA 的行名**，所以同一个音会有两种叫法。课件自己也承认这一点（P57–58 原句：**"Liquid" and "Glide" are not standard IPA term**）。
+
+| 英语音 | 试卷术语（答题用这个） | IPA 图上的标准名称 |
+|---|---|---|
+| /l/ | alveolar **liquid** | alveolar **lateral approximant**（图上 Lateral approximant 行的 l） |
+| 英语 r = **[ɹ]** | alveolar **liquid** | alveolar **approximant**（图上 Approximant 行的 ɹ） |
+| /j/ | palatal **glide** | palatal **approximant** |
+| /w/ | labial-velar **glide** | labial-velar **approximant** |
+| 西班牙语 *pe**rr**o* 的 r | —（英语没有这个音） | alveolar **trill** [r]（图上 Trill 行的 r） |
+| 美式英语 *wa**t**er* 里的 t | — | alveolar **tap/flap** [ɾ]（图上 Tap or Flap 行的 ɾ） |
+
+**为什么会冲突**：IPA 图里那个 **r 不是英语的 r**。
+
+- **[r] = alveolar trill（齿龈颤音）**：西班牙语 perro、意大利语 rr。**英语没有这个音。**
+- **英语的 r = [ɹ]**：alveolar approximant（美音常是 retroflex 或 bunched 变体，见课件 P53）。
+- 所以我的表写 "/r/ [ɹ] → alveolar liquid"，指的是**英语的 r**，用的是试卷词汇；图上 Trill 行的 r 是**另一个音**。
+
+**答题原则（记住一句话）**：**用试卷 Table 1 的词作答** → /l/ 和 /r/ 都写 **liquid**，/j/ 和 /w/ 都写 **glide**。只有题目明确给的是标准 IPA 名称时，才写 approximant / lateral approximant / trill。
+
+> 顺带一个高频彩蛋：英语其实**有** [ɾ]（tap/flap），但它是 **/t/ 的变体**——在两个元音之间读出来：*water* [ˈwɑɾɚ]、*butter* [ˈbʌɾɚ]。课件音系部分把它列为 allophonic rule：**/t/ is pronounced [ɾ] between a stressed and unstressed vowel**。
 
 ---
 
