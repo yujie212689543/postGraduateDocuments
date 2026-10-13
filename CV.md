@@ -2,7 +2,7 @@
 ---
 # **Yujie Gu**
 
-**MSc Data Science Student | Data Analysis & AI Applications**
+**MSc Data Science Student | Computional Linguistic**
 
 📍 Macau, China | ✉ [1505755334@qq.com](mailto:1505755334@qq.com) | 📱 +86-13366853226
 
