@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791901526162-g76asz0bo",
+  "providerId": "claude",
+  "title": "Identify the full form of VPM",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791901526165,
+  "updatedAt": 1791901567519,
+  "lastResponseAt": 1791901567519,
+  "sessionId": "f2390131-0771-4445-84c8-ec5beafb9f13",
+  "providerState": {
+    "providerSessionId": "f2390131-0771-4445-84c8-ec5beafb9f13"
+  },
+  "currentNote": "澳门大学课程/7315-Mid Term Quiz/AHGC7315_复习03_辅音与IPA.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 7165,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27264,
+    "contextWindow": 1000000,
+    "contextTokens": 34429,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
