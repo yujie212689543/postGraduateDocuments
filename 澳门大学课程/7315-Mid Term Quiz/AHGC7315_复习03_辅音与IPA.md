@@ -86,8 +86,28 @@
 
 ### 两个特殊音
 
-- **/w/ = labial-velar（双部位）**：lower lip + tongue back，**double articulation**。
+- **/w/ = labial-velar（双部位）**：见下面的专门说明。
 - **/r/**：英语 r 有很多变体，美式英语通常写作 **[ɹ]**（alveolar）；另有 retroflex、bunched、labiodental [ʋ]。
+
+#### /w/ 为什么在 IPA 图里"排在最左边"，而我写 labial-velar？
+
+课件原句（P52）：
+
+> **Special case: /w/ — Glide /w/: labial-velar**
+> Active articulator: **lower lip & tongue back**；Passive articulator: **upper lip & velum**
+> **Two constriction locations → Double articulation（双重发音部位）**
+
+所以 /w/ **不是一个部位，而是两个同时发生的部位**：嘴唇（bilabial 部分）+ 舌根与软腭（velar 部分）。标准 IPA 图把这类"双重发音"的 ʍ / w 放在**单独的 labial-velar 栏**，而课件的那张图把这一栏挤到了最左边缘（看起来像挤在 Bilabial 那一格里），所以视觉上像是在 Bilabial。
+
+**⚠️ 不要把 /w/ 写成 labiodental**：labiodental（下唇 + 上齿）是 /f v/ 和 [ʋ] 的位置，和 /w/ 无关。
+
+| 音 | 部位 | 说明 |
+|---|---|---|
+| **/w/** | **labial-velar** | 双部位：双唇 + 舌根软腭；**double articulation** |
+| /v/ /f/ | **labiodental** | 下唇碰上门齿 |
+| [ʋ] | **labiodental** approximant | 印度英语等口音里的 r 变体 |
+
+**答题建议**：题目如果问 /w/，就写 **labial-velar glide（double articulation）**——这是课件口径。若被迫从试卷 Table 1 的部位里选一个，**写 bilabial（比 labiodental 合理，因为 /w/ 的唇部是双唇圆接近，不是下唇碰上齿）**。核心是：**"两个部位同时发音"这句话要说出来**。
 
 > ✍️ **写题的英文说法**：主动发音器官用 **active articulator**，被动器官用 **passive articulator**。例如 /ʃ/：active = tongue tip or blade，passive = between alveolar ridge and palate。
 
