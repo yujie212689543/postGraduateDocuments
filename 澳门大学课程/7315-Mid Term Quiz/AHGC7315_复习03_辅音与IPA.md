@@ -48,10 +48,33 @@
 | 5 | between ridge and palate | **post-alveolar** 后齿龈 | /ʃ/ /ʒ/ /tʃ/ /dʒ/ | ship, pleasure, chair |
 | 6 | (hard) palate | **palatal** 硬腭 | /j/ | yes |
 | 7 | velum (soft palate) | **velar** 软腭 | /k/ /g/ /ŋ/ | kit, get, sing |
-| 8 | uvula | **uvular** 小舌 | 英语没有 | 法语 /ʀ/ |
+| 8 | uvula | **uvular** 小舌（只需认识，英语没有） | 英语没有 | 法语 /ʀ/ |
 | 9 | glottis | **glottal** 声门 | /h/（还有 /ʔ/） | hat, uh-oh |
 
 **记忆路线**：嘴唇 → 唇齿 → 齿 → 齿龈 → 后齿龈 → 硬腭 → 软腭 → 小舌 → 声门；**从外往里、从前到后**。
+
+### ★ 嫌上面太长？考前真正要背的只有这 8 个词 + 5 行
+
+**QUIZ 01 的术语表里只有 8 个部位**（Bilabial / Labiodental / (Inter)dental / Alveolar / Post-alveolar / Palatal / Velar / Glottal）——**uvular 不用背，只要知道"英语没有小舌音"**。"Articulator (noun)" 那一列也**不用背成清单**，认识就行。
+
+| 位置（按从外到内顺序） | 只要记住这几个音 | 例词 |
+|---|---|---|
+| **bilabial** | p b m | pat, bat, mat |
+| **labiodental** | f v | fan, van |
+| **(inter)dental** | θ ð | think, that |
+| **alveolar** | t d n s z l r | tap, dog, sip, zip |
+| **post-alveolar** | ʃ ʒ tʃ dʒ | ship, pleasure, chair |
+| **palatal** | j | yes |
+| **velar** | k g ŋ | kit, get, sing |
+| **glottal** | h（ʔ） | hat, uh-oh |
+
+**三个偷懒记忆点**：
+
+1. **分组记数量**：两个"唇"（双唇、唇齿）+ 三个"牙"（齿、齿龈、后齿龈）+ 两个"腭"（硬腭、软腭）+ 一个"喉咙"（声门）= 8。
+2. **成对成组**：/f v/、/θ ð/、/s z/、/ʃ ʒ/、/tʃ dʒ/ 都是"清在前、浊在后"的一对，记住一个就记住另一个。
+3. **独占格最好记**：(inter)dental 只有 /θ ð/ 两个；palatal 只有 /j/；glottal 只有 /h/；其余全是"一列好几个"。
+
+**答题时只需要做两件事**：看到符号 → 写出"部位 + 方式"（如 /ʒ/ = post-alveolar fricative）；看到口腔图 → 按 A→H 的顺序从外往里填（双唇→唇齿→齿→齿龈→后齿龈→硬腭→软腭→声门）。
 
 ### 三个必须会的"细节口诀"（课件原文）
 
