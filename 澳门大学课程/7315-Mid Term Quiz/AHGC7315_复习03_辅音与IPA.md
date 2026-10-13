@@ -78,11 +78,11 @@
 
 ### 三个必须会的"细节口诀"（课件原文）
 
-| 音 | 课件对发音动作的描述 |
-|---|---|
-| /t/ /d/ /n/ | the **tip of the tongue** touching the alveolar ridge |
-| /s/ /z/ | the **sides of the tongue raised** but the tip lowered to allow air to escape |
-| /l/ | tongue tip raised, rest of the tongue down so air escapes **over the sides** → 所以 [l] 是 **lateral** sound |
+| 音           | 课件对发音动作的描述                                                                                                |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| /t/ /d/ /n/ | the **tip of the tongue** touching the alveolar ridge                                                     |
+| /s/ /z/     | the **sides of the tongue raised** but the tip lowered to allow air to escape                             |
+| /l/         | tongue tip raised, rest of the tongue down so air escapes **over the sides** → 所以 [l] 是 **lateral** sound |
 
 ### 两个特殊音
 
