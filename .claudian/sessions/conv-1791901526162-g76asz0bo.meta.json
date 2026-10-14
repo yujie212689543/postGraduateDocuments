@@ -4,20 +4,19 @@
   "title": "Identify the full form of VPM",
   "titleGenerationStatus": "success",
   "createdAt": 1791901526165,
-  "updatedAt": 1791906066519,
-  "lastResponseAt": 1791906066519,
+  "updatedAt": 1791983440878,
+  "lastResponseAt": 1791983440878,
   "sessionId": "f2390131-0771-4445-84c8-ec5beafb9f13",
   "providerState": {
     "providerSessionId": "f2390131-0771-4445-84c8-ec5beafb9f13"
   },
-  "currentNote": "澳门大学课程/7315-Mid Term Quiz/AHGC7315_复习03_辅音与IPA.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 795,
+    "inputTokens": 563,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 36864,
+    "cacheReadInputTokens": 40320,
     "contextWindow": 1000000,
-    "contextTokens": 37659,
+    "contextTokens": 40883,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
