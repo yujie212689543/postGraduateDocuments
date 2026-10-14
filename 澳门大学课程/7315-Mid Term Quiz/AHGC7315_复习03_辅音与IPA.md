@@ -121,14 +121,14 @@
 
 ### 六大方式（按 QUIZ 里的术语表：Stop / Nasal / Fricative / Affricate / Glide / Liquid）
 
-| Manner | 符号 | 发音动作 | 例词 |
-|---|---|---|---|
-| **Stop (plosive)** 塞音 | /p b t d k g ʔ/ | **complete closure**；三阶段 **closure → hold → release** | pat, bat, cat |
-| **Fricative** 擦音 | /f v θ ð s z ʃ ʒ h/ | **critical constriction**，留窄缝让气流漏出产生摩擦 | fan, ship |
-| **Affricate** 塞擦音 | /tʃ dʒ/ | **stop closure released with a lot of friction**；= 塞音 + 擦音（tʃ = t + ʃ，dʒ = d + ʒ） | chair, judge |
-| **Nasal** 鼻音 | /m n ŋ/ | 口腔动作与同部位塞音相同，但 **velum lowered** 让气流从鼻子出去 | mat, net, sing |
-| **Liquid** 流音 | /l/ /ɹ/ | 口腔里有阻碍但**不足以产生摩擦** | let, red |
-| **Glide** 滑音 | /j/ /w/ | 阻碍极小，**总是后面接元音**，又叫 semi-vowels | yes, wet |
+| Manner                | 符号                  | 发音动作                                                                              | 例词             |
+| --------------------- | ------------------- | --------------------------------------------------------------------------------- | -------------- |
+| **Stop (plosive)** 塞音 | /p b t d k g ʔ/     | **complete closure**；三阶段 **closure → hold → release**                             | pat, bat, cat  |
+| **Fricative** 擦音      | /f v θ ð s z ʃ ʒ h/ | **critical constriction**，留窄缝让气流漏出产生摩擦                                            | fan, ship      |
+| **Affricate** 塞擦音     | /tʃ dʒ/             | **stop closure released with a lot of friction**；= 塞音 + 擦音（tʃ = t + ʃ，dʒ = d + ʒ） | chair, judge   |
+| **Nasal** 鼻音          | /m n ŋ/             | 口腔动作与同部位塞音相同，但 **velum lowered** 让气流从鼻子出去                                         | mat, net, sing |
+| **Liquid** 流音         | /l/ /ɹ/             | 口腔里有阻碍但**不足以产生摩擦**                                                                | let, red       |
+| **Glide** 滑音          | /j/ /w/             | 阻碍极小，**总是后面接元音**，又叫 semi-vowels                                                   | yes, wet       |
 
 > **Approximant（近音）** 是更专业的统称：/ɹ l j w/，little constriction，气流基本不受阻，"sounds like vowel but still a consonant"。
 > 课件特别说明：**"liquid" 和 "glide" 不是标准 IPA 术语**，但它们出现在你的试卷术语表里，**答题按试卷术语表写 Liquid / Glide**。
