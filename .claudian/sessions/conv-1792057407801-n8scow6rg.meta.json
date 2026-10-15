@@ -4,8 +4,8 @@
   "title": "Greeting in Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1792057407806,
-  "updatedAt": 1792057410404,
-  "lastResponseAt": 1792057410404,
+  "updatedAt": 1792057431609,
+  "lastResponseAt": 1792057431609,
   "sessionId": "2bcfe6b4-ac0d-4738-a841-a366cf48a7c7",
   "providerState": {
     "providerSessionId": "2bcfe6b4-ac0d-4738-a841-a366cf48a7c7"
@@ -13,11 +13,11 @@
   "currentNote": "澳门大学课程/7315-Mid Term Quiz/AHGC7315_复习04_音系学.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 21475,
+    "inputTokens": 11942,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 21760,
     "contextWindow": 1000000,
-    "contextTokens": 21475,
-    "percentage": 2
+    "contextTokens": 33702,
+    "percentage": 3
   }
 }
