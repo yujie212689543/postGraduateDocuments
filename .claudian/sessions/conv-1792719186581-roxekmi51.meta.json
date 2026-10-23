@@ -4,8 +4,8 @@
   "title": "Fix Obsidian citation link syntax",
   "titleGenerationStatus": "success",
   "createdAt": 1792719186584,
-  "updatedAt": 1792719204366,
-  "lastResponseAt": 1792719204366,
+  "updatedAt": 1792719699643,
+  "lastResponseAt": 1792719699643,
   "sessionId": "cb5c6fc4-f145-42d8-a65c-1b1903370900",
   "providerState": {
     "providerSessionId": "cb5c6fc4-f145-42d8-a65c-1b1903370900"
@@ -13,11 +13,11 @@
   "currentNote": "职业探讨会/问题.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 153,
+    "inputTokens": 187,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28672,
+    "cacheReadInputTokens": 30848,
     "contextWindow": 1000000,
-    "contextTokens": 28825,
+    "contextTokens": 31035,
     "percentage": 3
   }
 }
