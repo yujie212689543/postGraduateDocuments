@@ -4,13 +4,12 @@
   "title": "Fix Obsidian citation link syntax",
   "titleGenerationStatus": "success",
   "createdAt": 1792719186584,
-  "updatedAt": 1792720288046,
+  "updatedAt": 1792725757660,
   "lastResponseAt": 1792720288046,
   "sessionId": "cb5c6fc4-f145-42d8-a65c-1b1903370900",
   "providerState": {
     "providerSessionId": "cb5c6fc4-f145-42d8-a65c-1b1903370900"
   },
-  "currentNote": "职业探讨会/问题.md",
   "usage": {
     "model": "sonnet[1m]",
     "inputTokens": 269,
