@@ -4,8 +4,8 @@
   "title": "Organize Obsidian note",
   "titleGenerationStatus": "success",
   "createdAt": 1792725778892,
-  "updatedAt": 1792725807651,
-  "lastResponseAt": 1792725807651,
+  "updatedAt": 1792726276057,
+  "lastResponseAt": 1792726276057,
   "sessionId": "259b66de-1145-4ccc-8c80-5518e9b9d3f2",
   "providerState": {
     "providerSessionId": "259b66de-1145-4ccc-8c80-5518e9b9d3f2"
@@ -13,11 +13,11 @@
   "currentNote": "个人实习/实习咨询复盘与前期规划.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 1721,
+    "inputTokens": 171,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 26880,
+    "cacheReadInputTokens": 40960,
     "contextWindow": 1000000,
-    "contextTokens": 28601,
-    "percentage": 3
+    "contextTokens": 41131,
+    "percentage": 4
   }
 }
