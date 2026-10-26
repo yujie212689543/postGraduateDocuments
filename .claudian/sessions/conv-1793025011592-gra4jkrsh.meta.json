@@ -4,6 +4,21 @@
   "title": "Explain purpose of updated GitHub token",
   "titleGenerationStatus": "success",
   "createdAt": 1793025011592,
-  "updatedAt": 1793025014366,
-  "sessionId": null
+  "updatedAt": 1793026686170,
+  "lastResponseAt": 1793026686170,
+  "sessionId": "c167625e-1f88-4065-8a3f-d7197a78c886",
+  "providerState": {
+    "providerSessionId": "c167625e-1f88-4065-8a3f-d7197a78c886"
+  },
+  "currentNote": "一些技术配置上的文档/Obsidian相关/（obsidian） GithubDesktop 设置.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 731,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43520,
+    "contextWindow": 1000000,
+    "contextTokens": 44251,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
 }
