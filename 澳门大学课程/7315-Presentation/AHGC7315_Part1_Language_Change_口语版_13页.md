@@ -14,7 +14,7 @@
 **Target:** 0:00–1:10  
 **Slide cue:** Juliet comic → modern misunderstanding → `wherefore = why` → three ideas
 
-I'd like to start with one line from Shakespeare. Juliet says, “Wherefore art thou Romeo?”
+Good morning, everyone. I'd like to start with one line from Shakespeare. Juliet says, “Wherefore art thou Romeo?”
 
 Many of us immediately think she is asking, “Romeo, where are you?” It sounds reasonable. But imagine Romeo standing right below the balcony. He is not lost.
 
@@ -88,9 +88,9 @@ So when linguists say a change is regular, they do not mean every word everywher
 **Target:** 3:50–4:55  
 **Slide cue:** English `/f/` ↔ Spanish `/p/` → repeated matches → Part 3 handoff
 
-That kind of regularity also helps us compare languages. In English, *father* begins with /f/. In Spanish, *padre* begins with /p/.
+That kind of regularity also helps us compare languages. In English, *foot* begins with /f/. In Spanish, *pie* (“PYEH,” meaning “foot”) begins with /p/.
 
-English *fish* begins with /f/. Spanish *pescado* begins with /p/.
+English *fish* begins with /f/. Spanish *pez* (“PEHS,” meaning “fish”) begins with /p/.
 
 You might say, “Two similar words? That could be chance.” Fair.
 
@@ -136,9 +136,9 @@ Writing changed much more slowly than speech. That is why English spelling can f
 
 When you look at English spelling, you are often seeing an older stage of pronunciation through a glass window.
 
-*Night* is a clear example. Older English had a rough /x/ sound in the word, similar to the sound at the end of Scottish *loch*.
+*Night* is a clear example. In Old English, the word was written *niht*, and the letters `gh` stood for a rough /x/ sound.
 
-Most modern English varieties lost that sound. But look at the spelling: the `gh` is still there.
+You do not need to reproduce it today. Imagine a breathy “h” made at the back of the mouth, a little like the `ch` in Scottish *loch*. Most modern English varieties lost that sound, but the spelling kept `gh`.
 
 So spelling records history. It is not a recording of modern pronunciation.
 
@@ -272,7 +272,7 @@ Keep all three final ideas, but compress these details:
 
 1. On Slide 3, say only that *high* and *pie* can share a vowel difference across many speakers.
 2. On Slide 4, read only *house* and *out*.
-3. On Slide 5, use one *father / padre* pair and move directly to the conclusion.
+3. On Slide 5, use one *foot / pie* pair and move directly to the conclusion.
 4. On Slide 9, mention only *divine / divinity*, not the additional word pairs.
 5. On Slide 10, point to two noun endings rather than reading four Latin forms.
 
@@ -286,10 +286,12 @@ Keep all three final ideas, but compress these details:
 | *diphthong* | DIF-thong |
 | *divine* | di-VINE |
 | *divinity* | di-VIN-i-ty |
+| *pie* (Spanish) | PYEH |
+| *pez* (Spanish, Latin American) | PEHS |
 | `/aɪ/` | the vowel in *high* |
 | `/aʊ/` | the vowel in *house* |
 | `/ɪ/` | the short vowel in *sit* |
-| `/x/` | the final sound in Scottish *loch* |
+| `/x/` | a rough, breathy “h” made at the back of the mouth |
 
 ## Chinese meaning reminders
 
