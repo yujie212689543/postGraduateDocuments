@@ -33,7 +33,7 @@ Today I want to show you three things. First, sound changes follow patterns. Sec
 **Target:** 1:10–2:10  
 **Slide cue:** Old English → Middle English → Modern English → “Dates are boundaries, not switches.”
 
-Here are three snapshots of English. The first is Old English, from *Beowulf*. To most of us today, it looks almost like a foreign language.
+To see that long process, let's compare three snapshots of English. The first is Old English, from *Beowulf*. To most of us today, it looks almost like a foreign language.
 
 The next is Middle English, from Chaucer. We recognise more words, but the grammar and pronunciation still feel quite different.
 
@@ -52,7 +52,7 @@ But people did not wake up one morning and replace their language. This is one l
 **Target:** 2:10–3:00  
 **Slide cue:** `high · pie` → same vowel difference → many words
 
-So how does sound change actually work? Does every word follow its own path?
+Within that continuous history, let's look at how sound change works. Does every word follow its own path?
 
 Look at *high* and *pie*. In many Southern varieties of American English, the vowel sounds more like a long “ah.” In other varieties, we hear the vowel in *high* and *pie*.
 
@@ -71,7 +71,7 @@ Once you notice that, the question changes. It is not “Why does this one word 
 **Target:** 3:00–3:50  
 **Slide cue:** `house · out · south` → one historical sound change
 
-History gives us another example. In Middle English, the word *house* had a long “oo” sound. It sounded more like “hoos.”
+History gives us exactly that kind of example. In Middle English, the word *house* had a long “oo” sound. It sounded more like “hoos.”
 
 Later, that vowel changed to the sound we hear in *house* today. We see the same change in *out* and *south*.
 
@@ -109,7 +109,7 @@ Why this matters, and how linguists use it to reconstruct older languages, is th
 **Target:** 4:55–6:05  
 **Slide cue:** long vowels move higher → *mice* / *mouse* → long vowels become diphthongs
 
-One of the most famous sound changes is the Great Vowel Shift. Between about 1400 and 1600, many English long vowels changed their position in the mouth.
+Before we move on to reconstruction, there is an even more familiar example inside English itself: the Great Vowel Shift. Between about 1400 and 1600, many English long vowels changed their position in the mouth.
 
 Many moved higher. The highest vowels could not move any higher, so they became diphthongs. A diphthong simply moves from one vowel position to another inside one syllable.
 
@@ -130,7 +130,7 @@ Not very much.
 **Target:** 6:05–7:05  
 **Slide cue:** spelling lags behind speech → *night* → `/x/` disappears
 
-Writing changed much more slowly than speech. That is why English spelling can feel like a museum.
+The sounds changed, but the writing did not. Writing changes much more slowly than speech, which is why English spelling can feel like a museum.
 
 *Mice*, *house*, and *night* still contain traces of older English.
 
@@ -151,7 +151,7 @@ So spelling records history. It is not a recording of modern pronunciation.
 **Target:** 7:05–7:55  
 **Slide cue:** `divine` → /aɪ/, `divinity` → /ɪ/, same root → why?
 
-Here is a puzzle. Look at *divine* and *divinity*.
+That history inside spelling gives us another puzzle: look at *divine* and *divinity*.
 
 The words are clearly related, but one has /aɪ/ and the other has /ɪ/.
 
@@ -170,7 +170,7 @@ At first this looks like an exception. But exceptions often become less mysterio
 **Target:** 7:55–8:55  
 **Slide cue:** shortening happens first → Great Vowel Shift happens later → different outcomes
 
-First, an earlier rule shortened the vowel in *divinity*.
+The order of the changes gives us the answer. First, an earlier rule shortened the vowel in *divinity*.
 
 Later came the Great Vowel Shift. That shift affected long vowels.
 
@@ -189,7 +189,7 @@ This is why historical linguistics feels like detective work. We have evidence f
 **Target:** 8:55–10:05  
 **Slide cue:** Latin *lupus* forms → Old English *stān* forms → ending marks the job
 
-Now let us move from sounds to grammar.
+That same kind of historical reasoning also applies when we turn from sounds to grammar.
 
 Many languages use endings on nouns to show a word's job in the sentence: who is acting, what is affected, or who receives something.
 
@@ -208,7 +208,7 @@ You do not need to memorise these forms. Just notice that the noun changes shape
 **Target:** 10:05–10:50  
 **Slide cue:** strong endings → weaker endings → meanings still need to be expressed
 
-Over time, many of those endings became weaker, and then disappeared from ordinary nouns.
+But over time, many of those endings became weaker, and then disappeared from ordinary nouns.
 
 But the grammatical jobs did not disappear. Speakers still needed to say who did something, and who received something.
 
@@ -227,7 +227,7 @@ What did English do next?
 **Target:** 10:50–12:10  
 **Slide cue:** same words, opposite event → word order → prepositions → grammar changes its tools
 
-Look at these two sentences:
+The answer was to rely more on word order. Look at these two sentences:
 
 “The man saw the king.”
 
@@ -250,7 +250,7 @@ So English did not simply become easier. It redistributed the work. Some parts b
 **Target:** 12:10–13:10  
 **Slide cue:** patterned → ordered → redistributed → Part 2
 
-So here are three ideas to take away.
+These examples all point to three ideas to take away.
 
 First, sound change is patterned. It affects groups of words, not isolated accidents.
 
