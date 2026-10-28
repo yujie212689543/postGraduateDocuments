@@ -14,7 +14,7 @@
 **Target:** 0:00–1:10  
 **Slide cue:** Juliet comic → modern misunderstanding → `wherefore = why` → three ideas
 
-Good morning, everyone. I'd like to start with one line from Shakespeare. Juliet says, “Wherefore art thou Romeo?”
+OK, I'd like to start with one line from Shakespeare. Juliet says, “Wherefore art thou Romeo?”
 
 Many of us immediately think she is asking, “Romeo, where are you?” It sounds reasonable. But imagine Romeo standing right below the balcony. He is not lost.
 
