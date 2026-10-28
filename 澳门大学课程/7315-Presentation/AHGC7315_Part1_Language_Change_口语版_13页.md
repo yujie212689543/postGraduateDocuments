@@ -189,7 +189,7 @@ This is why historical linguistics feels like detective work. We have evidence f
 **Target:** 8:55–10:05  
 **Slide cue:** Latin *lupus* forms → Old English *stān* forms → ending marks the job
 
-After the word order, lets talk about the word 
+After the word order, lets talk about the endings.
 
 Many languages use endings on nouns to show a word's job in the sentence: who is acting, what is affected, or who receives something.
 
