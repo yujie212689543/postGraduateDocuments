@@ -170,7 +170,7 @@ At first this looks like an exception. But exceptions often become less mysterio
 **Target:** 7:55–8:55  
 **Slide cue:** shortening happens first → Great Vowel Shift happens later → different outcomes
 
-The order of the changes gives us the answer. First, an earlier rule shortened the vowel in *divinity*.
+First, an earlier rule shortened the vowel in *divinity*.
 
 Later came the Great Vowel Shift. That shift affected long vowels.
 
