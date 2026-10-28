@@ -109,9 +109,9 @@ Why this matters, and how linguists use it to reconstruct older languages, is th
 **Target:** 4:55–6:05  
 **Slide cue:** long vowels move higher → *mice* / *mouse* → long vowels become diphthongs
 
-Before we move on to reconstruction, there is an even more familiar example inside English itself: the Great Vowel Shift. Between about 1400 and 1600, many English long vowels changed their position in the mouth.
+Now, Before we move on to reconstruction, there is a more familiar example inside English itself: the Great Vowel Shift. Between about 1400 and 1600, many English long vowels changed their position in the mouth.
 
-Many moved higher. The highest vowels could not move any higher, so they became diphthongs. A diphthong simply moves from one vowel position to another inside one syllable.
+Many moved higher. But, The highest vowels could not move any higher, so they became diphthongs. A diphthong simply moves from one vowel position to another inside one syllable.
 
 *Mice* used to have a long “ee.” Today we say /maɪs/.
 
@@ -130,7 +130,7 @@ Not very much.
 **Target:** 6:05–7:05  
 **Slide cue:** spelling lags behind speech → *night* → `/x/` disappears
 
-The sounds changed, but the writing did not. Writing changes much more slowly than speech, which is why English spelling can feel like a museum.
+Writing changes much more slowly than speech, which is why English spelling can feel like a museum.
 
 *Mice*, *house*, and *night* still contain traces of older English.
 
