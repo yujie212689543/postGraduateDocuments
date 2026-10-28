@@ -16,9 +16,9 @@
 
 OK, I'd like to start with one line from Shakespeare. Juliet says, “Wherefore art thou Romeo?”
 
-Many of us immediately think she is asking, “Romeo, where are you?” It sounds reasonable. But imagine Romeo standing right below the balcony. He is not lost.
+Many of us would think she is asking, “Romeo, where are you?” It sounds reasonable. But imagine Romeo standing right below the balcony. He is not lost.
 
-The word *wherefore* does not mean “where.” It means “why.” Juliet is asking why Romeo has to be Romeo, and why he has to carry that family name.
+So, the word *wherefore* does not mean “where.” It means “why.” Juliet is asking why Romeo has to be Romeo, and why he has to carry that family name.
 
 The line has not changed. English has.
 
@@ -39,7 +39,7 @@ The next is Middle English, from Chaucer. We recognise more words, but the gramm
 
 Finally, we have Shakespeare's English, an early form of Modern English. It is much easier to read, although a word like *wherefore* can still surprise us.
 
-Quick question: which one looks easiest to you? Most of us would choose Shakespeare.
+Quick question: which one is easiest for us today? Most of us would choose Shakespeare.
 
 But people did not wake up one morning and replace their language. This is one long history. The dates on the slide are boundaries for study, not sudden switches.
 
