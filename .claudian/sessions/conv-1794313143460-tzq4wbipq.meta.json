@@ -1,0 +1,23 @@
+{
+  "id": "conv-1794313143460-tzq4wbipq",
+  "providerId": "claude",
+  "title": "Link new article to Obsidian index",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794313143464,
+  "updatedAt": 1794313153819,
+  "lastResponseAt": 1794313153819,
+  "sessionId": "ebabf28d-2705-40dc-a3af-3a42672a8c79",
+  "providerState": {
+    "providerSessionId": "ebabf28d-2705-40dc-a3af-3a42672a8c79"
+  },
+  "currentNote": "一些技术配置上的文档/其他/Latex 使用指南.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25728,
+    "contextWindow": 1000000,
+    "contextTokens": 25974,
+    "percentage": 3
+  }
+}
