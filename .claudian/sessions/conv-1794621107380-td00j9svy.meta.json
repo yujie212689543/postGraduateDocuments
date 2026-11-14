@@ -1,0 +1,23 @@
+{
+  "id": "conv-1794621107380-td00j9svy",
+  "providerId": "claude",
+  "title": "Reformat speech into unified English format",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794621107384,
+  "updatedAt": 1794621123477,
+  "lastResponseAt": 1794621123477,
+  "sessionId": "0ddb0095-80f7-4352-824e-bff2e0b6460f",
+  "providerState": {
+    "providerSessionId": "0ddb0095-80f7-4352-824e-bff2e0b6460f"
+  },
+  "currentNote": "澳门大学课程/7021-Course Project/PPT 演讲稿.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 244,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26112,
+    "contextWindow": 1000000,
+    "contextTokens": 26356,
+    "percentage": 3
+  }
+}
