@@ -4,8 +4,8 @@
   "title": "Organize oily acne-prone skincare documentation",
   "titleGenerationStatus": "success",
   "createdAt": 1794763634907,
-  "updatedAt": 1794763834434,
-  "lastResponseAt": 1794763834434,
+  "updatedAt": 1794795757060,
+  "lastResponseAt": 1794795757060,
   "sessionId": "c4eceb93-e737-4575-b233-52a0dde33775",
   "providerState": {
     "providerSessionId": "c4eceb93-e737-4575-b233-52a0dde33775"
@@ -13,11 +13,12 @@
   "currentNote": "护肤品使用指南.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 256,
+    "inputTokens": 204,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 34688,
+    "cacheReadInputTokens": 35072,
     "contextWindow": 1000000,
-    "contextTokens": 34944,
-    "percentage": 3
+    "contextTokens": 35276,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
   }
 }
