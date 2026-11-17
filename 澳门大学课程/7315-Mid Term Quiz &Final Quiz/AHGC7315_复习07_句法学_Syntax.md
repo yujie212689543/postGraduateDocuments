@@ -1,125 +1,215 @@
-# AHGC7315 考前复习 07｜Syntax（句法学）：句子结构、树状图与 X-bar
+# AHGC7315 Final Exam｜07 Syntax（句法学）
 
-> **考试重点**：Syntax。要会判断 grammaticality、constituent、structural ambiguity、phrase category；尤其会画/读 **phrase structure tree（短语结构树）** 与 **X-bar tree（X-bar 树）**。
+> **优先级：最高。** 老师明确提示 Final Exam 重点考 **Syntax** 与 **Semantics**。
 >
-> **材料依据**：Syntax 课件 P1–65。★ = 高概率考点。
+> **这一章到底学什么：** 不看句子的“意思是否合理”，只看词怎样组成短语、短语怎样组成句子。核心能力是：判断成分、识别歧义、画/读句法树、区分 complement 与 adjunct、解释移动和主谓一致。
+>
+> **来源：** `Syntax.pdf`，P1–P65。★ 越多，越应优先掌握。
 
-## 先背这 12 句（考前最后 3 分钟）
+## 一张考试地图
 
-1. **Syntax（句法）** = 关于句子及其结构的 grammar knowledge；有限规则能产生无限句子。
-2. **Grammatical（合语法）** 不等于 meaningful（有意义）：*Colorless green ideas sleep furiously* 是 grammatical 但语义异常。
-3. English 的基本语序是 **SVO**；Korean/Japanese 常为 **SOV**；Mandarin 是 **topic-prominent（话题突出）**。
-4. **Constituent（成分）** 是自然成组的词；用 stand-alone、pronoun replacement、movement 检验。
-5. **Lexical ambiguity（词汇歧义）** 来自一个词的多义；**structural ambiguity（结构歧义）** 来自两种树形结构。
-6. **NP, VP, PP, AdjP, AdvP** 都是 phrase（短语）；PP 必须从 P 开始。
-7. 基本规则：**S/TP → NP VP；NP → Det N；VP → V NP；PP → P NP**。
-8. 每个 phrase 的 **head（中心语）** 必有；**specifier（标示语）** 与 **complement（补足语）** 可选；**adjunct（附加语）** 可有无限多个。
-9. Complement 是 head 需要来完成意义的成分；adjunct 只是可删的时间/地点/方式等额外信息。
-10. English/Mandarin 是 **head-initial / right-branching（中心语在前/右分叉）**；Japanese/Korean 是 **head-final / left-branching（中心语在后/左分叉）**。
-11. Yes–no question 把 **T/auxiliary（时态/助动词）**移到句首；wh-question 再把要问的 constituent 换成并移成 **wh-word**。
-12. **Deep structure（深层结构）**保留谁对谁做什么的基本关系；movement 后得到表面的 **surface structure（表层结构）**。主谓一致仍看 tree，不看最近的 noun。
-
-## 1. Syntax、语法性与语序（P2–12）
-
-### 1.1 Syntax 的核心
-
-**Syntax（句法）**是 grammar 中关于 sentence（句子）及其 structure（结构）的知识。人脑里是 **finite rules → infinite sentences（有限规则 → 无限句子）**，所以不可能靠死记所有句子。
-
-| 判断 | 例子 | 为什么 |
-|---|---|---|
-| grammatical but odd | *Colorless green ideas sleep furiously.* | 词序和结构合规则，但意义奇怪 |
-| ungrammatical | \*Furiously sleep ideas green colorless. | 违反 English word-order rule |
-
-> `*` = **ungrammatical / ill-formed（不合语法）**；`!` = **semantic anomaly（语义异常）**，两者不要混淆。
-
-### 1.2 Word order（语序）★
-
-| 类型 | 顺序 | 例子 | 课件信息 |
+| 必会能力 | 典型问法 | 关键工具 | 页码 |
 |---|---|---|---|
-| **SVO** | Subject–Verb–Object | *Romeo loves Juliet.* | English；约 42% 语言 |
-| **SOV** | Subject–Object–Verb | “Ting a burger ate.” | Korean/Japanese；约 45% |
-| **VSO** | Verb–Subject–Object | “Ate Sam apples.” | 约 9% |
-
-**Mandarin（汉语）**表面基本为 SVO：`我 买 书 了`；但它也是 **topic-prominent language（话题突出语言）**，可将已知话题前置：`书 我 买 了`。结构是 **topic + comment（话题 + 评述）**，不是随意乱序。
+| 1. 判断 grammatical（合语法） | 为什么一句怪话仍合语法？ | word order + phrase structure rules | P2–12 |
+| 2. 判断 constituent（成分）★ | 哪一串词是一个整体？ | stand-alone / pronoun replacement / movement | P13–22 |
+| 3. 区分两种 ambiguity（歧义）★★ | 为什么会 Chicken 有歧义？ | lexical ambiguity vs structural ambiguity | P23–28 |
+| 4. 画 phrase structure tree（短语结构树）★★★ | 给句子画树 | `S → NP VP` 等规则 | P29–41 |
+| 5. 区分 head / specifier / complement / adjunct ★★★ | “the mother of…”里谁是什么？ | 短语内部结构 | P42–54 |
+| 6. 理解 X-bar 与语序 | English 与 Japanese 为何树形相反？ | head-initial / head-final | P48–57 |
+| 7. 解释问句移动 | 助动词为什么跑到句首？ | T-to-C movement、trace、do-support | P58–63 |
+| 8. 解释主谓一致 | verb 跟最近的 noun 还是真正的 subject？ | structure-dependent rule | P60–63 |
 
 ---
 
-## 2. Constituents（成分）与三种检验（P13–22）★
+## 1. Syntax：一句话的人话解释
 
-**Constituent（成分）** = tree 中的一个 branch / natural grouping，即由一个 node 支配的一组词。
+**Syntax（句法学）**研究的是：**词和短语必须按什么规则组合，才能成为该语言允许的句子。**
 
-例：*The child found a puppy.*
+人脑并不是把所有句子都背下来。规则数量有限，但可以组合出无限多句子：
 
 ```text
-[The child] [found [a puppy]]
-    NP             VP
-                 V    NP
+Snorlax is asleep.
+Everybody knows that Snorlax is asleep.
+Everybody knows that everybody knows that Snorlax is asleep.
 ```
+
+这种“规则套规则”的能力叫 **recursion（递归）**，是句子可以无限变长的原因。
+
+### 1.1 Grammatical ≠ meaningful ★
+
+| 句子 | 判断 | 理由 |
+|---|---|---|
+| *Colorless green ideas sleep furiously.* | **grammatical（合语法）** | 词序和结构都符合 English rules；只是意思荒谬 |
+| `*Furiously sleep ideas green colorless.` | **ungrammatical（不合语法）** | 词序违反 English rules |
+
+所以考试看到“奇怪、无意义”不要立刻判 ungrammatical。先分别回答两件事：
+
+1. **语法问题：** 词序和组合规则对不对？
+2. **语义问题：** 意义是否符合常识或选择限制？
+
+`*` 表示 **ungrammatical / ill-formed（不合语法）**；`!` 表示 **semantic anomaly（语义异常）**。
+
+### 1.2 Word order（基本语序）
+
+| 类型 | 顺序 | 例子 | 常见语言 |
+|---|---|---|---|
+| **SVO** | Subject–Verb–Object | *Sam ate apples.* | English、多数欧洲语言 |
+| **SOV** | Subject–Object–Verb | *Sam apples ate.* | Korean、Japanese |
+| **VSO** | Verb–Subject–Object | *Ate Sam apples.* | 部分 Celtic、Filipino |
+
+**Mandarin（普通话）**的基本语序看起来是 **SVO**：
+
+```text
+我 买 书 了。
+```
+
+但普通话也是 **topic-prominent language（话题突出语言）**。已知信息可以放到句首当 **topic（话题）**，后面是 **comment（评述）**：
+
+```text
+书，我买了。
+[topic] [comment]
+```
+
+考试只需记住：**Mandarin 不是“随便乱序”，而是常用话题—评述结构。**
+
+---
+
+## 2. Constituent（成分）：哪些词是一个整体？★★
+
+**Constituent（成分）**是句子里自然抱成一团、在树中由同一个 node 支配的一串词。
+
+例：
+
+```text
+[The child] [found [a puppy]].
+```
+
+这里：
+
+- `the child` 是一个 NP；
+- `a puppy` 是一个 NP；
+- `found a puppy` 是一个 VP。
+
+### 2.1 三种 constituency tests（成分测试）
+
+课件给出三种方法。按课件标准，一串词满足其中至少一种，就可以视为 constituent。
+
+| 测试 | 怎么问 | 例子 | 结论 |
+|---|---|---|---|
+| **Stand-alone（独立回答）** | 能否单独回答 wh-question？ | —What did the child find? —*A puppy.* | `a puppy` 是成分 |
+| **Replacement（替换）** | 能否用 pronoun / there / here 代替？ | *The child found **it**.* | `a puppy` 是成分 |
+| **Movement（整体移动）** | 整串一起移动后句子仍合语法？ | *In the garden the puppy played.* | `in the garden` 是成分 |
+
+原句：
+
+```text
+The puppy played in the garden.
+```
+
+对 `in the garden` 做三次检查：
+
+1. *Where did the puppy play? — In the garden.*
+2. *The puppy played there.*
+3. *It was in the garden that the puppy played.*
+
+三种都通过，因此它明显是一个 **PP（介词短语）**。
 
 ![[AHGC7315-Syntax-P15.png]]
 
-### 2.1 三种 constituency tests
+### 2.2 易错点
 
-只要满足至少一种，通常就可视为 constituent。
-
-| 检验 | 做法 | 例子 | 结论 |
-|---|---|---|---|
-| **Stand alone（独立回答）** | 用 wh-question 问出该串词 | *What did the child find? — A puppy.* | `a puppy` 是 NP |
-| **Replacement（代词替换）** | 用 pronoun / here / there 替换 | *The child found it.* | `it` 替代 `a puppy` |
-| **Movement（整体移动）** | 整串移动仍 grammatical | *In the garden, the puppy played.* | `in the garden` 是 PP |
-
-例：*The puppy played in the garden.*
-
-- `Where did the puppy play? — In the garden.`
-- `The puppy played there.`
-- `It was in the garden that the puppy played.`
-
-**易错点：**字面连续不等于 constituent。`ran out of` 在 *We ran out of gas* 中可和 `gas` 构成 VP 的一部分；具体要用 test，不要凭停顿猜。
+- 两个词相邻，不代表它们就是一个 constituent。
+- `ran out of gas` 中，`out of gas` 与格，`out of` 常常可以一起移动或替换；但判断仍应做测试，不能只看空格和停顿。
+- Pronoun replacement 只能检验某些类型。`there` 往往替换地点 PP，`it` 可替换 NP。
 
 ---
 
-## 3. Ambiguity（歧义）与树（P23–28）★
+## 3. Ambiguity（歧义）：一个词多义，还是一种结构有两种树？★★
 
-| 类型 | 来源 | 例子 | 两种意思 |
-|---|---|---|---|
-| **Lexical ambiguity（词汇歧义）** | 一个 word/phrase 多义 | *We saw her duck.* | 看见她的鸭子 / 看见她低头躲避 |
-| **Structural ambiguity（结构歧义）** | 同一词串有两种 constituent structure | *Sue saw the man with the telescope.* | Sue 用望远镜看；男人带着望远镜 |
+### 3.1 Lexical ambiguity（词汇歧义）
 
-在 *Sue saw the man with the telescope* 中，PP `with the telescope`：
+一个词或短语本身有多个 dictionary meanings。
 
-1. attach 到 **VP**：`[saw … with the telescope]` → Sue 用它看。
-2. attach 到 **NP**：`[the man with the telescope]` → 男人带着它。
+```text
+We saw her duck.
+```
+
+两种意思：
+
+1. 我们看见她的鸭子；
+2. 我们看见她低头躲避。
+
+差别来自 **duck**：名词“鸭子” vs 动词“躲避”。
+
+### 3.2 Structural ambiguity（结构歧义）
+
+词义不变，但词串可以组成两种不同结构：
+
+```text
+Sue saw the man with the telescope.
+```
+
+意思一：Sue 用望远镜看那个男人。
+
+```text
+Sue [saw the man] [with the telescope]
+                       ↑ PP 修饰 VP
+```
+
+意思二：Sue 看见那个带着望远镜的男人。
+
+```text
+Sue saw [the man [with the telescope]]
+                   ↑ PP 修饰 NP
+```
+
+**判断口诀：先问 PP 修饰谁。**
+
+- 修饰动作 → VP 里的 adjunct；
+- 修饰名词 → 挂到 NP 里面。
 
 ![[AHGC7315-Syntax-P25.png]]
 
-**画歧义树的口诀：先问 PP 修饰谁。** 修饰动作 → VP adjunct；修饰名词 → NP 内的 adjunct/complement。
-
 ---
 
-## 4. Syntactic categories（句法范畴）与基础树（P29–40）★
+## 4. Syntactic categories（句法范畴）
 
-### 4.1 必背类别
+### 4.1 词的类别
 
 | 类别 | 全称 | 例子 |
 |---|---|---|
-| **N** | Noun（名词） | puppy, happiness |
-| **V** | Verb（动词） | find, sleep, realize |
-| **P** | Preposition（介词） | in, with, from |
-| **A** | Adjective（形容词） | red, lucky |
-| **Adv** | Adverb（副词） | carefully, very |
+| **N** | Noun（名词） | puppy, girl, happiness |
+| **V** | Verb（动词） | find, run, sleep, realize |
+| **P** | Preposition（介词） | in, on, with, from |
+| **A** | Adjective（形容词） | red, lucky, large |
+| **Adv** | Adverb（副词） | carefully, very, again |
 | **Det** | Determiner（限定词） | a, the, this, every |
-| **T** | Tense（时态；含 modal auxiliary） | will, can, might |
+| **T** | Tense（时态/情态助动词） | will, can, might |
 | **C / Comp** | Complementizer（补语标记） | that, if, whether |
 
-| Phrasal category（短语范畴） | 核心 / 识别法 | 例子 |
-|---|---|---|
-| **NP** | functions as noun | *the man of her dreams* |
-| **VP** | functions as verb | *found the cake in the cupboard* |
-| **PP** | **starts with P** | *in the cupboard* |
-| **AdjP** | functions as adjective | *very proud of her children* |
-| **AdvP** | functions as adverb | *very carefully* |
+### 4.2 短语类别
 
-### 4.2 Phrase structure rules（短语结构规则）
+| 短语 | 最简单的识别方法 |
+|---|---|
+| **NP（名词短语）** | 整体功能像名词，如 `the man of her dreams` |
+| **VP（动词短语）** | 整体功能像动词，如 `found the cake in the cupboard` |
+| **PP（介词短语）** | 以 preposition 开头，如 `in the cupboard` |
+| **AdjP（形容词短语）** | 整体功能像 adjective，如 `very proud of her children` |
+| **AdvP（副词短语）** | 整体功能像 adverb，如 `very carefully` |
+
+**考试最先看开头词：** PP 必须从 P 开始；`the cupboard` 是 NP，`in the cupboard` 才是 PP。
+
+---
+
+## 5. Phrase structure tree（短语结构树）★★★
+
+### 5.1 句法树同时表达三件事
+
+1. **Linear order（线性顺序）：** 谁在谁前面；
+2. **Syntactic categories（句法范畴）：** 这是 N、V、NP 还是 VP；
+3. **Hierarchical structure（层级结构）：** 哪些词先组成小组，再组成更大的组。
+
+### 5.2 基本规则
 
 ```text
 S  → NP VP
@@ -131,144 +221,129 @@ CP → C S
 V  → V CP
 ```
 
-箭头 `→` 可读成 **consists of / is rewritten as / is composed of（由……构成）**。
+`→` 读作 **consists of / is rewritten as / is composed of（由……组成）**。
 
-例：*The sheepdog rolled in the mud.*
+原句：
+
+```text
+The sheepdog rolled in the mud.
+```
+
+规则匹配：
 
 ```text
 S
-├── NP → Det the + N sheepdog
-└── VP → V rolled + PP
-                 └── P in + NP → Det the + N mud
+├── NP
+│   ├── Det: the
+│   └── N: sheepdog
+└── VP
+    ├── V: rolled
+    └── PP
+        ├── P: in
+        └── NP
+            ├── Det: the
+            └── N: mud
 ```
+
+### 5.3 画树不要猜：按这个顺序做
+
+1. 找主要动词 V。
+2. 找动词后必须与它组合的 NP 或 PP。
+3. 先圈最容易识别的 PP：看到 preposition，就圈到它的 NP 结束。
+4. 圈出主语 NP。
+5. 用 `S → NP VP` 搭最外层。
+6. 每加一条线，都要能说出一条例句规则。
+
+例：
+
+```text
+The puppy found the child.
+```
+
+| 步骤 | 操作 | 结果 |
+|---|---|---|
+| 1 | 找主要 V | `found` |
+| 2 | 找宾语 | `the child` = NP |
+| 3 | 动词 + 宾语 | `found the child` = VP |
+| 4 | 找主语 | `the puppy` = NP |
+| 5 | 套句子规则 | `S → NP VP` |
 
 ![[AHGC7315-Syntax-P37.png]]
 
-Tree 要表达三件事：**linear order（线性顺序）**、**category（范畴）**、**hierarchical structure（层级结构）**。
+### 5.4 Tree 的关系词
 
-**关系术语：**高 node **dominates（支配）**下方所有 node；直接支配是 **immediately dominates**；同一个 mother 下的两个 node 是 **sisters（姐妹节点）**。
-
-### 4.3 树状图其实在画什么？白话四步法 ★★★
-
-把句子想成一堆**套盒子**，不是把每个词排成一排：先把自然成组的词放进小盒子（NP/VP/PP），再把小盒子放进句子的大盒子（S/TP）。**一根线只说明“这个词/短语属于那个盒子”。**
-
-例句：`The puppy found the child.`
-
-**第 1 步：先找动词。** `found` 是 V；它后面“找到谁”是 `the child`，所以先圈 `[found the child]` = VP。
-
-**第 2 步：找名词短语 NP。** `the puppy` 是一个“谁” → NP；`the child` 是一个“谁” → NP。`the` 不可单独当 NP，它和名词绑在一起。
-
-**第 3 步：先摆最简单骨架。** 英语陈述句最常用 `S → NP VP`。把主语 NP 放左，VP 放右。
-
-```text
-S                         读法：一个句子 S
-├── NP                    左边是主语 NP
-│   ├── Det  The          NP 里面：Det + N
-│   └── N    puppy
-└── VP                    右边是谓语 VP
-    ├── V    found        VP 里面：V + NP
-    └── NP
-        ├── Det  the
-        └── N    child
-```
-
-**第 4 步：用规则检查，不靠猜。** 这棵树逐条满足 `S → NP VP`、`NP → Det N`、`VP → V NP`，所以对。
-
-### 4.4 遇到长句时只做“拆盒子”
-
-例句：`The puppy found the child in the park.`
-
-1. 先得到三个大盒子：`[The puppy]` NP、`[found the child]` VP、`[in the park]` PP。
-2. `in the park` 从介词 `in` 开始，所以必定是 **PP → P NP**。
-3. 最后才问 PP 挂到哪里：若是“在公园里找到”→ 挂到 VP；若是“那个在公园里的孩子”→ 挂进 object NP。这个不同挂法就是 structural ambiguity。
-
-**考试的稳妥顺序：**先圈 NP → 找 V → 圈 VP → 看到 preposition 就圈 PP → 从 `S → NP VP` 往下补标签。不要一上来就画很复杂的 X′。
-
-![[AHGC7315-TreeGuide-P20.png]]
-
-### 4.5 X-bar 只是在普通树上多看一层
-
-普通树说 `VP → V NP`；X-bar tree 只是把“动词和它必须带的对象先抱成一组”写得更清楚：
-
-```text
-VP
-└── V′                    V′ = “动词这一小组”
-    ├── V  found          head（核心）
-    └── NP the child      complement（动词必须/常常需要的对象）
-```
-
-若加一个可有可无的地点：`found the child in the park`，`in the park` 是 **adjunct（附加语）**，可以删掉，句子还完整。它挂在较高的 V′ 外面；`the child` 不能随意删（会少“找到谁”），所以它更靠近 V。
-
-**你不必先背一堆 X′ 关系；先能说对“谁和谁先组成一个短语”，再补 X′ 标签。**
+| 关系 | 意思 |
+|---|---|
+| **dominates（支配）** | 高 node 包含下面所有 node |
+| **immediately dominates（直接支配）** | 上下直接连一条线 |
+| **sisters（姐妹节点）** | 被同一个 mother node 直接支配 |
 
 ---
 
-## 4.6 Transformational rules（转换规则）：把陈述句变问题（考试范围）★★★
+## 6. Phrase 内部：head、specifier、complement、adjunct ★★★
 
-**Deep structure（深层结构）**可以先理解为“原本的陈述句骨架”；**surface structure（表层结构）**就是你实际说出来、可能经过 movement（移动）的句子。移动后，原位置常留下 `t` / trace（痕迹）。
-
-### A. Yes–no question（一般疑问句）
-
-口诀：**先找 T/auxiliary，再把它搬到最前面。**
+以 NP 为例：
 
 ```text
-Deep/basic:    The puppy will find the child.
-Surface Q:     Will the puppy t find the child?
-                         ↑ 原来 will 的位置
+the mother of James Whistler
+ ↑     ↑       ↑
+Spec  Head   Complement
 ```
 
-- `will / can / is / are / has` 这类 T/auxiliary move 到句首。
-- 不是把 main verb `find` 搬到句首：`*Find the puppy the child?` ✗
-- 没有明显 auxiliary 的简单 present/past，英语用 **do-support**：`The puppy found the child.` → `Did the puppy find the child?`（`did` 到句首，main verb 回 base form `find`）。
+| 成分 | 人话理解 | 是否必需 |
+|---|---|---|
+| **Head（中心语）** | 短语的“主角” | **必需，且通常只有一个** |
+| **Specifier（标示语）** | 在 head 前，限定或指向它，如 `the` | 可选 |
+| **Complement（补足语）** | 紧贴 head，把 head 的意思补完整 | 可选，但若动词需要宾语就很重要 |
+| **Adjunct（附加语）** | 时间、地点、方式等额外信息 | 可选，可出现多个 |
 
-### B. Wh-question（特殊疑问句）
+### 6.1 Complement 与 adjunct 的直白区别
 
-口诀：**先把答案位置换成 who/what/where；再把 auxiliary 搬到句首。**
+问两个问题即可：
+
+1. **删掉后，head 的意思还完整吗？**
+2. **它是在完成 head 的核心需要，还是只是补充额外信息？**
+
+| 句子 | 成分 | 判断 |
+|---|---|---|
+| *I loved **the policeman**.* | complement | `love` 需要知道“爱谁” |
+| *I loved the policeman **intensely**.* | adjunct（manner） | 删掉后仍是完整句子 |
+| *I loved the policeman **with all my heart**.* | adjunct | 额外信息，可删、可移动 |
+| *the mother **of James Whistler*** | complement | 说明“谁的母亲” |
+
+课件还强调 English 的顺序：
 
 ```text
-Basic:      The puppy found the child.
-Ask object: The puppy found who?
-Surface:    Who did the puppy find t?
+I loved [the policeman] [intensely] [with all my heart].
+        complement       adjunct      adjunct
 ```
 
-另一个例子：`The puppy slept in the garden.` → `Where did the puppy sleep t?`
+通常不能写成：
 
-| 你要问的成分 | wh-word | 例子 |
-|---|---|---|
-| 人 | who | Who did the puppy find? |
-| 物 | what | What did the puppy find? |
-| 地点 | where | Where did the puppy sleep? |
-| 时间 | when | When did the puppy sleep? |
-
-**最易错：**wh-word 已经是 subject 时，不做 do-support：`The puppy found the child.` → `Who found the child?`，不是 `*Who did find the child?`。
-
-![[AHGC7315-TreeGuide-P18.png]]
-
----
-
-## 5. Head、selection 与 X-bar theory（P42–59）★★★
-
-### 5.1 Phrase 的内部
-
-| 成分 | 定义 | `the mother of James Whistler` 中 |
-|---|---|---|
-| **Head（中心语）** | phrase 的核心；**唯一 obligatory** | `mother` |
-| **Specifier（标示语）** | head 前、限定/指明 head | `the` |
-| **Complement（补足语）** | 紧邻 head、完成其意义 | `of James Whistler` |
-| **Adjunct（附加语）** | optional extra information | time/place/manner PP、adverbs |
+```text
+*I loved intensely the policeman with all my heart.
+```
 
 ![[AHGC7315-Syntax-P43.png]]
 
-### 5.2 C-selection 与 S-selection
+### 6.2 C-selection 与 S-selection
 
-| 选择 | 问题 | 例子 |
+| 概念 | 在问什么 | 例子 |
 |---|---|---|
-| **Category-selection / C-selection（范畴选择）** | head 需要哪类 complement？ | transitive `blow` 可接 NP：*The wind blew the kite*；intransitive `sleep` 不可接 NP：\*Michael slept an afternoon |
-| **Semantic-selection / S-selection（语义选择）** | subject/complement 是否符合 head 的语义要求？ | `drink` 的 agent 要能喝：`!The beer drank the student.` |
+| **Category-selection / C-selection（范畴选择）** | head 允许接哪一类 syntactic category？ | `blow` 可接 NP：*The wind blew the kite.*；`sleep` 不能：`*Michael slept an afternoon.` |
+| **Semantic-selection / S-selection（语义选择）** | subject / complement 的意义是否讲得通？ | `!The beer drank the student.` 中 `beer` 不能做有意的 drinker |
 
-一句话：well-formed sentence 同时要过 **PS rule（结构/语序）**、**C-selection（类别）**、**S-selection（意义）** 三关。
+一句话：句子 well-formed 必须同时通过：
 
-### 5.3 X-bar（X′）结构 ★
+```text
+word order / PS rule  +  C-selection  +  S-selection
+```
+
+---
+
+## 7. X-bar theory（X′ 理论）
+
+普通 PS rule 需要写很多条。X-bar theory 说：所有短语其实都有同一套三层模板。
 
 ```text
 XP
@@ -280,76 +355,266 @@ XP
     └── Adjunct
 ```
 
+| 节点 | 位置关系 | 人话理解 |
+|---|---|---|
+| **Head X** | 最底层核心 | 这个短语到底在说名词、动词、介词还是形容词 |
+| **Complement** | sister to X，daughter of X′ | 动词的宾语、介词的宾语等“完成 head 意义”的部分 |
+| **Adjunct** | sister to X′，daughter of X′ | 可删、可反复添加的时间/地点/方式信息 |
+| **Specifier** | sister to X′，daughter of XP | 位于较高层，限定 head |
+
+课件规则可以概括成：
+
+```text
+一个 phrase：通常 1 个 specifier、1 个 complement，但可以有无限多个 adjunct
+```
+
 ![[AHGC7315-Syntax-P50.png]]
 
-- **Specifier**：sister of X′，daughter of XP。
-- **Complement**：sister of X，daughter of X′；通常一个，直接 object 必为 VP 的 complement。
-- **Adjunct**：sister of X′，daughter of X′；可重复。
+### 7.1 Head-initial 与 head-final
 
-例：*I loved the policeman intensely with all my heart.*
+| 类型 | 结构 | 语言 | 表面现象 |
+|---|---|---|---|
+| **head-initial / right-branching（中心语在前）** | `XP → X Complement` | English、Mandarin | VO；Preposition + NP |
+| **head-final / left-branching（中心语在后）** | `XP → Complement X` | Japanese、Korean | OV；NP + Postposition |
 
-- `the policeman` = complement（direct object，不能随便移到 V 前后）。
-- `intensely`、`with all my heart` = adjunct（可删、可多、可前置）。
-- `*I loved intensely the policeman …` 不合课件所示 English order。
+English：
 
-### 5.4 Branching 与语序
+```text
+VP → V NP
+     ↑ head 在前
+```
 
-| 类型 | rule | 语言 |
-|---|---|---|
-| **head-initial / right-branching（中心语前）** | `XP → X Complement` | English, Mandarin；VO；P + NP |
-| **head-final / left-branching（中心语后）** | `XP → Complement X` | Japanese, Korean；OV；NP + postposition |
+Japanese：
 
-![[AHGC7315-Syntax-P59.png]]
+```text
+VP → NP V
+          ↑ head 在后
+```
+
+注意：这里比较的是 **head 与 complement 的相对顺序**，不要把它和 topic-prominent 混淆。
 
 ---
 
-## 6. Tense 与 structural dependency（P58–63）★★
+## 8. Sentence 的 head：Tense（时态）
 
-课件将 sentence 视为 **TP（Tense Phrase）**：T（tense marker / modal）是 sentence 的 head；subject 是 TP 的 specifier，predicate 是 complement。
+课件把 sentence 看成 **TP（Tense Phrase）**：
 
-### Subject–verb agreement（主谓一致）
-
-错误的 linear rule：verb 和左边最近的 noun 一致。
-
-正确的 **structure-dependent rule（结构依赖规则）**：verb 与 **TP/S 直接支配的 subject NP** 一致。
-
-| 句子 | 正确 | 原因 |
+| 位置 | 内容 | 例子 |
 |---|---|---|
-| *This guy seems kind of cute.* | `seems` | subject `guy` singular |
-| *These guys seem kind of cute.* | `seem` | subject `guys` plural |
-| *The guy sitting behind those tables seems …* | `seems` | 最近 noun 是 plural `tables`，但 subject 是 singular `guy` |
+| Head | **T（tense marker / modal）** | `will`, `can`, `may`, `-ed` |
+| Specifier | **Subject（主语）** | `the child` |
+| Complement | **Predicate（谓语）** | `ate` |
+
+可理解为：
+
+```text
+TP / S
+├── Specifier: Subject
+└── T′
+    ├── Head: T
+    └── Complement: Predicate
+```
+
+Tense 提供事件发生的时间框架，所以所有完整 finite sentence 都离不开 T。
+
+---
+
+## 9. Yes–no question 与 wh-question
+
+### 9.1 Yes–no question（一般疑问句）
+
+把 **T / auxiliary（时态助动词）** 从原来的 T 位置移到句首：
+
+```text
+Basic:   The puppy will find the child.
+Question: Will the puppy [trace] find the child?
+```
+
+不能说：
+
+```text
+*Find the puppy the child?
+```
+
+因为移动的是 auxiliary，不是主要动词 `find`。
+
+如果没有 overt auxiliary，就使用 **do-support（do 支持）**：
+
+```text
+The puppy found the child.
+→ Did the puppy find the child?
+```
+
+`did` 承担过去时；主要动词 `found` 回到原形 `find`。
+
+### 9.2 Wh-question（特殊疑问句）
+
+两步：
+
+1. 把要问的成分换成 `who / what / where / when`；
+2. 把 auxiliary 移到 wh-word 后面。
+
+```text
+The puppy found the child.
+→ The puppy found who?
+→ Who did the puppy find [trace]?
+```
+
+如果 wh-word 本身就是 subject，不做 do-support：
+
+```text
+Who found the child?
+```
+
+不是：
+
+```text
+*Who did find the child?
+```
+
+---
+
+## 10. Structural dependency（结构依赖）与主谓一致 ★★
+
+### 错误规则：linear agreement
+
+“动词跟左边最近的 noun 一致”是错的。
+
+反例：
+
+```text
+The guy sitting behind those tables seems kind of cute.
+```
+
+| 候选词 | 为什么不能控制 verb |
+|---|---|
+| `tables` | 虽然离 `seems` 较近，但只是 PP 里的 noun |
+| `guy` | 是句子的 subject，因此 `seems` 用单数 |
+
+正确规则是 **structure-dependent agreement（结构依赖一致）**：
+
+```text
+动词与 S / TP 直接支配的 subject NP 一致。
+```
+
+再比较：
+
+```text
+This guy seems kind of cute.
+These guys seem kind of cute.
+```
+
+**考试口诀：不看最近，先找主语。**
 
 ![[AHGC7315-Syntax-P62.png]]
 
 ---
 
-## Syntax 自测（10 题）
+## 11. 高频原例速记
 
-1. Which sentence is grammatical but semantically anomalous? A. \*Furiously sleep ideas green colorless. B. Colorless green ideas sleep furiously. C. \*Romeo Juliet loves. D. \*Slept the child puppy a.
-2. The usual basic word order of Korean is ____. A. SVO B. SOV C. VSO D. VOS
-3. In *The child found a puppy*, which is a constituent by pronoun replacement? A. found a B. child found C. a puppy D. found a puppy the
-4. The two readings of *Sue saw the man with the telescope* arise from ____. A. homophony B. structural ambiguity C. antonymy D. inflection
-5. Which phrase must begin with a preposition? A. NP B. VP C. PP D. AdjP
-6. Which rule correctly builds *the puppy*? A. NP → Det N B. VP → V NP C. PP → P NP D. S → V NP
-7. In *the mother of James Whistler*, the head of the NP is ____. A. the B. mother C. of D. James Whistler
-8. Which item is normally a VP complement in *I loved the policeman intensely*? A. I B. loved C. the policeman D. intensely
-9. \*Michael slept an afternoon violates mainly ____. A. C-selection B. structural ambiguity C. word embedding D. phonology
-10. In *The guy behind the tables seems kind*, the verb agrees with ____. A. tables B. the nearest noun C. guy D. kind
-
-### 答案
-
-| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 答 | **B** | **B** | **C** | **B** | **C** | **A** | **B** | **C** | **A** | **C** |
+| 原例 | 必须能说出什么 |
+|---|---|
+| *Colorless green ideas sleep furiously.* | grammatical but semantically anomalous |
+| *Sue saw the man with the telescope.* | structural ambiguity；PP 可挂 VP 或 NP |
+| *The child found a puppy.* | NP/VP constituents；可画树 |
+| *The sheepdog rolled in the mud.* | `S → NP VP`、`VP → V PP`、`PP → P NP` |
+| *the mother of James Whistler* | Specifier–Head–Complement |
+| *I loved the policeman intensely with all my heart.* | complement + two adjuncts |
+| *The guy behind those tables seems cute.* | 与 `guy` 一致，不与 `tables` 一致 |
+| *The horse raced past the barn fell.* | 对应下一章 Garden Path；PP attachment 与 reanalysis |
 
 ---
 
-## 易混淆速查
+## 12. 10 道英文自测
 
-| 不要混 | 正确区分 |
-|---|---|
-| grammatical vs meaningful | grammatical 看规则；meaningful 看语义。可 grammatical 但 absurd。 |
-| lexical vs structural ambiguity | 前者一个词多义；后者同一词串两种 tree。 |
-| complement vs adjunct | complement 完成 head 意义、位置紧；adjunct 是可删的额外信息。 |
-| C-selection vs S-selection | C 选 syntactic category；S 选 semantic properties。 |
-| closest noun vs subject | 主谓一致找 tree 中的 subject NP，不找最近 noun。 |
+1. Which sentence is grammatical but semantically anomalous?  
+   A. *Furiously sleep ideas green colorless.*  
+   B. *Colorless green ideas sleep furiously.*  
+   C. *Romeo Juliet loves.*  
+   D. *Slept the child a puppy.*
+
+2. Korean is most commonly ____.  
+   A. SVO  
+   B. SOV  
+   C. VSO  
+   D. VOS
+
+3. In *The child found a puppy*, which string passes the pronoun-replacement test as one constituent?  
+   A. *found a*  
+   B. *child found*  
+   C. *a puppy*  
+   D. *a puppy the child*
+
+4. The two readings of *Sue saw the man with the telescope* come from ____.  
+   A. homophony  
+   B. structural ambiguity  
+   C. antonymy  
+   D. inflection
+
+5. Which phrase must start with a preposition?  
+   A. NP  
+   B. VP  
+   C. PP  
+   D. AdjP
+
+6. Which rule produces *the puppy*?  
+   A. `NP → Det N`  
+   B. `VP → V NP`  
+   C. `PP → P NP`  
+   D. `S → V NP`
+
+7. In *the mother of James Whistler*, the head is ____.  
+   A. *the*  
+   B. *mother*  
+   C. *of*  
+   D. *James Whistler*
+
+8. In *I loved the policeman intensely*, the direct object is the ____.  
+   A. subject  
+   B. complement  
+   C. adjunct  
+   D. specifier
+
+9. `*Michael slept an afternoon.` mainly violates ____.  
+   A. C-selection  
+   B. structural ambiguity  
+   C. word embedding  
+   D. phonotactics
+
+10. In *The guy behind those tables seems kind*, the verb agrees with ____.  
+    A. *tables*  
+    B. the nearest noun  
+    C. *guy*  
+    D. *kind*
+
+### 答案与一句订正
+
+| 题 | 答案 | 记忆点 |
+|---|---|---|
+| 1 | **B** | 语法和意义分开判断 |
+| 2 | **B** | Korean 是 SOV |
+| 3 | **C** | `a puppy` 可替换为 `it` |
+| 4 | **B** | 同一个词串，两种 PP attachment |
+| 5 | **C** | PP 必须从 P 开始 |
+| 6 | **A** | `the + puppy` = Det + N |
+| 7 | **B** | 短语核心是 `mother` |
+| 8 | **B** | direct object 是 VP complement |
+| 9 | **A** | `sleep` 的选择限制不允许接 NP |
+| 10 | **C** | agreement 看结构上的 subject |
+
+---
+
+## 考前最后 3 分钟
+
+1. **Grammatical 看规则；meaningful 看语义。**
+2. **Constituent 靠三项测试，不靠“看起来像一组”。**
+3. **Lexical ambiguity 是词多义；structural ambiguity 是结构有两种。**
+4. **PP 挂哪里最关键：挂 VP 是动作信息，挂 NP 是名词信息。**
+5. **PP 一定从 P 开始。**
+6. **画树先找 V，再找 NP/PP，最后由 `S → NP VP` 往下补。**
+7. **Head 必需；specifier、complement、adjunct 可选。**
+8. **Complement 完成核心意义；adjunct 可删、可多。**
+9. **English 是 head-initial；Japanese/Korean 是 head-final。**
+10. **主谓一致永远找真正的 subject，不找最近 noun。**
+
+*最后整理：2026-11-17。*

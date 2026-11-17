@@ -1,124 +1,241 @@
-# AHGC7315 考前复习 08｜Semantics（语义学）：意义、词汇关系与 thematic roles
+# AHGC7315 Final Exam｜08 Semantics（语义学）
 
-> **考试重点**：Semantics。优先掌握 **compositionality、entailment、reference vs. sense、lexical relations、semantic features、thematic roles**。
+> **优先级：最高。** 老师明确提示 Final Exam 重点考 **Syntax** 与 **Semantics**。
 >
-> **材料依据**：Semantics 课件 P1–51。★ = 高概率考点。
+> **这一章到底学什么：** 一个词/一句话为什么有这种意思？词与词是什么关系？句子之间什么时候一定互相推出？谁在动作中扮演什么角色？
+>
+> **来源：** `Semantics.pdf`，P1–P51。★ 越多，越应优先掌握。
 
-## 先背这 12 句（考前最后 3 分钟）
+## 一张考试地图
 
-1. **Semantics（语义学）**研究 linguistic meaning（语言意义）。
-2. **Compositionality（组合性）**：大单位的意义 = 小单位的意义 + 它们的 syntactic structure（句法组合方式）。
-3. **Entailment（蕴含）**：A true 时 B 必真；但 B true 时 A 未必真。`Jack swims beautifully` entails `Jack swims`。
-4. Mutual entailment = **synonymy / paraphrase（同义/释义）**；A entails not-B = **contradiction（矛盾）**。
-5. **Anomaly（语义异常）**句子可能 grammatical 但意义违反常识/选择限制；metaphor（隐喻）可使表面异常变得可理解。
-6. **Idiom（习语）**整体意义不可由词义预测，如 *drop the ball* = make a mistake。
-7. **Reference（指称）** = form 到现实 referent（所指对象）的映射；**sense（意义内容）** = 除指称外的内在意义。
-8. Synonym、antonym、homonym、homograph、homophone、heteronym、polysemy 要按 meaning / spelling / sound 分。
-9. **Hypernym（上义词）**更宽泛；**hyponym（下义词）**更具体：animal → dog。
-10. **Semantic features（语义特征）**是词义属性，可写成 `+animate` 等；word embedding 是连续数值向量，不等于手写 0/1 特征表。
-11. **Thematic roles（题元角色）**是 verb 的 arguments 与事件的语义关系，**不等于 grammatical subject/object**。
-12. 被动只改变 syntax position，不改变 role：*The stick was bitten by the dog* 中 stick 仍是 Theme，dog 仍是 Agent。
+| 必会能力 | 典型问法 | 核心区别 | 页码 |
+|---|---|---|---|
+| 1. 用 compositionality 解释句义 | 句子意义从哪里来？ | words + syntactic structure | P2–4 |
+| 2. 判断 entailment / paraphrase / contradiction ★★★ | A 真是否保证 B 真？ | 单向蕴含 vs 双向蕴含 | P5–6 |
+| 3. 识别 anomaly / metaphor / idiom | 为什么“不合常理”仍有解释？ | 语义冲突 vs 隐喻 vs 整体习语义 | P7–11 |
+| 4. 区分 reference 与 sense ★★ | 同一人为什么有不同说法？ | 现实对象 vs 表达内含意义 | P13–19 |
+| 5. 判断 lexical relations ★★★ | synonym / homonym / polysemy 怎么分？ | meaning、spelling、sound | P20–28 |
+| 6. 判断四种 antonym | 是“非此即彼”还是有程度？ | complementary / gradable / relational / autoantonym | P22–24 |
+| 7. 区分 semantic features 与 word embedding | 0/1 属性还是连续向量？ | 人工可解释特征 vs 学习得到数值特征 | P29–38 |
+| 8. 标 thematic roles ★★★ | subject 一定是 Agent 吗？ | Agent / Theme / Goal / Source / Location / Instrument / Experiencer | P40–51 |
 
-## 1. Compositional semantics（组合语义）与 entailment（P2–11）★
+---
 
-### 1.1 Compositionality（组合性）
+## 1. Compositional semantics（组合语义）
 
-**Compositional semantics（组合语义）**：larger linguistic unit 的 meaning 能由 smaller components 的 meanings 加上其 syntactic structure 推出。像积木：`car + key → car key`。
+### 1.1 人话解释
 
-句子的意思不只由 word meaning 决定，还取决于 **how words combine（句法结构）**；这正是 Syntax 和 Semantics 相连之处。
-
-### 1.2 Entailment（蕴含）★★
-
-**A entails B** iff whenever A is true, B must also be true。方向不能倒。
+句子的意思像搭 LEGO：
 
 ```text
-Jack swims beautifully.  ⇒  Jack swims.       ✓
-Jack swims.              ⇒  Jack swims beautifully.  ✗
+句义 = 每个词的意义 + 它们按什么句法结构组合
 ```
+
+例：
+
+```text
+car + key → car key
+```
+
+你不需要提前背过 `car key`，仍能由 `car`、`key` 和名词修饰结构推出它是“车钥匙”。
+
+**所以 Semantics 与 Syntax 不是两件无关的事。** 同样几个词，组合结构不同，意义可能不同。例如 *old men and women* 可能指“年老的男人和女人”或“年老的男人与（不一定年老的）女人”，关键在修饰范围。
+
+### 1.2 非组合性：三种例外
+
+#### Semantic anomaly（语义异常）
+
+句子语法没问题，但词义搭配违反常识或选择限制：
+
+```text
+Colorless green ideas sleep furiously.
+```
+
+问题不在句法，而在 `colorless + green`、`ideas sleep` 等语义组合异常。
+
+#### Metaphor（隐喻）
+
+表面看似 anomaly，但借现实知识可以理解其隐藏意义：
+
+```text
+Time is money.
+Walls have ears.
+```
+
+理解 metaphor 需要三样东西：
+
+1. 每个词的字面意义；
+2. 整句的字面意义；
+3. 关于世界的知识。
+
+#### Idiom（习语）
+
+整体意思不能从单词意义直接相加：
+
+```text
+drop the ball = make a mistake
+put his foot in his mouth = say something embarrassing
+hit it off = become friendly immediately
+```
+
+`idiom` 不是“语法错误”，而是组合规则不再按字面逐词套用。
+
+---
+
+## 2. Entailment（蕴含）：最常考的推理关系 ★★★
+
+### 2.1 定义
+
+**A entails B** 的意思是：
+
+```text
+只要 A 是真的，B 就一定是真的。
+```
+
+但反过来不一定：
+
+```text
+Jack swims beautifully.
+⇒ Jack swims.                    ✓
+
+Jack swims.
+⇒ Jack swims beautifully.        ✗
+```
+
+为什么第二个不能推出？因为 Jack 可能在游泳，但游得不漂亮。
+
+### 2.2 三种关系放在一起
+
+| 关系 | 判断 | 课件例子 |
+|---|---|---|
+| **Entailment（单向蕴含）** | A 真 → B 真；B 真不保证 A 真 | *Jack swims beautifully* → *Jack swims* |
+| **Synonymy / paraphrase（同义/释义）** | A 蕴含 B **且** B 蕴含 A | *postponed the meeting* = *put off the meeting* |
+| **Contradiction（矛盾）** | A 蕴含 NOT B | *Jack is alive* vs *Jack is dead* |
 
 ![[AHGC7315-Semantics-P5.png]]
 
-| 关系 | 判断方式 | 课件例子 |
-|---|---|---|
-| **Entailment（蕴含）** | A 真 → B 必真；单向 | `Jack swims beautifully` → `Jack swims` |
-| **Synonymy / paraphrase（同义/释义）** | A entails B 且 B entails A | `postponed the meeting` = `put off the meeting` |
-| **Contradiction（矛盾）** | A entails NOT B | `Jack is alive` vs `Jack is dead` |
+### 2.3 做题时不要靠“感觉相近”
 
-### 1.3 Non-compositional meaning（非组合性）
+只问一句：
 
-| 现象 | 定义/判断 | 例子 |
-|---|---|---|
-| **Semantic anomaly（语义异常）** | grammar OK，语义特征/常识冲突 | *Colorless green ideas sleep furiously.* |
-| **Metaphor（隐喻）** | 表面 anomalous，但借现实知识理解 hidden meaning | *Time is money*；*Walls have ears* |
-| **Idiom（习语）** | 整体义不能从单词义加出来 | *drop the ball* = make a mistake；*hit it off* = become friendly immediately |
+```text
+假设 A 已经为真，我能不能保证 B 也一定为真？
+```
 
-理解 metaphor 需要：**individual words + literal meaning + facts about the world（世界知识）**。所以 metaphor 是对组合性较“elastic（有弹性）”的例外，并不是语法错误。
+如果能，就是 entailment。不能，就不是。
 
 ---
 
-## 2. Reference（指称）与 sense（意义内容）（P13–19）★
+## 3. Reference（指称）与 sense（意义内容）★★
 
-| 术语 | 定义 | 例子 |
-|---|---|---|
-| **Referent（所指对象）** | word/NP 在现实中指向的 entity/object | 某个实际的人 Jack |
-| **Reference（指称关系）** | linguistic form → referent 的 mapping | `Jack`、`the happy swimmer`、`that guy` 可指同一人 |
-| **Sense（意义内容）** | independent of reference 的 inherent content | `the happy swimmer` 除“那个人”还含“他很快乐” |
+### 3.1 人话解释
 
-同一个 referent 可以有不同 senses：`Barack Obama`、`a man`、`former US President`、`Michelle Obama’s husband`。反过来，`No one` 没有特定现实个体 referent，仍然有意义。
+- **Reference（指称）**：语言表达指向现实世界里的哪个对象。
+- **Referent（所指对象）**：被指到的那个具体对象。
+- **Sense（意义内容）**：不管现实对象是谁，这个表达本身包含什么信息。
 
-**考法：**若题目问为什么 `Jack swims` 不必 entail `The happy swimmer swims`，答案是后者额外 entail subject is happy。
+例：
+
+```text
+Jack
+the happy swimmer
+that guy
+```
+
+如果在某个场合三者都指同一个人，它们可以有同一个 **referent**，但 sense 不同：
+
+- `Jack` 只是名字；
+- `the happy swimmer` 额外告诉你“那个人在游泳且快乐”；
+- `that guy` 只是远指一个人。
+
+### 3.2 为什么这个区别重要？
+
+```text
+Jack swims.
+```
+
+不一定能推出：
+
+```text
+The happy swimmer swims.
+```
+
+因为后一句 subject 额外要求“happy”。**reference 可以相同，sense 不同，因此蕴含关系会改变。**
+
+`No one swims` 没有某个具体现实中的 referent，但它仍然有明确 sense，也仍然可以被理解。
 
 ---
 
-## 3. Lexical relations（词汇关系）（P20–28）★★★
+## 4. Lexical relations（词汇关系）★★★
 
-### 3.1 总表：用 meaning / spelling / sound 判断
+### 4.1 一张表分清所有“-onym”
 
-| 术语 | Meaning | Spelling | Sound | 例子 |
+| Term | Meaning（意义） | Spelling（拼写） | Sound（发音） | 例子 |
 |---|---|---|---|---|
-| **Synonym（同义词）** | same/similar | different | different | sofa / couch |
+| **Synonym（同义词）** | same / very similar | different | different | sofa / couch |
 | **Antonym（反义词）** | opposite | different | different | alive / dead |
-| **Homonym（同形同音异义词）** | different | same | same | bark（狗叫 / 树皮） |
-| **Homograph（同形异义词）** | different | same | same or different | dove N `[dʌv]` / dove V `[doʊv]` |
-| **Homophone（同音异义词）** | different | same or different | same | bear / bare |
-| **Heteronym（同形异音异义词）** | different | same | different | dove N / dove V |
-| **Polysemy（多义）** | multiple **related** meanings | same | — | diamond（几何形 / baseball field） |
+| **Homonym（同形同音异义词）** | different | **same** | **same** | *bark* 狗叫 / 树皮 |
+| **Homograph（同形异义词）** | different | **same** | same or different | *dove*（名词）/ *dove*（动词） |
+| **Homophone（同音异义词）** | different | same or different | **same** | bear / bare |
+| **Heteronym（同形异音异义词）** | different | **same** | **different** | dove `[dʌv]` / dove `[doʊv]` |
+| **Polysemy（多义）** | **多个相关意义** | same | — | diamond 几何形 / 棒球场 |
+
+### 4.2 用三个问题判断
+
+1. 拼写一样吗？
+2. 发音一样吗？
+3. 几个意义是相关的，还是明显无关？
+
+最容易考的例子：
+
+| 对比 | 答案 |
+|---|---|
+| *bear / bare* | **Homophone**：发音相同，拼写不同 |
+| *bark*（狗叫 / 树皮） | **Homonym**：拼写、发音都相同而意义不同 |
+| *dove* 名词 / *dove* 动词 | **Heteronym**：拼写同，发音不同 |
+| *diamond*（形状 / 棒球场） | **Polysemy**：多个意义有概念联系 |
+
+**注意：**课件特别说明，没有任何两个 synonym 在所有语境中都能百分之百互换。
 
 ![[AHGC7315-Semantics-P20.png]]
 
-**最常见陷阱：**
+### 4.3 四种 antonym（反义词）
 
-- **Homonym** 需要 spelling 和 sound 都相同；它是大类。
-- **Heteronym** 是 homograph 的一种：同拼写、不同发音。
-- **Polysemy** 的多个意思是 conceptually/historically **related（相关）**；若意义无关，更接近 homonym。
-- Synonyms 没有完全所有语境都可互换的两个词，课件说的是 same or very similar in some/all contexts。
-
-### 3.2 Four types of antonyms（四类反义）★
-
-| 类型 | 关键 | 例子 |
-|---|---|---|
-| **Complementary pair（互补反义）** | 非此即彼；not A = B | alive/dead, present/absent, awake/asleep |
-| **Gradable pair（等级反义）** | 连续 scale，中间可有程度 | big/small, hot/cold, happy/sad |
-| **Relational opposite（关系反义）** | 同一关系的对称两端 | give/receive, buy/sell, teacher/student |
-| **Autoantonym / contranym（自反义词）** | 同一词有相反意义 | *dust* shelves（去灰）/ dust cake（撒粉）；`借` 可 borrow 或 lend |
+| 类型 | 核心 | 例子 | 判断口诀 |
+|---|---|---|---|
+| **Complementary pair（互补反义）** | 非此即彼，没有中间态 | alive/dead、present/absent、awake/asleep | NOT A 就等于 B |
+| **Gradable pair（等级反义）** | 有程度、可在 scale 上比较 | big/small、hot/cold、happy/sad | 可说 very、somewhat |
+| **Relational opposite（关系反义）** | 同一关系的两端，方向相反 | give/receive、buy/sell、teacher/student | 一定有同一个关系里的另一方 |
+| **Autoantonym / contranym（自反义词）** | 同一个词可有相反意义 | *dust* shelves（去灰）/ dust cake（撒粉） | 看搭配语境 |
 
 ![[AHGC7315-Semantics-P22.png]]
 
-### 3.3 Hypernym 与 hyponym
+### 4.4 Hypernym 与 hyponym
 
-| 广义 → 狭义 | 关系 |
-|---|---|
-| animal → dog, cat, bird | `animal` = **hypernym**；其他 = **hyponyms** |
-| fruit → apple, banana, cherry | fruit 是上义词 |
-| vehicle → car, bicycle, train | vehicle 是上义词 |
+| 关系 | 意思 | 例子 |
+|---|---|---|
+| **Hypernym（上义词）** | 更宽泛的类别 | animal、fruit、vehicle |
+| **Hyponym（下义词）** | 属于该类别、更具体的词 | dog/cat/bird；apple/banana/cherry |
+
+记忆：
+
+```text
+Animal（hypernym）→ dog, cat, bird（hyponyms）
+```
 
 ![[AHGC7315-Semantics-P28.png]]
 
 ---
 
-## 4. Semantic features（语义特征）与 word embedding（P29–39）★★
+## 5. Semantic features（语义特征）与 word embedding（词向量）
 
-**Semantic features（语义特征）**是构成 word meaning 的属性，也反映我们知道一个词“是什么”。课件例：**assassin** 必须 `+human`，且杀的是 important people。
+### 5.1 Semantic features：人能解释的 0/1 属性
+
+一个词的意义可由若干属性组成。例如：
+
+```text
+assassin：+human，并且 kills important people
+```
 
 | Feature | Cat | Dog |
 |---|---:|---:|
@@ -128,77 +245,201 @@ Jack swims.              ⇒  Jack swims beautifully.  ✗
 | `+feline` | 1 | 0 |
 | `+canine` | 0 | 1 |
 
-**Word embedding（词向量）**同样把 word 表示为 features/vector，但它是从数据学得的连续 numeric vector（如 **Word2Vec、GloVe**），而不是人工填的少量 0/1 标签。它可做 analogy：`king − queen + sister ≈ brother`（课件例）。
+这类特征由分析者写出，含义通常可以直接解释。课件还指出，noun 的 semantic features 会与 **morphology、syntax、semantics** 互动。
 
-> 易错点：semantic feature 是可解释、离散的意义属性；embedding 的每一维通常没有直接可读的名字。
+### 5.2 Word embedding：电脑学出来的连续数字
+
+**Word embedding（词向量）**如 Word2Vec、GloVe，会把一个词表示成一串连续数值：
+
+```text
+cat  → [0.97, 0.94, 0.89, 0.92, 0.07, ...]
+dog  → [0.95, 0.96, 0.88, 0.02, 0.94, ...]
+```
+
+它也能表示词义，但每个数字通常不是一个可直接命名的 `+mammal`、`+feline`。
+
+课件原例：
+
+```text
+X = king − queen
+X ≈ “male”方向
+sister + X ≈ brother
+```
+
+**考试区别：**
+
+| Semantic features | Word embedding |
+|---|---|
+| 通常是人工定义、离散 0/1 属性 | 从数据学习、连续向量 |
+| 每项大体可解释 | 单个维度通常不可直接解释 |
+| `+human`、`+animate` | `[0.97, 0.02, ...]` |
 
 ---
 
-## 5. Thematic roles（题元角色 / 语义角色）（P40–51）★★★
+## 6. Thematic roles（题元角色）★★★
 
-**Thematic roles（题元角色）** = verb 的 arguments 和该 verb 描述的 situation 之间的 semantic relation。也叫 **thematic relations / semantic roles**。
+### 6.1 不要从“主语 / 宾语”直接推角色
 
-| Role | 定义 | 例子 |
+**Thematic roles（题元角色，也叫 thematic relations / semantic roles）**描述的是：
+
+```text
+动词所描写的事件中，每个参与者和事件是什么语义关系？
+```
+
+它不等于 grammatical subject / object。
+
+| Role | 人话理解 | 典型问法 |
 |---|---|---|
-| **Agent（施事）** | volitional doer / causer | *The dog* bit the stick. |
-| **Theme / Patient（受事）** | most directly affected / undergoer | The dog bit *the stick*. |
-| **Goal（目标）** | endpoint of change in location/possession | Mary gave *John* a book. |
-| **Source（来源）** | where action originates | She took the key *from him*. |
-| **Location（地点）** | where action occurs | The kids played *in the park*. |
-| **Instrument（工具）** | means used to accomplish action | He opened the door *with a key*. |
-| **Experiencer（体验者）** | receives sensory input | *Many people* fear snakes. |
+| **Agent（施事）** | 有意发起事件的人/物 | 谁主动做？ |
+| **Theme / Patient（受事）** | 被动作影响、经历变化者 | 谁最直接承受事件？ |
+| **Goal（目标）** | 终点、目的地、接受者 | 到哪里 / 给谁？ |
+| **Source（来源）** | 起点或来源 | 从哪里来？ |
+| **Location（地点）** | 事件发生的位置 | 在哪里发生？ |
+| **Instrument（工具）** | 用来完成动作的手段 | 用什么做？ |
+| **Experiencer（体验者）** | 接收感觉、情绪、认知的人 | 谁感受到？ |
+
+### 6.2 原例逐个看
+
+| 句子 | 角色标注 |
+|---|---|
+| *The dog bit the stick.* | dog = **Agent**；stick = **Theme** |
+| *The stick was bitten by the dog.* | stick = **Theme**；dog = **Agent** |
+| *Mary gave John a book.* | Mary = **Agent**；John = **Goal**；book = **Theme** |
+| *He put the coffee on the table.* | he = **Agent**；coffee = **Theme**；table = **Goal** |
+| *He opened the door.* | he = **Agent**；door = **Theme** |
+| *The key opened the door.* | key = **Instrument**；door = **Theme** |
+| *The kids played in the park.* | kids = **Agent**；park = **Location** |
+| *She took the key from him.* | she = **Agent**；key = **Theme**；him = **Source** |
+| *Many people fear snakes.* | people = **Experiencer**；snakes = **Theme** |
 
 ![[AHGC7315-Semantics-P41.png]]
 
-### 5.1 Roles ≠ grammatical positions（角色不等于主宾语）
+### 6.3 被动语态不改变 thematic role
 
-| 句子 | Subject | Object / PP | roles |
-|---|---|---|---|
-| *The dog bit the stick.* | dog | stick | Agent / Theme |
-| *The stick was bitten by the dog.* | stick | by the dog | **Theme / Agent**（被动后不变） |
-| *Mary gave John a book.* | Mary | John / a book | Agent / Goal / Theme |
-| *He put the coffee on the table.* | he | coffee / on the table | Agent / Theme / Goal |
-| *The key opened the door.* | key | door | Instrument / Theme |
-| *The ball rolled down the hill.* | ball | — | Theme（不是 Agent：没有 volition） |
+```text
+The dog bit the stick.
+Agent     Verb Theme
 
-![[AHGC7315-Semantics-P45.png]]
+The stick was bitten by the dog.
+Theme      Verb        Agent
+```
 
-**三步标注法：**
+被动只改变语法位置，事件中“谁做、谁承受”没有变。
 
-1. 找 verb 表达的 event/state；
-2. 问“谁有意发动？”→ Agent；“谁最受影响？”→ Theme；
-3. 再找到达点 Goal、来源 Source、发生处 Location、工具 Instrument、感受者 Experiencer。不要先把 subject 自动写 Agent。
+### 6.4 三步标角色
 
----
+1. 先找动词描述的事件；
+2. 问谁是有意发起者 → **Agent**；谁最直接受影响 → **Theme**；
+3. 再找终点 **Goal**、来源 **Source**、地点 **Location**、工具 **Instrument**、感受者 **Experiencer**。
 
-## Semantics 自测（10 题）
-
-1. If A entails B, then ____. A. B true guarantees A true B. A true guarantees B true C. A and B are antonyms D. A is ungrammatical
-2. Which pair are paraphrases according to mutual entailment? A. alive/dead B. Jack swims/Jack swims beautifully C. postpone a meeting/put off a meeting D. bear/bare
-3. *Time is money* is best analysed as ____. A. an ungrammatical sentence B. a metaphor C. a homonym D. a contradiction
-4. Which phrase is idiomatic? A. green car B. drop the ball (= make a mistake) C. happy swimmer D. dog bark
-5. `Barack Obama` and `Michelle Obama’s husband` can have the same ____, but different ____. A. spelling; sound B. reference; sense C. entailment; contradiction D. hypernym; hyponym
-6. Which is a heteronym? A. bear/bare B. bark (dog/tree) C. dove N `[dʌv]` / dove V `[doʊv]` D. sofa/couch
-7. Which pair is gradable rather than complementary? A. alive/dead B. awake/asleep C. hot/cold D. present/absent
-8. Which is the hypernym in `vehicle → car, bicycle, train`? A. car B. bicycle C. train D. vehicle
-9. In *The key opened the door*, `the key` is ____. A. Agent B. Theme C. Instrument D. Goal
-10. In *Many people fear snakes*, `many people` is most naturally ____. A. Experiencer B. Source C. Instrument D. Location
-
-### 答案
-
-| 题 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 答 | **B** | **C** | **B** | **B** | **B** | **C** | **C** | **D** | **C** | **A** |
+**最容易错的判断：** 主语不等于 Agent。`The key opened the door` 中 subject 是 `key`，但它是 Instrument。
 
 ---
 
-## 易混淆速查
+## 7. 高频对比
 
-| 不要混 | 正确区分 |
+| 对比 | 一句话区分 |
 |---|---|
-| entailment vs synonymy | entailment 可单向；synonymy = 双向 entailment。 |
-| anomaly vs ungrammaticality | anomaly 是语义/世界知识冲突；ungrammaticality 是句法规则不合法。 |
-| reference vs sense | reference 指现实对象；sense 是表达所带的意义内容。 |
-| homonym vs polysemy | homonym 意义不同（常无关）；polysemy 意义多但相关。 |
-| complementary vs gradable antonym | complementary 没中间值；gradable 有程度和中间状态。 |
-| Agent vs subject | Agent 必须是有意的 doer；subject 可为 Theme 或 Instrument。 |
+| **Entailment vs paraphrase** | Entailment 可单向；paraphrase 必须双向 entail |
+| **Anomaly vs ungrammaticality** | Anomaly 是意义冲突；ungrammatical 是句法规则不允许 |
+| **Reference vs sense** | Reference 指现实对象；sense 是表达自身携带的意义 |
+| **Homonym vs polysemy** | Homonym 意义通常无关；polysemy 的多个意义相关 |
+| **Complementary vs gradable antonym** | Complementary 没中间状态；gradable 有程度 |
+| **Semantic feature vs embedding** | 前者可解释、离散；后者学习得到、连续 |
+| **Subject vs Agent** | Subject 是句法位置；Agent 是“有意发起者”的语义角色 |
+
+---
+
+## 8. 10 道英文自测
+
+1. If A entails B, ____.  
+   A. B being true guarantees A  
+   B. A being true guarantees B  
+   C. A and B are antonyms  
+   D. A is ungrammatical
+
+2. Which pair is a paraphrase through mutual entailment?  
+   A. *alive / dead*  
+   B. *Jack swims / Jack swims beautifully*  
+   C. *postpone a meeting / put off a meeting*  
+   D. *bear / bare*
+
+3. *Time is money* is best described as ____.  
+   A. ungrammatical  
+   B. a metaphor  
+   C. a homonym  
+   D. a contradiction
+
+4. Which is an idiom?  
+   A. *green car*  
+   B. *drop the ball* meaning “make a mistake”  
+   C. *happy swimmer*  
+   D. *dog bark*
+
+5. *Barack Obama* and *Michelle Obama’s husband* can share the same ____ but differ in ____.  
+   A. spelling；sound  
+   B. reference；sense  
+   C. entailment；contradiction  
+   D. hypernym；hyponym
+
+6. Which is a heteronym?  
+   A. *bear / bare*  
+   B. *bark*（dog sound / tree skin）  
+   C. *dove* `[dʌv]` / *dove* `[doʊv]`  
+   D. *sofa / couch*
+
+7. Which pair is gradable rather than complementary?  
+   A. *alive / dead*  
+   B. *awake / asleep*  
+   C. *hot / cold*  
+   D. *present / absent*
+
+8. In *vehicle → car, bicycle, train*, the hypernym is ____.  
+   A. *car*  
+   B. *bicycle*  
+   C. *train*  
+   D. *vehicle*
+
+9. In *The key opened the door*, *the key* is ____.  
+   A. Agent  
+   B. Theme  
+   C. Instrument  
+   D. Goal
+
+10. In *Many people fear snakes*, *many people* is ____.  
+    A. Experiencer  
+    B. Source  
+    C. Instrument  
+    D. Location
+
+### 答案与一句订正
+
+| 题 | 答案 | 记忆点 |
+|---|---|---|
+| 1 | **B** | A 真时 B 必真，方向不能倒 |
+| 2 | **C** | 同义要双向蕴含 |
+| 3 | **B** | 表面异常，借世界知识理解 |
+| 4 | **B** | 整体意义不能由单字相加 |
+| 5 | **B** | 同一对象，不同意义内容 |
+| 6 | **C** | 拼写相同、发音不同 |
+| 7 | **C** | 冷热有程度 |
+| 8 | **D** | vehicle 是更宽泛类别 |
+| 9 | **C** | key 是完成动作的手段 |
+| 10 | **A** | people 接收 fear 这一感受 |
+
+---
+
+## 考前最后 3 分钟
+
+1. **句义 = 词义 + syntactic structure。**
+2. **A entails B：A 真，B 必真。**
+3. **双向蕴含 = paraphrase。**
+4. **Metaphor 借世界知识理解；idiom 整句意义不能逐词算。**
+5. **Reference 指对象；sense 是表达内含的意义。**
+6. **Homonym 同拼同音；heteronym 同拼异音；homophone 同音。**
+7. **Polysemy 的多个意义相关。**
+8. **Complementary 无中间值；gradable 有程度。**
+9. **Semantic features 可解释；embedding 是学习出来的连续向量。**
+10. **Thematic roles 看事件关系，不由 subject/object 决定。**
+
+*最后整理：2026-11-17。*
