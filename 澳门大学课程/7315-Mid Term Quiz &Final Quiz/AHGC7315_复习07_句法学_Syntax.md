@@ -16,8 +16,8 @@
 8. 每个 phrase 的 **head（中心语）** 必有；**specifier（标示语）** 与 **complement（补足语）** 可选；**adjunct（附加语）** 可有无限多个。
 9. Complement 是 head 需要来完成意义的成分；adjunct 只是可删的时间/地点/方式等额外信息。
 10. English/Mandarin 是 **head-initial / right-branching（中心语在前/右分叉）**；Japanese/Korean 是 **head-final / left-branching（中心语在后/左分叉）**。
-11. **C-selection（范畴选择）**：head 选什么类别的补足语；**S-selection（语义选择）**：head 对论元有语义要求。
-12. Subject–verb agreement 看 tree structure：verb 同 **subject NP** 一致，不是同线性距离最近的 noun 一致。
+11. Yes–no question 把 **T/auxiliary（时态/助动词）**移到句首；wh-question 再把要问的 constituent 换成并移成 **wh-word**。
+12. **Deep structure（深层结构）**保留谁对谁做什么的基本关系；movement 后得到表面的 **surface structure（表层结构）**。主谓一致仍看 tree，不看最近的 noun。
 
 ## 1. Syntax、语法性与语序（P2–12）
 
@@ -147,6 +147,102 @@ S
 Tree 要表达三件事：**linear order（线性顺序）**、**category（范畴）**、**hierarchical structure（层级结构）**。
 
 **关系术语：**高 node **dominates（支配）**下方所有 node；直接支配是 **immediately dominates**；同一个 mother 下的两个 node 是 **sisters（姐妹节点）**。
+
+### 4.3 树状图其实在画什么？白话四步法 ★★★
+
+把句子想成一堆**套盒子**，不是把每个词排成一排：先把自然成组的词放进小盒子（NP/VP/PP），再把小盒子放进句子的大盒子（S/TP）。**一根线只说明“这个词/短语属于那个盒子”。**
+
+例句：`The puppy found the child.`
+
+**第 1 步：先找动词。** `found` 是 V；它后面“找到谁”是 `the child`，所以先圈 `[found the child]` = VP。
+
+**第 2 步：找名词短语 NP。** `the puppy` 是一个“谁” → NP；`the child` 是一个“谁” → NP。`the` 不可单独当 NP，它和名词绑在一起。
+
+**第 3 步：先摆最简单骨架。** 英语陈述句最常用 `S → NP VP`。把主语 NP 放左，VP 放右。
+
+```text
+S                         读法：一个句子 S
+├── NP                    左边是主语 NP
+│   ├── Det  The          NP 里面：Det + N
+│   └── N    puppy
+└── VP                    右边是谓语 VP
+    ├── V    found        VP 里面：V + NP
+    └── NP
+        ├── Det  the
+        └── N    child
+```
+
+**第 4 步：用规则检查，不靠猜。** 这棵树逐条满足 `S → NP VP`、`NP → Det N`、`VP → V NP`，所以对。
+
+### 4.4 遇到长句时只做“拆盒子”
+
+例句：`The puppy found the child in the park.`
+
+1. 先得到三个大盒子：`[The puppy]` NP、`[found the child]` VP、`[in the park]` PP。
+2. `in the park` 从介词 `in` 开始，所以必定是 **PP → P NP**。
+3. 最后才问 PP 挂到哪里：若是“在公园里找到”→ 挂到 VP；若是“那个在公园里的孩子”→ 挂进 object NP。这个不同挂法就是 structural ambiguity。
+
+**考试的稳妥顺序：**先圈 NP → 找 V → 圈 VP → 看到 preposition 就圈 PP → 从 `S → NP VP` 往下补标签。不要一上来就画很复杂的 X′。
+
+![[AHGC7315-TreeGuide-P20.png]]
+
+### 4.5 X-bar 只是在普通树上多看一层
+
+普通树说 `VP → V NP`；X-bar tree 只是把“动词和它必须带的对象先抱成一组”写得更清楚：
+
+```text
+VP
+└── V′                    V′ = “动词这一小组”
+    ├── V  found          head（核心）
+    └── NP the child      complement（动词必须/常常需要的对象）
+```
+
+若加一个可有可无的地点：`found the child in the park`，`in the park` 是 **adjunct（附加语）**，可以删掉，句子还完整。它挂在较高的 V′ 外面；`the child` 不能随意删（会少“找到谁”），所以它更靠近 V。
+
+**你不必先背一堆 X′ 关系；先能说对“谁和谁先组成一个短语”，再补 X′ 标签。**
+
+---
+
+## 4.6 Transformational rules（转换规则）：把陈述句变问题（考试范围）★★★
+
+**Deep structure（深层结构）**可以先理解为“原本的陈述句骨架”；**surface structure（表层结构）**就是你实际说出来、可能经过 movement（移动）的句子。移动后，原位置常留下 `t` / trace（痕迹）。
+
+### A. Yes–no question（一般疑问句）
+
+口诀：**先找 T/auxiliary，再把它搬到最前面。**
+
+```text
+Deep/basic:    The puppy will find the child.
+Surface Q:     Will the puppy t find the child?
+                         ↑ 原来 will 的位置
+```
+
+- `will / can / is / are / has` 这类 T/auxiliary move 到句首。
+- 不是把 main verb `find` 搬到句首：`*Find the puppy the child?` ✗
+- 没有明显 auxiliary 的简单 present/past，英语用 **do-support**：`The puppy found the child.` → `Did the puppy find the child?`（`did` 到句首，main verb 回 base form `find`）。
+
+### B. Wh-question（特殊疑问句）
+
+口诀：**先把答案位置换成 who/what/where；再把 auxiliary 搬到句首。**
+
+```text
+Basic:      The puppy found the child.
+Ask object: The puppy found who?
+Surface:    Who did the puppy find t?
+```
+
+另一个例子：`The puppy slept in the garden.` → `Where did the puppy sleep t?`
+
+| 你要问的成分 | wh-word | 例子 |
+|---|---|---|
+| 人 | who | Who did the puppy find? |
+| 物 | what | What did the puppy find? |
+| 地点 | where | Where did the puppy sleep? |
+| 时间 | when | When did the puppy sleep? |
+
+**最易错：**wh-word 已经是 subject 时，不做 do-support：`The puppy found the child.` → `Who found the child?`，不是 `*Who did find the child?`。
+
+![[AHGC7315-TreeGuide-P18.png]]
 
 ---
 
