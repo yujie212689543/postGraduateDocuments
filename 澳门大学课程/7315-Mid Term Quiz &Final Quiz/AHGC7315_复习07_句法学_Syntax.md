@@ -12,7 +12,7 @@
 |---|---|---|---|
 | 1. 判断 grammatical（合语法） | 为什么一句怪话仍合语法？ | word order + phrase structure rules | P2–12 |
 | 2. 判断 constituent（成分）★ | 哪一串词是一个整体？ | stand-alone / pronoun replacement / movement | P13–22 |
-| 3. 区分两种 ambiguity（歧义）★★ | 为什么会 Chicken 有歧义？ | lexical ambiguity vs structural ambiguity | P23–28 |
+| 3. 区分两种 ambiguity（歧义）★★ | *Sue saw the man with the telescope* 为什么有两种意思？ | lexical ambiguity vs structural ambiguity | P23–28 |
 | 4. 画 phrase structure tree（短语结构树）★★★ | 给句子画树 | `S → NP VP` 等规则 | P29–41 |
 | 5. 区分 head / specifier / complement / adjunct ★★★ | “the mother of…”里谁是什么？ | 短语内部结构 | P42–54 |
 | 6. 理解 X-bar 与语序 | English 与 Japanese 为何树形相反？ | head-initial / head-final | P48–57 |
@@ -119,7 +119,7 @@ The puppy played in the garden.
 ### 2.2 易错点
 
 - 两个词相邻，不代表它们就是一个 constituent。
-- `ran out of gas` 中，`out of gas` 与格，`out of` 常常可以一起移动或替换；但判断仍应做测试，不能只看空格和停顿。
+- 只看相邻和停顿容易误判。必须确认这串词是否真的作为整体回答 wh-question、被替换或整体移动。
 - Pronoun replacement 只能检验某些类型。`there` 往往替换地点 PP，`it` 可替换 NP。
 
 ---

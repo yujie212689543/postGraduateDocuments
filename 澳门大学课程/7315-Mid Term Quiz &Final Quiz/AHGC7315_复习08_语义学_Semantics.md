@@ -39,7 +39,7 @@ car + key → car key
 
 你不需要提前背过 `car key`，仍能由 `car`、`key` 和名词修饰结构推出它是“车钥匙”。
 
-**所以 Semantics 与 Syntax 不是两件无关的事。** 同样几个词，组合结构不同，意义可能不同。例如 *old men and women* 可能指“年老的男人和女人”或“年老的男人与（不一定年老的）女人”，关键在修饰范围。
+**所以 Semantics 与 Syntax 不是两件无关的事。** 同样几个词，若它们在 tree 中先和不同的词组合，最后的意义也会不同。
 
 ### 1.2 非组合性：三种例外
 
@@ -178,6 +178,7 @@ The happy swimmer swims.
 | **Homograph（同形异义词）** | different | **same** | same or different | *dove*（名词）/ *dove*（动词） |
 | **Homophone（同音异义词）** | different | same or different | **same** | bear / bare |
 | **Heteronym（同形异音异义词）** | different | **same** | **different** | dove `[dʌv]` / dove `[doʊv]` |
+| **Heterograph（同音异形异义词）** | different | **different** | **same** | bear / bare |
 | **Polysemy（多义）** | **多个相关意义** | same | — | diamond 几何形 / 棒球场 |
 
 ### 4.2 用三个问题判断
