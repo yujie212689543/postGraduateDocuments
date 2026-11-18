@@ -165,7 +165,7 @@ Sue saw [the man [with the telescope]]
 
 **判断口诀：先问 PP 修饰谁。**
 
-- 修饰动作 → VP 里的 adjunct(副词)；
+- 修饰动作 → VP 里的 adjunct(fu'shi'wu)；
 - 修饰名词 → 挂到 NP 里面。
 
 ![[AHGC7315-Syntax-P25.png]]
