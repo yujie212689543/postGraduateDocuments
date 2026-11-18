@@ -37,10 +37,10 @@ Everybody knows that everybody knows that Snorlax is asleep.
 
 ### 1.1 Grammatical ≠ meaningful ★
 
-| 句子 | 判断 | 理由 |
-|---|---|---|
-| *Colorless green ideas sleep furiously.* | **grammatical（合语法）** | 词序和结构都符合 English rules；只是意思荒谬 |
-| `*Furiously sleep ideas green colorless.` | **ungrammatical（不合语法）** | 词序违反 English rules |
+| 句子                                        | 判断                      | 理由                            |
+| ----------------------------------------- | ----------------------- | ----------------------------- |
+| *Colorless green ideas sleep furiously.*  | **grammatical（合语法）**    | 词序和结构都符合 English rules；只是意思荒谬 |
+| `*Furiously sleep ideas green colorless.` | **ungrammatical（不合语法）** | 词序违反 English rules            |
 
 所以考试看到“奇怪、无意义”不要立刻判 ungrammatical。先分别回答两件事：
 
