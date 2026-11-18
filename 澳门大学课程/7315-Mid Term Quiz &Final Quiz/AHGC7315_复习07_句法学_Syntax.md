@@ -112,7 +112,7 @@ The puppy played in the garden.
 2. *The puppy played there.*
 3. *It was in the garden that the puppy played.*
 
-三种都通过，因此它明显是一个 **PP（介词短语）**。
+三种都通过，因此它明显是一个 **PP（介词短语）**(Prepositional phrase)。
 
 ![[AHGC7315-Syntax-P15.png]]
 
