@@ -4,8 +4,8 @@
   "title": "Explain what adverbs are",
   "titleGenerationStatus": "success",
   "createdAt": 1795000871276,
-  "updatedAt": 1795003549736,
-  "lastResponseAt": 1795003549736,
+  "updatedAt": 1795003995397,
+  "lastResponseAt": 1795003995397,
   "sessionId": "68d017b0-09b6-40d2-980e-ac82665d8167",
   "providerState": {
     "providerSessionId": "68d017b0-09b6-40d2-980e-ac82665d8167"
@@ -13,11 +13,11 @@
   "currentNote": "澳门大学课程/7315-Mid Term Quiz &Final Quiz/AHGC7315_复习07_句法学_Syntax.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 343,
+    "inputTokens": 251,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 46208,
+    "cacheReadInputTokens": 46720,
     "contextWindow": 1000000,
-    "contextTokens": 46551,
+    "contextTokens": 46971,
     "percentage": 5
   }
 }
