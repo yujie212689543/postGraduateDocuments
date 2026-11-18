@@ -1,0 +1,22 @@
+{
+  "id": "conv-1794978994015-1it0gqttd",
+  "providerId": "claude",
+  "title": "Organize file into technical configuration docs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1794978994018,
+  "updatedAt": 1794979010406,
+  "lastResponseAt": 1794979010406,
+  "sessionId": "41b4561a-76bf-4dc8-b0a7-1443ef42983f",
+  "providerState": {
+    "providerSessionId": "41b4561a-76bf-4dc8-b0a7-1443ef42983f"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 217,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 1000000,
+    "contextTokens": 30681,
+    "percentage": 3
+  }
+}
