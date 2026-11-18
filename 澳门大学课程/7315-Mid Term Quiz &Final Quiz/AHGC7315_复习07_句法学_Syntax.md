@@ -165,7 +165,7 @@ Sue saw [the man [with the telescope]]
 
 **判断口诀：先问 PP 修饰谁。**
 
-- 修饰动作 → VP 里的 adjunct(fu'shi'wu)；
+- 修饰动作 → VP 里的 adjunct(修饰语)；
 - 修饰名词 → 挂到 NP 里面。
 
 ![[AHGC7315-Syntax-P25.png]]
@@ -176,16 +176,16 @@ Sue saw [the man [with the telescope]]
 
 ### 4.1 词的类别
 
-| 类别 | 全称 | 例子 |
-|---|---|---|
-| **N** | Noun（名词） | puppy, girl, happiness |
-| **V** | Verb（动词） | find, run, sleep, realize |
-| **P** | Preposition（介词） | in, on, with, from |
-| **A** | Adjective（形容词） | red, lucky, large |
-| **Adv** | Adverb（副词） | carefully, very, again |
-| **Det** | Determiner（限定词） | a, the, this, every |
-| **T** | Tense（时态/情态助动词） | will, can, might |
-| **C / Comp** | Complementizer（补语标记） | that, if, whether |
+| 类别           | 全称                   | 例子                        |
+| ------------ | -------------------- | ------------------------- |
+| **N**        | Noun（名词）             | puppy, girl, happiness    |
+| **V**        | Verb（动词）             | find, run, sleep, realize |
+| **P**        | Preposition（介词）      | in, on, with, from        |
+| **A**        | Adjective（形容词）       | red, lucky, large         |
+| **Adv**      | Adverb（副词）           | carefully, very, again    |
+| **Det**      | Determiner（限定词）      | a, the, this, every       |
+| **T**        | Tense（时态/情态助动词）      | will, can, might          |
+| **C / Comp** | Complementizer（补语标记） | that, if, whether         |
 
 ### 4.2 短语类别
 
