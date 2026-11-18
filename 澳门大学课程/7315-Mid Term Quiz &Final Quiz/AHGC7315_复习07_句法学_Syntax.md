@@ -604,6 +604,154 @@ These guys seem kind of cute.
 
 ---
 
+## 13 章节串联总览：一张图看懂 1–10 章
+
+> 前面几章给的是**“现象 + 零件”**，X-bar 是**“装配图纸”**，TP 是**“把图纸套到句子上”**，第 9–10 章是**“按图纸解释移动与一致”**。第 7 章不是新学问，而是把第 4–6 章从“描述”升级成“理论”：**句子没变多，规则变少了。**
+
+### 13.1 三个跳跃，各自解决什么问题
+
+#### ① 第 6 章 → 第 7 章：从“给 NP 贴标签”到“所有短语共用一张图纸”
+
+第 4–6 章已经凑齐素材，但还很“碎”：
+
+| 前面的状态 | 问题 |
+|---|---|
+| `NP → Det N`、`VP → V NP`、`PP → P NP` | 每种短语一条规则，越列越多 |
+| head / spec / complement / adjunct | 只在 NP 上练过，像“名词短语专属” |
+| English SVO、Japanese SOV | 只能背，没解释为什么 |
+
+X-bar 只做三件事（**不增加任何新句子**）：
+
+1. **合并规则**：所有短语共用一个模板
+
+```text
+XP → (Specifier) X′
+X′ → X (Complement)
+X′ → X′ (Adjunct)      ← 可反复叠加
+```
+
+`NP → Det N` 就是 `XP → Spec X′; X′ → X`；`VP → V NP` 就是 `X′ → X Complement`；`PP → P NP` 完全同理。
+
+2. **把第 6 章的角色变成“树上的固定位置”**：
+
+| 角色 | X-bar 中的结构定义 |
+|---|---|
+| Complement | **sister of X**（紧贴 head） |
+| Adjunct | **sister of X′**（挂在 X′ 外） |
+| Specifier | sister of X′，daughter of XP |
+
+第 6 章说“complement 删了不完整、adjunct 可删可加”——X-bar 告诉你**为什么**：complement 在 X′ 内，是 head 的直接搭档；adjunct 在 X′ 外，是额外叠加层。**“能删、能多”由树形决定，不是语感。**
+
+3. **把语序变成参数**：
+
+```text
+English : X′ → X Complement     (head-initial)
+Japanese: X′ → Complement X     (head-final)
+```
+
+同一棵树，只换 head 与 complement 的先后。
+
+> 能画第 5 章的平树，就一定能画 X-bar 树：把 `Det` 叫 `Spec`，把 `found the child` 这层写成 `V′`。
+
+#### ② 第 7 章 → 第 8 章：S 不是短语，但句子也得有 head → TP
+
+X-bar 承诺“每个短语都有 head”，而 `S → NP VP` 里的 S **没有 head**，成了例外。课件把 **Tense** 定为句子 head：
+
+- 4.1 早就列出了 **T（will, can, might）**，当时无处安放，现在有了 TP；
+- 时态决定句子是否 **finite**；
+- 助动词住这里 → 第 9 章才有东西可搬；
+- 主语与它一致 → 第 10 章。
+
+```text
+S → NP VP     →     TP → Spec T′ ;  T′ → T Predicate
+```
+
+第 6 章那张表在句子层**原样复用**：
+
+| 第 6 章（短语层） | 第 8 章（句子层） |
+|---|---|
+| Specifier | **Subject 主语** |
+| Head | **T（will / -ed）** |
+| Complement | **Predicate 谓语** |
+
+旧的 `CP → C S` 也升级为 `CP → C TP`——**被改写，不是被废弃**。
+
+#### ③ 第 8 章 → 第 9、10 章：有位置，才有“移动”和“结构一致”
+
+- **移动**：问句是 T 位置的内容搬到 C 位置（C 是 CP 的 head）。留下的 **trace** 标记“位置还在、内容走了”。这也是 `*Find the puppy the child?` 错的原因：搬走的是 head（T），不是随便哪个动词。
+- **一致**：规则指向 **Spec TP 的 subject**，不是“左边最近的名词”。`The guy behind those tables seems...` 里 `tables` 藏在主语 NP 内部的 PP adjunct 里，结构上根本不是 Spec TP。
+
+**共同点：规则指向树上的位置（structure-dependent），不指向词的先后。**
+
+#### ④ 回看第 3 章：歧义终于有了机械判据
+
+*Sue saw the man with the telescope* 的两种意思 = PP 的两个挂靠点：
+
+```text
+意思一：VP 内，PP 是 V′ 的 adjunct（修饰“看”）
+意思二：宾语 NP 内，PP 是 N′ 的 adjunct（修饰“男人”）
+```
+
+**structural ambiguity = 同一个词串挂在不同高度、得到两棵树。**
+同理，第 2 章的 constituency test 其实是在问“这里有没有一个 node”，而 X-bar 规定 node 只能出现在 XP / X′ / X 三种位置。
+
+### 13.2 旧知识 → 新身份 对照表
+
+| 前面学的 | X-bar / TP 里的身份 |
+|---|---|
+| `NP → Det N` | `XP → Spec X′`，`X′ → X` |
+| `VP → V NP` | `X′ → X Complement`（head-initial） |
+| `PP → P NP` | 同一模板，X = P |
+| Det（*the*） | NP 的 **Specifier** |
+| *of James Whistler* | N 的 **Complement**（sister of N） |
+| *intensely* / *with all my heart* | V′ 的 **Adjunct**（sister of V′） |
+| `S → NP VP` | **TP → Spec T′；T′ → T Predicate** |
+| Subject | **Specifier of TP** |
+| Predicate | **Complement of T** |
+| T（will, can） | TP 的 **head** |
+| `CP → C S` | **CP → C TP** |
+| 助动词提前 | **T → C 移动** + trace + do-support |
+| 主谓一致 | 与 **Spec TP** 一致，非“最近名词” |
+| structural ambiguity | PP 是 sister of **V′** 还是 **N′** |
+
+### 13.3 一个例句走完全部章节
+
+> *The puppy will find the child in the garden.*
+
+```text
+TP
+├── Spec: NP [the puppy]          ← 第 8 章：主语 = Spec TP
+└── T′
+    ├── T: will                   ← 第 4 章 T 类；第 8 章 head
+    └── VP                        ← T 的 complement（= predicate）
+        ├── V′
+        │   ├── V: find
+        │   └── NP [the child]    ← V 的 complement（sister of V）
+        └── PP [in the garden]    ← adjunct（sister of V′）
+```
+
+| 章节 | 在这棵树上看到什么 |
+|---|---|
+| 第 2 章 | `the child`、`in the garden`、`find ... garden` 都是 node → 都是成分 |
+| 第 3 章 | 换成 *with a telescope*，PP 可挂 V′ 或 N′ → 两棵树 |
+| 第 4 章 | 每个节点都有词类标签：Det / N / V / P / T |
+| 第 5 章 | `S → NP VP`、`VP → V NP PP`、`PP → P NP` 逐层对应 |
+| 第 6 章 | `the child` 删了不完整（complement）；`in the garden` 可删（adjunct） |
+| 第 7 章 | V′ 内 vs V′ 外 = complement / adjunct 的分界线 |
+| 第 8 章 | 整棵树套上 TP 外壳，主语进 Spec |
+| 第 9 章 | *Will the puppy find...?* → `will` 从 T 移到 C，T 留 trace |
+| 第 10 章 | 主语若换成 *The puppy behind those cats*，动词跟 **puppy** 一致 |
+
+### 13.4 三个自检问题
+
+1. 给任意短语，能否指出 **head、complement、adjunct 各在哪一层**？（6 + 7 章）
+2. 给一条旧 PS 规则，能否**立刻改写为 X′ 规则**，并说清谁是 spec、谁是 comp？（5 → 7 章）
+3. 给一个含助动词的句子，能否画出 **TP**，并解释问句为什么只搬助动词？（8 → 9 章）
+
+三问都顺，就会发现后面没有“新章节”，只有**同一棵树越画越高**：N′/V′ → TP → CP。
+
+---
+
 ## 考前最后 3 分钟
 
 1. **Grammatical 看规则；meaningful 看语义。**
@@ -617,4 +765,4 @@ These guys seem kind of cute.
 9. **English 是 head-initial；Japanese/Korean 是 head-final。**
 10. **主谓一致永远找真正的 subject，不找最近 noun。**
 
-*最后整理：2026-11-17。*
+*最后整理：2026-11-18。*
