@@ -221,6 +221,12 @@ def draw_syllable_tree(c, w, h):
     c.drawCentredString(x_nuc, y_low, "Nucleus")
     c.drawCentredString(x_coda, y_low, "Coda")
     c.setFont("BodyCN", 5.4)
+    c.setLineWidth(0.45)
+    for x in (x_on - 6, x_on, x_on + 6):
+        c.line(x_on, y_low - 1.5, x, 7.5)
+    c.line(x_nuc, y_low - 1.5, x_nuc, 7.5)
+    for x in (x_coda - 6, x_coda, x_coda + 6):
+        c.line(x_coda, y_low - 1.5, x, 7.5)
     c.drawCentredString(x_on, 2, "s p l")
     c.drawCentredString(x_nuc, 2, "ɪ")
     c.drawCentredString(x_coda, 2, "n t s")
@@ -257,14 +263,22 @@ def draw_ps_tree(c, w, h):
         (obj_x, "NP"),
     ]:
         c.drawCentredString(x, low_y, label)
+    obj_det_x, obj_noun_x, obj_y = w * 0.78, w * 0.92, h - 34
+    c.line(obj_x, low_y - 1, obj_det_x, obj_y + 2)
+    c.line(obj_x, low_y - 1, obj_noun_x, obj_y + 2)
+    c.drawCentredString(obj_det_x, obj_y, "Det")
+    c.drawCentredString(obj_noun_x, obj_y, "N")
     c.setFont("BodyCN", 4.9)
+    c.setLineWidth(0.45)
+    for x in (det_x, noun_x, verb_x):
+        c.line(x, low_y - 1.5, x, 7.5)
+    for x in (obj_det_x, obj_noun_x):
+        c.line(x, obj_y - 1.5, x, 7.5)
     c.drawCentredString(det_x, 2, "the")
     c.drawCentredString(noun_x, 2, "child")
     c.drawCentredString(verb_x, 2, "found")
-    c.drawCentredString(obj_x, 2, "a puppy")
-    c.setFont("BodyCN", 4.2)
-    c.setFillColor(MUTED)
-    c.drawRightString(w - 1, 2, "S -> NP VP")
+    c.drawCentredString(obj_det_x, 2, "a")
+    c.drawCentredString(obj_noun_x, 2, "puppy")
     c.restoreState()
 
 
